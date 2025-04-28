@@ -2272,7 +2272,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1745850803016,
+      "activation": 1745875530870,
       "lastBanned": 0,
       "lastcommand": 1745596646652
     },
@@ -3494,7 +3494,7 @@
       "activation": 1744975603170
     },
     "120363212344542176@newsletter": {
-      "exp": 175,
+      "exp": 208,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -3509,10 +3509,10 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1745624278179
+      "activation": 1745875538754
     },
     "6285755477514@s.whatsapp.net": {
       "exp": 130,
@@ -3806,7 +3806,7 @@
       "activation": 1744797502316
     },
     "120363213246579218@newsletter": {
-      "exp": 208,
+      "exp": 385,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -3821,9 +3821,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1745838574918,
+      "activation": 1745875538558,
       "lastBanned": 0
     },
     "6283129349181@s.whatsapp.net": {
@@ -4291,7 +4291,7 @@
       "activation": 1744807633577
     },
     "120363301087120650@newsletter": {
-      "exp": 236,
+      "exp": 296,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -4306,9 +4306,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1745664307014,
+      "activation": 1745875538187,
       "lastBanned": 0
     },
     "6281346749688@s.whatsapp.net": {
@@ -10763,7 +10763,7 @@
       "activation": 1745229019066
     },
     "120363224973132929@newsletter": {
-      "exp": 7,
+      "exp": 9,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -10778,10 +10778,10 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1745624278267
+      "activation": 1745875538274
     },
     "184327329603657@lid": {
       "exp": 0,
@@ -17353,7 +17353,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1745856428653,
+      "backupDB": 1745875538735,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
