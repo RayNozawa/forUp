@@ -92491,7 +92491,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1745859639103,
+      "activation": 1745860589055,
       "lastBanned": 0
     },
     "6285232605769@s.whatsapp.net": {
@@ -128989,8 +128989,8 @@
       "activation": 1745834069228
     },
     "6283871598810@s.whatsapp.net": {
-      "exp": 538,
-      "limit": 194,
+      "exp": 558,
+      "limit": 164,
       "registered": false,
       "name": "Lupin Fourth",
       "age": -1,
@@ -129005,10 +129005,10 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastcommand": 1745859638075,
-      "activation": 1745859639097,
+      "activation": 1745860589035,
       "lastBanned": 0
     },
     "6282325184852@s.whatsapp.net": {
@@ -151230,10 +151230,10 @@
       "lastSuccess": 1744901761105
     },
     "downloader-ytmp4.js": {
-      "total": 36,
-      "success": 29,
-      "last": 1745847568058,
-      "lastSuccess": 1745847568058
+      "total": 37,
+      "success": 30,
+      "last": 1745860589035,
+      "lastSuccess": 1745860589035
     },
     "ai-allbard.js": {
       "total": 4,
@@ -151418,7 +151418,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1745858117427,
+      "backupDB": 1745860574869,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
