@@ -26505,7 +26505,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1745859596059,
+      "activation": 1745875746574,
       "lastBanned": 0,
       "lastcommand": 1745796940346
     },
@@ -28111,7 +28111,7 @@
       "activation": 1743496201870
     },
     "6288226626051@s.whatsapp.net": {
-      "exp": 72331,
+      "exp": 72339,
       "limit": 864,
       "registered": false,
       "name": "It'sdapul🤘🏻",
@@ -28129,7 +28129,7 @@
       "lastmonthly": 1745498060701,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1745852606308,
+      "activation": 1745874992610,
       "lastBanned": 0,
       "lastdaily": 1745813346886,
       "lastcommand": 1745498335574
@@ -119780,7 +119780,7 @@
       "lastBanned": 0
     },
     "6283893376105@s.whatsapp.net": {
-      "exp": 62,
+      "exp": 63,
       "limit": 499,
       "registered": false,
       "name": "kiwan aja",
@@ -119798,7 +119798,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1745831070267,
+      "activation": 1745876038620,
       "lastBanned": 0
     },
     "218116021850127@lid": {
@@ -145578,7 +145578,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1745871871808,
+      "backupDB": 1745874992532,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
