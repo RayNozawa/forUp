@@ -26505,7 +26505,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1745937905913,
+      "activation": 1745939892386,
       "lastBanned": 0,
       "lastcommand": 1745928983509
     },
@@ -115173,8 +115173,8 @@
       "activation": 1745835944080
     },
     "60147071206@s.whatsapp.net": {
-      "exp": 746,
-      "limit": 449,
+      "exp": 771,
+      "limit": 424,
       "registered": false,
       "name": "Nona kitsune",
       "age": -1,
@@ -115192,7 +115192,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1745937793717,
+      "activation": 1745939892378,
       "warn": 2
     },
     "6285728941876@s.whatsapp.net": {
@@ -145311,10 +145311,10 @@
       "lastSuccess": 1744813589677
     },
     "downloader-play.js": {
-      "total": 389,
-      "success": 372,
-      "last": 1745937793717,
-      "lastSuccess": 1745937793717
+      "total": 390,
+      "success": 373,
+      "last": 1745939892378,
+      "lastSuccess": 1745939892378
     },
     "owner-exec.js": {
       "total": 133,
@@ -146431,7 +146431,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1745937838250,
+      "backupDB": 1745939871768,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
