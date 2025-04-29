@@ -2254,7 +2254,7 @@
       "activation": 1743140950163
     },
     "6282131329196@s.whatsapp.net": {
-      "exp": 1782,
+      "exp": 1807,
       "limit": 499,
       "registered": false,
       "name": "buku",
@@ -2270,14 +2270,14 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1745928631869,
+      "activation": 1745939368901,
       "lastBanned": 0,
       "lastcommand": 1745596646652
     },
     "628567105062@s.whatsapp.net": {
-      "exp": 1872,
+      "exp": 1875,
       "limit": 499,
       "registered": false,
       "name": "senzy panutan",
@@ -2296,7 +2296,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1745925523398
+      "activation": 1745939678561
     },
     "6285842531334@s.whatsapp.net": {
       "exp": 276,
@@ -2387,7 +2387,7 @@
       "lastBanned": 0
     },
     "6285141661889@s.whatsapp.net": {
-      "exp": 2028,
+      "exp": 2065,
       "limit": 199,
       "registered": false,
       "name": "?",
@@ -2406,7 +2406,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1745849282101,
+      "activation": 1745936813007,
       "lastcommand": 1744796269781
     },
     "6283125871919@s.whatsapp.net": {
@@ -2801,7 +2801,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1745935599311,
+      "activation": 1745938648593,
       "lastBanned": 0
     },
     "6283141671011@s.whatsapp.net": {
@@ -4308,7 +4308,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1745875538187,
+      "activation": 1745939490392,
       "lastBanned": 0
     },
     "6281346749688@s.whatsapp.net": {
@@ -16624,10 +16624,10 @@
       "lastSuccess": 1716040986605
     },
     "sticker-sticker.js": {
-      "total": 47,
-      "success": 44,
-      "last": 1744974959179,
-      "lastSuccess": 1744974959179
+      "total": 48,
+      "success": 45,
+      "last": 1745936813007,
+      "lastSuccess": 1745936813007
     },
     "owner-getdb.js": {
       "total": 2,
@@ -17433,7 +17433,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1745933569942,
+      "backupDB": 1745939352477,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
