@@ -1052,8 +1052,8 @@
       "activation": 1745613445494
     },
     "6283191371141@s.whatsapp.net": {
-      "exp": 60926,
-      "limit": 199,
+      "exp": 60988,
+      "limit": 159,
       "registered": false,
       "name": "Vyn",
       "age": -1,
@@ -1076,7 +1076,7 @@
       "lastwork": 1730875837906,
       "lastrob": 1735778404705,
       "delay": 1735714023009,
-      "activation": 1745887039031
+      "activation": 1745905761774
     },
     "6285817976362@s.whatsapp.net": {
       "exp": 70566,
@@ -92491,7 +92491,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1745904687164,
+      "activation": 1745905760666,
       "lastBanned": 0
     },
     "6285232605769@s.whatsapp.net": {
@@ -117423,7 +117423,7 @@
       "activation": 1744791138930
     },
     "6289619623210@s.whatsapp.net": {
-      "exp": 345,
+      "exp": 348,
       "limit": 499,
       "registered": false,
       "name": "‎",
@@ -117441,7 +117441,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1745884852517,
+      "activation": 1745906283992,
       "lastBanned": 0
     },
     "6282377040186@s.whatsapp.net": {
@@ -148600,10 +148600,10 @@
       "lastSuccess": 1745900635679
     },
     "downloader-tiktok.js": {
-      "total": 3183,
-      "success": 2915,
-      "last": 1745893289381,
-      "lastSuccess": 1745893289381
+      "total": 3185,
+      "success": 2917,
+      "last": 1745905760587,
+      "lastSuccess": 1745905760587
     },
     "owner-sf.js": {
       "total": 1231,
@@ -151548,7 +151548,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1745902821899,
+      "backupDB": 1745905441364,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
