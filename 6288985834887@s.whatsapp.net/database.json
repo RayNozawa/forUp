@@ -183,7 +183,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1745948510142
+      "activation": 1745954949707
     },
     "120363240711248334@g.us": {
       "exp": 5227,
@@ -205,7 +205,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1745924494607
+      "activation": 1745956608502
     },
     "62882003784627@s.whatsapp.net": {
       "exp": 12,
@@ -1002,7 +1002,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1745948510358
+      "activation": 1745954949870
     },
     "6283119901412@s.whatsapp.net": {
       "exp": 16214,
@@ -91764,8 +91764,8 @@
       "lastrob": 1742607994374
     },
     "62895352917598@s.whatsapp.net": {
-      "exp": 1164,
-      "limit": 249,
+      "exp": 1184,
+      "limit": 229,
       "registered": true,
       "name": "TiaXyz",
       "age": 20,
@@ -91782,7 +91782,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1745613433783,
+      "activation": 1745952831210,
       "lastBanned": 0,
       "lastcommand": 1745267632551
     },
@@ -92494,7 +92494,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1745948722972,
+      "activation": 1745963272327,
       "lastBanned": 0
     },
     "6285232605769@s.whatsapp.net": {
@@ -110364,7 +110364,7 @@
       "lastBanned": 0
     },
     "6282241135821@s.whatsapp.net": {
-      "exp": 228,
+      "exp": 234,
       "limit": 499,
       "registered": false,
       "name": "Ta",
@@ -110382,7 +110382,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1745932525602,
+      "activation": 1745953390187,
       "lastBanned": 0
     },
     "6281226567528@s.whatsapp.net": {
@@ -129922,6 +129922,27 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1745948600575
+    },
+    "6289504991474@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 895-0499-1474",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1745958430357
     }
   },
   "chats": {
@@ -149108,10 +149129,10 @@
       "lastSuccess": 1745932423268
     },
     "downloader-tiktok.js": {
-      "total": 3203,
-      "success": 2934,
-      "last": 1745933606813,
-      "lastSuccess": 1745933606813
+      "total": 3204,
+      "success": 2935,
+      "last": 1745952831210,
+      "lastSuccess": 1745952831210
     },
     "owner-sf.js": {
       "total": 1231,
@@ -149366,10 +149387,10 @@
       "lastSuccess": 1740194390258
     },
     "owner-exec.js": {
-      "total": 521,
-      "success": 521,
-      "last": 1745932525602,
-      "lastSuccess": 1745932525602
+      "total": 522,
+      "success": 522,
+      "last": 1745953390187,
+      "lastSuccess": 1745953390187
     },
     "downloader-ytmp3.js": {
       "total": 235,
@@ -152056,7 +152077,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1745948025131,
+      "backupDB": 1745952825369,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
