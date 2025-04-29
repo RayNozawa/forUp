@@ -92492,7 +92492,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1745911526702,
+      "activation": 1745912466873,
       "lastBanned": 0
     },
     "6285232605769@s.whatsapp.net": {
@@ -102902,8 +102902,8 @@
       "lastdaily": 1745732646725
     },
     "6282363391407@s.whatsapp.net": {
-      "exp": 99886,
-      "limit": 199,
+      "exp": 99929,
+      "limit": 149,
       "registered": false,
       "name": "B77W",
       "age": -1,
@@ -102920,7 +102920,7 @@
       "lastmonthly": 1743826805822,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1745899952818,
+      "activation": 1745911838894,
       "lastBanned": 0,
       "lastdaily": 1745677391636
     },
@@ -118229,7 +118229,7 @@
       "activation": 1744901254691
     },
     "6287816570410@s.whatsapp.net": {
-      "exp": 1004,
+      "exp": 1017,
       "limit": 494,
       "registered": false,
       "name": "阿拉拉水族",
@@ -118248,7 +118248,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1745903882744,
+      "activation": 1745913507503,
       "lastcommand": 1745416968761
     },
     "6281400716824@s.whatsapp.net": {
@@ -129499,6 +129499,67 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1745911527575
+    },
+    "6283151385341@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 831-5138-5341",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1745912464062
+    },
+    "210308039716902@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1745912466995
+    },
+    "109990354370568@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1745913818585
     }
   },
   "chats": {
@@ -148786,10 +148847,10 @@
       "lastSuccess": 1735826605203
     },
     "ai-remini.js": {
-      "total": 1779,
-      "success": 1674,
-      "last": 1745911450872,
-      "lastSuccess": 1745911450872
+      "total": 1781,
+      "success": 1676,
+      "last": 1745911838894,
+      "lastSuccess": 1745911838894
     },
     "game-tebakbendera.js": {
       "total": 475,
@@ -151590,7 +151651,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1745910007062,
+      "backupDB": 1745911810253,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
