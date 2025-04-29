@@ -110361,7 +110361,7 @@
       "lastBanned": 0
     },
     "6282241135821@s.whatsapp.net": {
-      "exp": 212,
+      "exp": 222,
       "limit": 499,
       "registered": false,
       "name": "Ta",
@@ -110379,7 +110379,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1745903160463,
+      "activation": 1745907686360,
       "lastBanned": 0
     },
     "6281226567528@s.whatsapp.net": {
@@ -151548,7 +151548,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1745905441364,
+      "backupDB": 1745907686259,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
