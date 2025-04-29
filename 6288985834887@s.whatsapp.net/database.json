@@ -92491,7 +92491,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1745897150433,
+      "activation": 1745899952824,
       "lastBanned": 0
     },
     "6285232605769@s.whatsapp.net": {
@@ -102901,8 +102901,8 @@
       "lastdaily": 1745732646725
     },
     "6282363391407@s.whatsapp.net": {
-      "exp": 99847,
-      "limit": 249,
+      "exp": 99886,
+      "limit": 199,
       "registered": false,
       "name": "B77W",
       "age": -1,
@@ -102919,7 +102919,7 @@
       "lastmonthly": 1743826805822,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1745893564936,
+      "activation": 1745899952818,
       "lastBanned": 0,
       "lastdaily": 1745677391636
     },
@@ -110361,7 +110361,7 @@
       "lastBanned": 0
     },
     "6282241135821@s.whatsapp.net": {
-      "exp": 200,
+      "exp": 211,
       "limit": 499,
       "registered": false,
       "name": "Ta",
@@ -110379,7 +110379,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1745865080704,
+      "activation": 1745898318684,
       "lastBanned": 0
     },
     "6281226567528@s.whatsapp.net": {
@@ -128732,8 +128732,8 @@
       "activation": 1745783577534
     },
     "6281391128346@s.whatsapp.net": {
-      "exp": 60598,
-      "limit": 898,
+      "exp": 60622,
+      "limit": 873,
       "registered": false,
       "name": "DANZ RF KWN",
       "age": -1,
@@ -128750,7 +128750,7 @@
       "lastmonthly": 1745837111611,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1745893015859,
+      "activation": 1745898607680,
       "lastBanned": 0,
       "lastdaily": 1745837111611
     },
@@ -148592,10 +148592,10 @@
       "lastSuccess": 1745582013892
     },
     "downloader-play.js": {
-      "total": 3283,
-      "success": 3066,
-      "last": 1745889255819,
-      "lastSuccess": 1745889255819
+      "total": 3284,
+      "success": 3067,
+      "last": 1745898607680,
+      "lastSuccess": 1745898607680
     },
     "downloader-ytvideo.js": {
       "total": 148,
@@ -148724,10 +148724,10 @@
       "lastSuccess": 1735826605203
     },
     "ai-remini.js": {
-      "total": 1773,
-      "success": 1668,
-      "last": 1745893564936,
-      "lastSuccess": 1745893564936
+      "total": 1775,
+      "success": 1670,
+      "last": 1745899952818,
+      "lastSuccess": 1745899952818
     },
     "game-tebakbendera.js": {
       "total": 475,
@@ -148838,10 +148838,10 @@
       "lastSuccess": 1740194390258
     },
     "owner-exec.js": {
-      "total": 518,
-      "success": 518,
-      "last": 1745848506982,
-      "lastSuccess": 1745848506982
+      "total": 519,
+      "success": 519,
+      "last": 1745898318684,
+      "lastSuccess": 1745898318684
     },
     "downloader-ytmp3.js": {
       "total": 235,
@@ -151528,7 +151528,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1745896127146,
+      "backupDB": 1745898317985,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
