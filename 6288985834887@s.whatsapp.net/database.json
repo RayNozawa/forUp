@@ -111423,7 +111423,7 @@
       "lastBanned": 0
     },
     "6283148471325@s.whatsapp.net": {
-      "exp": 71012,
+      "exp": 71022,
       "limit": 949,
       "registered": false,
       "name": "pi",
@@ -111442,7 +111442,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746014624181,
+      "activation": 1746043741703,
       "lastdaily": 1745072355760,
       "lastcommand": 1744901759439
     },
@@ -146588,7 +146588,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746039018079,
+      "backupDB": 1746043741308,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
