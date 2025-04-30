@@ -92067,7 +92067,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746029572745,
+      "activation": 1746031465971,
       "lastBanned": 0
     },
     "6285232605769@s.whatsapp.net": {
@@ -93779,7 +93779,7 @@
       "lastcommand": 1743384073606
     },
     "6282320629134@s.whatsapp.net": {
-      "exp": 70478,
+      "exp": 70487,
       "limit": 1199,
       "registered": false,
       "name": "Iyng🐳",
@@ -93797,7 +93797,7 @@
       "lastmonthly": 1743364488350,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746029699040,
+      "activation": 1746030078840,
       "lastBanned": 0,
       "lastdaily": 1743781902911,
       "lastcommand": 1743881806337
@@ -104208,7 +104208,7 @@
       "lastBanned": 0
     },
     "6282327165975@s.whatsapp.net": {
-      "exp": 71002,
+      "exp": 71011,
       "limit": 1199,
       "registered": false,
       "name": "111",
@@ -104226,7 +104226,7 @@
       "lastmonthly": 1744974871769,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746018847305,
+      "activation": 1746030694058,
       "lastBanned": 0,
       "lastdaily": 1745074863563
     },
@@ -104760,7 +104760,7 @@
       "lastBanned": 0
     },
     "6288224157152@s.whatsapp.net": {
-      "exp": 131888,
+      "exp": 131897,
       "limit": 2532,
       "registered": false,
       "name": "ꦣꦶꦪꦤ꧀ꦝꦼꦮ꦳ꦶꦄꦁꦒꦿꦻꦤꦶ",
@@ -104778,7 +104778,7 @@
       "lastmonthly": 1744688008006,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746026733183,
+      "activation": 1746029804269,
       "lastBanned": 0,
       "lastdaily": 1745124860028
     },
@@ -111578,7 +111578,7 @@
       "lastBanned": 0
     },
     "628816016499@s.whatsapp.net": {
-      "exp": 73,
+      "exp": 115,
       "limit": 499,
       "registered": false,
       "name": "Dap",
@@ -111597,7 +111597,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746029608900
+      "activation": 1746030087558
     },
     "6282286407081@s.whatsapp.net": {
       "exp": 4,
@@ -111644,7 +111644,7 @@
       "lastBanned": 0
     },
     "62895326859701@s.whatsapp.net": {
-      "exp": 156,
+      "exp": 176,
       "limit": 499,
       "registered": false,
       "name": "🎱🎱",
@@ -111662,7 +111662,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746029720783,
+      "activation": 1746030035143,
       "lastBanned": 0
     },
     "6283169336721@s.whatsapp.net": {
@@ -124297,8 +124297,8 @@
       "lastBanned": 0
     },
     "6282142597384@s.whatsapp.net": {
-      "exp": 94,
-      "limit": 474,
+      "exp": 116,
+      "limit": 449,
       "registered": false,
       "name": "EREN YEAGER",
       "age": -1,
@@ -124315,7 +124315,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746020485506,
+      "activation": 1746031465964,
       "lastBanned": 0
     },
     "6285770142599@s.whatsapp.net": {
@@ -142652,12 +142652,12 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "628816016499@s.whatsapp.net": 166,
+        "628816016499@s.whatsapp.net": 336,
         "6283144943957@s.whatsapp.net": 299,
-        "62882003445441@s.whatsapp.net": 630,
-        "6282320629134@s.whatsapp.net": 247,
-        "62895326859701@s.whatsapp.net": 212,
-        "6285656438711@s.whatsapp.net": 649,
+        "62882003445441@s.whatsapp.net": 641,
+        "6282320629134@s.whatsapp.net": 384,
+        "62895326859701@s.whatsapp.net": 297,
+        "6285656438711@s.whatsapp.net": 660,
         "628568791066@s.whatsapp.net": 117
       },
       "totalChat": 0
@@ -143649,10 +143649,10 @@
       "lastSuccess": 1745582013892
     },
     "downloader-play.js": {
-      "total": 3322,
-      "success": 3103,
-      "last": 1746022426364,
-      "lastSuccess": 1746022426364
+      "total": 3323,
+      "success": 3104,
+      "last": 1746031465964,
+      "lastSuccess": 1746031465964
     },
     "downloader-ytvideo.js": {
       "total": 148,
@@ -146585,7 +146585,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746027934129,
+      "backupDB": 1746029764178,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
