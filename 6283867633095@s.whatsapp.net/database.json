@@ -2299,7 +2299,7 @@
       "activation": 1745939678561
     },
     "6285842531334@s.whatsapp.net": {
-      "exp": 276,
+      "exp": 277,
       "limit": 499,
       "registered": false,
       "name": "Alvito_",
@@ -2318,7 +2318,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1745677918316
+      "activation": 1745974419421
     },
     "6282291130557@s.whatsapp.net": {
       "exp": 2212,
@@ -3022,7 +3022,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1745926788662,
+      "activation": 1745974482772,
       "lastBanned": 0
     },
     "120363159552753674@newsletter": {
@@ -17495,7 +17495,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1745969359307,
+      "backupDB": 1745974419278,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
