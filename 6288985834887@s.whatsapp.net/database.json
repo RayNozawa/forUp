@@ -762,8 +762,8 @@
       "lastBanned": 0
     },
     "919366665173@s.whatsapp.net": {
-      "exp": 258085,
-      "limit": 1899,
+      "exp": 258112,
+      "limit": 1879,
       "registered": false,
       "name": "debjit.",
       "age": -1,
@@ -783,7 +783,7 @@
       "lastBanned": 0,
       "lastdaily": 1745837088663,
       "lastcommand": 1731663777211,
-      "activation": 1746001751111
+      "activation": 1746033650131
     },
     "83176873562302_1@s.whatsapp.net": {
       "exp": 9,
@@ -92067,7 +92067,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746031465971,
+      "activation": 1746033650465,
       "lastBanned": 0
     },
     "6285232605769@s.whatsapp.net": {
@@ -104604,7 +104604,7 @@
       "lastcommand": 1744901325900
     },
     "6282224305264@s.whatsapp.net": {
-      "exp": 3749,
+      "exp": 3758,
       "limit": 499,
       "registered": false,
       "name": "👀",
@@ -104622,7 +104622,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746022817081,
+      "activation": 1746032154087,
       "lastBanned": 0,
       "lastcommand": 1745155113907
     },
@@ -124297,8 +124297,8 @@
       "lastBanned": 0
     },
     "6282142597384@s.whatsapp.net": {
-      "exp": 116,
-      "limit": 449,
+      "exp": 263,
+      "limit": 299,
       "registered": false,
       "name": "EREN YEAGER",
       "age": -1,
@@ -124315,7 +124315,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746031465964,
+      "activation": 1746032807067,
       "lastBanned": 0
     },
     "6285770142599@s.whatsapp.net": {
@@ -124562,7 +124562,7 @@
         "6282245573241@s.whatsapp.net": 827,
         "6281398178926@s.whatsapp.net": 37,
         "6285931400906@s.whatsapp.net": 304,
-        "62882022063723@s.whatsapp.net": 22050,
+        "62882022063723@s.whatsapp.net": 22054,
         "6288294411864@s.whatsapp.net": 1589,
         "6287838073395@s.whatsapp.net": 20,
         "6282350521338@s.whatsapp.net": 86,
@@ -124636,7 +124636,7 @@
         "628561228984@s.whatsapp.net": 161,
         "62895711885757@s.whatsapp.net": 51,
         "6285946889399@s.whatsapp.net": 547,
-        "6285359627837@s.whatsapp.net": 1500,
+        "6285359627837@s.whatsapp.net": 1502,
         "6285945503757@s.whatsapp.net": 1059,
         "62882007885693@s.whatsapp.net": 191,
         "6285855197353@s.whatsapp.net": 1167,
@@ -124885,7 +124885,7 @@
         "6283895026277@s.whatsapp.net": 18,
         "6282272283449@s.whatsapp.net": 14,
         "6283125486115@s.whatsapp.net": 56,
-        "6281391128346@s.whatsapp.net": 711,
+        "6281391128346@s.whatsapp.net": 713,
         "6281319542793@s.whatsapp.net": 26,
         "6283819136188@s.whatsapp.net": 10,
         "6281364434575@s.whatsapp.net": 11,
@@ -124895,10 +124895,10 @@
         "62881011734248@s.whatsapp.net": 99,
         "6285964241702@s.whatsapp.net": 25,
         "6285752273978@s.whatsapp.net": 72,
-        "6282142597384@s.whatsapp.net": 280,
-        "6285770142599@s.whatsapp.net": 303,
-        "6288295692605@s.whatsapp.net": 5,
-        "6289619588588@s.whatsapp.net": 7
+        "6282142597384@s.whatsapp.net": 293,
+        "6285770142599@s.whatsapp.net": 309,
+        "6288295692605@s.whatsapp.net": 7,
+        "6289619588588@s.whatsapp.net": 11
       },
       "totalChat": 0,
       "acc": false,
@@ -143631,10 +143631,10 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 1217,
-      "success": 1150,
-      "last": 1746027420899,
-      "lastSuccess": 1746027420899
+      "total": 1218,
+      "success": 1151,
+      "last": 1746033650131,
+      "lastSuccess": 1746033650131
     },
     "downloader-tiktok.js": {
       "total": 3231,
@@ -143649,10 +143649,10 @@
       "lastSuccess": 1745582013892
     },
     "downloader-play.js": {
-      "total": 3323,
-      "success": 3104,
-      "last": 1746031465964,
-      "lastSuccess": 1746031465964
+      "total": 3329,
+      "success": 3110,
+      "last": 1746032807067,
+      "lastSuccess": 1746032807067
     },
     "downloader-ytvideo.js": {
       "total": 148,
@@ -146585,7 +146585,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746029764178,
+      "backupDB": 1746032154006,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
