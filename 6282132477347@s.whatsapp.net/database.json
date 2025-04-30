@@ -25,7 +25,7 @@
       "warn": 1
     },
     "6282132477347@s.whatsapp.net": {
-      "exp": 29204,
+      "exp": 29811,
       "limit": 499,
       "registered": false,
       "name": "‎‎‎‎‎‎‎     domxxiq",
@@ -43,9 +43,9 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746035305752,
+      "activation": 1746037098130,
       "lastBanned": 0,
-      "lastcommand": 1746035225353,
+      "lastcommand": 1746036527403,
       "warn": 5,
       "autolevelup": true
     },
@@ -16874,7 +16874,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746019994469,
+      "activation": 1746035828997,
       "lastBanned": 0
     },
     "6289516853412@s.whatsapp.net": {
@@ -31570,7 +31570,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746035150743,
+      "activation": 1746037045036,
       "lastBanned": 0
     },
     "6281327638457@s.whatsapp.net": {
@@ -40810,7 +40810,7 @@
       "activation": 1745071112925
     },
     "6287743268767@s.whatsapp.net": {
-      "exp": 711,
+      "exp": 1197,
       "limit": 499,
       "registered": false,
       "name": "thata",
@@ -40828,7 +40828,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746035309210,
+      "activation": 1746037106929,
       "lastBanned": 0
     },
     "867051314767696@bot": {
@@ -78537,10 +78537,10 @@
       "lastSuccess": 1746023453529
     },
     "_cek.js": {
-      "total": 1027,
-      "success": 1022,
-      "last": 1746035227413,
-      "lastSuccess": 1746035227413
+      "total": 1028,
+      "success": 1023,
+      "last": 1746036529355,
+      "lastSuccess": 1746036529355
     },
     "group-chatoff.js": {
       "total": 26,
@@ -79562,7 +79562,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746033521658,
+      "backupDB": 1746035326412,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
