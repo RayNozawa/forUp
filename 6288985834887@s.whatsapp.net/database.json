@@ -110365,7 +110365,7 @@
       "lastBanned": 0
     },
     "6282241135821@s.whatsapp.net": {
-      "exp": 234,
+      "exp": 237,
       "limit": 499,
       "registered": false,
       "name": "Ta",
@@ -110383,7 +110383,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1745953390187,
+      "activation": 1745979127243,
       "lastBanned": 0
     },
     "6281226567528@s.whatsapp.net": {
@@ -130006,6 +130006,26 @@
       "premiumTime": 0,
       "activation": 1745977623056,
       "lastBanned": 0
+    },
+    "245041037586568@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1745979852351
     }
   },
   "chats": {
@@ -152141,7 +152161,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1745976695249,
+      "backupDB": 1745979127114,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
