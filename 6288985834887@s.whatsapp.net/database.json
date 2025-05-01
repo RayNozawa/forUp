@@ -92072,7 +92072,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746120889249,
+      "activation": 1746123187879,
       "lastBanned": 0
     },
     "6285232605769@s.whatsapp.net": {
@@ -112236,8 +112236,8 @@
       "lastcommand": 1745923765915
     },
     "6289619588588@s.whatsapp.net": {
-      "exp": 90,
-      "limit": 449,
+      "exp": 157,
+      "limit": 374,
       "registered": false,
       "name": "orang hytam",
       "age": -1,
@@ -112254,7 +112254,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746119132492,
+      "activation": 1746123187873,
       "lastBanned": 0
     },
     "6285709498854@s.whatsapp.net": {
@@ -124836,6 +124836,28 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1746117425010
+    },
+    "6283857515078@s.whatsapp.net": {
+      "exp": 41,
+      "limit": 439,
+      "registered": false,
+      "name": "khalidjr83",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0,
+      "activation": 1746121599680
     }
   },
   "chats": {
@@ -144110,6 +144132,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "6283857515078@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -144132,10 +144175,10 @@
       "lastSuccess": 1745582013892
     },
     "downloader-play.js": {
-      "total": 3356,
-      "success": 3137,
-      "last": 1746119132492,
-      "lastSuccess": 1746119132492
+      "total": 3359,
+      "success": 3140,
+      "last": 1746123187873,
+      "lastSuccess": 1746123187873
     },
     "downloader-ytvideo.js": {
       "total": 148,
@@ -146880,10 +146923,10 @@
       "lastSuccess": 1744901761105
     },
     "downloader-ytmp4.js": {
-      "total": 46,
-      "success": 38,
-      "last": 1746120889071,
-      "lastSuccess": 1746120889071
+      "total": 48,
+      "success": 40,
+      "last": 1746121599680,
+      "lastSuccess": 1746121599680
     },
     "ai-allbard.js": {
       "total": 4,
@@ -147068,7 +147111,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746119426751,
+      "backupDB": 1746121583252,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
