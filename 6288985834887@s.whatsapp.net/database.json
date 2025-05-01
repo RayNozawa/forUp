@@ -4471,8 +4471,8 @@
       "premiumTime": 0
     },
     "6285973073661@s.whatsapp.net": {
-      "exp": 350,
-      "limit": 449,
+      "exp": 373,
+      "limit": 429,
       "registered": false,
       "name": "ul_tra",
       "age": -1,
@@ -4490,7 +4490,8 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1735993478190
+      "lastcommand": 1735993478190,
+      "activation": 1746070172697
     },
     "168251166310491_1@s.whatsapp.net": {
       "exp": 1,
@@ -11540,8 +11541,8 @@
       "premiumTime": 0
     },
     "6285865020191@s.whatsapp.net": {
-      "exp": 67437,
-      "limit": 554,
+      "exp": 67459,
+      "limit": 534,
       "registered": true,
       "name": "cah rewel",
       "age": 19,
@@ -11562,7 +11563,7 @@
       "lastdaily": 1742686742308,
       "lastrob": 1731313844160,
       "lastcommand": 1745998768747,
-      "activation": 1746002139172
+      "activation": 1746069909001
     },
     "42258736873646_1@s.whatsapp.net": {
       "exp": 9,
@@ -92067,7 +92068,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746068124392,
+      "activation": 1746070173310,
       "lastBanned": 0
     },
     "6285232605769@s.whatsapp.net": {
@@ -104316,7 +104317,7 @@
       "lastBanned": 0
     },
     "6282241135821@s.whatsapp.net": {
-      "exp": 249,
+      "exp": 254,
       "limit": 499,
       "registered": false,
       "name": "Ta",
@@ -104334,7 +104335,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746021635297,
+      "activation": 1746068899796,
       "lastBanned": 0
     },
     "6281226567528@s.whatsapp.net": {
@@ -104604,7 +104605,7 @@
       "lastcommand": 1744901325900
     },
     "6282224305264@s.whatsapp.net": {
-      "exp": 3802,
+      "exp": 3810,
       "limit": 499,
       "registered": false,
       "name": "👀",
@@ -104622,7 +104623,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746067678884,
+      "activation": 1746070401353,
       "lastBanned": 0,
       "lastcommand": 1745155113907
     },
@@ -143710,10 +143711,10 @@
       "lastSuccess": 1746033650131
     },
     "downloader-tiktok.js": {
-      "total": 3237,
-      "success": 2967,
-      "last": 1746063672587,
-      "lastSuccess": 1746063672587
+      "total": 3239,
+      "success": 2969,
+      "last": 1746070172697,
+      "lastSuccess": 1746070172697
     },
     "owner-sf.js": {
       "total": 1231,
@@ -146658,7 +146659,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746066630473,
+      "backupDB": 1746068899426,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
