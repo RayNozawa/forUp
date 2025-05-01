@@ -2277,7 +2277,7 @@
       "lastcommand": 1745596646652
     },
     "628567105062@s.whatsapp.net": {
-      "exp": 1950,
+      "exp": 1977,
       "limit": 499,
       "registered": false,
       "name": "senzy panutan",
@@ -2296,7 +2296,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746072762476
+      "activation": 1746075053169
     },
     "6285842531334@s.whatsapp.net": {
       "exp": 277,
@@ -2321,7 +2321,7 @@
       "activation": 1745974419421
     },
     "6282291130557@s.whatsapp.net": {
-      "exp": 2328,
+      "exp": 2439,
       "limit": 499,
       "registered": false,
       "name": "RAS STORE",
@@ -2339,7 +2339,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746070378550,
+      "activation": 1746077509278,
       "lastBanned": 0
     },
     "628385825266@s.whatsapp.net": {
@@ -3022,7 +3022,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746072068619,
+      "activation": 1746075248184,
       "lastBanned": 0
     },
     "120363159552753674@newsletter": {
@@ -3509,7 +3509,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
       "activation": 1746034565789
@@ -12456,6 +12456,26 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1746064428574
+    },
+    "140067758706914@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1746076479001
     }
   },
   "chats": {
@@ -17597,7 +17617,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746072762371,
+      "backupDB": 1746076848033,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
