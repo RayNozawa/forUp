@@ -92067,7 +92067,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746066538557,
+      "activation": 1746068124392,
       "lastBanned": 0
     },
     "6285232605769@s.whatsapp.net": {
@@ -104288,7 +104288,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
       "activation": 1746064809564
@@ -104604,7 +104604,7 @@
       "lastcommand": 1744901325900
     },
     "6282224305264@s.whatsapp.net": {
-      "exp": 3769,
+      "exp": 3802,
       "limit": 499,
       "registered": false,
       "name": "👀",
@@ -104622,7 +104622,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746063307060,
+      "activation": 1746067678884,
       "lastBanned": 0,
       "lastcommand": 1745155113907
     },
@@ -124299,8 +124299,8 @@
       "lastBanned": 0
     },
     "6282142597384@s.whatsapp.net": {
-      "exp": 490,
-      "limit": 174,
+      "exp": 527,
+      "limit": 149,
       "registered": false,
       "name": "EREN YEAGER",
       "age": -1,
@@ -124317,7 +124317,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746066538505,
+      "activation": 1746067203521,
       "lastBanned": 0,
       "lastcommand": 1746066075466
     },
@@ -124409,8 +124409,8 @@
       "activation": 1746063686793
     },
     "6282328309433@s.whatsapp.net": {
-      "exp": 64,
-      "limit": 474,
+      "exp": 203,
+      "limit": 324,
       "registered": false,
       "name": "𝕬𝖓𝖆𝖒𝕭𝖔𝖑𝖑💣💥",
       "age": -1,
@@ -124427,7 +124427,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746066441069,
+      "activation": 1746068124385,
       "lastBanned": 0
     }
   },
@@ -124965,12 +124965,12 @@
         "62881011734248@s.whatsapp.net": 99,
         "6285964241702@s.whatsapp.net": 25,
         "6285752273978@s.whatsapp.net": 72,
-        "6282142597384@s.whatsapp.net": 647,
+        "6282142597384@s.whatsapp.net": 716,
         "6285770142599@s.whatsapp.net": 363,
         "6288295692605@s.whatsapp.net": 25,
         "6289619588588@s.whatsapp.net": 47,
         "923129144603@s.whatsapp.net": 134,
-        "6282328309433@s.whatsapp.net": 68
+        "6282328309433@s.whatsapp.net": 121
       },
       "totalChat": 0,
       "acc": false,
@@ -143722,10 +143722,10 @@
       "lastSuccess": 1745582013892
     },
     "downloader-play.js": {
-      "total": 3335,
-      "success": 3116,
-      "last": 1746066072841,
-      "lastSuccess": 1746066072841
+      "total": 3342,
+      "success": 3123,
+      "last": 1746068124385,
+      "lastSuccess": 1746068124385
     },
     "downloader-ytvideo.js": {
       "total": 148,
@@ -146658,7 +146658,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746064738896,
+      "backupDB": 1746066630473,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
