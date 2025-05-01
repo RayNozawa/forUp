@@ -2277,7 +2277,7 @@
       "lastcommand": 1745596646652
     },
     "628567105062@s.whatsapp.net": {
-      "exp": 1948,
+      "exp": 1950,
       "limit": 499,
       "registered": false,
       "name": "senzy panutan",
@@ -2296,7 +2296,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746072053651
+      "activation": 1746072762476
     },
     "6285842531334@s.whatsapp.net": {
       "exp": 277,
@@ -17597,7 +17597,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746070378462,
+      "backupDB": 1746072762371,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
