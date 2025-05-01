@@ -92072,7 +92072,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746117426076,
+      "activation": 1746119175048,
       "lastBanned": 0
     },
     "6285232605769@s.whatsapp.net": {
@@ -104168,7 +104168,7 @@
       "activation": 1744635357875
     },
     "6288740019730@s.whatsapp.net": {
-      "exp": 4612,
+      "exp": 4620,
       "limit": 499,
       "registered": false,
       "name": "Arn",
@@ -104186,7 +104186,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746115446849,
+      "activation": 1746119174734,
       "lastBanned": 0,
       "warn": 3,
       "lastcommand": 1745715190860
@@ -104411,7 +104411,7 @@
       "lastcommand": 1746021419482
     },
     "6283189996033@s.whatsapp.net": {
-      "exp": 3679,
+      "exp": 3696,
       "limit": 499,
       "registered": false,
       "name": "\"TYZ_~",
@@ -104429,7 +104429,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746115612786,
+      "activation": 1746119202079,
       "lastBanned": 0,
       "lastcommand": 1744997770843
     },
@@ -111429,7 +111429,7 @@
       "lastBanned": 0
     },
     "6283148471325@s.whatsapp.net": {
-      "exp": 71034,
+      "exp": 71041,
       "limit": 949,
       "registered": false,
       "name": "pi",
@@ -111448,7 +111448,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746097275804,
+      "activation": 1746118991539,
       "lastdaily": 1745072355760,
       "lastcommand": 1744901759439
     },
@@ -112236,8 +112236,8 @@
       "lastcommand": 1745923765915
     },
     "6289619588588@s.whatsapp.net": {
-      "exp": 66,
-      "limit": 474,
+      "exp": 90,
+      "limit": 449,
       "registered": false,
       "name": "orang hytam",
       "age": -1,
@@ -112254,7 +112254,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746116154392,
+      "activation": 1746119132492,
       "lastBanned": 0
     },
     "6285709498854@s.whatsapp.net": {
@@ -122960,7 +122960,7 @@
       "activation": 1746062641677
     },
     "6283871598810@s.whatsapp.net": {
-      "exp": 831,
+      "exp": 849,
       "limit": 34,
       "registered": false,
       "name": "Lupin Fourth",
@@ -122976,10 +122976,10 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "lastcommand": 1746117125086,
-      "activation": 1746117127505,
+      "lastcommand": 1746117540781,
+      "activation": 1746117548665,
       "lastBanned": 0
     },
     "6282325184852@s.whatsapp.net": {
@@ -142956,11 +142956,11 @@
       "expired": 0,
       "total": {
         "62895617511212@s.whatsapp.net": 8437,
-        "6288740019730@s.whatsapp.net": 15346,
+        "6288740019730@s.whatsapp.net": 15352,
         "62881012867354@s.whatsapp.net": 90,
         "6289660962424@s.whatsapp.net": 11588,
         "6283870917771@s.whatsapp.net": 7,
-        "6283189996033@s.whatsapp.net": 13576,
+        "6283189996033@s.whatsapp.net": 13594,
         "6282265345207@s.whatsapp.net": 1342,
         "6288295692605@s.whatsapp.net": 7861,
         "6287816570410@s.whatsapp.net": 691,
@@ -142968,12 +142968,12 @@
         "6285755682686@s.whatsapp.net": 759,
         "6285175402083@s.whatsapp.net": 1058,
         "6289514076890@s.whatsapp.net": 745,
-        "6283165508922@s.whatsapp.net": 4871,
+        "6283165508922@s.whatsapp.net": 4887,
         "6283867044915@s.whatsapp.net": 1314,
         "6281520398168@s.whatsapp.net": 8012,
         "62895352017103@s.whatsapp.net": 330,
         "6288271340015@s.whatsapp.net": 268,
-        "6289654023600@s.whatsapp.net": 110,
+        "6289654023600@s.whatsapp.net": 112,
         "6283899348024@s.whatsapp.net": 142,
         "6281521938221@s.whatsapp.net": 20,
         "6283169196276@s.whatsapp.net": 57,
@@ -144132,10 +144132,10 @@
       "lastSuccess": 1745582013892
     },
     "downloader-play.js": {
-      "total": 3355,
-      "success": 3136,
-      "last": 1746116154392,
-      "lastSuccess": 1746116154392
+      "total": 3356,
+      "success": 3137,
+      "last": 1746119132492,
+      "lastSuccess": 1746119132492
     },
     "downloader-ytvideo.js": {
       "total": 148,
@@ -146562,10 +146562,10 @@
       "lastSuccess": 1746083025100
     },
     "_main-menu.js": {
-      "total": 412,
-      "success": 408,
-      "last": 1746102208961,
-      "lastSuccess": 1746102208961
+      "total": 413,
+      "success": 409,
+      "last": 1746117548665,
+      "lastSuccess": 1746117548665
     },
     "_main-allmenu.js": {
       "total": 97,
@@ -147068,7 +147068,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746115621198,
+      "backupDB": 1746117540470,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
