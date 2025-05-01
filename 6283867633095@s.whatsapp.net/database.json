@@ -192,7 +192,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 24092,
+      "exp": 24108,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -210,7 +210,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1777639319105,
-      "activation": 1746112402679,
+      "activation": 1746116507273,
       "lastBanned": 0,
       "lastcommand": 1746106658766,
       "limitprem": 10000,
@@ -373,8 +373,8 @@
       "activation": 1746095577078
     },
     "6283164975409@s.whatsapp.net": {
-      "exp": 713,
-      "limit": 59,
+      "exp": 753,
+      "limit": 39,
       "registered": false,
       "name": ".",
       "age": -1,
@@ -389,11 +389,11 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1746014931773,
+      "activation": 1746115722937,
       "lastBanned": 0,
-      "lastcommand": 1745917102089
+      "lastcommand": 1746115721415
     },
     "6289629130204@s.whatsapp.net": {
       "exp": 70884,
@@ -11416,8 +11416,8 @@
       "activation": 1746004795061
     },
     "6281553476702@s.whatsapp.net": {
-      "exp": 326,
-      "limit": 259,
+      "exp": 349,
+      "limit": 239,
       "registered": false,
       "name": "ナシファ🇯🇵",
       "age": -1,
@@ -11435,7 +11435,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746086730881
+      "activation": 1746116507119
     },
     "120363418502311524@newsletter": {
       "exp": 0,
@@ -13933,6 +13933,26 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1746114029057
+    },
+    "175832068812818@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1746115539561
     }
   },
   "chats": {
@@ -19023,10 +19043,10 @@
       "lastSuccess": 1745804052219
     },
     "_cek.js": {
-      "total": 135,
-      "success": 122,
-      "last": 1746096009690,
-      "lastSuccess": 1746096009690
+      "total": 136,
+      "success": 123,
+      "last": 1746115722937,
+      "lastSuccess": 1746115722937
     },
     "user-limit.js": {
       "total": 15,
@@ -19041,10 +19061,10 @@
       "lastSuccess": 1741729221851
     },
     "downloader-tiktok.js": {
-      "total": 324,
-      "success": 307,
-      "last": 1746110035520,
-      "lastSuccess": 1746110035520
+      "total": 325,
+      "success": 308,
+      "last": 1746115607871,
+      "lastSuccess": 1746115607871
     },
     "owner-pushkontak.js": {
       "total": 3,
@@ -19089,10 +19109,10 @@
       "lastSuccess": 1745034682502
     },
     "downloader-instagram.js": {
-      "total": 43,
-      "success": 43,
-      "last": 1746086674364,
-      "lastSuccess": 1746086674364
+      "total": 44,
+      "success": 44,
+      "last": 1746116507119,
+      "lastSuccess": 1746116507119
     },
     "downloader-gitclone.js": {
       "total": 2,
@@ -19760,7 +19780,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746111815685,
+      "backupDB": 1746114814790,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
