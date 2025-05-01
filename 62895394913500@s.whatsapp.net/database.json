@@ -5117,7 +5117,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746111891990,
+      "activation": 1746113110808,
       "lastBanned": 0
     },
     "6283874110053@s.whatsapp.net": {
@@ -15290,7 +15290,7 @@
       "lastcommand": 1744810028920
     },
     "6285641845890@s.whatsapp.net": {
-      "exp": 25141,
+      "exp": 25184,
       "limit": 499,
       "registered": false,
       "name": "Agung RF Daop 5 Sumpiuh & RF Daop 1 Cikarang",
@@ -15308,7 +15308,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746112086880,
+      "activation": 1746113419215,
       "lastBanned": 0,
       "lastcommand": 1746006895797
     },
@@ -128157,6 +128157,26 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1746108875880
+    },
+    "38040693149853@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1746113176071
     }
   },
   "chats": {
@@ -141665,11 +141685,11 @@
       "total": {
         "6285722598442@s.whatsapp.net": 367,
         "6285786552115@s.whatsapp.net": 1544,
-        "6285641845890@s.whatsapp.net": 27505,
+        "6285641845890@s.whatsapp.net": 27565,
         "6285804706168@s.whatsapp.net": 857,
         "6285141179740@s.whatsapp.net": 117,
         "6281324218729@s.whatsapp.net": 61,
-        "6282138444095@s.whatsapp.net": 884,
+        "6282138444095@s.whatsapp.net": 888,
         "6285750225037@s.whatsapp.net": 164,
         "6285710114903@s.whatsapp.net": 943,
         "6281252067374@s.whatsapp.net": 1171,
@@ -142168,7 +142188,7 @@
       "expired": 0,
       "total": {
         "6285722598442@s.whatsapp.net": 176,
-        "6285641845890@s.whatsapp.net": 24290,
+        "6285641845890@s.whatsapp.net": 24352,
         "62895605379273@s.whatsapp.net": 241,
         "6287787080907@s.whatsapp.net": 59,
         "6287893701524@s.whatsapp.net": 236,
@@ -144659,7 +144679,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746111257058,
+      "backupDB": 1746113401162,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
