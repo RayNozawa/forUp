@@ -2277,7 +2277,7 @@
       "lastcommand": 1745596646652
     },
     "628567105062@s.whatsapp.net": {
-      "exp": 1947,
+      "exp": 1950,
       "limit": 499,
       "registered": false,
       "name": "senzy panutan",
@@ -2296,7 +2296,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746069580631
+      "activation": 1746072762476
     },
     "6285842531334@s.whatsapp.net": {
       "exp": 277,
@@ -2321,7 +2321,7 @@
       "activation": 1745974419421
     },
     "6282291130557@s.whatsapp.net": {
-      "exp": 2324,
+      "exp": 2328,
       "limit": 499,
       "registered": false,
       "name": "RAS STORE",
@@ -2339,7 +2339,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746065021203,
+      "activation": 1746070378550,
       "lastBanned": 0
     },
     "628385825266@s.whatsapp.net": {
@@ -2801,7 +2801,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746048068912,
+      "activation": 1746071893856,
       "lastBanned": 0
     },
     "6283141671011@s.whatsapp.net": {
@@ -3022,7 +3022,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746068248393,
+      "activation": 1746072068619,
       "lastBanned": 0
     },
     "120363159552753674@newsletter": {
@@ -4308,7 +4308,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746069437122,
+      "activation": 1746072632298,
       "lastBanned": 0
     },
     "6281346749688@s.whatsapp.net": {
@@ -17597,7 +17597,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746068207747,
+      "backupDB": 1746072762371,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
