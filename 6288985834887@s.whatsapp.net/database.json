@@ -92072,7 +92072,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746125016552,
+      "activation": 1746131318322,
       "lastBanned": 0
     },
     "6285232605769@s.whatsapp.net": {
@@ -118706,8 +118706,8 @@
       "activation": 1745412836753
     },
     "6285767784568@s.whatsapp.net": {
-      "exp": 116,
-      "limit": 389,
+      "exp": 239,
+      "limit": 279,
       "registered": false,
       "name": "farhat - up 3-20 1k dl1th",
       "age": -1,
@@ -118724,7 +118724,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1745611516566,
+      "activation": 1746131318318,
       "lastBanned": 0
     },
     "6283833007810@s.whatsapp.net": {
@@ -144163,10 +144163,10 @@
       "lastSuccess": 1746105263297
     },
     "downloader-tiktok.js": {
-      "total": 3258,
-      "success": 2988,
-      "last": 1746111509327,
-      "lastSuccess": 1746111509327
+      "total": 3261,
+      "success": 2991,
+      "last": 1746131285115,
+      "lastSuccess": 1746131285115
     },
     "owner-sf.js": {
       "total": 1231,
@@ -144175,10 +144175,10 @@
       "lastSuccess": 1745582013892
     },
     "downloader-play.js": {
-      "total": 3361,
-      "success": 3142,
-      "last": 1746125016545,
-      "lastSuccess": 1746125016545
+      "total": 3363,
+      "success": 3144,
+      "last": 1746131318318,
+      "lastSuccess": 1746131318318
     },
     "downloader-ytvideo.js": {
       "total": 148,
@@ -147111,7 +147111,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746123702413,
+      "backupDB": 1746131235183,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
