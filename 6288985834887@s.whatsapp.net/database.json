@@ -92072,7 +92072,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746123187879,
+      "activation": 1746125016552,
       "lastBanned": 0
     },
     "6285232605769@s.whatsapp.net": {
@@ -112236,8 +112236,8 @@
       "lastcommand": 1745923765915
     },
     "6289619588588@s.whatsapp.net": {
-      "exp": 157,
-      "limit": 374,
+      "exp": 196,
+      "limit": 324,
       "registered": false,
       "name": "orang hytam",
       "age": -1,
@@ -112254,7 +112254,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746123187873,
+      "activation": 1746125016545,
       "lastBanned": 0
     },
     "6285709498854@s.whatsapp.net": {
@@ -119486,7 +119486,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746100987029,
+      "activation": 1746124418598,
       "lastBanned": 0,
       "lastcommand": 1746019897955,
       "lastwork": 1745738730988
@@ -144175,10 +144175,10 @@
       "lastSuccess": 1745582013892
     },
     "downloader-play.js": {
-      "total": 3359,
-      "success": 3140,
-      "last": 1746123187873,
-      "lastSuccess": 1746123187873
+      "total": 3361,
+      "success": 3142,
+      "last": 1746125016545,
+      "lastSuccess": 1746125016545
     },
     "downloader-ytvideo.js": {
       "total": 148,
@@ -147111,7 +147111,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746121583252,
+      "backupDB": 1746123702413,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
