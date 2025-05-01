@@ -1,8 +1,8 @@
 {
   "users": {
     "62895339044041@s.whatsapp.net": {
-      "exp": 10487,
-      "limit": 489,
+      "exp": 10634,
+      "limit": 439,
       "registered": false,
       "name": "1337XYRZ",
       "age": -1,
@@ -19,9 +19,9 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746124185901,
+      "activation": 1746125582110,
       "lastBanned": 0,
-      "lastcommand": 1746077221399,
+      "lastcommand": 1746124323250,
       "warn": 1
     },
     "6289512906639@s.whatsapp.net": {
@@ -4509,7 +4509,7 @@
       "lastBanned": 0
     },
     "6283894216261@s.whatsapp.net": {
-      "exp": 1782,
+      "exp": 1818,
       "limit": 499,
       "registered": false,
       "name": "リサール(+22M)",
@@ -4527,7 +4527,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746124164834,
+      "activation": 1746124513267,
       "lastBanned": 0,
       "lastcommand": 1746022795637
     },
@@ -31516,7 +31516,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746116994683,
+      "activation": 1746124358390,
       "lastBanned": 0,
       "lastcommand": 1745911082877
     },
@@ -142610,7 +142610,7 @@
       "expired": 0,
       "total": {
         "6287741310540@s.whatsapp.net": 278,
-        "62895339044041@s.whatsapp.net": 7459,
+        "62895339044041@s.whatsapp.net": 7828,
         "6289506975260@s.whatsapp.net": 35,
         "6285163612768@s.whatsapp.net": 32,
         "62895370081128@s.whatsapp.net": 106,
@@ -142618,7 +142618,7 @@
         "6281235885898@s.whatsapp.net": 41,
         "6283824487980@s.whatsapp.net": 18,
         "62882001362936@s.whatsapp.net": 1714,
-        "6283894216261@s.whatsapp.net": 6653,
+        "6283894216261@s.whatsapp.net": 6900,
         "62895334902147@s.whatsapp.net": 1053,
         "6285798410601@s.whatsapp.net": 846,
         "6288213861153@s.whatsapp.net": 2659,
@@ -143536,10 +143536,10 @@
   },
   "stats": {
     "_main-menu.js": {
-      "total": 259,
-      "success": 255,
-      "last": 1746094275302,
-      "lastSuccess": 1746094275302
+      "total": 260,
+      "success": 256,
+      "last": 1746124332238,
+      "lastSuccess": 1746124332238
     },
     "info-ping.js": {
       "total": 82,
@@ -143620,10 +143620,10 @@
       "lastSuccess": 1746088893247
     },
     "ai-remini.js": {
-      "total": 70,
-      "success": 63,
-      "last": 1745899869469,
-      "lastSuccess": 1745899869469
+      "total": 72,
+      "success": 65,
+      "last": 1746124358385,
+      "lastSuccess": 1746124358385
     },
     "group-settings.js": {
       "total": 21,
@@ -144739,7 +144739,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746122385483,
+      "backupDB": 1746124203348,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
