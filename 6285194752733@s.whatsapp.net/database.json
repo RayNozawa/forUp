@@ -19517,8 +19517,8 @@
       "activation": 1743338260543
     },
     "6285713136827@s.whatsapp.net": {
-      "exp": 998,
-      "limit": 339,
+      "exp": 1017,
+      "limit": 329,
       "registered": false,
       "name": "Billl🌀",
       "age": -1,
@@ -19536,7 +19536,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746083946244,
+      "activation": 1746114976691,
       "lastcommand": 1745317609459,
       "warn": 1
     },
@@ -27033,7 +27033,7 @@
       "activation": 1743491045952
     },
     "6288977026400@s.whatsapp.net": {
-      "exp": 1423,
+      "exp": 1440,
       "limit": 479,
       "registered": false,
       "name": "Tirpitz",
@@ -27051,7 +27051,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746109454071,
+      "activation": 1746115101542,
       "lastBanned": 0,
       "lastcommand": 1744784191279
     },
@@ -31516,7 +31516,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746112064636,
+      "activation": 1746114977149,
       "lastBanned": 0,
       "lastcommand": 1745911082877
     },
@@ -141858,19 +141858,19 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6287741310540@s.whatsapp.net": 13062,
+        "6287741310540@s.whatsapp.net": 13084,
         "62895386262253@s.whatsapp.net": 662,
-        "6285811731828@s.whatsapp.net": 971,
-        "6288906060009@s.whatsapp.net": 584,
+        "6285811731828@s.whatsapp.net": 974,
+        "6288906060009@s.whatsapp.net": 589,
         "6281337281282@s.whatsapp.net": 315,
         "62895607460203@s.whatsapp.net": 436,
-        "6285713136827@s.whatsapp.net": 334,
+        "6285713136827@s.whatsapp.net": 335,
         "6285714531363@s.whatsapp.net": 28,
         "6285888189171@s.whatsapp.net": 674,
         "6281331848850@s.whatsapp.net": 675,
         "6283837313157@s.whatsapp.net": 1655,
         "6281556462599@s.whatsapp.net": 1538,
-        "62882007945882@s.whatsapp.net": 1495,
+        "62882007945882@s.whatsapp.net": 1497,
         "6285169949462@s.whatsapp.net": 308,
         "6281553778957@s.whatsapp.net": 292,
         "6281265655827@s.whatsapp.net": 108,
@@ -141878,11 +141878,11 @@
         "62895337734396@s.whatsapp.net": 168,
         "628892117231@s.whatsapp.net": 50,
         "6289518464861@s.whatsapp.net": 85,
-        "6287716734170@s.whatsapp.net": 2690,
+        "6287716734170@s.whatsapp.net": 2693,
         "6289675880828@s.whatsapp.net": 318,
-        "6282323694773@s.whatsapp.net": 134,
+        "6282323694773@s.whatsapp.net": 135,
         "6288971684889@s.whatsapp.net": 251,
-        "62895370081128@s.whatsapp.net": 498
+        "62895370081128@s.whatsapp.net": 501
       },
       "totalChat": 0
     },
@@ -143025,13 +143025,13 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6281556462599@s.whatsapp.net": 1491,
+        "6281556462599@s.whatsapp.net": 1501,
         "628895404202@s.whatsapp.net": 93,
-        "6287780370628@s.whatsapp.net": 873,
+        "6287780370628@s.whatsapp.net": 875,
         "6285123687686@s.whatsapp.net": 2403,
         "6289647496868@s.whatsapp.net": 103,
         "6281392939481@s.whatsapp.net": 23,
-        "6288977026400@s.whatsapp.net": 4219,
+        "6288977026400@s.whatsapp.net": 4245,
         "6285755387179@s.whatsapp.net": 32,
         "6287847033632@s.whatsapp.net": 699,
         "6287847526982@s.whatsapp.net": 65,
@@ -143042,7 +143042,7 @@
         "6287782892010@s.whatsapp.net": 3754,
         "6283866284870@s.whatsapp.net": 980,
         "6288991603752@s.whatsapp.net": 19,
-        "62895370048237@s.whatsapp.net": 502,
+        "62895370048237@s.whatsapp.net": 518,
         "6285221850807@s.whatsapp.net": 129,
         "6289530020697@s.whatsapp.net": 37,
         "6283129913741@s.whatsapp.net": 417,
@@ -143488,10 +143488,10 @@
       "lastSuccess": 1746106743316
     },
     "sticker-quotely.js": {
-      "total": 553,
-      "success": 553,
-      "last": 1746104798632,
-      "lastSuccess": 1746104798632
+      "total": 554,
+      "success": 554,
+      "last": 1746114976691,
+      "lastSuccess": 1746114976691
     },
     "owner-sf.js": {
       "total": 40,
