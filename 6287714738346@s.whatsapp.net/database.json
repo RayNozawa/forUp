@@ -17581,7 +17581,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746195228232,
+      "activation": 1746197142330,
       "lastBanned": 0
     },
     "6283869785398@s.whatsapp.net": {
@@ -29037,7 +29037,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1744963389727,
+      "activation": 1746197139369,
       "lastBanned": 0
     },
     "628388635531@s.whatsapp.net": {
@@ -72897,7 +72897,7 @@
       "lastBanned": 0
     },
     "6287714738346@s.whatsapp.net": {
-      "exp": 635,
+      "exp": 647,
       "limit": 499,
       "registered": false,
       "name": "kontollllll",
@@ -72913,9 +72913,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1746195231263,
+      "activation": 1746197120581,
       "lastBanned": 0,
       "warn": null,
       "lastcommand": 1746182375713
@@ -79232,7 +79232,7 @@
       "activation": 1746138956696
     },
     "6285788220615@s.whatsapp.net": {
-      "exp": 15,
+      "exp": 31,
       "limit": 499,
       "registered": false,
       "name": "Fahma",
@@ -79250,7 +79250,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746175828169,
+      "activation": 1746196921471,
       "lastBanned": 0
     },
     "6283141560186@s.whatsapp.net": {
@@ -80605,6 +80605,28 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1746194602722,
+      "lastBanned": 0
+    },
+    "6281211588406@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "name": "yoi",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1746196150018,
       "lastBanned": 0
     }
   },
@@ -83484,7 +83506,7 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6288985834887@s.whatsapp.net": 3342,
+        "6288985834887@s.whatsapp.net": 3416,
         "6285194455126@s.whatsapp.net": 22,
         "6283173608104@s.whatsapp.net": 3,
         "6285770142599@s.whatsapp.net": 111,
@@ -83518,7 +83540,7 @@
         "6282111264411@s.whatsapp.net": 168,
         "6288289264689@s.whatsapp.net": 39,
         "6285719183161@s.whatsapp.net": 24,
-        "6285788220615@s.whatsapp.net": 11,
+        "6285788220615@s.whatsapp.net": 14,
         "6285961457520@s.whatsapp.net": 16,
         "6285715719484@s.whatsapp.net": 15,
         "6289530423915@s.whatsapp.net": 71,
@@ -83528,7 +83550,8 @@
         "6288210952423@s.whatsapp.net": 18,
         "6281392076995@s.whatsapp.net": 3,
         "6282159716374@s.whatsapp.net": 42,
-        "62895384251701@s.whatsapp.net": 5
+        "62895384251701@s.whatsapp.net": 5,
+        "6281211588406@s.whatsapp.net": 8
       },
       "totalChat": 0
     },
@@ -88740,10 +88763,10 @@
   },
   "stats": {
     "sticker-all.js": {
-      "total": 561,
-      "success": 555,
-      "last": 1746190053699,
-      "lastSuccess": 1746190053699
+      "total": 563,
+      "success": 557,
+      "last": 1746196921471,
+      "lastSuccess": 1746196921471
     },
     "info-ping.js": {
       "total": 32,
@@ -88842,10 +88865,10 @@
       "lastSuccess": 1746191796255
     },
     "_main-menu.js": {
-      "total": 154,
-      "success": 154,
-      "last": 1746189325980,
-      "lastSuccess": 1746189325980
+      "total": 155,
+      "success": 155,
+      "last": 1746196110874,
+      "lastSuccess": 1746196110874
     },
     "maker-ephoto.js": {
       "total": 14,
@@ -89088,10 +89111,10 @@
       "lastSuccess": 1746111216611
     },
     "ai-remini.js": {
-      "total": 53,
-      "success": 50,
-      "last": 1746191238858,
-      "lastSuccess": 1746191238858
+      "total": 55,
+      "success": 52,
+      "last": 1746196150018,
+      "lastSuccess": 1746196150018
     },
     "vn-baka.js": {
       "total": 3,
@@ -89939,7 +89962,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746193935513,
+      "backupDB": 1746195924313,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
