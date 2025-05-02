@@ -31519,7 +31519,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746212761061,
+      "activation": 1746216579407,
       "lastBanned": 0,
       "lastcommand": 1746170447671
     },
@@ -109070,7 +109070,7 @@
       "lastBanned": 0
     },
     "6285722598442@s.whatsapp.net": {
-      "exp": 158378,
+      "exp": 158428,
       "limit": 2196,
       "registered": true,
       "name": "lamzz",
@@ -109088,7 +109088,7 @@
       "lastmonthly": 1744700298688,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746204548598,
+      "activation": 1746216584433,
       "lastBanned": 0,
       "lastcommand": 1746170486996,
       "lastdaily": 1746192972026,
@@ -136951,19 +136951,19 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285750225037@s.whatsapp.net": 55029,
+        "6285750225037@s.whatsapp.net": 55031,
         "6282327360391@s.whatsapp.net": 7465,
-        "6285725870085@s.whatsapp.net": 35448,
-        "6282138444095@s.whatsapp.net": 128065,
-        "6285722598442@s.whatsapp.net": 19786,
+        "6285725870085@s.whatsapp.net": 35450,
+        "6282138444095@s.whatsapp.net": 128071,
+        "6285722598442@s.whatsapp.net": 19797,
         "6287842822867@s.whatsapp.net": 63274,
         "6289520110391@s.whatsapp.net": 948,
         "6281249854677@s.whatsapp.net": 44,
         "undefined": 2015,
-        "6285786215136@s.whatsapp.net": 68969,
+        "6285786215136@s.whatsapp.net": 68975,
         "6281329752453@s.whatsapp.net": 13477,
         "6283129913741@s.whatsapp.net": 163,
-        "62895619578363@s.whatsapp.net": 95781,
+        "62895619578363@s.whatsapp.net": 95783,
         "62882008879526@s.whatsapp.net": 13903,
         "6285141179740@s.whatsapp.net": 4844,
         "6281934068666@s.whatsapp.net": 1323,
@@ -144384,10 +144384,10 @@
       "lastSuccess": 1746124358385
     },
     "group-settings.js": {
-      "total": 24,
-      "success": 24,
-      "last": 1746196583642,
-      "lastSuccess": 1746196583642
+      "total": 25,
+      "success": 25,
+      "last": 1746216568091,
+      "lastSuccess": 1746216568091
     },
     "user-profile.js": {
       "total": 113,
@@ -144600,10 +144600,10 @@
       "lastSuccess": 1744873132171
     },
     "group-hidetag.js": {
-      "total": 314,
-      "success": 314,
-      "last": 1746175745687,
-      "lastSuccess": 1746175745687
+      "total": 315,
+      "success": 315,
+      "last": 1746216579118,
+      "lastSuccess": 1746216579118
     },
     "user-afk_.js": {
       "total": 381,
@@ -145503,7 +145503,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746212759216,
+      "backupDB": 1746216567455,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
