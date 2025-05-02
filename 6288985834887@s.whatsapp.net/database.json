@@ -11541,8 +11541,8 @@
       "premiumTime": 0
     },
     "6285865020191@s.whatsapp.net": {
-      "exp": 67762,
-      "limit": 389,
+      "exp": 67798,
+      "limit": 369,
       "registered": true,
       "name": "cah rewel",
       "age": 19,
@@ -11563,7 +11563,7 @@
       "lastdaily": 1742686742308,
       "lastrob": 1731313844160,
       "lastcommand": 1745998768747,
-      "activation": 1746158223271
+      "activation": 1746158951013
     },
     "42258736873646_1@s.whatsapp.net": {
       "exp": 9,
@@ -92072,7 +92072,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746158223276,
+      "activation": 1746158951090,
       "lastBanned": 0
     },
     "6285232605769@s.whatsapp.net": {
@@ -93784,7 +93784,7 @@
       "lastcommand": 1743384073606
     },
     "6282320629134@s.whatsapp.net": {
-      "exp": 70517,
+      "exp": 70538,
       "limit": 1199,
       "registered": false,
       "name": "Iyng🐳",
@@ -93802,7 +93802,7 @@
       "lastmonthly": 1743364488350,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746154505986,
+      "activation": 1746159671493,
       "lastBanned": 0,
       "lastdaily": 1743781902911,
       "lastcommand": 1743881806337
@@ -104610,7 +104610,7 @@
       "lastcommand": 1744901325900
     },
     "6282224305264@s.whatsapp.net": {
-      "exp": 3959,
+      "exp": 3987,
       "limit": 499,
       "registered": false,
       "name": "👀",
@@ -104628,7 +104628,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746158245192,
+      "activation": 1746160616864,
       "lastBanned": 0,
       "lastcommand": 1745155113907
     },
@@ -111518,7 +111518,7 @@
       "lastBanned": 0
     },
     "6283144943957@s.whatsapp.net": {
-      "exp": 101,
+      "exp": 121,
       "limit": 499,
       "registered": false,
       "name": "อาร์กาโนวา",
@@ -111536,7 +111536,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1745407257980,
+      "activation": 1746160322252,
       "lastBanned": 0
     },
     "6288980387986@s.whatsapp.net": {
@@ -111628,7 +111628,7 @@
       "lastBanned": 0
     },
     "62882003445441@s.whatsapp.net": {
-      "exp": 198,
+      "exp": 207,
       "limit": 499,
       "registered": false,
       "name": "MoonX",
@@ -111646,7 +111646,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746154440820,
+      "activation": 1746159490769,
       "lastBanned": 0
     },
     "62895326859701@s.whatsapp.net": {
@@ -143245,11 +143245,11 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "628816016499@s.whatsapp.net": 448,
+        "628816016499@s.whatsapp.net": 496,
         "6283144943957@s.whatsapp.net": 299,
-        "62882003445441@s.whatsapp.net": 650,
-        "6282320629134@s.whatsapp.net": 454,
-        "62895326859701@s.whatsapp.net": 360,
+        "62882003445441@s.whatsapp.net": 668,
+        "6282320629134@s.whatsapp.net": 514,
+        "62895326859701@s.whatsapp.net": 396,
         "6285656438711@s.whatsapp.net": 660,
         "628568791066@s.whatsapp.net": 117
       },
@@ -144251,10 +144251,10 @@
       "lastSuccess": 1746151032924
     },
     "downloader-tiktok.js": {
-      "total": 3275,
-      "success": 3004,
-      "last": 1746158023739,
-      "lastSuccess": 1746158023739
+      "total": 3276,
+      "success": 3005,
+      "last": 1746158951013,
+      "lastSuccess": 1746158951013
     },
     "owner-sf.js": {
       "total": 1231,
@@ -147199,7 +147199,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746156968167,
+      "backupDB": 1746158943895,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
