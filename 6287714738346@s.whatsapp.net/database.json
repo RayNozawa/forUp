@@ -17581,7 +17581,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746205827527,
+      "activation": 1746217891389,
       "lastBanned": 0
     },
     "6283869785398@s.whatsapp.net": {
@@ -72897,7 +72897,7 @@
       "lastBanned": 0
     },
     "6287714738346@s.whatsapp.net": {
-      "exp": 727,
+      "exp": 733,
       "limit": 499,
       "registered": false,
       "name": "kontollllll",
@@ -72915,7 +72915,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746215335796,
+      "activation": 1746217851193,
       "lastBanned": 0,
       "warn": null,
       "lastcommand": 1746182375713
@@ -90157,7 +90157,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746213947876,
+      "backupDB": 1746217850988,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
