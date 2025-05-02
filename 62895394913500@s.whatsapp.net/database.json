@@ -31501,7 +31501,7 @@
       "activation": 1743524360223
     },
     "6289630106831@s.whatsapp.net": {
-      "exp": 1977,
+      "exp": 2033,
       "limit": 499,
       "registered": true,
       "name": "lamzz",
@@ -31517,9 +31517,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1746199193866,
+      "activation": 1746200644449,
       "lastBanned": 0,
       "lastcommand": 1746170447671
     },
@@ -117002,7 +117002,7 @@
       "activation": 1745091093916
     },
     "62895605379273@s.whatsapp.net": {
-      "exp": 158,
+      "exp": 169,
       "limit": 499,
       "registered": false,
       "name": "Lina",
@@ -117020,7 +117020,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746198184044,
+      "activation": 1746201116680,
       "lastBanned": 0
     },
     "62895328902596@s.whatsapp.net": {
@@ -128718,6 +128718,26 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1746197639875
+    },
+    "82815878209596@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1746200551266
     }
   },
   "chats": {
@@ -142734,8 +142754,8 @@
       "expired": 0,
       "total": {
         "6285722598442@s.whatsapp.net": 176,
-        "6285641845890@s.whatsapp.net": 27480,
-        "62895605379273@s.whatsapp.net": 241,
+        "6285641845890@s.whatsapp.net": 27504,
+        "62895605379273@s.whatsapp.net": 243,
         "6287787080907@s.whatsapp.net": 59,
         "6287893701524@s.whatsapp.net": 247,
         "62882001126427@s.whatsapp.net": 66,
@@ -145254,10 +145274,10 @@
       "lastSuccess": 1745135067044
     },
     "downloader-ytmp3.js": {
-      "total": 7,
-      "success": 7,
-      "last": 1745468318089,
-      "lastSuccess": 1745468318089
+      "total": 8,
+      "success": 8,
+      "last": 1746199504905,
+      "lastSuccess": 1746199504905
     },
     "tools-hdvid.js": {
       "total": 2,
@@ -145443,7 +145463,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746198529246,
+      "backupDB": 1746200619994,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
