@@ -192,7 +192,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 24762,
+      "exp": 24790,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -210,7 +210,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1777639319105,
-      "activation": 1746170385221,
+      "activation": 1746171702906,
       "lastBanned": 0,
       "lastcommand": 1746106658766,
       "limitprem": 10000,
@@ -644,7 +644,7 @@
       "lastBanned": 0
     },
     "6285814862628@s.whatsapp.net": {
-      "exp": 2636,
+      "exp": 2646,
       "limit": 264,
       "registered": false,
       "name": "SanzXuu",
@@ -662,7 +662,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746169733522,
+      "activation": 1746170753389,
       "lastBanned": 0,
       "lastcommand": 1742898134222
     },
@@ -778,7 +778,7 @@
       "lastBanned": 0
     },
     "6289636027771@s.whatsapp.net": {
-      "exp": 589,
+      "exp": 598,
       "limit": 499,
       "registered": false,
       "name": "@ZAriel_SiDoel",
@@ -797,7 +797,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746169735757,
+      "activation": 1746170437571,
       "lastcommand": 1742807553655
     },
     "6287757839759@s.whatsapp.net": {
@@ -2967,7 +2967,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746154119931,
+      "activation": 1746172435680,
       "lastBanned": 0
     },
     "6281389651748@s.whatsapp.net": {
@@ -10302,7 +10302,7 @@
       "lastBanned": 0
     },
     "6289520654403@s.whatsapp.net": {
-      "exp": 292,
+      "exp": 299,
       "limit": 499,
       "registered": false,
       "name": "𝗘𝗜𝗝𝗔𝗭𝗛𝗔𝗡𝗭 𝘁𝗼𝗸𝘂",
@@ -10320,7 +10320,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746169724614,
+      "activation": 1746171137659,
       "lastBanned": 0
     },
     "60189073469@s.whatsapp.net": {
@@ -10466,7 +10466,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746170318558,
+      "activation": 1746171546005,
       "lastBanned": 0
     },
     "120363416810310839@newsletter": {
@@ -10529,7 +10529,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746169434298,
+      "activation": 1746172242951,
       "lastBanned": 0
     },
     "120363358156125711@newsletter": {
@@ -14146,6 +14146,26 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1746163331765
+    },
+    "203766620004504@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1746172420625
     }
   },
   "chats": {
@@ -18480,16 +18500,16 @@
       "expired": 0,
       "total": {
         "6285814862628@s.whatsapp.net": 196,
-        "6289520654403@s.whatsapp.net": 1118,
+        "6289520654403@s.whatsapp.net": 1128,
         "6285922439853@s.whatsapp.net": 290,
         "6282337928009@s.whatsapp.net": 401,
         "6281289121124@s.whatsapp.net": 460,
-        "62881023832483@s.whatsapp.net": 28,
+        "62881023832483@s.whatsapp.net": 29,
         "6281383919270@s.whatsapp.net": 69,
         "6281264998595@s.whatsapp.net": 37,
         "6287797011637@s.whatsapp.net": 69,
         "60164543496@s.whatsapp.net": 32,
-        "6287755047933@s.whatsapp.net": 732
+        "6287755047933@s.whatsapp.net": 743
       },
       "totalChat": 0
     },
@@ -20018,7 +20038,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746168614850,
+      "backupDB": 1746170437372,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
