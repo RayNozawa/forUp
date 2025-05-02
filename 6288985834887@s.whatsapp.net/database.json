@@ -92074,7 +92074,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746219538904,
+      "activation": 1746219915093,
       "lastBanned": 0
     },
     "6285232605769@s.whatsapp.net": {
@@ -119490,7 +119490,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746217849809,
+      "activation": 1746220198654,
       "lastBanned": 0,
       "lastcommand": 1746019897955,
       "lastwork": 1745738730988
@@ -122964,8 +122964,8 @@
       "activation": 1746147455633
     },
     "6283871598810@s.whatsapp.net": {
-      "exp": 61033,
-      "limit": 529,
+      "exp": 61085,
+      "limit": 479,
       "registered": false,
       "name": "Lupin Fourth",
       "age": -1,
@@ -122983,7 +122983,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastcommand": 1746198168568,
-      "activation": 1746204461951,
+      "activation": 1746219915086,
       "lastBanned": 0,
       "lastdaily": 1746172607469
     },
@@ -144580,10 +144580,10 @@
       "lastSuccess": 1745582013892
     },
     "downloader-play.js": {
-      "total": 3412,
-      "success": 3188,
-      "last": 1746204461951,
-      "lastSuccess": 1746204461951
+      "total": 3414,
+      "success": 3190,
+      "last": 1746219915086,
+      "lastSuccess": 1746219915086
     },
     "downloader-ytvideo.js": {
       "total": 148,
@@ -147516,7 +147516,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746217892665,
+      "backupDB": 1746219846967,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
