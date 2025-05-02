@@ -910,7 +910,7 @@
       "lastcommand": 1745321983691
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 5525,
+      "exp": 5595,
       "limit": 499,
       "registered": false,
       "name": "Rayhan🍟",
@@ -928,7 +928,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746206634984,
+      "activation": 1746209673199,
       "lastBanned": 0,
       "lastcommand": 1746182309588
     },
@@ -72897,7 +72897,7 @@
       "lastBanned": 0
     },
     "6287714738346@s.whatsapp.net": {
-      "exp": 685,
+      "exp": 697,
       "limit": 499,
       "registered": false,
       "name": "kontollllll",
@@ -72915,7 +72915,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746206635642,
+      "activation": 1746209673202,
       "lastBanned": 0,
       "warn": null,
       "lastcommand": 1746182375713
@@ -89012,10 +89012,10 @@
       "lastSuccess": 1746153175070
     },
     "owner-tofile.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1746083548967,
-      "lastSuccess": 1746083548967
+      "total": 4,
+      "success": 4,
+      "last": 1746209673199,
+      "lastSuccess": 1746209673199
     },
     "owner-getfile.js": {
       "total": 2,
@@ -89222,10 +89222,10 @@
       "lastSuccess": 1746202688026
     },
     "internet-fetch.js": {
-      "total": 18,
-      "success": 18,
-      "last": 1746206634984,
-      "lastSuccess": 1746206634984
+      "total": 20,
+      "success": 19,
+      "last": 1746209666235,
+      "lastSuccess": 1746209666235
     },
     "tool-tourl.js": {
       "total": 15,
@@ -90157,7 +90157,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746204944049,
+      "backupDB": 1746207944645,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
