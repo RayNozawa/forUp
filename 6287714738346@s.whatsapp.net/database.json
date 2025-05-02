@@ -17581,7 +17581,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746191271561,
+      "activation": 1746195228232,
       "lastBanned": 0
     },
     "6283869785398@s.whatsapp.net": {
@@ -72915,7 +72915,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746193367251,
+      "activation": 1746195231263,
       "lastBanned": 0,
       "warn": null,
       "lastcommand": 1746182375713
@@ -76634,7 +76634,7 @@
       "lastBanned": 0
     },
     "6281227624545@s.whatsapp.net": {
-      "exp": 40,
+      "exp": 45,
       "limit": 499,
       "registered": false,
       "name": "Lii",
@@ -76653,7 +76653,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746162818015
+      "activation": 1746193953220
     },
     "6289505305713@s.whatsapp.net": {
       "exp": 5,
@@ -78736,7 +78736,7 @@
       "activation": 1746113175965
     },
     "6285719183161@s.whatsapp.net": {
-      "exp": 27,
+      "exp": 52,
       "limit": 499,
       "registered": false,
       "name": "ɢʟᴇɴ krkter figuran😴(npc)",
@@ -78754,7 +78754,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746187594262,
+      "activation": 1746194357279,
       "lastBanned": 0
     },
     "6289619588588@s.whatsapp.net": {
@@ -79539,7 +79539,7 @@
       "lastBanned": 0
     },
     "6281391128346@s.whatsapp.net": {
-      "exp": 20,
+      "exp": 83,
       "limit": 499,
       "registered": false,
       "name": "DANZ RF KWN",
@@ -79558,7 +79558,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746156969866
+      "activation": 1746195233761
     },
     "6285175268395@s.whatsapp.net": {
       "exp": 35,
@@ -80583,6 +80583,28 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1746193339571,
+      "lastBanned": 0
+    },
+    "62895384251701@s.whatsapp.net": {
+      "exp": 19,
+      "limit": 499,
+      "registered": false,
+      "name": "Ariss A nya Anomali~",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1746194602722,
       "lastBanned": 0
     }
   },
@@ -83462,7 +83484,7 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6288985834887@s.whatsapp.net": 3113,
+        "6288985834887@s.whatsapp.net": 3342,
         "6285194455126@s.whatsapp.net": 22,
         "6283173608104@s.whatsapp.net": 3,
         "6285770142599@s.whatsapp.net": 111,
@@ -83472,9 +83494,9 @@
         "6285766064200@s.whatsapp.net": 48,
         "6289531047553@s.whatsapp.net": 11,
         "6281548546264@s.whatsapp.net": 204,
-        "6281227624545@s.whatsapp.net": 84,
+        "6281227624545@s.whatsapp.net": 89,
         "919366665173@s.whatsapp.net": 23,
-        "6281391128346@s.whatsapp.net": 15,
+        "6281391128346@s.whatsapp.net": 37,
         "6287761263814@s.whatsapp.net": 15,
         "6282190188876@s.whatsapp.net": 55,
         "6285946889399@s.whatsapp.net": 18,
@@ -83482,7 +83504,7 @@
         "6283160175197@s.whatsapp.net": 9,
         "6285232605769@s.whatsapp.net": 170,
         "6281779913953@s.whatsapp.net": 27,
-        "6283899972294@s.whatsapp.net": 110,
+        "6283899972294@s.whatsapp.net": 116,
         "6289523149696@s.whatsapp.net": 5,
         "6283867247755@s.whatsapp.net": 44,
         "6285656556534@s.whatsapp.net": 11,
@@ -83495,7 +83517,7 @@
         "62895384921769@s.whatsapp.net": 11,
         "6282111264411@s.whatsapp.net": 168,
         "6288289264689@s.whatsapp.net": 39,
-        "6285719183161@s.whatsapp.net": 6,
+        "6285719183161@s.whatsapp.net": 24,
         "6285788220615@s.whatsapp.net": 11,
         "6285961457520@s.whatsapp.net": 16,
         "6285715719484@s.whatsapp.net": 15,
@@ -83505,7 +83527,8 @@
         "6283169050359@s.whatsapp.net": 26,
         "6288210952423@s.whatsapp.net": 18,
         "6281392076995@s.whatsapp.net": 3,
-        "6282159716374@s.whatsapp.net": 30
+        "6282159716374@s.whatsapp.net": 42,
+        "62895384251701@s.whatsapp.net": 5
       },
       "totalChat": 0
     },
@@ -88885,10 +88908,10 @@
       "lastSuccess": 1744851224907
     },
     "downloader-play.js": {
-      "total": 241,
-      "success": 228,
-      "last": 1746193258590,
-      "lastSuccess": 1746193258590
+      "total": 243,
+      "success": 230,
+      "last": 1746194124297,
+      "lastSuccess": 1746194124297
     },
     "main-creator.js": {
       "total": 18,
@@ -88903,10 +88926,10 @@
       "lastSuccess": 1746156892969
     },
     "sticker-sticker.js": {
-      "total": 51,
-      "success": 44,
-      "last": 1746191256968,
-      "lastSuccess": 1746191256968
+      "total": 58,
+      "success": 51,
+      "last": 1746195205787,
+      "lastSuccess": 1746195205787
     },
     "info-tutorial.js": {
       "total": 6,
@@ -89143,10 +89166,10 @@
       "lastSuccess": 1745113491202
     },
     "downloader-tiktok.js": {
-      "total": 25,
-      "success": 22,
-      "last": 1746186235625,
-      "lastSuccess": 1746186235625
+      "total": 30,
+      "success": 27,
+      "last": 1746194357279,
+      "lastSuccess": 1746194357279
     },
     "game-tebaklirik.js": {
       "total": 11,
@@ -89916,7 +89939,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746192023857,
+      "backupDB": 1746193935513,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
