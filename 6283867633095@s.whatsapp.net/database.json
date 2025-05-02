@@ -2272,7 +2272,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746169572853,
+      "activation": 1746175477059,
       "lastBanned": 0,
       "lastcommand": 1745596646652
     },
@@ -2387,8 +2387,8 @@
       "lastBanned": 0
     },
     "6285141661889@s.whatsapp.net": {
-      "exp": 2157,
-      "limit": 159,
+      "exp": 2190,
+      "limit": 139,
       "registered": false,
       "name": "?",
       "age": -1,
@@ -2406,7 +2406,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746169712774,
+      "activation": 1746175543755,
       "lastcommand": 1744796269781
     },
     "6283125871919@s.whatsapp.net": {
@@ -3022,7 +3022,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746172680200,
+      "activation": 1746176292967,
       "lastBanned": 0
     },
     "120363159552753674@newsletter": {
@@ -4306,9 +4306,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1746134781168,
+      "activation": 1746175448683,
       "lastBanned": 0
     },
     "6281346749688@s.whatsapp.net": {
@@ -17176,10 +17176,10 @@
       "lastSuccess": 1741729221851
     },
     "downloader-tiktok.js": {
-      "total": 203,
-      "success": 194,
-      "last": 1746169572410,
-      "lastSuccess": 1746169572410
+      "total": 204,
+      "success": 195,
+      "last": 1746175476762,
+      "lastSuccess": 1746175476762
     },
     "owner-pushkontak.js": {
       "total": 3,
@@ -17883,7 +17883,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746169567819,
+      "backupDB": 1746175472883,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
