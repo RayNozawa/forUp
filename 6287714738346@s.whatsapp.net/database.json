@@ -910,7 +910,7 @@
       "lastcommand": 1745321983691
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 5507,
+      "exp": 5525,
       "limit": 499,
       "registered": false,
       "name": "Rayhan🍟",
@@ -928,7 +928,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746202688026,
+      "activation": 1746206634984,
       "lastBanned": 0,
       "lastcommand": 1746182309588
     },
@@ -17581,7 +17581,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746197142330,
+      "activation": 1746205827527,
       "lastBanned": 0
     },
     "6283869785398@s.whatsapp.net": {
@@ -72897,7 +72897,7 @@
       "lastBanned": 0
     },
     "6287714738346@s.whatsapp.net": {
-      "exp": 672,
+      "exp": 685,
       "limit": 499,
       "registered": false,
       "name": "kontollllll",
@@ -72915,7 +72915,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746202688442,
+      "activation": 1746206635642,
       "lastBanned": 0,
       "warn": null,
       "lastcommand": 1746182375713
@@ -80609,7 +80609,7 @@
       "lastBanned": 0
     },
     "6281211588406@s.whatsapp.net": {
-      "exp": 10,
+      "exp": 17,
       "limit": 499,
       "registered": false,
       "name": "yoi",
@@ -80627,7 +80627,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746196150018,
+      "activation": 1746205382207,
       "lastBanned": 0
     },
     "639300699730@s.whatsapp.net": {
@@ -80715,6 +80715,88 @@
       "activation": 1746200761523,
       "lastBanned": 0,
       "lastcommand": 1746200660304
+    },
+    "229398632513706@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1746205749419
+    },
+    "6283856858455@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 838-5685-8455",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1746205824088
+    },
+    "151346611249218@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1746205824974
+    },
+    "6283801649687@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 838-0164-9687",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1746206097817
     }
   },
   "chats": {
@@ -88851,6 +88933,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "120363356468992489@g.us": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -89119,10 +89222,10 @@
       "lastSuccess": 1746202688026
     },
     "internet-fetch.js": {
-      "total": 17,
-      "success": 17,
-      "last": 1746186117681,
-      "lastSuccess": 1746186117681
+      "total": 18,
+      "success": 18,
+      "last": 1746206634984,
+      "lastSuccess": 1746206634984
     },
     "tool-tourl.js": {
       "total": 15,
@@ -89281,10 +89384,10 @@
       "lastSuccess": 1745113491202
     },
     "downloader-tiktok.js": {
-      "total": 31,
-      "success": 28,
-      "last": 1746198668179,
-      "lastSuccess": 1746198668179
+      "total": 33,
+      "success": 30,
+      "last": 1746205382207,
+      "lastSuccess": 1746205382207
     },
     "game-tebaklirik.js": {
       "total": 11,
@@ -90054,7 +90157,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746202676654,
+      "backupDB": 1746204944049,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
