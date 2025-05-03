@@ -3821,7 +3821,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "activation": 1746220899702,
       "lastBanned": 0
@@ -11307,7 +11307,7 @@
       "activation": 1745838723096
     },
     "6281339576336@s.whatsapp.net": {
-      "exp": 617,
+      "exp": 627,
       "limit": 499,
       "registered": false,
       "name": "Kinra",
@@ -11325,7 +11325,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1745586914977,
+      "activation": 1746226976780,
       "lastBanned": 0
     },
     "219997334950058@lid": {
@@ -12847,6 +12847,48 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "activation": 1746194259948
+    },
+    "6282392413352@s.whatsapp.net": {
+      "exp": 36,
+      "limit": 499,
+      "registered": false,
+      "name": "Berkat Sinaga",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0,
+      "activation": 1746227328272
+    },
+    "211205553676531@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1746230272130
     }
   },
   "chats": {
@@ -15621,15 +15663,16 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6283125871919@s.whatsapp.net": 82,
-        "6281339576336@s.whatsapp.net": 1832,
-        "6285650817317@s.whatsapp.net": 2355,
+        "6283125871919@s.whatsapp.net": 90,
+        "6281339576336@s.whatsapp.net": 1911,
+        "6285650817317@s.whatsapp.net": 2395,
         "6287863719127@s.whatsapp.net": 449,
         "6285732462751@s.whatsapp.net": 84,
         "601112468587@s.whatsapp.net": 33,
-        "6282124572484@s.whatsapp.net": 6,
-        "6282312714737@s.whatsapp.net": 3,
-        "6288742845476@s.whatsapp.net": 2
+        "6282124572484@s.whatsapp.net": 14,
+        "6282312714737@s.whatsapp.net": 11,
+        "6288742845476@s.whatsapp.net": 10,
+        "6282392413352@s.whatsapp.net": 17
       },
       "totalChat": 0
     },
@@ -17992,7 +18035,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746220899115,
+      "backupDB": 1746226826358,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
