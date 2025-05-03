@@ -17581,7 +17581,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746230989950,
+      "activation": 1746231076475,
       "lastBanned": 0
     },
     "6283869785398@s.whatsapp.net": {
@@ -22954,7 +22954,7 @@
       "lastBanned": 0
     },
     "6288983017604@s.whatsapp.net": {
-      "exp": 8,
+      "exp": 35,
       "limit": 499,
       "registered": false,
       "name": "Rodan Ay",
@@ -22972,7 +22972,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746086822467,
+      "activation": 1746231066098,
       "lastBanned": 0
     },
     "6285274582343@s.whatsapp.net": {
@@ -72915,7 +72915,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746230995565,
+      "activation": 1746232204119,
       "lastBanned": 0,
       "warn": null,
       "lastcommand": 1746182375713
@@ -80861,7 +80861,7 @@
       "activation": 1746229689462
     },
     "6288225432435@s.whatsapp.net": {
-      "exp": 57,
+      "exp": 306,
       "limit": 499,
       "registered": false,
       "name": "ROGER | F1 ™",
@@ -80880,7 +80880,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastcommand": 1746230835420,
-      "activation": 1746230995480,
+      "activation": 1746231602475,
       "lastBanned": 0
     }
   },
@@ -83760,7 +83760,7 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6288985834887@s.whatsapp.net": 3522,
+        "6288985834887@s.whatsapp.net": 3533,
         "6285194455126@s.whatsapp.net": 22,
         "6283173608104@s.whatsapp.net": 3,
         "6285770142599@s.whatsapp.net": 111,
@@ -83801,12 +83801,12 @@
         "628895625259@s.whatsapp.net": 15,
         "6282162161146@s.whatsapp.net": 1,
         "6283169050359@s.whatsapp.net": 30,
-        "6288210952423@s.whatsapp.net": 20,
+        "6288210952423@s.whatsapp.net": 22,
         "6281392076995@s.whatsapp.net": 3,
         "6282159716374@s.whatsapp.net": 42,
         "62895384251701@s.whatsapp.net": 5,
         "6281211588406@s.whatsapp.net": 22,
-        "6288225432435@s.whatsapp.net": 1
+        "6288225432435@s.whatsapp.net": 2
       },
       "totalChat": 0
     },
@@ -89041,7 +89041,7 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6288225432435@s.whatsapp.net": 1
+        "6288225432435@s.whatsapp.net": 148
       },
       "totalChat": 0
     }
@@ -89396,9 +89396,9 @@
       "lastSuccess": 1746111216611
     },
     "ai-remini.js": {
-      "total": 56,
+      "total": 57,
       "success": 52,
-      "last": 1746230995480,
+      "last": 1746231207219,
       "lastSuccess": 1746196150018
     },
     "vn-baka.js": {
@@ -89462,10 +89462,10 @@
       "lastSuccess": 1746115151338
     },
     "downloader-ytmp4.js": {
-      "total": 4,
-      "success": 2,
-      "last": 1745500029257,
-      "lastSuccess": 1745500029257
+      "total": 6,
+      "success": 4,
+      "last": 1746231066098,
+      "lastSuccess": 1746231066098
     },
     "youtube-search.js": {
       "total": 2,
@@ -90014,9 +90014,9 @@
       "lastSuccess": 1746193214948
     },
     "tools-hdvid.js": {
-      "total": 4,
+      "total": 12,
       "success": 2,
-      "last": 1746112020768,
+      "last": 1746231597539,
       "lastSuccess": 1746112020768
     },
     "game-tebakgame.js": {
@@ -90247,7 +90247,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746229205569,
+      "backupDB": 1746231039023,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
