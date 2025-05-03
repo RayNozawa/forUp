@@ -2277,7 +2277,7 @@
       "lastcommand": 1745596646652
     },
     "628567105062@s.whatsapp.net": {
-      "exp": 2104,
+      "exp": 2106,
       "limit": 499,
       "registered": false,
       "name": "senzy panutan",
@@ -2296,7 +2296,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746272264811
+      "activation": 1746273063609
     },
     "6285842531334@s.whatsapp.net": {
       "exp": 277,
@@ -2387,7 +2387,7 @@
       "lastBanned": 0
     },
     "6285141661889@s.whatsapp.net": {
-      "exp": 2190,
+      "exp": 2199,
       "limit": 139,
       "registered": false,
       "name": "?",
@@ -2406,7 +2406,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746175543755,
+      "activation": 1746274776064,
       "lastcommand": 1744796269781
     },
     "6283125871919@s.whatsapp.net": {
@@ -3043,7 +3043,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746270196731,
+      "activation": 1746274310262,
       "lastBanned": 0
     },
     "6285692978197@s.whatsapp.net": {
@@ -3823,7 +3823,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746242542829,
+      "activation": 1746273641083,
       "lastBanned": 0
     },
     "6283129349181@s.whatsapp.net": {
@@ -12972,6 +12972,26 @@
       "premiumTime": 0,
       "activation": 1746271351075,
       "lastBanned": 0
+    },
+    "203491893051431@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1746273833004
     }
   },
   "chats": {
@@ -18119,7 +18139,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746271349182,
+      "backupDB": 1746274775878,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
