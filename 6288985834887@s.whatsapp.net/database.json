@@ -92074,7 +92074,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746251944858,
+      "activation": 1746254138494,
       "lastBanned": 0
     },
     "6285232605769@s.whatsapp.net": {
@@ -104612,7 +104612,7 @@
       "lastcommand": 1744901325900
     },
     "6282224305264@s.whatsapp.net": {
-      "exp": 4101,
+      "exp": 4104,
       "limit": 499,
       "registered": false,
       "name": "👀",
@@ -104630,7 +104630,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746245353835,
+      "activation": 1746253780592,
       "lastBanned": 0,
       "lastcommand": 1745155113907
     },
@@ -122707,8 +122707,8 @@
       "activation": 1745783577534
     },
     "6281391128346@s.whatsapp.net": {
-      "exp": 72847,
-      "limit": 738,
+      "exp": 72900,
+      "limit": 688,
       "registered": false,
       "name": "DANZ RF KWN",
       "age": -1,
@@ -122725,7 +122725,7 @@
       "lastmonthly": 1745837111611,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746195231276,
+      "activation": 1746254138489,
       "lastBanned": 0,
       "lastdaily": 1746089362747
     },
@@ -125940,7 +125940,7 @@
         "628388144574@s.whatsapp.net": 95,
         "628818691228@s.whatsapp.net": 5459,
         "62881026445984@s.whatsapp.net": 1525,
-        "628812611040@s.whatsapp.net": 8800,
+        "628812611040@s.whatsapp.net": 8803,
         "6285775650917@s.whatsapp.net": 139,
         "6285366436812@s.whatsapp.net": 653,
         "6289520113982@s.whatsapp.net": 46,
@@ -126168,14 +126168,14 @@
         "6285123396268@s.whatsapp.net": 18,
         "6282272283449@s.whatsapp.net": 28,
         "6282125490312@s.whatsapp.net": 37,
-        "6281779913953@s.whatsapp.net": 89,
+        "6281779913953@s.whatsapp.net": 90,
         "62881011734248@s.whatsapp.net": 17,
-        "6281391128346@s.whatsapp.net": 264,
+        "6281391128346@s.whatsapp.net": 265,
         "6288976614901@s.whatsapp.net": 32,
-        "6283873214217@s.whatsapp.net": 58,
+        "6283873214217@s.whatsapp.net": 64,
         "6289619588588@s.whatsapp.net": 345,
         "6285155227212@s.whatsapp.net": 19,
-        "6285173241812@s.whatsapp.net": 5
+        "6285173241812@s.whatsapp.net": 6
       },
       "totalChat": 0,
       "acc": false,
@@ -144663,10 +144663,10 @@
       "lastSuccess": 1745582013892
     },
     "downloader-play.js": {
-      "total": 3423,
-      "success": 3199,
-      "last": 1746250179859,
-      "lastSuccess": 1746250179859
+      "total": 3425,
+      "success": 3201,
+      "last": 1746254138489,
+      "lastSuccess": 1746254138489
     },
     "downloader-ytvideo.js": {
       "total": 148,
@@ -147599,7 +147599,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746251367657,
+      "backupDB": 1746253695690,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
