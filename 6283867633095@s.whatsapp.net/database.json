@@ -192,7 +192,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 15280,
+      "exp": 15290,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -210,7 +210,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1746290034593,
+      "activation": 1746292086297,
       "lastBanned": 0,
       "lastcommand": 1743166755520,
       "limitprem": 10000,
@@ -13731,7 +13731,7 @@
       "lastBanned": 0
     },
     "6282337928009@s.whatsapp.net": {
-      "exp": 33,
+      "exp": 52,
       "limit": 499,
       "registered": false,
       "name": "Brev Tokufans",
@@ -13749,7 +13749,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746281731717,
+      "activation": 1746292282280,
       "lastBanned": 0
     },
     "62895325629523@s.whatsapp.net": {
@@ -18221,9 +18221,9 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6289520654403@s.whatsapp.net": 8,
-        "6285814862628@s.whatsapp.net": 7,
-        "6282337928009@s.whatsapp.net": 1
+        "6289520654403@s.whatsapp.net": 10,
+        "6285814862628@s.whatsapp.net": 9,
+        "6282337928009@s.whatsapp.net": 4
       },
       "totalChat": 0
     },
@@ -19228,7 +19228,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746289083545,
+      "backupDB": 1746292085337,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
