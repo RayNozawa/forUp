@@ -92077,7 +92077,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746291678820,
+      "activation": 1746295232878,
       "lastBanned": 0
     },
     "6285232605769@s.whatsapp.net": {
@@ -104328,7 +104328,7 @@
       "lastBanned": 0
     },
     "6282241135821@s.whatsapp.net": {
-      "exp": 298,
+      "exp": 312,
       "limit": 499,
       "registered": false,
       "name": "Ta",
@@ -104346,7 +104346,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746280150702,
+      "activation": 1746295423835,
       "lastBanned": 0
     },
     "6281226567528@s.whatsapp.net": {
@@ -116044,8 +116044,8 @@
       "lastcommand": 1745068520800
     },
     "6281779913953@s.whatsapp.net": {
-      "exp": 221,
-      "limit": 399,
+      "exp": 243,
+      "limit": 374,
       "registered": false,
       "name": "𝙯𝙖𝙣𝙣",
       "age": -1,
@@ -116062,7 +116062,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746241318753,
+      "activation": 1746293953459,
       "lastBanned": 0
     },
     "176454990065724@lid": {
@@ -144929,10 +144929,10 @@
       "lastSuccess": 1746284675418
     },
     "downloader-tiktok.js": {
-      "total": 3337,
-      "success": 3059,
-      "last": 1746285179551,
-      "lastSuccess": 1746285179551
+      "total": 3338,
+      "success": 3060,
+      "last": 1746293953459,
+      "lastSuccess": 1746293953459
     },
     "owner-sf.js": {
       "total": 1231,
@@ -145187,10 +145187,10 @@
       "lastSuccess": 1746007319867
     },
     "owner-exec.js": {
-      "total": 531,
-      "success": 531,
-      "last": 1746249020162,
-      "lastSuccess": 1746249020162
+      "total": 532,
+      "success": 532,
+      "last": 1746295232852,
+      "lastSuccess": 1746295232852
     },
     "downloader-ytmp3.js": {
       "total": 241,
@@ -147877,7 +147877,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746291642445,
+      "backupDB": 1746293945584,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
