@@ -72913,9 +72913,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1746239005943,
+      "activation": 1746239336386,
       "lastBanned": 0,
       "warn": null,
       "lastcommand": 1746182375713
@@ -76631,7 +76631,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746238635639,
+      "activation": 1746239545887,
       "lastBanned": 0
     },
     "6281227624545@s.whatsapp.net": {
@@ -80926,6 +80926,28 @@
       "premiumTime": 0,
       "activation": 1746237315846,
       "lastBanned": 0
+    },
+    "6289503732563@s.whatsapp.net": {
+      "exp": 24,
+      "limit": 499,
+      "registered": false,
+      "name": "Dhikzz",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "lastcommand": 1746239334262,
+      "activation": 1746239336180
     }
   },
   "chats": {
@@ -89110,6 +89132,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "6289503732563@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -89132,10 +89175,10 @@
       "lastSuccess": 1746179693850
     },
     "_cek.js": {
-      "total": 1200,
-      "success": 1190,
-      "last": 1746200662161,
-      "lastSuccess": 1746200662161
+      "total": 1201,
+      "success": 1191,
+      "last": 1746239336180,
+      "lastSuccess": 1746239336180
     },
     "group-chatoff.js": {
       "total": 34,
@@ -90313,7 +90356,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746237314218,
+      "backupDB": 1746239334260,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
