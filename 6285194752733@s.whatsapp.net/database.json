@@ -31054,7 +31054,7 @@
       "activation": 1746277624517
     },
     "6282325417768@s.whatsapp.net": {
-      "exp": 445,
+      "exp": 453,
       "limit": 499,
       "registered": false,
       "name": "Arjuna『𝐓𝐑𝐒』",
@@ -31073,7 +31073,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746239871439
+      "activation": 1746298814005
     },
     "6285707717530@s.whatsapp.net": {
       "exp": 465,
@@ -148894,7 +148894,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746294617646,
+      "backupDB": 1746298813748,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
