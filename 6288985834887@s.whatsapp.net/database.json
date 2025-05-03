@@ -45,8 +45,8 @@
       "activation": 1745613439624
     },
     "6285786829931@s.whatsapp.net": {
-      "exp": 67619,
-      "limit": 419,
+      "exp": 67638,
+      "limit": 394,
       "registered": false,
       "name": "❤‍🔥❤‍🩹🚀",
       "age": -1,
@@ -61,12 +61,12 @@
       "WarnReason": "",
       "lastweekly": 1745334434682,
       "lastmonthly": 1745334434682,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1732522872178,
       "lastdaily": 1745334434682,
-      "activation": 1746258000011
+      "activation": 1746289103361
     },
     "6283143501759@s.whatsapp.net": {
       "exp": 699,
@@ -1953,8 +1953,8 @@
       "lastdaily": 1735722703120
     },
     "628812611040@s.whatsapp.net": {
-      "exp": 217528,
-      "limit": 2713,
+      "exp": 217555,
+      "limit": 2688,
       "registered": false,
       "name": "𝙃𝙢𝙢𝙢",
       "age": -1,
@@ -1975,7 +1975,7 @@
       "lastdaily": 1746282802579,
       "lastcommand": 1746282740926,
       "lastwork": 1746282807399,
-      "activation": 1746282807556
+      "activation": 1746289187690
     },
     "6283863906541@s.whatsapp.net": {
       "exp": 702,
@@ -3452,7 +3452,7 @@
       "lastBanned": 0
     },
     "6282182341366@s.whatsapp.net": {
-      "exp": 65928,
+      "exp": 65953,
       "limit": 284,
       "registered": false,
       "name": "delfiqa",
@@ -3473,7 +3473,7 @@
       "lastBanned": 0,
       "lastcommand": 1744976665406,
       "lastdaily": 1743835392840,
-      "activation": 1744978901426
+      "activation": 1746290523271
     },
     "6285603654413@s.whatsapp.net": {
       "exp": 10176,
@@ -92077,7 +92077,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746286936004,
+      "activation": 1746290523348,
       "lastBanned": 0
     },
     "6285232605769@s.whatsapp.net": {
@@ -117716,7 +117716,7 @@
       "activation": 1745224180864
     },
     "6283161359534@s.whatsapp.net": {
-      "exp": 483,
+      "exp": 494,
       "limit": 199,
       "registered": false,
       "name": "alfaa",
@@ -117734,7 +117734,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746237090264,
+      "activation": 1746289305019,
       "lastBanned": 0
     },
     "6285960637327@s.whatsapp.net": {
@@ -125534,6 +125534,46 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1746282294465
+    },
+    "5021353672798@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1746290307831
+    },
+    "36219828363331@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1746290441835
     }
   },
   "chats": {
@@ -144880,10 +144920,10 @@
       "lastSuccess": 1745582013892
     },
     "downloader-play.js": {
-      "total": 3459,
-      "success": 3234,
-      "last": 1746286450611,
-      "lastSuccess": 1746286450611
+      "total": 3460,
+      "success": 3235,
+      "last": 1746289187690,
+      "lastSuccess": 1746289187690
     },
     "downloader-ytvideo.js": {
       "total": 148,
@@ -145012,10 +145052,10 @@
       "lastSuccess": 1735826605203
     },
     "ai-remini.js": {
-      "total": 1832,
-      "success": 1726,
-      "last": 1746219538898,
-      "lastSuccess": 1746219538898
+      "total": 1833,
+      "success": 1727,
+      "last": 1746289103361,
+      "lastSuccess": 1746289103361
     },
     "game-tebakbendera.js": {
       "total": 482,
@@ -145618,9 +145658,9 @@
       "lastSuccess": 1746029329355
     },
     "main-menfes.js": {
-      "total": 159,
+      "total": 160,
       "success": 119,
-      "last": 1743692472942,
+      "last": 1746290523271,
       "lastSuccess": 1743692472942
     },
     "main-afk_.js": {
@@ -147816,7 +147856,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746286320731,
+      "backupDB": 1746289076011,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
