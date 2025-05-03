@@ -3452,7 +3452,7 @@
       "lastBanned": 0
     },
     "6282182341366@s.whatsapp.net": {
-      "exp": 65953,
+      "exp": 66005,
       "limit": 284,
       "registered": false,
       "name": "delfiqa",
@@ -3473,7 +3473,7 @@
       "lastBanned": 0,
       "lastcommand": 1744976665406,
       "lastdaily": 1743835392840,
-      "activation": 1746290523271
+      "activation": 1746291678731
     },
     "6285603654413@s.whatsapp.net": {
       "exp": 10176,
@@ -92077,7 +92077,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746290523348,
+      "activation": 1746291678820,
       "lastBanned": 0
     },
     "6285232605769@s.whatsapp.net": {
@@ -144898,6 +144898,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "6285381908899@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -145658,10 +145679,10 @@
       "lastSuccess": 1746029329355
     },
     "main-menfes.js": {
-      "total": 160,
-      "success": 119,
-      "last": 1746290523271,
-      "lastSuccess": 1743692472942
+      "total": 162,
+      "success": 120,
+      "last": 1746291678731,
+      "lastSuccess": 1746291678731
     },
     "main-afk_.js": {
       "total": 124,
@@ -147856,7 +147877,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746289076011,
+      "backupDB": 1746291642445,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
