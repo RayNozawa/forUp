@@ -26490,7 +26490,7 @@
       "activation": 1743484109821
     },
     "62895394913500@s.whatsapp.net": {
-      "exp": 92,
+      "exp": 122,
       "limit": 499,
       "registered": false,
       "name": "𝘿𝙖𝙧𝙧𝙮𝙡𝖝1362",
@@ -26506,9 +26506,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1746311451162,
+      "activation": 1746315258666,
       "lastBanned": 0,
       "lastcommand": 1746229088867
     },
@@ -27469,7 +27469,7 @@
       "lastBanned": 0
     },
     "62895352982019@s.whatsapp.net": {
-      "exp": 858,
+      "exp": 861,
       "limit": 394,
       "registered": false,
       "name": "Sarno",
@@ -27488,7 +27488,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746309954500,
+      "activation": 1746314735555,
       "lastcommand": 1745816672662
     },
     "6285643130260@s.whatsapp.net": {
@@ -28811,7 +28811,7 @@
       "lastcommand": 1743506261477
     },
     "6281327032362@s.whatsapp.net": {
-      "exp": 120254,
+      "exp": 120261,
       "limit": 944,
       "registered": false,
       "name": "Gaaaa...🚂",
@@ -28830,7 +28830,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746278211880,
+      "activation": 1746315285510,
       "lastcommand": 1746172357310,
       "lastdaily": 1746105796963
     },
@@ -134877,8 +134877,8 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6281327032362@s.whatsapp.net": 36556,
-        "6281548546264@s.whatsapp.net": 25962
+        "6281327032362@s.whatsapp.net": 36587,
+        "6281548546264@s.whatsapp.net": 25996
       },
       "totalChat": 0
     },
@@ -135393,21 +135393,21 @@
       "expired": 0,
       "total": {
         "6287721528030@s.whatsapp.net": 7446,
-        "6287741310540@s.whatsapp.net": 1571,
-        "6285786552115@s.whatsapp.net": 49453,
+        "6287741310540@s.whatsapp.net": 1572,
+        "6285786552115@s.whatsapp.net": 49458,
         "6285888189171@s.whatsapp.net": 36,
         "62895607460203@s.whatsapp.net": 179,
-        "62882003790963@s.whatsapp.net": 14013,
+        "62882003790963@s.whatsapp.net": 14020,
         "6288985424438@s.whatsapp.net": 22085,
         "62895706262900@s.whatsapp.net": 100,
-        "6285707717530@s.whatsapp.net": 1146,
+        "6285707717530@s.whatsapp.net": 1149,
         "62882003023723@s.whatsapp.net": 4482,
         "6281327032362@s.whatsapp.net": 191,
         "62895352982019@s.whatsapp.net": 2567,
         "6288977026400@s.whatsapp.net": 6284,
         "6282149859018@s.whatsapp.net": 803,
         "6283865484642@s.whatsapp.net": 2111,
-        "6288227751683@s.whatsapp.net": 19433,
+        "6288227751683@s.whatsapp.net": 19440,
         "6285701889248@s.whatsapp.net": 4800,
         "6285883337194@s.whatsapp.net": 1229,
         "6282147266834@s.whatsapp.net": 727,
@@ -135440,7 +135440,7 @@
         "6281313145778@s.whatsapp.net": 166,
         "6287782892010@s.whatsapp.net": 7135,
         "628884158567@s.whatsapp.net": 1412,
-        "6285219543625@s.whatsapp.net": 9405,
+        "6285219543625@s.whatsapp.net": 9407,
         "628812795096@s.whatsapp.net": 301,
         "6285894636047@s.whatsapp.net": 42,
         "6281259965252@s.whatsapp.net": 1194,
@@ -135454,7 +135454,7 @@
         "6288293778980@s.whatsapp.net": 36,
         "6282336724174@s.whatsapp.net": 31,
         "6283896568809@s.whatsapp.net": 102,
-        "62882005367978@s.whatsapp.net": 8571,
+        "62882005367978@s.whatsapp.net": 8572,
         "62895383268897@s.whatsapp.net": 245,
         "6285141179740@s.whatsapp.net": 406,
         "6285804706168@s.whatsapp.net": 1572,
@@ -135486,7 +135486,7 @@
         "6285335130932@s.whatsapp.net": 61,
         "6285180788617@s.whatsapp.net": 4648,
         "6282249985703@s.whatsapp.net": 934,
-        "6281380974855@s.whatsapp.net": 346,
+        "6281380974855@s.whatsapp.net": 347,
         "6283819440314@s.whatsapp.net": 576,
         "6289510319135@s.whatsapp.net": 2872,
         "62881011322567@s.whatsapp.net": 158,
@@ -148894,7 +148894,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746313085376,
+      "backupDB": 1746315141216,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
