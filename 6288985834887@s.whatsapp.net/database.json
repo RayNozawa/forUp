@@ -19772,7 +19772,7 @@
       "lastBanned": 0
     },
     "62882006212609@s.whatsapp.net": {
-      "exp": 103340,
+      "exp": 103378,
       "limit": 100,
       "registered": false,
       "name": "Aljndn",
@@ -19795,7 +19795,7 @@
       "lastdaily": 1744202509518,
       "lastwork": 1735207824775,
       "delay": 1735702700559,
-      "activation": 1746095536478
+      "activation": 1746378198834
     },
     "212684484242@s.whatsapp.net": {
       "exp": 389,
@@ -92077,7 +92077,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746375795804,
+      "activation": 1746378197798,
       "lastBanned": 0
     },
     "6285232605769@s.whatsapp.net": {
@@ -104221,7 +104221,7 @@
       "lastBanned": 0
     },
     "6282327165975@s.whatsapp.net": {
-      "exp": 71218,
+      "exp": 71232,
       "limit": 1199,
       "registered": false,
       "name": "111",
@@ -104239,7 +104239,7 @@
       "lastmonthly": 1744974871769,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746375560004,
+      "activation": 1746377436324,
       "lastBanned": 0,
       "lastdaily": 1745074863563
     },
@@ -104773,7 +104773,7 @@
       "lastBanned": 0
     },
     "6288224157152@s.whatsapp.net": {
-      "exp": 131934,
+      "exp": 131938,
       "limit": 2532,
       "registered": false,
       "name": "ꦣꦶꦪꦤ꧀ꦝꦼꦮ꦳ꦶꦄꦁꦒꦿꦻꦤꦶ",
@@ -104791,7 +104791,7 @@
       "lastmonthly": 1744688008006,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746116208865,
+      "activation": 1746376896473,
       "lastBanned": 0,
       "lastdaily": 1745124860028
     },
@@ -111436,7 +111436,7 @@
       "lastBanned": 0
     },
     "6283148471325@s.whatsapp.net": {
-      "exp": 71142,
+      "exp": 71152,
       "limit": 949,
       "registered": false,
       "name": "pi",
@@ -111455,7 +111455,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746344746991,
+      "activation": 1746376414015,
       "lastdaily": 1745072355760,
       "lastcommand": 1744901759439
     },
@@ -145395,9 +145395,9 @@
       "lastSuccess": 1746337879676
     },
     "downloader-tiktok.js": {
-      "total": 3361,
+      "total": 3362,
       "success": 3076,
-      "last": 1746372866495,
+      "last": 1746378197729,
       "lastSuccess": 1746372866495
     },
     "owner-sf.js": {
@@ -148343,7 +148343,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746374567052,
+      "backupDB": 1746376413760,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
