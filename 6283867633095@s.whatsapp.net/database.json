@@ -2254,7 +2254,7 @@
       "activation": 1743140950163
     },
     "6282131329196@s.whatsapp.net": {
-      "exp": 1842,
+      "exp": 1865,
       "limit": 499,
       "registered": false,
       "name": "buku",
@@ -2272,7 +2272,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746355220579,
+      "activation": 1746363505572,
       "lastBanned": 0,
       "lastcommand": 1746355211230
     },
@@ -3043,7 +3043,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746361795661,
+      "activation": 1746363362678,
       "lastBanned": 0
     },
     "6285692978197@s.whatsapp.net": {
@@ -16461,14 +16461,14 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285850323258@s.whatsapp.net": 16,
-        "6289696600015@s.whatsapp.net": 14,
-        "6285829742864@s.whatsapp.net": 12,
-        "6285101164998@s.whatsapp.net": 12,
-        "6282229553626@s.whatsapp.net": 9,
-        "6281933415203@s.whatsapp.net": 7,
-        "6285792314722@s.whatsapp.net": 7,
-        "628815083325@s.whatsapp.net": 3
+        "6285850323258@s.whatsapp.net": 17,
+        "6289696600015@s.whatsapp.net": 15,
+        "6285829742864@s.whatsapp.net": 13,
+        "6285101164998@s.whatsapp.net": 13,
+        "6282229553626@s.whatsapp.net": 10,
+        "6281933415203@s.whatsapp.net": 8,
+        "6285792314722@s.whatsapp.net": 8,
+        "628815083325@s.whatsapp.net": 5
       },
       "totalChat": 0
     },
@@ -18364,7 +18364,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746358167068,
+      "backupDB": 1746362557281,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
