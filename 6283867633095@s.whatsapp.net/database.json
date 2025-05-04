@@ -2321,7 +2321,7 @@
       "activation": 1745974419421
     },
     "6282291130557@s.whatsapp.net": {
-      "exp": 2601,
+      "exp": 2614,
       "limit": 499,
       "registered": false,
       "name": "RAS STORE",
@@ -2339,7 +2339,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746312350187,
+      "activation": 1746316340476,
       "lastBanned": 0
     },
     "628385825266@s.whatsapp.net": {
@@ -2630,7 +2630,7 @@
       "lastBanned": 0
     },
     "6283848931442@s.whatsapp.net": {
-      "exp": 258,
+      "exp": 260,
       "limit": 499,
       "registered": false,
       "name": "FARHANᵀᴼᴿᴱᵀᴼ⁰⁹⁷",
@@ -2649,7 +2649,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746251906811
+      "activation": 1746317879974
     },
     "6285739102825@s.whatsapp.net": {
       "exp": 142,
@@ -13053,6 +13053,26 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1746312049553
+    },
+    "21835747962889@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1746316653264
     }
   },
   "chats": {
@@ -18200,7 +18220,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746312333358,
+      "backupDB": 1746316327268,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
