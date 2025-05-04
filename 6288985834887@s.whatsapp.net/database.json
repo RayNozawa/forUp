@@ -92077,7 +92077,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746390521836,
+      "activation": 1746392692392,
       "lastBanned": 0
     },
     "6285232605769@s.whatsapp.net": {
@@ -104175,7 +104175,7 @@
       "activation": 1744635357875
     },
     "6288740019730@s.whatsapp.net": {
-      "exp": 5029,
+      "exp": 5053,
       "limit": 499,
       "registered": false,
       "name": "Arn",
@@ -104193,7 +104193,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746365501457,
+      "activation": 1746392497449,
       "lastBanned": 0,
       "warn": 3,
       "lastcommand": 1745715190860
@@ -115763,7 +115763,7 @@
       "activation": 1746379766509
     },
     "6289514076890@s.whatsapp.net": {
-      "exp": 281,
+      "exp": 285,
       "limit": 499,
       "registered": false,
       "name": "Rinzz Slowhand.",
@@ -115782,7 +115782,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746023823285
+      "activation": 1746392605594
     },
     "139724094189639@lid": {
       "exp": 0,
@@ -122972,8 +122972,8 @@
       "activation": 1746332562156
     },
     "6283871598810@s.whatsapp.net": {
-      "exp": 61503,
-      "limit": 289,
+      "exp": 61521,
+      "limit": 259,
       "registered": false,
       "name": "Lupin Fourth",
       "age": -1,
@@ -122991,7 +122991,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastcommand": 1746381104147,
-      "activation": 1746390538569,
+      "activation": 1746392692378,
       "lastBanned": 0,
       "lastdaily": 1746172607469
     },
@@ -144228,11 +144228,11 @@
       "expired": 0,
       "total": {
         "62895617511212@s.whatsapp.net": 9299,
-        "6288740019730@s.whatsapp.net": 17086,
+        "6288740019730@s.whatsapp.net": 17102,
         "62881012867354@s.whatsapp.net": 90,
-        "6289660962424@s.whatsapp.net": 12346,
+        "6289660962424@s.whatsapp.net": 12356,
         "6283870917771@s.whatsapp.net": 7,
-        "6283189996033@s.whatsapp.net": 14334,
+        "6283189996033@s.whatsapp.net": 14346,
         "6282265345207@s.whatsapp.net": 1342,
         "6288295692605@s.whatsapp.net": 7995,
         "6287816570410@s.whatsapp.net": 691,
@@ -144240,7 +144240,7 @@
         "6285755682686@s.whatsapp.net": 797,
         "6285175402083@s.whatsapp.net": 1058,
         "6289514076890@s.whatsapp.net": 745,
-        "6283165508922@s.whatsapp.net": 5255,
+        "6283165508922@s.whatsapp.net": 5279,
         "6283867044915@s.whatsapp.net": 1314,
         "6281520398168@s.whatsapp.net": 8854,
         "62895352017103@s.whatsapp.net": 356,
@@ -144258,7 +144258,7 @@
         "6282360509190@s.whatsapp.net": 23,
         "6289506809355@s.whatsapp.net": 68,
         "6285150818771@s.whatsapp.net": 19,
-        "6282192302420@s.whatsapp.net": 504
+        "6282192302420@s.whatsapp.net": 544
       },
       "totalChat": 0
     },
@@ -148238,10 +148238,10 @@
       "lastSuccess": 1744901761105
     },
     "downloader-ytmp4.js": {
-      "total": 52,
-      "success": 44,
-      "last": 1746390477624,
-      "lastSuccess": 1746390477624
+      "total": 53,
+      "success": 45,
+      "last": 1746392692378,
+      "lastSuccess": 1746392692378
     },
     "ai-allbard.js": {
       "total": 4,
@@ -148426,7 +148426,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746390467425,
+      "backupDB": 1746392450470,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
