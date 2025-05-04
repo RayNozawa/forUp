@@ -92077,7 +92077,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746378243354,
+      "activation": 1746381105797,
       "lastBanned": 0
     },
     "6285232605769@s.whatsapp.net": {
@@ -104221,7 +104221,7 @@
       "lastBanned": 0
     },
     "6282327165975@s.whatsapp.net": {
-      "exp": 71273,
+      "exp": 71290,
       "limit": 1199,
       "registered": false,
       "name": "111",
@@ -104239,7 +104239,7 @@
       "lastmonthly": 1744974871769,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746379838881,
+      "activation": 1746382863975,
       "lastBanned": 0,
       "lastdaily": 1745074863563
     },
@@ -122972,7 +122972,7 @@
       "activation": 1746332562156
     },
     "6283871598810@s.whatsapp.net": {
-      "exp": 61370,
+      "exp": 61388,
       "limit": 369,
       "registered": false,
       "name": "Lupin Fourth",
@@ -122988,10 +122988,10 @@
       "WarnReason": "",
       "lastweekly": 1746172607469,
       "lastmonthly": 1746172607469,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "lastcommand": 1746363410942,
-      "activation": 1746367371916,
+      "lastcommand": 1746381104147,
+      "activation": 1746381105790,
       "lastBanned": 0,
       "lastdaily": 1746172607469
     },
@@ -145563,10 +145563,10 @@
       "lastSuccess": 1745225672113
     },
     "_cek.js": {
-      "total": 1401,
-      "success": 1372,
-      "last": 1746363412362,
-      "lastSuccess": 1746363412362
+      "total": 1402,
+      "success": 1373,
+      "last": 1746381105790,
+      "lastSuccess": 1746381105790
     },
     "enable.js": {
       "total": 177,
@@ -148343,7 +148343,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746378233057,
+      "backupDB": 1746381104147,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
