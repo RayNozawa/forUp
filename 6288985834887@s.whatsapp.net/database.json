@@ -92077,7 +92077,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746320073962,
+      "activation": 1746321002005,
       "lastBanned": 0
     },
     "6285232605769@s.whatsapp.net": {
@@ -124429,7 +124429,7 @@
       "activation": 1746063686793
     },
     "6282328309433@s.whatsapp.net": {
-      "exp": 46983,
+      "exp": 47009,
       "limit": 104,
       "registered": false,
       "name": "𝕬𝖓𝖆𝖒𝕭𝖔𝖑𝖑💣💥",
@@ -124445,13 +124445,13 @@
       "WarnReason": "",
       "lastweekly": 1746089630507,
       "lastmonthly": 1746089630507,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1746286935539,
+      "activation": 1746321001999,
       "lastBanned": 0,
       "lastwork": 1746166289390,
       "lastdaily": 1746286935539,
-      "lastcommand": 1746166294669
+      "lastcommand": 1746320999879
     },
     "62895328979141@s.whatsapp.net": {
       "exp": 18,
@@ -145268,10 +145268,10 @@
       "lastSuccess": 1745225672113
     },
     "_cek.js": {
-      "total": 1396,
-      "success": 1367,
-      "last": 1746314340339,
-      "lastSuccess": 1746314340339
+      "total": 1397,
+      "success": 1368,
+      "last": 1746321001999,
+      "lastSuccess": 1746321001999
     },
     "enable.js": {
       "total": 177,
@@ -148048,7 +148048,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746318988820,
+      "backupDB": 1746320999878,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
