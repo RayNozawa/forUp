@@ -2630,7 +2630,7 @@
       "lastBanned": 0
     },
     "6283848931442@s.whatsapp.net": {
-      "exp": 269,
+      "exp": 277,
       "limit": 499,
       "registered": false,
       "name": "FARHANᵀᴼᴿᴱᵀᴼ⁰⁹⁷",
@@ -2649,7 +2649,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746346354537
+      "activation": 1746348286423
     },
     "6285739102825@s.whatsapp.net": {
       "exp": 142,
@@ -18323,7 +18323,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746345683642,
+      "backupDB": 1746348286093,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
