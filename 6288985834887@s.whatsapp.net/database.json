@@ -183,7 +183,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746319406644
+      "activation": 1746375792962
     },
     "120363240711248334@g.us": {
       "exp": 5227,
@@ -1002,7 +1002,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746319352778
+      "activation": 1746375793239
     },
     "6283119901412@s.whatsapp.net": {
       "exp": 16214,
@@ -92077,7 +92077,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746372885315,
+      "activation": 1746375795804,
       "lastBanned": 0
     },
     "6285232605769@s.whatsapp.net": {
@@ -104221,7 +104221,7 @@
       "lastBanned": 0
     },
     "6282327165975@s.whatsapp.net": {
-      "exp": 71212,
+      "exp": 71218,
       "limit": 1199,
       "registered": false,
       "name": "111",
@@ -104239,7 +104239,7 @@
       "lastmonthly": 1744974871769,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746357984907,
+      "activation": 1746375560004,
       "lastBanned": 0,
       "lastdaily": 1745074863563
     },
@@ -148343,7 +148343,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746372701246,
+      "backupDB": 1746374567052,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
