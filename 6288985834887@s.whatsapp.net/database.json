@@ -91388,7 +91388,7 @@
       "lastcommand": 1740237242905
     },
     "6285173241812@s.whatsapp.net": {
-      "exp": 124337,
+      "exp": 124355,
       "limit": 579,
       "registered": false,
       "name": "Too | 🔰9201🔰",
@@ -91406,9 +91406,9 @@
       "lastmonthly": 1743859621031,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746249417158,
+      "activation": 1746315187963,
       "lastBanned": 0,
-      "lastcommand": 1746249396120,
+      "lastcommand": 1746315181425,
       "lastwork": 1742609861015,
       "lastdaily": 1744201875924
     },
@@ -92077,7 +92077,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746312793707,
+      "activation": 1746315912954,
       "lastBanned": 0
     },
     "6285232605769@s.whatsapp.net": {
@@ -104190,7 +104190,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "activation": 1746282288992,
       "lastBanned": 0,
@@ -116086,8 +116086,8 @@
       "activation": 1745068509982
     },
     "62882019642909@s.whatsapp.net": {
-      "exp": 120,
-      "limit": 479,
+      "exp": 587,
+      "limit": 414,
       "registered": false,
       "name": "`ciyy +1397🚩",
       "age": -1,
@@ -116105,7 +116105,8 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1745523685108
+      "activation": 1746315912265,
+      "lastcommand": 1746314408531
     },
     "47228047634520@lid": {
       "exp": 0,
@@ -145245,10 +145246,10 @@
       "lastSuccess": 1745225672113
     },
     "_cek.js": {
-      "total": 1395,
-      "success": 1366,
-      "last": 1746282742543,
-      "lastSuccess": 1746282742543
+      "total": 1396,
+      "success": 1367,
+      "last": 1746314340339,
+      "lastSuccess": 1746314340339
     },
     "enable.js": {
       "total": 177,
@@ -145815,10 +145816,10 @@
       "lastSuccess": 0
     },
     "tool-tomp3.js": {
-      "total": 289,
-      "success": 289,
-      "last": 1746282795799,
-      "lastSuccess": 1746282795799
+      "total": 291,
+      "success": 291,
+      "last": 1746314592663,
+      "lastSuccess": 1746314592663
     },
     "vn-bot.js": {
       "total": 78,
@@ -145845,9 +145846,9 @@
       "lastSuccess": 1734275720720
     },
     "info-tutorial.js": {
-      "total": 38,
+      "total": 39,
       "success": 38,
-      "last": 1745418263281,
+      "last": 1746314447041,
       "lastSuccess": 1745418263281
     },
     "game-tebakgambar.js": {
@@ -145995,10 +145996,10 @@
       "lastSuccess": 1746046213720
     },
     "sticker-all.js": {
-      "total": 2087,
-      "success": 2017,
-      "last": 1746276906938,
-      "lastSuccess": 1746276906938
+      "total": 2100,
+      "success": 2030,
+      "last": 1746315912265,
+      "lastSuccess": 1746315912265
     },
     "game-nebang.js": {
       "total": 172,
@@ -147519,10 +147520,10 @@
       "lastSuccess": 1746083025100
     },
     "_main-menu.js": {
-      "total": 418,
-      "success": 414,
-      "last": 1746298166931,
-      "lastSuccess": 1746298166931
+      "total": 420,
+      "success": 416,
+      "last": 1746315187963,
+      "lastSuccess": 1746315187963
     },
     "_main-allmenu.js": {
       "total": 101,
@@ -148025,7 +148026,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746310236528,
+      "backupDB": 1746314338487,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
