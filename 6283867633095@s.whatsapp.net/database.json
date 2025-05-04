@@ -2299,7 +2299,7 @@
       "activation": 1746343858257
     },
     "6285842531334@s.whatsapp.net": {
-      "exp": 277,
+      "exp": 284,
       "limit": 499,
       "registered": false,
       "name": "Alvito_",
@@ -2318,7 +2318,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1745974419421
+      "activation": 1746349903418
     },
     "6282291130557@s.whatsapp.net": {
       "exp": 2672,
@@ -3022,7 +3022,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746345557927,
+      "activation": 1746349852786,
       "lastBanned": 0
     },
     "120363159552753674@newsletter": {
@@ -13175,6 +13175,26 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1746344120731
+    },
+    "261409527070956@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1746349333737
     }
   },
   "chats": {
