@@ -26490,7 +26490,7 @@
       "activation": 1743484109821
     },
     "62895394913500@s.whatsapp.net": {
-      "exp": 978,
+      "exp": 1043,
       "limit": 499,
       "registered": false,
       "name": "𝘿𝙖𝙧𝙧𝙮𝙡𝖝1362",
@@ -26506,14 +26506,14 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1746341050086,
+      "activation": 1746344930739,
       "lastBanned": 0,
       "lastcommand": 1746229088867
     },
     "6285338686383@s.whatsapp.net": {
-      "exp": 68861,
+      "exp": 68904,
       "limit": 499,
       "registered": false,
       "name": "17 ᥆k𝗍᥆ᑲᥱr 2011",
@@ -26531,7 +26531,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746335255967,
+      "activation": 1746344940930,
       "lastBanned": 0,
       "lastcommand": 1746275302658
     },
@@ -27249,7 +27249,7 @@
       "activation": 1743488204569
     },
     "6285921501882@s.whatsapp.net": {
-      "exp": 1844,
+      "exp": 1848,
       "limit": 24,
       "registered": false,
       "name": ".",
@@ -27267,7 +27267,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746281777694,
+      "activation": 1746344994556,
       "lastBanned": 0,
       "lastcommand": 1746004597371
     },
@@ -113720,8 +113720,8 @@
       "lastBanned": 0
     },
     "6281563332628@s.whatsapp.net": {
-      "exp": 395,
-      "limit": 494,
+      "exp": 459,
+      "limit": 489,
       "registered": false,
       "name": "Julfa",
       "age": -1,
@@ -113739,7 +113739,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1745316388210
+      "activation": 1746343524652
     },
     "120363301227889537@newsletter": {
       "exp": 803,
@@ -147994,10 +147994,10 @@
       "lastSuccess": 1746154465398
     },
     "sticker-all.js": {
-      "total": 707,
-      "success": 696,
-      "last": 1746324553356,
-      "lastSuccess": 1746324553356
+      "total": 708,
+      "success": 697,
+      "last": 1746343516059,
+      "lastSuccess": 1746343516059
     },
     "downloader-yt2.js": {
       "total": 8,
@@ -149042,7 +149042,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746341682300,
+      "backupDB": 1746343508037,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
