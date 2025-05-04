@@ -3155,8 +3155,8 @@
       "lastBanned": 0
     },
     "6285877044241@s.whatsapp.net": {
-      "exp": 111253,
-      "limit": 1669,
+      "exp": 111303,
+      "limit": 1644,
       "registered": false,
       "name": "⛓️CAINEMATES⛓️",
       "age": -1,
@@ -3174,9 +3174,9 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1746063662784,
+      "lastcommand": 1746385659640,
       "lastdaily": 1743425886624,
-      "activation": 1746385342484
+      "activation": 1746385670825
     },
     "6282220634490@s.whatsapp.net": {
       "exp": 13021,
@@ -92077,7 +92077,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746384115606,
+      "activation": 1746386894079,
       "lastBanned": 0
     },
     "6285232605769@s.whatsapp.net": {
@@ -126014,6 +126014,48 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1746364633976
+    },
+    "6283125979717@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 831-2597-9717",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1746386891850,
+      "lastBanned": 0
+    },
+    "138612117131282@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1746386894076
     }
   },
   "chats": {
@@ -145395,10 +145437,10 @@
       "lastSuccess": 1746337879676
     },
     "downloader-tiktok.js": {
-      "total": 3363,
-      "success": 3077,
-      "last": 1746378243347,
-      "lastSuccess": 1746378243347
+      "total": 3364,
+      "success": 3078,
+      "last": 1746385670825,
+      "lastSuccess": 1746385670825
     },
     "owner-sf.js": {
       "total": 1231,
@@ -145563,10 +145605,10 @@
       "lastSuccess": 1745225672113
     },
     "_cek.js": {
-      "total": 1402,
-      "success": 1373,
-      "last": 1746381105790,
-      "lastSuccess": 1746381105790
+      "total": 1403,
+      "success": 1374,
+      "last": 1746385663041,
+      "lastSuccess": 1746385663041
     },
     "enable.js": {
       "total": 177,
@@ -148343,7 +148385,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746383631115,
+      "backupDB": 1746385659640,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
