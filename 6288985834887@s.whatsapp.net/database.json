@@ -19772,8 +19772,8 @@
       "lastBanned": 0
     },
     "62882006212609@s.whatsapp.net": {
-      "exp": 103378,
-      "limit": 100,
+      "exp": 103407,
+      "limit": 75,
       "registered": false,
       "name": "Aljndn",
       "age": -1,
@@ -19795,7 +19795,7 @@
       "lastdaily": 1744202509518,
       "lastwork": 1735207824775,
       "delay": 1735702700559,
-      "activation": 1746378198834
+      "activation": 1746378243347
     },
     "212684484242@s.whatsapp.net": {
       "exp": 389,
@@ -92077,7 +92077,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746378197798,
+      "activation": 1746378243354,
       "lastBanned": 0
     },
     "6285232605769@s.whatsapp.net": {
@@ -104221,7 +104221,7 @@
       "lastBanned": 0
     },
     "6282327165975@s.whatsapp.net": {
-      "exp": 71232,
+      "exp": 71273,
       "limit": 1199,
       "registered": false,
       "name": "111",
@@ -104239,7 +104239,7 @@
       "lastmonthly": 1744974871769,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746377436324,
+      "activation": 1746379838881,
       "lastBanned": 0,
       "lastdaily": 1745074863563
     },
@@ -112197,7 +112197,7 @@
       "activation": 1744901254691
     },
     "6287816570410@s.whatsapp.net": {
-      "exp": 1142,
+      "exp": 1144,
       "limit": 494,
       "registered": false,
       "name": "阿拉拉水族",
@@ -112216,7 +112216,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746361100090,
+      "activation": 1746378959383,
       "lastcommand": 1745416968761
     },
     "6281400716824@s.whatsapp.net": {
@@ -115741,7 +115741,7 @@
       "activation": 1745033258741
     },
     "62895369753050@s.whatsapp.net": {
-      "exp": 102,
+      "exp": 129,
       "limit": 499,
       "registered": false,
       "name": "ᯓ𝄞༊•Kirby The Undead氏",
@@ -115760,7 +115760,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746343180750
+      "activation": 1746379766509
     },
     "6289514076890@s.whatsapp.net": {
       "exp": 281,
@@ -145395,10 +145395,10 @@
       "lastSuccess": 1746337879676
     },
     "downloader-tiktok.js": {
-      "total": 3362,
-      "success": 3076,
-      "last": 1746378197729,
-      "lastSuccess": 1746372866495
+      "total": 3363,
+      "success": 3077,
+      "last": 1746378243347,
+      "lastSuccess": 1746378243347
     },
     "owner-sf.js": {
       "total": 1231,
@@ -148343,7 +148343,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746376413760,
+      "backupDB": 1746378233057,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
