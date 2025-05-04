@@ -91388,8 +91388,8 @@
       "lastcommand": 1740237242905
     },
     "6285173241812@s.whatsapp.net": {
-      "exp": 124374,
-      "limit": 554,
+      "exp": 124449,
+      "limit": 479,
       "registered": false,
       "name": "Too | 🔰9201🔰",
       "age": -1,
@@ -91406,7 +91406,7 @@
       "lastmonthly": 1743859621031,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746343686072,
+      "activation": 1746350204285,
       "lastBanned": 0,
       "lastcommand": 1746315181425,
       "lastwork": 1742609861015,
@@ -92077,7 +92077,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746345845446,
+      "activation": 1746350204297,
       "lastBanned": 0
     },
     "6285232605769@s.whatsapp.net": {
@@ -104220,7 +104220,7 @@
       "lastBanned": 0
     },
     "6282327165975@s.whatsapp.net": {
-      "exp": 71191,
+      "exp": 71193,
       "limit": 1199,
       "registered": false,
       "name": "111",
@@ -104238,7 +104238,7 @@
       "lastmonthly": 1744974871769,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746340991587,
+      "activation": 1746351163173,
       "lastBanned": 0,
       "lastdaily": 1745074863563
     },
@@ -120154,8 +120154,8 @@
       "lastBanned": 0
     },
     "6283866285385@s.whatsapp.net": {
-      "exp": 1132,
-      "limit": 104,
+      "exp": 1245,
+      "limit": 29,
       "registered": false,
       "name": "~Kayz",
       "age": -1,
@@ -120173,8 +120173,8 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1745916434382,
-      "activation": 1746007419515
+      "lastcommand": 1746349371471,
+      "activation": 1746349544629
     },
     "6282196294486@s.whatsapp.net": {
       "exp": 0,
@@ -145307,10 +145307,10 @@
       "lastSuccess": 1735826605203
     },
     "ai-remini.js": {
-      "total": 1842,
-      "success": 1736,
-      "last": 1746345845440,
-      "lastSuccess": 1746345845440
+      "total": 1848,
+      "success": 1742,
+      "last": 1746350204285,
+      "lastSuccess": 1746350204285
     },
     "game-tebakbendera.js": {
       "total": 482,
@@ -145331,10 +145331,10 @@
       "lastSuccess": 1745225672113
     },
     "_cek.js": {
-      "total": 1398,
-      "success": 1369,
-      "last": 1746328145798,
-      "lastSuccess": 1746328145798
+      "total": 1399,
+      "success": 1370,
+      "last": 1746349372669,
+      "lastSuccess": 1746349372669
     },
     "enable.js": {
       "total": 177,
@@ -148111,7 +148111,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746344745060,
+      "backupDB": 1746349371471,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
