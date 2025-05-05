@@ -2254,7 +2254,7 @@
       "activation": 1743140950163
     },
     "6282131329196@s.whatsapp.net": {
-      "exp": 1990,
+      "exp": 2013,
       "limit": 499,
       "registered": false,
       "name": "buku",
@@ -2272,7 +2272,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746424705577,
+      "activation": 1746427920991,
       "lastBanned": 0,
       "lastcommand": 1746355211230
     },
@@ -2387,8 +2387,8 @@
       "lastBanned": 0
     },
     "6285141661889@s.whatsapp.net": {
-      "exp": 2217,
-      "limit": 114,
+      "exp": 2438,
+      "limit": 109,
       "registered": false,
       "name": "?",
       "age": -1,
@@ -2406,7 +2406,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746396851781,
+      "activation": 1746427920900,
       "lastcommand": 1744796269781
     },
     "6283125871919@s.whatsapp.net": {
@@ -2801,7 +2801,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746400115179,
+      "activation": 1746438490463,
       "lastBanned": 0
     },
     "6283141671011@s.whatsapp.net": {
@@ -3022,7 +3022,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746423827963,
+      "activation": 1746438417793,
       "lastBanned": 0
     },
     "120363159552753674@newsletter": {
@@ -3043,7 +3043,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746392563902,
+      "activation": 1746433477512,
       "lastBanned": 0
     },
     "6285692978197@s.whatsapp.net": {
@@ -3823,7 +3823,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746393470628,
+      "activation": 1746435024677,
       "lastBanned": 0
     },
     "6283129349181@s.whatsapp.net": {
@@ -4000,7 +4000,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746395810102,
+      "activation": 1746436782270,
       "lastBanned": 0
     },
     "6283879901773@s.whatsapp.net": {
@@ -9666,7 +9666,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746284704060,
+      "activation": 1746429827982,
       "lastBanned": 0
     },
     "6287888027184@s.whatsapp.net": {
@@ -17680,9 +17680,9 @@
       "lastSuccess": 1741729221851
     },
     "downloader-tiktok.js": {
-      "total": 205,
+      "total": 213,
       "success": 196,
-      "last": 1746396851781,
+      "last": 1746427920900,
       "lastSuccess": 1746396851781
     },
     "owner-pushkontak.js": {
@@ -17698,10 +17698,10 @@
       "lastSuccess": 1744978262756
     },
     "sticker-all.js": {
-      "total": 204,
-      "success": 200,
-      "last": 1746373191362,
-      "lastSuccess": 1746373191362
+      "total": 205,
+      "success": 201,
+      "last": 1746427899145,
+      "lastSuccess": 1746427899145
     },
     "sticker-quotely.js": {
       "total": 31,
@@ -18040,10 +18040,10 @@
       "lastSuccess": 1745541798930
     },
     "sticker-bratgif.js": {
-      "total": 43,
-      "success": 42,
-      "last": 1745849282101,
-      "lastSuccess": 1745849282101
+      "total": 44,
+      "success": 43,
+      "last": 1746427734486,
+      "lastSuccess": 1746427734486
     },
     "game-tebakml.js": {
       "total": 3,
@@ -18387,7 +18387,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746424670574,
+      "backupDB": 1746427687613,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
