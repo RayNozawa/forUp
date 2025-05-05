@@ -92077,7 +92077,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746399890440,
+      "activation": 1746402727264,
       "lastBanned": 0
     },
     "6285232605769@s.whatsapp.net": {
@@ -115957,7 +115957,7 @@
       "lastcommand": 1746216079480
     },
     "6283165508922@s.whatsapp.net": {
-      "exp": 1328,
+      "exp": 1340,
       "limit": 499,
       "registered": false,
       "name": "Pencuri⚔️⚔️",
@@ -115976,7 +115976,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746370154177,
+      "activation": 1746403985821,
       "warn": 2,
       "lastcommand": 1745937599675
     },
@@ -122972,8 +122972,8 @@
       "activation": 1746332562156
     },
     "6283871598810@s.whatsapp.net": {
-      "exp": 61593,
-      "limit": 184,
+      "exp": 61665,
+      "limit": 129,
       "registered": false,
       "name": "Lupin Fourth",
       "age": -1,
@@ -122991,7 +122991,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastcommand": 1746381104147,
-      "activation": 1746399890378,
+      "activation": 1746402723917,
       "lastBanned": 0,
       "lastdaily": 1746172607469
     },
@@ -125373,8 +125373,8 @@
       "lastBanned": 0
     },
     "628999684800@s.whatsapp.net": {
-      "exp": 79,
-      "limit": 499,
+      "exp": 99,
+      "limit": 474,
       "registered": false,
       "name": "Ilyas Wilian",
       "age": -1,
@@ -125391,7 +125391,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746263039116,
+      "activation": 1746402223618,
       "lastBanned": 0,
       "lastcommand": 1746263027769
     },
@@ -125810,7 +125810,7 @@
       "activation": 1746352975384
     },
     "6282192302420@s.whatsapp.net": {
-      "exp": 115,
+      "exp": 133,
       "limit": 499,
       "registered": false,
       "name": "The Villain",
@@ -125828,7 +125828,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746370130838,
+      "activation": 1746404006336,
       "lastBanned": 0
     },
     "6289520125351@s.whatsapp.net": {
@@ -144248,11 +144248,11 @@
       "expired": 0,
       "total": {
         "62895617511212@s.whatsapp.net": 9299,
-        "6288740019730@s.whatsapp.net": 17105,
+        "6288740019730@s.whatsapp.net": 17120,
         "62881012867354@s.whatsapp.net": 90,
         "6289660962424@s.whatsapp.net": 12356,
         "6283870917771@s.whatsapp.net": 7,
-        "6283189996033@s.whatsapp.net": 14347,
+        "6283189996033@s.whatsapp.net": 14352,
         "6282265345207@s.whatsapp.net": 1342,
         "6288295692605@s.whatsapp.net": 7995,
         "6287816570410@s.whatsapp.net": 691,
@@ -144260,7 +144260,7 @@
         "6285755682686@s.whatsapp.net": 797,
         "6285175402083@s.whatsapp.net": 1058,
         "6289514076890@s.whatsapp.net": 745,
-        "6283165508922@s.whatsapp.net": 5283,
+        "6283165508922@s.whatsapp.net": 5309,
         "6283867044915@s.whatsapp.net": 1314,
         "6281520398168@s.whatsapp.net": 8854,
         "62895352017103@s.whatsapp.net": 356,
@@ -144278,7 +144278,7 @@
         "6282360509190@s.whatsapp.net": 23,
         "6289506809355@s.whatsapp.net": 68,
         "6285150818771@s.whatsapp.net": 19,
-        "6282192302420@s.whatsapp.net": 548
+        "6282192302420@s.whatsapp.net": 577
       },
       "totalChat": 0
     },
@@ -145498,10 +145498,10 @@
       "lastSuccess": 1746337879676
     },
     "downloader-tiktok.js": {
-      "total": 3368,
-      "success": 3081,
-      "last": 1746399218864,
-      "lastSuccess": 1746399218864
+      "total": 3369,
+      "success": 3082,
+      "last": 1746402223618,
+      "lastSuccess": 1746402223618
     },
     "owner-sf.js": {
       "total": 1231,
@@ -145510,10 +145510,10 @@
       "lastSuccess": 1745582013892
     },
     "downloader-play.js": {
-      "total": 3475,
-      "success": 3250,
-      "last": 1746399510541,
-      "lastSuccess": 1746399510541
+      "total": 3476,
+      "success": 3251,
+      "last": 1746402237858,
+      "lastSuccess": 1746402237858
     },
     "downloader-ytvideo.js": {
       "total": 148,
@@ -148282,10 +148282,10 @@
       "lastSuccess": 1745804718064
     },
     "audio-vnkobo.js": {
-      "total": 11,
-      "success": 11,
-      "last": 1746361645783,
-      "lastSuccess": 1746361645783
+      "total": 13,
+      "success": 13,
+      "last": 1746402723917,
+      "lastSuccess": 1746402723917
     },
     "havefun^audio-meme.js": {
       "total": 2,
@@ -148446,7 +148446,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746398387659,
+      "backupDB": 1746402219651,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
