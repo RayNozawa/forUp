@@ -26733,7 +26733,7 @@
       "activation": 1743486892135
     },
     "6285712470632@s.whatsapp.net": {
-      "exp": 1735,
+      "exp": 1746,
       "limit": 499,
       "registered": false,
       "name": "....",
@@ -26752,7 +26752,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746374601472
+      "activation": 1746408105471
     },
     "6285536429644@s.whatsapp.net": {
       "exp": 35,
@@ -28629,7 +28629,7 @@
       "lastcommand": 1746056215903
     },
     "6281330744974@s.whatsapp.net": {
-      "exp": 276,
+      "exp": 285,
       "limit": 499,
       "registered": false,
       "name": "| Hasan Adi Surya |",
@@ -28647,7 +28647,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746242550739,
+      "activation": 1746408780056,
       "lastBanned": 0
     },
     "6283196754253@s.whatsapp.net": {
@@ -145717,19 +145717,19 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285712470632@s.whatsapp.net": 2785,
+        "6285712470632@s.whatsapp.net": 2796,
         "6287817916467@s.whatsapp.net": 182,
         "6283876323944@s.whatsapp.net": 11856,
-        "6285248201002@s.whatsapp.net": 633,
+        "6285248201002@s.whatsapp.net": 641,
         "6288272177544@s.whatsapp.net": 521,
         "6282282158631@s.whatsapp.net": 86,
-        "6281548546264@s.whatsapp.net": 7861,
+        "6281548546264@s.whatsapp.net": 7865,
         "6285731943238@s.whatsapp.net": 24,
         "6282390021811@s.whatsapp.net": 1750,
         "6287714738346@s.whatsapp.net": 326,
         "62895403243295@s.whatsapp.net": 52,
         "6281233987263@s.whatsapp.net": 90,
-        "6287766480886@s.whatsapp.net": 1248
+        "6287766480886@s.whatsapp.net": 1250
       },
       "totalChat": 0
     },
@@ -149339,7 +149339,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746405336538,
+      "backupDB": 1746408095718,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
