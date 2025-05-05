@@ -92077,7 +92077,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746402727264,
+      "activation": 1746405650356,
       "lastBanned": 0
     },
     "6285232605769@s.whatsapp.net": {
@@ -104175,7 +104175,7 @@
       "activation": 1744635357875
     },
     "6288740019730@s.whatsapp.net": {
-      "exp": 5055,
+      "exp": 5063,
       "limit": 499,
       "registered": false,
       "name": "Arn",
@@ -104193,7 +104193,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746394524015,
+      "activation": 1746405816623,
       "lastBanned": 0,
       "warn": 3,
       "lastcommand": 1745715190860
@@ -104418,7 +104418,7 @@
       "lastcommand": 1746021419482
     },
     "6283189996033@s.whatsapp.net": {
-      "exp": 3811,
+      "exp": 3868,
       "limit": 499,
       "registered": false,
       "name": "\"TYZ_~",
@@ -104434,11 +104434,11 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1746370620069,
+      "activation": 1746405804214,
       "lastBanned": 0,
-      "lastcommand": 1744997770843
+      "lastcommand": 1746405648698
     },
     "6285648021438@s.whatsapp.net": {
       "exp": 114,
@@ -112197,7 +112197,7 @@
       "activation": 1744901254691
     },
     "6287816570410@s.whatsapp.net": {
-      "exp": 1152,
+      "exp": 1154,
       "limit": 494,
       "registered": false,
       "name": "阿拉拉水族",
@@ -112216,7 +112216,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746385086258,
+      "activation": 1746405439979,
       "lastcommand": 1745416968761
     },
     "6281400716824@s.whatsapp.net": {
@@ -115957,7 +115957,7 @@
       "lastcommand": 1746216079480
     },
     "6283165508922@s.whatsapp.net": {
-      "exp": 1340,
+      "exp": 1372,
       "limit": 499,
       "registered": false,
       "name": "Pencuri⚔️⚔️",
@@ -115976,7 +115976,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746403985821,
+      "activation": 1746405615457,
       "warn": 2,
       "lastcommand": 1745937599675
     },
@@ -125810,7 +125810,7 @@
       "activation": 1746352975384
     },
     "6282192302420@s.whatsapp.net": {
-      "exp": 133,
+      "exp": 177,
       "limit": 499,
       "registered": false,
       "name": "The Villain",
@@ -125828,7 +125828,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746404006336,
+      "activation": 1746405763423,
       "lastBanned": 0
     },
     "6289520125351@s.whatsapp.net": {
@@ -144248,11 +144248,11 @@
       "expired": 0,
       "total": {
         "62895617511212@s.whatsapp.net": 9299,
-        "6288740019730@s.whatsapp.net": 17120,
+        "6288740019730@s.whatsapp.net": 17178,
         "62881012867354@s.whatsapp.net": 90,
         "6289660962424@s.whatsapp.net": 12356,
         "6283870917771@s.whatsapp.net": 7,
-        "6283189996033@s.whatsapp.net": 14352,
+        "6283189996033@s.whatsapp.net": 14407,
         "6282265345207@s.whatsapp.net": 1342,
         "6288295692605@s.whatsapp.net": 7995,
         "6287816570410@s.whatsapp.net": 691,
@@ -144260,7 +144260,7 @@
         "6285755682686@s.whatsapp.net": 797,
         "6285175402083@s.whatsapp.net": 1058,
         "6289514076890@s.whatsapp.net": 745,
-        "6283165508922@s.whatsapp.net": 5309,
+        "6283165508922@s.whatsapp.net": 5493,
         "6283867044915@s.whatsapp.net": 1314,
         "6281520398168@s.whatsapp.net": 8854,
         "62895352017103@s.whatsapp.net": 356,
@@ -144278,7 +144278,7 @@
         "6282360509190@s.whatsapp.net": 23,
         "6289506809355@s.whatsapp.net": 68,
         "6285150818771@s.whatsapp.net": 19,
-        "6282192302420@s.whatsapp.net": 577
+        "6282192302420@s.whatsapp.net": 786
       },
       "totalChat": 0
     },
@@ -145666,10 +145666,10 @@
       "lastSuccess": 1745225672113
     },
     "_cek.js": {
-      "total": 1403,
-      "success": 1374,
-      "last": 1746385663041,
-      "lastSuccess": 1746385663041
+      "total": 1404,
+      "success": 1375,
+      "last": 1746405650184,
+      "lastSuccess": 1746405650184
     },
     "enable.js": {
       "total": 177,
@@ -148446,7 +148446,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746402219651,
+      "backupDB": 1746404021157,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
