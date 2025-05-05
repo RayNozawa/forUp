@@ -2272,7 +2272,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746374023640,
+      "activation": 1746396851785,
       "lastBanned": 0,
       "lastcommand": 1746355211230
     },
@@ -2387,8 +2387,8 @@
       "lastBanned": 0
     },
     "6285141661889@s.whatsapp.net": {
-      "exp": 2199,
-      "limit": 139,
+      "exp": 2217,
+      "limit": 114,
       "registered": false,
       "name": "?",
       "age": -1,
@@ -2406,7 +2406,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746274776064,
+      "activation": 1746396851781,
       "lastcommand": 1744796269781
     },
     "6283125871919@s.whatsapp.net": {
@@ -2801,7 +2801,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746379693588,
+      "activation": 1746400115179,
       "lastBanned": 0
     },
     "6283141671011@s.whatsapp.net": {
@@ -17657,10 +17657,10 @@
       "lastSuccess": 1741729221851
     },
     "downloader-tiktok.js": {
-      "total": 204,
-      "success": 195,
-      "last": 1746175476762,
-      "lastSuccess": 1746175476762
+      "total": 205,
+      "success": 196,
+      "last": 1746396851781,
+      "lastSuccess": 1746396851781
     },
     "owner-pushkontak.js": {
       "total": 3,
@@ -18364,7 +18364,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746381542871,
+      "backupDB": 1746396847340,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
