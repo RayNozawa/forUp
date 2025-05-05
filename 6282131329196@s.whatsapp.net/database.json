@@ -3022,7 +3022,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746356302085,
+      "activation": 1746423827963,
       "lastBanned": 0
     },
     "120363159552753674@newsletter": {
@@ -13151,10 +13151,10 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746341558116
+      "activation": 1746405152230
     },
     "149104671899707@lid": {
       "exp": 0,
@@ -13195,6 +13195,28 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1746349333737
+    },
+    "69909686013982@lid": {
+      "exp": 18,
+      "limit": 499,
+      "registered": false,
+      "name": "Adelta vox Persona",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0,
+      "activation": 1746404595904
     }
   },
   "chats": {
@@ -16340,19 +16362,20 @@
         "170678208717031@lid": 78,
         "116351184162958@lid": 186,
         "159816085454890@lid": 74,
-        "124966787920036@lid": 153,
+        "124966787920036@lid": 154,
         "136442789543961@lid": 67,
         "259897597907020@lid": 65,
         "136692166033591@lid": 63,
-        "6282281527492@s.whatsapp.net": 123,
+        "6282281527492@s.whatsapp.net": 125,
         "279482648813752@lid": 97,
         "92784799301825@lid": 110,
         "6282375750520@s.whatsapp.net": 210,
-        "85788096254144@lid": 91,
+        "85788096254144@lid": 93,
         "66649503862862@lid": 95,
-        "51221897465981@lid": 31,
-        "216664540995827@lid": 10,
-        "136137796505824@lid": 6
+        "51221897465981@lid": 32,
+        "216664540995827@lid": 11,
+        "136137796505824@lid": 9,
+        "69909686013982@lid": 1
       },
       "totalChat": 0
     },
@@ -18364,7 +18387,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746396847340,
+      "backupDB": 1746404594799,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
