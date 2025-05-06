@@ -192,7 +192,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 15794,
+      "exp": 15821,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -210,9 +210,9 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1746504725833,
+      "activation": 1746505607268,
       "lastBanned": 0,
-      "lastcommand": 1746503082408,
+      "lastcommand": 1746505592101,
       "limitprem": 10000,
       "warn": 1
     },
@@ -4463,8 +4463,8 @@
       "activation": 1744814553141
     },
     "6283135694054@s.whatsapp.net": {
-      "exp": 146,
-      "limit": 499,
+      "exp": 237,
+      "limit": 399,
       "registered": false,
       "name": "Codak",
       "age": -1,
@@ -4482,7 +4482,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1745277774094,
+      "activation": 1746505097163,
       "lastcommand": 1745277732673
     },
     "6285822577648@s.whatsapp.net": {
@@ -13731,7 +13731,7 @@
       "lastBanned": 0
     },
     "6282258916689@s.whatsapp.net": {
-      "exp": 6,
+      "exp": 15,
       "limit": 499,
       "registered": false,
       "name": "Ahmad",
@@ -13750,7 +13750,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746503180840
+      "activation": 1746505013021
     },
     "6282357353442@s.whatsapp.net": {
       "exp": 19,
@@ -13791,7 +13791,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746504193241,
+      "activation": 1746506228816,
       "lastBanned": 0
     },
     "6285642692900@s.whatsapp.net": {
@@ -13815,6 +13815,26 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "activation": 1746504558440
+    },
+    "194042763727036@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1746505415359
     }
   },
   "chats": {
@@ -18492,10 +18512,10 @@
       "lastSuccess": 1746454807779
     },
     "_main-menu.js": {
-      "total": 108,
-      "success": 104,
-      "last": 1746503141974,
-      "lastSuccess": 1746503141974
+      "total": 109,
+      "success": 105,
+      "last": 1746505600096,
+      "lastSuccess": 1746505600096
     },
     "downloader-play.js": {
       "total": 72,
@@ -18504,10 +18524,10 @@
       "lastSuccess": 1746451629494
     },
     "ai-remini.js": {
-      "total": 297,
-      "success": 257,
-      "last": 1746503132630,
-      "lastSuccess": 1746503132630
+      "total": 301,
+      "success": 261,
+      "last": 1746505097163,
+      "lastSuccess": 1746505097163
     },
     "ai-remini2.js": {
       "total": 33,
@@ -19235,7 +19255,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746503087982,
+      "backupDB": 1746504891991,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
