@@ -307,7 +307,7 @@
       "lastBanned": 0
     },
     "6282128611759@s.whatsapp.net": {
-      "exp": 2889,
+      "exp": 2891,
       "limit": 78953,
       "registered": false,
       "name": "dd'langztzy",
@@ -325,7 +325,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746540998499,
+      "activation": 1746542739594,
       "lastBanned": 0
     },
     "6283857714276@s.whatsapp.net": {
@@ -1707,7 +1707,7 @@
       "activation": 1746515361960
     },
     "6283157613823@s.whatsapp.net": {
-      "exp": 54,
+      "exp": 62,
       "limit": 499,
       "registered": false,
       "name": "Xabiru Cakrawangsa",
@@ -1725,7 +1725,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746528625430,
+      "activation": 1746542290364,
       "lastBanned": 0
     },
     "6283896174708@s.whatsapp.net": {
@@ -4526,7 +4526,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746540141740,
+      "activation": 1746542837822,
       "lastBanned": 0
     },
     "6287749048860@s.whatsapp.net": {
@@ -14589,7 +14589,7 @@
       "activation": 1746540264315
     },
     "6285959473488@s.whatsapp.net": {
-      "exp": 34,
+      "exp": 43,
       "limit": 499,
       "registered": false,
       "name": "Raja panci wielinoo",
@@ -14608,7 +14608,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746540899052
+      "activation": 1746543154489
     },
     "6283171609872@s.whatsapp.net": {
       "exp": 0,
@@ -19061,11 +19061,11 @@
       "total": {
         "6285721414585@s.whatsapp.net": 299,
         "6287755047933@s.whatsapp.net": 1219,
-        "6289520654403@s.whatsapp.net": 676,
-        "62895423245671@s.whatsapp.net": 62,
-        "6281289121124@s.whatsapp.net": 33,
-        "6285959473488@s.whatsapp.net": 29,
-        "6285814862628@s.whatsapp.net": 53
+        "6289520654403@s.whatsapp.net": 679,
+        "62895423245671@s.whatsapp.net": 65,
+        "6281289121124@s.whatsapp.net": 35,
+        "6285959473488@s.whatsapp.net": 34,
+        "6285814862628@s.whatsapp.net": 61
       },
       "totalChat": 0
     },
@@ -20157,7 +20157,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746539838477,
+      "backupDB": 1746542290000,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
