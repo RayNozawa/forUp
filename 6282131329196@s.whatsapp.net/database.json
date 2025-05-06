@@ -192,7 +192,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 16716,
+      "exp": 16722,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -210,7 +210,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1746567730179,
+      "activation": 1746570573459,
       "lastBanned": 0,
       "lastcommand": 1746539843278,
       "limitprem": 10000,
@@ -4529,7 +4529,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746554349010,
+      "activation": 1746570148304,
       "lastBanned": 0
     },
     "6287749048860@s.whatsapp.net": {
@@ -14762,6 +14762,26 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1746560476402
+    },
+    "156242840445133@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1746570531120
     }
   },
   "chats": {
