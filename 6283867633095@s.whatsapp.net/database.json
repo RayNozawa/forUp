@@ -1089,7 +1089,7 @@
       "lastBanned": 0
     },
     "120363374439923011@newsletter": {
-      "exp": 25,
+      "exp": 31,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -1104,10 +1104,10 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746538488109
+      "activation": 1746563784738
     },
     "6282299420092@s.whatsapp.net": {
       "exp": 12,
@@ -4360,7 +4360,7 @@
       "activation": 1744814135041
     },
     "120363413718761979@newsletter": {
-      "exp": 0,
+      "exp": 1,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -4375,9 +4375,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1744813463538,
+      "activation": 1746563784812,
       "lastBanned": 0
     },
     "6281389651748@s.whatsapp.net": {
@@ -13569,7 +13569,7 @@
       "activation": 1746458882434
     },
     "120363358156125711@newsletter": {
-      "exp": 0,
+      "exp": 6,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -13584,9 +13584,10 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "lastBanned": 0
+      "lastBanned": 0,
+      "activation": 1746563784540
     },
     "190250475384841@lid": {
       "exp": 0,
@@ -13886,7 +13887,7 @@
       "lastBanned": 0
     },
     "120363282952571607@newsletter": {
-      "exp": 0,
+      "exp": 9,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -13901,9 +13902,10 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "lastBanned": 0
+      "lastBanned": 0,
+      "activation": 1746563787125
     },
     "57170393575581@lid": {
       "exp": 0,
@@ -20288,7 +20290,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746553060596,
+      "backupDB": 1746563784271,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
