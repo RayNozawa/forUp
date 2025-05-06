@@ -192,7 +192,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 16722,
+      "exp": 16770,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -210,7 +210,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1746570573459,
+      "activation": 1746573787820,
       "lastBanned": 0,
       "lastcommand": 1746539843278,
       "limitprem": 10000,
@@ -352,7 +352,7 @@
       "lastcommand": 1746457091607
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 1774,
+      "exp": 1782,
       "limit": 1399,
       "registered": false,
       "name": "@Nadiaaa",
@@ -370,7 +370,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746569271433,
+      "activation": 1746572789615,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -1709,7 +1709,7 @@
       "activation": 1746515361960
     },
     "6283157613823@s.whatsapp.net": {
-      "exp": 62,
+      "exp": 65,
       "limit": 499,
       "registered": false,
       "name": "Xabiru Cakrawangsa",
@@ -1727,7 +1727,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746542290364,
+      "activation": 1746574283974,
       "lastBanned": 0
     },
     "6283896174708@s.whatsapp.net": {
@@ -4529,7 +4529,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746570148304,
+      "activation": 1746574935577,
       "lastBanned": 0
     },
     "6287749048860@s.whatsapp.net": {
@@ -14389,7 +14389,7 @@
       "lastdaily": 1746532759838
     },
     "6288220432124@s.whatsapp.net": {
-      "exp": 9,
+      "exp": 19,
       "limit": 499,
       "registered": false,
       "name": "𝕬𝖘𝖊𝖕 𝕳𝖊𝖓𝖉𝖗𝖆 𝕸𝕮",
@@ -14407,7 +14407,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746534027555,
+      "activation": 1746574118909,
       "lastBanned": 0
     },
     "233754182332466@lid": {
@@ -14782,6 +14782,29 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1746570531120
+    },
+    "6283177435156@s.whatsapp.net": {
+      "exp": 138,
+      "limit": 499,
+      "registered": false,
+      "name": ".",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0,
+      "activation": 1746573787632,
+      "lastcommand": 1746573658582
     }
   },
   "chats": {
@@ -19479,6 +19502,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "6283177435156@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -19555,10 +19599,10 @@
       "lastSuccess": 1746454807779
     },
     "_main-menu.js": {
-      "total": 111,
-      "success": 107,
-      "last": 1746553226433,
-      "lastSuccess": 1746553226433
+      "total": 113,
+      "success": 109,
+      "last": 1746573668687,
+      "lastSuccess": 1746573668687
     },
     "downloader-play.js": {
       "total": 75,
@@ -19603,10 +19647,10 @@
       "lastSuccess": 1741729221851
     },
     "downloader-tiktok.js": {
-      "total": 235,
-      "success": 225,
-      "last": 1746549433382,
-      "lastSuccess": 1746549433382
+      "total": 236,
+      "success": 226,
+      "last": 1746572767591,
+      "lastSuccess": 1746572767591
     },
     "owner-pushkontak.js": {
       "total": 3,
@@ -19693,10 +19737,10 @@
       "lastSuccess": 1742938947782
     },
     "_shortcut.js": {
-      "total": 25,
-      "success": 25,
-      "last": 1744975536077,
-      "lastSuccess": 1744975536077
+      "total": 26,
+      "success": 26,
+      "last": 1746573752805,
+      "lastSuccess": 1746573752805
     },
     "user-profile.js": {
       "total": 28,
@@ -19759,10 +19803,10 @@
       "lastSuccess": 1741752714872
     },
     "main-creator.js": {
-      "total": 13,
-      "success": 13,
-      "last": 1746553235289,
-      "lastSuccess": 1746553235289
+      "total": 15,
+      "success": 15,
+      "last": 1746573730183,
+      "lastSuccess": 1746573730183
     },
     "user-leader.js": {
       "total": 8,
@@ -20267,6 +20311,12 @@
       "success": 0,
       "last": 1746540997253,
       "lastSuccess": 0
+    },
+    "owner-bcgc.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1746573787632,
+      "lastSuccess": 1746573787632
     }
   },
   "msgs": {},
@@ -20310,7 +20360,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746569270913,
+      "backupDB": 1746572751478,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
