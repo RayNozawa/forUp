@@ -210,7 +210,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1746598682259,
+      "activation": 1746599644993,
       "lastBanned": 0,
       "lastcommand": 1746596346828,
       "limitprem": 10000,
@@ -307,8 +307,8 @@
       "lastBanned": 0
     },
     "6282128611759@s.whatsapp.net": {
-      "exp": 2951,
-      "limit": 78913,
+      "exp": 2974,
+      "limit": 78893,
       "registered": false,
       "name": "dd'langztzy",
       "age": -1,
@@ -325,11 +325,11 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746590729840,
+      "activation": 1746599644801,
       "lastBanned": 0
     },
     "6283857714276@s.whatsapp.net": {
-      "exp": 369,
+      "exp": 377,
       "limit": 299,
       "registered": false,
       "name": "udd",
@@ -345,9 +345,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1746596492340,
+      "activation": 1746599254385,
       "lastBanned": 0,
       "lastcommand": 1746457091607
     },
@@ -4381,7 +4381,7 @@
       "lastBanned": 0
     },
     "6281389651748@s.whatsapp.net": {
-      "exp": 259,
+      "exp": 281,
       "limit": 499,
       "registered": false,
       "name": "Rafli",
@@ -4397,9 +4397,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1746597189768,
+      "activation": 1746600726877,
       "lastBanned": 0
     },
     "163810656653551@lid": {
@@ -13799,7 +13799,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746598391306,
+      "activation": 1746600108676,
       "lastBanned": 0
     },
     "6285642692900@s.whatsapp.net": {
@@ -15037,6 +15037,45 @@
       "lastBanned": 0,
       "lastcommand": 1746598588639,
       "activation": 1746598594288
+    },
+    "222612835832042@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1746599640586
+    },
+    "120363335792798795@newsletter": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -18494,7 +18533,7 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6281389651748@s.whatsapp.net": 748
+        "6281389651748@s.whatsapp.net": 851
       },
       "totalChat": 0
     },
@@ -19861,6 +19900,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "120363335792798795@newsletter": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -20033,10 +20093,10 @@
       "lastSuccess": 1745034682502
     },
     "downloader-instagram.js": {
-      "total": 26,
-      "success": 26,
-      "last": 1743067189552,
-      "lastSuccess": 1743067189552
+      "total": 27,
+      "success": 27,
+      "last": 1746599644801,
+      "lastSuccess": 1746599644801
     },
     "downloader-gitclone.js": {
       "total": 2,
@@ -20698,7 +20758,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746597074515,
+      "backupDB": 1746599253989,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
