@@ -192,7 +192,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 17135,
+      "exp": 17142,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -210,7 +210,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1746614075775,
+      "activation": 1746615723720,
       "lastBanned": 0,
       "lastcommand": 1746610472916,
       "limitprem": 10000,
@@ -307,7 +307,7 @@
       "lastBanned": 0
     },
     "6282128611759@s.whatsapp.net": {
-      "exp": 3069,
+      "exp": 3091,
       "limit": 78853,
       "registered": false,
       "name": "dd'langztzy",
@@ -325,8 +325,9 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746614075561,
-      "lastBanned": 0
+      "activation": 1746614291935,
+      "lastBanned": 0,
+      "lastcommand": 1746614289712
     },
     "6283857714276@s.whatsapp.net": {
       "exp": 403,
@@ -352,7 +353,7 @@
       "lastcommand": 1746457091607
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 1836,
+      "exp": 1844,
       "limit": 1399,
       "registered": false,
       "name": "@Nadiaaa",
@@ -370,7 +371,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746610974445,
+      "activation": 1746616000927,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -4397,7 +4398,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "activation": 1746613400979,
       "lastBanned": 0
@@ -13267,7 +13268,7 @@
       "lastBanned": 0
     },
     "6289520654403@s.whatsapp.net": {
-      "exp": 448,
+      "exp": 458,
       "limit": 499,
       "registered": false,
       "name": "𝗘𝗜𝗝𝗔𝗭𝗛𝗔𝗡𝗭 𝘁𝗼𝗸𝘂 𝗭",
@@ -13285,7 +13286,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746612738268,
+      "activation": 1746615828594,
       "lastBanned": 0,
       "lastcommand": 1746553221557
     },
@@ -13799,7 +13800,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746609049636,
+      "activation": 1746614468808,
       "lastBanned": 0
     },
     "6285642692900@s.whatsapp.net": {
@@ -13965,7 +13966,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746614150273,
+      "activation": 1746616079503,
       "lastBanned": 0
     },
     "230468180041866@lid": {
@@ -14949,7 +14950,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746589977653,
+      "activation": 1746614330486,
       "lastBanned": 0
     },
     "120363418502311524@newsletter": {
@@ -15182,7 +15183,7 @@
       "activation": 1746605114381
     },
     "6285700350376@s.whatsapp.net": {
-      "exp": 48,
+      "exp": 55,
       "limit": 499,
       "registered": false,
       "name": "mmafatihulh",
@@ -15201,7 +15202,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastcommand": 1746607222079,
-      "activation": 1746611269745,
+      "activation": 1746615707656,
       "lastBanned": 0
     },
     "6282319522452@s.whatsapp.net": {
@@ -19740,15 +19741,15 @@
       "total": {
         "6285721414585@s.whatsapp.net": 299,
         "6287755047933@s.whatsapp.net": 1305,
-        "6289520654403@s.whatsapp.net": 1329,
+        "6289520654403@s.whatsapp.net": 1350,
         "62895423245671@s.whatsapp.net": 119,
         "6281289121124@s.whatsapp.net": 71,
         "6285959473488@s.whatsapp.net": 212,
         "6285814862628@s.whatsapp.net": 205,
         "6287797011637@s.whatsapp.net": 92,
         "6285941020041@s.whatsapp.net": 70,
-        "6285700350376@s.whatsapp.net": 94,
-        "6285740577685@s.whatsapp.net": 41
+        "6285700350376@s.whatsapp.net": 98,
+        "6285740577685@s.whatsapp.net": 53
       },
       "totalChat": 0
     },
@@ -20284,10 +20285,10 @@
       "lastSuccess": 1746532991765
     },
     "_cek.js": {
-      "total": 127,
-      "success": 122,
-      "last": 1746607224001,
-      "lastSuccess": 1746607224001
+      "total": 128,
+      "success": 123,
+      "last": 1746614291935,
+      "lastSuccess": 1746614291935
     },
     "user-limit.js": {
       "total": 15,
@@ -21015,7 +21016,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746612432580,
+      "backupDB": 1746614289710,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
