@@ -49146,7 +49146,7 @@
       "lastcommand": 1746618408202,
       "lastdaily": 1746533417359,
       "lastwork": 1734753044785,
-      "activation": 1746622867377
+      "activation": 1746622983464
     },
     "272559127945348_1@s.whatsapp.net": {
       "exp": 1,
@@ -104801,7 +104801,7 @@
       "lastdaily": 1745124860028
     },
     "6288221730772@s.whatsapp.net": {
-      "exp": 384,
+      "exp": 394,
       "limit": 500,
       "registered": false,
       "name": "maa",
@@ -104819,7 +104819,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746622808931,
+      "activation": 1746624056470,
       "lastBanned": 0
     },
     "6283194376811@s.whatsapp.net": {
@@ -111441,7 +111441,7 @@
       "lastBanned": 0
     },
     "6283148471325@s.whatsapp.net": {
-      "exp": 234,
+      "exp": 244,
       "limit": 1128,
       "registered": false,
       "name": "pi",
@@ -111460,7 +111460,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746622654540,
+      "activation": 1746623164033,
       "lastdaily": 1745072355760,
       "lastcommand": 1744901759439
     },
@@ -122722,8 +122722,8 @@
       "activation": 1745783577534
     },
     "6281391128346@s.whatsapp.net": {
-      "exp": 20999,
-      "limit": 914,
+      "exp": 21018,
+      "limit": 889,
       "registered": false,
       "name": "DANZ RF KWN",
       "age": -1,
@@ -122740,7 +122740,7 @@
       "lastmonthly": 1745837111611,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746612487227,
+      "activation": 1746622983430,
       "lastBanned": 0,
       "lastdaily": 1746368960340,
       "lastwork": 1746612431014
@@ -127375,6 +127375,46 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1746622718278
+    },
+    "220435287384207@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1746623191992
+    },
+    "24627912949813@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1746625093166
     }
   },
   "chats": {
@@ -145396,7 +145436,7 @@
         "6287784421952@s.whatsapp.net": 56,
         "628895319463@s.whatsapp.net": 2710,
         "6288224157152@s.whatsapp.net": 6597,
-        "6288221730772@s.whatsapp.net": 3618,
+        "6288221730772@s.whatsapp.net": 3631,
         "6283194376811@s.whatsapp.net": 1325,
         "6289529084325@s.whatsapp.net": 190,
         "6283151675542@s.whatsapp.net": 96,
@@ -145440,7 +145480,7 @@
         "6283854931154@s.whatsapp.net": 112,
         "94760188380@s.whatsapp.net": 67,
         "6285859941045@s.whatsapp.net": 56,
-        "6283148471325@s.whatsapp.net": 4030,
+        "6283148471325@s.whatsapp.net": 4053,
         "6285643085494@s.whatsapp.net": 11,
         "6282116384146@s.whatsapp.net": 19,
         "6285648021438@s.whatsapp.net": 544,
@@ -145504,7 +145544,7 @@
         "6285362197765@s.whatsapp.net": 32,
         "6285705779060@s.whatsapp.net": 37,
         "6285175344754@s.whatsapp.net": 32,
-        "6287717842466@s.whatsapp.net": 2
+        "6287717842466@s.whatsapp.net": 5
       },
       "totalChat": 0,
       "antiAudio": true,
@@ -146973,10 +147013,10 @@
       "lastSuccess": 1745582013892
     },
     "downloader-play.js": {
-      "total": 3586,
-      "success": 3357,
-      "last": 1746621945581,
-      "lastSuccess": 1746621945581
+      "total": 3587,
+      "success": 3358,
+      "last": 1746622983430,
+      "lastSuccess": 1746622983430
     },
     "downloader-ytvideo.js": {
       "total": 148,
@@ -149939,7 +149979,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746621048061,
+      "backupDB": 1746622961567,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
