@@ -168,7 +168,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 4255,
+      "exp": 4327,
       "limit": 1387,
       "registered": false,
       "name": "Rayhan🍟",
@@ -186,8 +186,8 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1802436672961,
-      "lastcommand": 1746676915785,
-      "activation": 1746676919438,
+      "lastcommand": 1746712266184,
+      "activation": 1746712286514,
       "lastBanned": 0,
       "limitprem": 10000
     },
@@ -2255,7 +2255,7 @@
       "activation": 1743140950163
     },
     "6282131329196@s.whatsapp.net": {
-      "exp": 2011,
+      "exp": 2090,
       "limit": 499,
       "registered": false,
       "name": "buku",
@@ -2271,9 +2271,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1746654089326,
+      "activation": 1746712329591,
       "lastBanned": 0,
       "lastcommand": 1746355211230
     },
@@ -4374,7 +4374,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746713138123,
+      "activation": 1746695570932,
       "lastBanned": 0
     },
     "6281389651748@s.whatsapp.net": {
@@ -4394,7 +4394,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "activation": 1744813907449,
       "lastBanned": 0
@@ -11287,7 +11287,7 @@
       "activation": 1745522842014
     },
     "6285650817317@s.whatsapp.net": {
-      "exp": 720,
+      "exp": 783,
       "limit": 499,
       "registered": false,
       "name": "juragan cobs",
@@ -11303,13 +11303,13 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1745838723096
+      "activation": 1746715618802
     },
     "6281339576336@s.whatsapp.net": {
-      "exp": 1193,
+      "exp": 1238,
       "limit": 499,
       "registered": false,
       "name": "Kinra",
@@ -11327,7 +11327,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746664279423,
+      "activation": 1746716233989,
       "lastBanned": 0
     },
     "219997334950058@lid": {
@@ -11455,7 +11455,7 @@
       "activation": 1745568268562
     },
     "601112468587@s.whatsapp.net": {
-      "exp": 474,
+      "exp": 536,
       "limit": 499,
       "registered": false,
       "name": "?",
@@ -11473,7 +11473,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746664235565,
+      "activation": 1746715747311,
       "lastBanned": 0,
       "lastcommand": 1746608557522
     },
@@ -14383,7 +14383,7 @@
       "activation": 1746711460981,
       "lastBanned": 0
     },
-    "120363299461193613@newsletter": {
+    "200768732803120@lid": {
       "exp": 0,
       "limit": 499,
       "registered": false,
@@ -14401,7 +14401,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "lastBanned": 0
+      "activation": 1746713303231
     }
   },
   "chats": {
@@ -17182,11 +17182,11 @@
       "expired": 0,
       "total": {
         "6283125871919@s.whatsapp.net": 90,
-        "6281339576336@s.whatsapp.net": 3872,
+        "6281339576336@s.whatsapp.net": 3888,
         "6285650817317@s.whatsapp.net": 2395,
         "6287863719127@s.whatsapp.net": 449,
         "6285732462751@s.whatsapp.net": 84,
-        "601112468587@s.whatsapp.net": 1504,
+        "601112468587@s.whatsapp.net": 1560,
         "6282124572484@s.whatsapp.net": 721,
         "6282312714737@s.whatsapp.net": 11,
         "6288742845476@s.whatsapp.net": 23,
@@ -19139,27 +19139,6 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
-    },
-    "120363299461193613@newsletter": {
-      "isBanned": false,
-      "welcome": true,
-      "detect": true,
-      "detekporn": true,
-      "sWelcome": "",
-      "sBye": "",
-      "sPromote": "",
-      "sDemote": "",
-      "listStr": {},
-      "delete": true,
-      "antiLink": false,
-      "antiLinkWa": false,
-      "antiSticker": false,
-      "viewonce": false,
-      "antiToxic": false,
-      "antiVirtex": true,
-      "game": true,
-      "autolevelup": true,
-      "expired": 0
     }
   },
   "stats": {
@@ -19212,10 +19191,10 @@
       "lastSuccess": 1746458882434
     },
     "info-ping.js": {
-      "total": 17,
-      "success": 17,
-      "last": 1746711130964,
-      "lastSuccess": 1746711130964
+      "total": 18,
+      "success": 18,
+      "last": 1746712266375,
+      "lastSuccess": 1746712266375
     },
     "downloader-pinterest.js": {
       "total": 13,
@@ -19242,10 +19221,10 @@
       "lastSuccess": 1746711138922
     },
     "downloader-play.js": {
-      "total": 72,
-      "success": 63,
-      "last": 1746451629494,
-      "lastSuccess": 1746451629494
+      "total": 73,
+      "success": 64,
+      "last": 1746712286514,
+      "lastSuccess": 1746712286514
     },
     "ai-remini.js": {
       "total": 301,
@@ -20015,7 +19994,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746664231307,
+      "backupDB": 1746715314404,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
