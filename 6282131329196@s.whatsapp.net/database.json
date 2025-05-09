@@ -192,7 +192,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 17910,
+      "exp": 17993,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -210,7 +210,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1746829021477,
+      "activation": 1746831724524,
       "lastBanned": 0,
       "lastcommand": 1746804852215,
       "limitprem": 10000,
@@ -353,7 +353,7 @@
       "lastcommand": 1746457091607
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 1954,
+      "exp": 2017,
       "limit": 1399,
       "registered": false,
       "name": "@Nadiaaa",
@@ -371,7 +371,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746779218917,
+      "activation": 1746829766033,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -14049,7 +14049,7 @@
       "lastBanned": 0
     },
     "6285740577685@s.whatsapp.net": {
-      "exp": 23,
+      "exp": 36,
       "limit": 499,
       "registered": false,
       "name": "Utsumi 🦇",
@@ -14067,7 +14067,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746778847082,
+      "activation": 1746830739222,
       "lastBanned": 0
     },
     "172074190553304@lid": {
@@ -14112,7 +14112,7 @@
       "lastBanned": 0
     },
     "6283114594503@s.whatsapp.net": {
-      "exp": 0,
+      "exp": 6,
       "limit": 499,
       "registered": false,
       "name": "ARBAKTI STORE V10",
@@ -14130,7 +14130,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746811336639,
+      "activation": 1746830006209,
       "lastBanned": 0
     },
     "6289603824387@s.whatsapp.net": {
@@ -15243,6 +15243,28 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1746814776064
+    },
+    "6289675815420@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "name": "Mueeza",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1746831670929,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -19683,17 +19705,17 @@
       "expired": 0,
       "total": {
         "6285721414585@s.whatsapp.net": 946,
-        "6287755047933@s.whatsapp.net": 1875,
-        "6289520654403@s.whatsapp.net": 788,
+        "6287755047933@s.whatsapp.net": 1885,
+        "6289520654403@s.whatsapp.net": 796,
         "6285959473488@s.whatsapp.net": 347,
-        "6285740577685@s.whatsapp.net": 22,
+        "6285740577685@s.whatsapp.net": 24,
         "6282210881627@s.whatsapp.net": 32,
         "6285922439853@s.whatsapp.net": 558,
         "601159578035@s.whatsapp.net": 18,
         "6281289121124@s.whatsapp.net": 1,
-        "6285814862628@s.whatsapp.net": 62,
+        "6285814862628@s.whatsapp.net": 64,
         "6281264998595@s.whatsapp.net": 85,
-        "6285941020041@s.whatsapp.net": 7
+        "6285941020041@s.whatsapp.net": 9
       },
       "totalChat": 0
     },
@@ -20371,10 +20393,10 @@
       "lastSuccess": 1741729221851
     },
     "downloader-tiktok.js": {
-      "total": 235,
-      "success": 217,
-      "last": 1746808254646,
-      "lastSuccess": 1746808254646
+      "total": 237,
+      "success": 219,
+      "last": 1746831674503,
+      "lastSuccess": 1746831674503
     },
     "owner-pushkontak.js": {
       "total": 3,
@@ -21084,7 +21106,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746828227452,
+      "backupDB": 1746830734773,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
