@@ -192,7 +192,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 16993,
+      "exp": 17076,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -210,9 +210,9 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1746773418415,
+      "activation": 1746775957121,
       "lastBanned": 0,
-      "lastcommand": 1746771601567,
+      "lastcommand": 1746775494932,
       "limitprem": 10000,
       "warn": 1
     },
@@ -307,7 +307,7 @@
       "lastBanned": 0
     },
     "6282128611759@s.whatsapp.net": {
-      "exp": 2876,
+      "exp": 2884,
       "limit": 78943,
       "registered": false,
       "name": "dd'langztzy",
@@ -325,7 +325,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746773681951,
+      "activation": 1746774151295,
       "lastBanned": 0
     },
     "6283857714276@s.whatsapp.net": {
@@ -352,7 +352,7 @@
       "lastcommand": 1746457091607
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 1902,
+      "exp": 1929,
       "limit": 1399,
       "registered": false,
       "name": "@Nadiaaa",
@@ -370,7 +370,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746758365498,
+      "activation": 1746775771749,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -442,8 +442,8 @@
       "lastBanned": 0
     },
     "62882003885815@s.whatsapp.net": {
-      "exp": 61470,
-      "limit": 1064,
+      "exp": 61489,
+      "limit": 1039,
       "registered": false,
       "name": "𝔯𝔞𝔡𝔦𝔰",
       "age": -1,
@@ -460,7 +460,7 @@
       "lastmonthly": 1742529237697,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746773423857,
+      "activation": 1746774277274,
       "lastBanned": 0,
       "lastdaily": 1742529237697
     },
@@ -14106,7 +14106,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746773626572,
+      "activation": 1746775121222,
       "lastBanned": 0
     },
     "6283114594503@s.whatsapp.net": {
@@ -14846,6 +14846,67 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1746773356501
+    },
+    "233229726572587@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1746774017733
+    },
+    "218459803787486@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1746775573225
+    },
+    "120363251491779639@g.us": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "name": {},
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1746775978894
     }
   },
   "chats": {
@@ -19766,10 +19827,10 @@
       "lastSuccess": 1746451629494
     },
     "ai-remini.js": {
-      "total": 308,
-      "success": 273,
-      "last": 1746773407295,
-      "lastSuccess": 1746773407295
+      "total": 309,
+      "success": 274,
+      "last": 1746774277274,
+      "lastSuccess": 1746774277274
     },
     "ai-remini2.js": {
       "total": 33,
@@ -19784,10 +19845,10 @@
       "lastSuccess": 1745220335982
     },
     "_cek.js": {
-      "total": 142,
-      "success": 137,
-      "last": 1746757410851,
-      "lastSuccess": 1746757410851
+      "total": 143,
+      "success": 138,
+      "last": 1746775498002,
+      "lastSuccess": 1746775498002
     },
     "user-limit.js": {
       "total": 15,
@@ -20497,7 +20558,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746773348383,
+      "backupDB": 1746775494962,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
