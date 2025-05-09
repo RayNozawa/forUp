@@ -192,7 +192,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 17765,
+      "exp": 17897,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -210,7 +210,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1746804867216,
+      "activation": 1746805215943,
       "lastBanned": 0,
       "lastcommand": 1746804852215,
       "limitprem": 10000,
@@ -442,8 +442,8 @@
       "lastBanned": 0
     },
     "62882003885815@s.whatsapp.net": {
-      "exp": 61489,
-      "limit": 1039,
+      "exp": 61507,
+      "limit": 1014,
       "registered": false,
       "name": "𝔯𝔞𝔡𝔦𝔰",
       "age": -1,
@@ -460,7 +460,7 @@
       "lastmonthly": 1742529237697,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746774277274,
+      "activation": 1746805215938,
       "lastBanned": 0,
       "lastdaily": 1742529237697
     },
@@ -14706,7 +14706,7 @@
       "lastBanned": 0
     },
     "6288215492023@s.whatsapp.net": {
-      "exp": 8,
+      "exp": 10,
       "limit": 499,
       "registered": false,
       "name": "I . M Jinwo 😹😹",
@@ -14724,7 +14724,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746765106233
+      "activation": 1746806013346,
+      "lastBanned": 0
     },
     "6281553476702@s.whatsapp.net": {
       "exp": 56,
@@ -15117,6 +15118,27 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "activation": 1746804843957
+    },
+    "62895630002513@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 895-6300-02513",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1746805008017
     }
   },
   "chats": {
@@ -20138,16 +20160,16 @@
       "lastSuccess": 1746804853234
     },
     "downloader-play.js": {
-      "total": 73,
-      "success": 63,
-      "last": 1746804853037,
-      "lastSuccess": 1746451629494
+      "total": 74,
+      "success": 64,
+      "last": 1746804879065,
+      "lastSuccess": 1746804879065
     },
     "ai-remini.js": {
-      "total": 317,
-      "success": 275,
-      "last": 1746804852752,
-      "lastSuccess": 1746776512260
+      "total": 322,
+      "success": 280,
+      "last": 1746804902445,
+      "lastSuccess": 1746804902445
     },
     "ai-remini2.js": {
       "total": 33,
@@ -20180,10 +20202,10 @@
       "lastSuccess": 1741729221851
     },
     "downloader-tiktok.js": {
-      "total": 233,
-      "success": 215,
-      "last": 1746804865964,
-      "lastSuccess": 1746783058437
+      "total": 234,
+      "success": 216,
+      "last": 1746805215938,
+      "lastSuccess": 1746805215938
     },
     "owner-pushkontak.js": {
       "total": 3,
