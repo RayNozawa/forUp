@@ -192,7 +192,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 16877,
+      "exp": 16993,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -210,9 +210,9 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1746769935651,
+      "activation": 1746773418415,
       "lastBanned": 0,
-      "lastcommand": 1746758869902,
+      "lastcommand": 1746771601567,
       "limitprem": 10000,
       "warn": 1
     },
@@ -307,7 +307,7 @@
       "lastBanned": 0
     },
     "6282128611759@s.whatsapp.net": {
-      "exp": 2869,
+      "exp": 2876,
       "limit": 78943,
       "registered": false,
       "name": "dd'langztzy",
@@ -325,7 +325,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746770274728,
+      "activation": 1746773681951,
       "lastBanned": 0
     },
     "6283857714276@s.whatsapp.net": {
@@ -442,8 +442,8 @@
       "lastBanned": 0
     },
     "62882003885815@s.whatsapp.net": {
-      "exp": 61387,
-      "limit": 1139,
+      "exp": 61470,
+      "limit": 1064,
       "registered": false,
       "name": "𝔯𝔞𝔡𝔦𝔰",
       "age": -1,
@@ -460,7 +460,7 @@
       "lastmonthly": 1742529237697,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746769304728,
+      "activation": 1746773423857,
       "lastBanned": 0,
       "lastdaily": 1742529237697
     },
@@ -734,7 +734,7 @@
       "lastBanned": 0
     },
     "6285814862628@s.whatsapp.net": {
-      "exp": 2183,
+      "exp": 2193,
       "limit": 319,
       "registered": false,
       "name": "SanzXuu",
@@ -752,7 +752,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746757422070,
+      "activation": 1746770513587,
       "lastBanned": 0,
       "lastcommand": 1742898134222
     },
@@ -13529,7 +13529,7 @@
       "activation": 1746456849147
     },
     "6283890971836@s.whatsapp.net": {
-      "exp": 50,
+      "exp": 58,
       "limit": 499,
       "registered": false,
       "name": "s",
@@ -13547,7 +13547,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746758271371,
+      "activation": 1746772241712,
       "lastBanned": 0
     },
     "62895347108800@s.whatsapp.net": {
@@ -14106,7 +14106,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746723070723,
+      "activation": 1746773626572,
       "lastBanned": 0
     },
     "6283114594503@s.whatsapp.net": {
@@ -14128,7 +14128,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746765542917,
+      "activation": 1746773332431,
       "lastBanned": 0
     },
     "6289603824387@s.whatsapp.net": {
@@ -14301,7 +14301,7 @@
       "lastBanned": 0
     },
     "6282113883136@s.whatsapp.net": {
-      "exp": 21,
+      "exp": 41,
       "limit": 499,
       "registered": false,
       "name": "franzz nyalse⚡⚡",
@@ -14320,7 +14320,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746711187451
+      "activation": 1746773453582
     },
     "6285922439853@s.whatsapp.net": {
       "exp": 308,
@@ -14806,6 +14806,46 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1746769735247
+    },
+    "32118268809260@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1746770539082
+    },
+    "190640914731122@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1746773356501
     }
   },
   "chats": {
@@ -16227,12 +16267,12 @@
         "6282128611759@s.whatsapp.net": 126,
         "6283857714276@s.whatsapp.net": 185,
         "6282357353442@s.whatsapp.net": 305,
-        "6288246246949@s.whatsapp.net": 377,
-        "6283164975409@s.whatsapp.net": 140,
+        "6288246246949@s.whatsapp.net": 381,
+        "6283164975409@s.whatsapp.net": 146,
         "6285704902885@s.whatsapp.net": 22,
         "6289629130204@s.whatsapp.net": 450,
         "6283175509153@s.whatsapp.net": 431,
-        "62882003885815@s.whatsapp.net": 378,
+        "62882003885815@s.whatsapp.net": 384,
         "6287865741620@s.whatsapp.net": 58,
         "6285975246698@s.whatsapp.net": 65,
         "6283139312937@s.whatsapp.net": 104,
@@ -16252,8 +16292,8 @@
         "6283171609872@s.whatsapp.net": 29,
         "62895325629523@s.whatsapp.net": 52,
         "6287730692750@s.whatsapp.net": 168,
-        "6281553476702@s.whatsapp.net": 2,
-        "6283114594503@s.whatsapp.net": 2
+        "6281553476702@s.whatsapp.net": 4,
+        "6283114594503@s.whatsapp.net": 12
       },
       "totalChat": 0
     },
@@ -19690,10 +19730,10 @@
       "lastSuccess": 1746757264370
     },
     "info-ping.js": {
-      "total": 18,
-      "success": 18,
-      "last": 1746758875103,
-      "lastSuccess": 1746758875103
+      "total": 19,
+      "success": 19,
+      "last": 1746771603254,
+      "lastSuccess": 1746771603254
     },
     "downloader-pinterest.js": {
       "total": 13,
@@ -19726,10 +19766,10 @@
       "lastSuccess": 1746451629494
     },
     "ai-remini.js": {
-      "total": 303,
-      "success": 268,
-      "last": 1746769304728,
-      "lastSuccess": 1746769304728
+      "total": 308,
+      "success": 273,
+      "last": 1746773407295,
+      "lastSuccess": 1746773407295
     },
     "ai-remini2.js": {
       "total": 33,
@@ -20457,7 +20497,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746769126568,
+      "backupDB": 1746773348383,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
