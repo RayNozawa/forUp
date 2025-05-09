@@ -210,7 +210,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1746782223942,
+      "activation": 1746783058448,
       "lastBanned": 0,
       "lastcommand": 1746775494932,
       "limitprem": 10000,
@@ -13402,8 +13402,8 @@
       "lastBanned": 0
     },
     "6285856011884@s.whatsapp.net": {
-      "exp": 50,
-      "limit": 449,
+      "exp": 72,
+      "limit": 424,
       "registered": false,
       "name": "kikko suka togasur",
       "age": -1,
@@ -13420,7 +13420,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746711216956,
+      "activation": 1746783058437,
       "lastBanned": 0
     },
     "6281400716824@s.whatsapp.net": {
@@ -14106,7 +14106,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746782168645,
+      "activation": 1746784176446,
       "lastBanned": 0
     },
     "6283114594503@s.whatsapp.net": {
@@ -14128,7 +14128,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746777074867,
+      "activation": 1746783039863,
       "lastBanned": 0
     },
     "6289603824387@s.whatsapp.net": {
@@ -14618,7 +14618,7 @@
       "lastBanned": 0
     },
     "6281381558139@s.whatsapp.net": {
-      "exp": 23,
+      "exp": 32,
       "limit": 499,
       "registered": false,
       "name": "Tasya Nurul FR",
@@ -14637,7 +14637,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746760312983
+      "activation": 1746783293565
     },
     "120363400825807038@g.us": {
       "exp": 0,
@@ -14965,7 +14965,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": false,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -19943,10 +19944,10 @@
       "lastSuccess": 1741729221851
     },
     "downloader-tiktok.js": {
-      "total": 225,
-      "success": 214,
-      "last": 1746777095061,
-      "lastSuccess": 1746777095061
+      "total": 226,
+      "success": 215,
+      "last": 1746783058437,
+      "lastSuccess": 1746783058437
     },
     "owner-pushkontak.js": {
       "total": 3,
