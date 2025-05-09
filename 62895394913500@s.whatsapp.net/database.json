@@ -31985,7 +31985,7 @@
       "lastBanned": 0
     },
     "6282132477347@s.whatsapp.net": {
-      "exp": 1483,
+      "exp": 1489,
       "limit": 499,
       "registered": false,
       "name": "‎‎‎‎‎‎‎     domxxiq",
@@ -32001,9 +32001,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1746816373198,
+      "activation": 1746827517647,
       "lastBanned": 0,
       "lastcommand": 1744458836774,
       "Banneduser": false,
@@ -58080,7 +58080,7 @@
       "ownerTime": 0
     },
     "6289682173166@s.whatsapp.net": {
-      "exp": 55,
+      "exp": 61,
       "limit": 499,
       "registered": false,
       "name": "Mbak Wulan",
@@ -58099,7 +58099,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1744276210576,
+      "activation": 1746826382258,
       "Banneduser": false,
       "autolevelup": true,
       "owner": false,
@@ -132503,7 +132503,7 @@
       "lastBanned": 0
     },
     "6283802701252@s.whatsapp.net": {
-      "exp": 143,
+      "exp": 149,
       "limit": 499,
       "registered": false,
       "name": "𝔇𝔬𝔡𝔦 ℜ",
@@ -132521,7 +132521,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746805718314,
+      "activation": 1746825583240,
       "lastBanned": 0
     },
     "6287856354963@s.whatsapp.net": {
@@ -132591,7 +132591,7 @@
       "lastBanned": 0
     },
     "6289509586261@s.whatsapp.net": {
-      "exp": 511,
+      "exp": 521,
       "limit": 499,
       "registered": false,
       "name": "faras",
@@ -132610,7 +132610,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746805604749
+      "activation": 1746826709173
     },
     "6285166227894@s.whatsapp.net": {
       "exp": 183,
@@ -150583,12 +150583,12 @@
       "expired": 0,
       "total": {
         "6282333893642@s.whatsapp.net": 37,
-        "6283802701252@s.whatsapp.net": 96,
-        "6282145859122@s.whatsapp.net": 203,
-        "6281547167302@s.whatsapp.net": 161,
-        "6281242829494@s.whatsapp.net": 27,
-        "6281393380592@s.whatsapp.net": 6,
-        "6289687908422@s.whatsapp.net": 6
+        "6283802701252@s.whatsapp.net": 103,
+        "6282145859122@s.whatsapp.net": 211,
+        "6281547167302@s.whatsapp.net": 173,
+        "6281242829494@s.whatsapp.net": 29,
+        "6281393380592@s.whatsapp.net": 7,
+        "6289687908422@s.whatsapp.net": 8
       },
       "totalChat": 0
     },
@@ -152138,7 +152138,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746824588598,
+      "backupDB": 1746826708332,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
