@@ -210,7 +210,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1746814777070,
+      "activation": 1746821209823,
       "lastBanned": 0,
       "lastcommand": 1746804852215,
       "limitprem": 10000,
@@ -4465,7 +4465,7 @@
       "activation": 1744814553141
     },
     "6283135694054@s.whatsapp.net": {
-      "exp": 146,
+      "exp": 182,
       "limit": 499,
       "registered": false,
       "name": "Codak",
@@ -4484,8 +4484,8 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1745277774094,
-      "lastcommand": 1745277732673
+      "activation": 1746821209818,
+      "lastcommand": 1746821207440
     },
     "6285822577648@s.whatsapp.net": {
       "exp": 8,
@@ -4528,7 +4528,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746785126354,
+      "activation": 1746824698939,
       "lastBanned": 0
     },
     "6287749048860@s.whatsapp.net": {
@@ -20353,10 +20353,10 @@
       "lastSuccess": 1746804843106
     },
     "_cek.js": {
-      "total": 143,
-      "success": 138,
-      "last": 1746775498002,
-      "lastSuccess": 1746775498002
+      "total": 144,
+      "success": 139,
+      "last": 1746821209818,
+      "lastSuccess": 1746821209818
     },
     "user-limit.js": {
       "total": 15,
@@ -21084,7 +21084,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746809374859,
+      "backupDB": 1746821206999,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
