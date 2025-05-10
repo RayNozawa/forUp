@@ -192,7 +192,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 18895,
+      "exp": 19182,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -210,7 +210,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1746891416877,
+      "activation": 1746895546251,
       "lastBanned": 0,
       "lastcommand": 1746873646855,
       "limitprem": 10000,
@@ -15264,7 +15264,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746873961335,
+      "activation": 1746895517797,
       "lastBanned": 0
     },
     "6285704902885@s.whatsapp.net": {
@@ -20857,10 +20857,10 @@
       "lastSuccess": 1746804879065
     },
     "ai-remini.js": {
-      "total": 338,
-      "success": 295,
-      "last": 1746888800108,
-      "lastSuccess": 1746888800108
+      "total": 349,
+      "success": 306,
+      "last": 1746895546236,
+      "lastSuccess": 1746895546236
     },
     "ai-remini2.js": {
       "total": 33,
@@ -21606,7 +21606,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746891286073,
+      "backupDB": 1746894721420,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
