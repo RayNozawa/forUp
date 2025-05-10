@@ -91,7 +91,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 208866,
+      "exp": 208940,
       "limit": 766,
       "registered": false,
       "name": "Rayhan?",
@@ -118,7 +118,7 @@
       "lastrob": 1734752367160,
       "resetSent": true,
       "delay": 1735728719020,
-      "activation": 1746893653070
+      "activation": 1746893788433
     },
     "6289512651656@s.whatsapp.net": {
       "exp": 7,
@@ -4535,7 +4535,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1746893653244
+      "activation": 1746893788472
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -149458,10 +149458,10 @@
       "lastSuccess": 1742815306956
     },
     "internet-fetch.js": {
-      "total": 241,
-      "success": 219,
-      "last": 1746889935843,
-      "lastSuccess": 1746889935843
+      "total": 244,
+      "success": 222,
+      "last": 1746893788433,
+      "lastSuccess": 1746893788433
     },
     "info-payment.js": {
       "total": 53,
@@ -152278,7 +152278,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746891724985,
+      "backupDB": 1746893701764,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
