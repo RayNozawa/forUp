@@ -2323,7 +2323,7 @@
       "activation": 1746839924980
     },
     "6282291130557@s.whatsapp.net": {
-      "exp": 2804,
+      "exp": 2873,
       "limit": 499,
       "registered": false,
       "name": "RAS STORE",
@@ -2341,7 +2341,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746833466023,
+      "activation": 1746853374146,
       "lastBanned": 0
     },
     "628385825266@s.whatsapp.net": {
@@ -2588,7 +2588,7 @@
       "activation": 1743225399960
     },
     "6287750360878@s.whatsapp.net": {
-      "exp": 491,
+      "exp": 500,
       "limit": 499,
       "registered": false,
       "name": "wulan",
@@ -2607,7 +2607,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746831727976
+      "activation": 1746854652379
     },
     "6282123890775@s.whatsapp.net": {
       "exp": 35,
@@ -2803,7 +2803,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746851595431,
+      "activation": 1746860313794,
       "lastBanned": 0
     },
     "6283141671011@s.whatsapp.net": {
@@ -3024,7 +3024,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746853049198,
+      "activation": 1746856756921,
       "lastBanned": 0
     },
     "120363159552753674@newsletter": {
@@ -3823,9 +3823,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1746629170989,
+      "activation": 1746859712869,
       "lastBanned": 0
     },
     "6283129349181@s.whatsapp.net": {
@@ -4616,7 +4616,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746639560598,
+      "activation": 1746853190648,
       "lastcommand": 1746220895701
     },
     "6287851126833@s.whatsapp.net": {
@@ -15134,6 +15134,26 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1746834358481
+    },
+    "122380898812000@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1746853280437
     }
   },
   "chats": {
@@ -20932,7 +20952,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746839924725,
+      "backupDB": 1746853054140,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
