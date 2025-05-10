@@ -2367,7 +2367,7 @@
       "lastBanned": 0
     },
     "6288989865313@s.whatsapp.net": {
-      "exp": 258,
+      "exp": 266,
       "limit": 499,
       "registered": false,
       "name": "ㅤ",
@@ -2383,9 +2383,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1746869828193,
+      "activation": 1746874044549,
       "lastBanned": 0
     },
     "6285141661889@s.whatsapp.net": {
@@ -2588,7 +2588,7 @@
       "activation": 1743225399960
     },
     "6287750360878@s.whatsapp.net": {
-      "exp": 543,
+      "exp": 551,
       "limit": 499,
       "registered": false,
       "name": "wulan",
@@ -2607,7 +2607,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746872920494
+      "activation": 1746874986736
     },
     "6282123890775@s.whatsapp.net": {
       "exp": 35,
@@ -3024,7 +3024,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746871308413,
+      "activation": 1746874965929,
       "lastBanned": 0
     },
     "120363159552753674@newsletter": {
@@ -3045,7 +3045,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746872311547,
+      "activation": 1746874683092,
       "lastBanned": 0
     },
     "6285692978197@s.whatsapp.net": {
@@ -15174,6 +15174,26 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1746872033625
+    },
+    "121509574136053@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1746875389591
     }
   },
   "chats": {
@@ -20972,7 +20992,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746871896752,
+      "backupDB": 1746874024040,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
