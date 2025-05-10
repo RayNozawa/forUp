@@ -91,7 +91,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 209333,
+      "exp": 209376,
       "limit": 766,
       "registered": false,
       "name": "Rayhan?",
@@ -118,7 +118,7 @@
       "lastrob": 1734752367160,
       "resetSent": true,
       "delay": 1735728719020,
-      "activation": 1746899078239
+      "activation": 1746908482801
     },
     "6289512651656@s.whatsapp.net": {
       "exp": 7,
@@ -4535,7 +4535,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1746899078417
+      "activation": 1746908482951
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -149530,10 +149530,10 @@
       "lastSuccess": 1746007319867
     },
     "owner-exec.js": {
-      "total": 548,
-      "success": 548,
-      "last": 1746896284625,
-      "lastSuccess": 1746896284625
+      "total": 549,
+      "success": 549,
+      "last": 1746901552326,
+      "lastSuccess": 1746901552326
     },
     "downloader-ytmp3.js": {
       "total": 247,
@@ -151912,10 +151912,10 @@
       "lastSuccess": 1743053519748
     },
     "owner-exec3.js": {
-      "total": 52,
-      "success": 52,
-      "last": 1746899078239,
-      "lastSuccess": 1746899078239
+      "total": 53,
+      "success": 53,
+      "last": 1746908482801,
+      "lastSuccess": 1746908482801
     },
     "havefun-taksi.js": {
       "total": 4,
@@ -152278,7 +152278,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746897616773,
+      "backupDB": 1746901552057,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
