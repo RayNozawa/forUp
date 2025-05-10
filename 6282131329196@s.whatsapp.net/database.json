@@ -1023,7 +1023,7 @@
       "lastBanned": 0
     },
     "6289636027771@s.whatsapp.net": {
-      "exp": 451,
+      "exp": 458,
       "limit": 499,
       "registered": false,
       "name": "@ZAriel_SiDoel",
@@ -1042,7 +1042,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746884356999,
+      "activation": 1746885353480,
       "lastcommand": 1742807553655
     },
     "6285574670469@s.whatsapp.net": {
@@ -4376,7 +4376,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746878112563,
+      "activation": 1746886193676,
       "lastBanned": 0
     },
     "6281389651748@s.whatsapp.net": {
@@ -21543,7 +21543,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746883109784,
+      "backupDB": 1746885352974,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
