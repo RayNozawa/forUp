@@ -4535,7 +4535,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1746851939547
+      "activation": 1746854790140
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -59710,8 +59710,8 @@
       "lastBanned": 0
     },
     "62882022063723@s.whatsapp.net": {
-      "exp": 325462,
-      "limit": 2178,
+      "exp": 325486,
+      "limit": 2153,
       "registered": false,
       "name": "Reyy",
       "age": -1,
@@ -59733,7 +59733,7 @@
       "lastrob": 1736225056208,
       "lastwork": 1740134888594,
       "lastcommand": 1744279785366,
-      "activation": 1746844746390,
+      "activation": 1746854790131,
       "redeem": "R4Y110307"
     },
     "6285161408046@s.whatsapp.net": {
@@ -129032,7 +129032,7 @@
       "activation": 1746849901496
     },
     "6281362551724@s.whatsapp.net": {
-      "exp": 4,
+      "exp": 22,
       "limit": 499,
       "registered": false,
       "name": "~Daegal Appa",
@@ -129050,7 +129050,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746851130920
+      "activation": 1746853331312,
+      "lastBanned": 0
     },
     "198011347009713@lid": {
       "exp": 0,
@@ -148893,10 +148894,10 @@
       "lastSuccess": 1746847667157
     },
     "downloader-tiktok.js": {
-      "total": 3415,
-      "success": 3118,
-      "last": 1746851939539,
-      "lastSuccess": 1746851939539
+      "total": 3416,
+      "success": 3119,
+      "last": 1746854790131,
+      "lastSuccess": 1746854790131
     },
     "owner-sf.js": {
       "total": 1231,
@@ -151899,7 +151900,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746851479861,
+      "backupDB": 1746853327719,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
