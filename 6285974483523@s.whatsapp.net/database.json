@@ -192,7 +192,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 19182,
+      "exp": 19285,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -210,7 +210,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1746895546251,
+      "activation": 1746918299225,
       "lastBanned": 0,
       "lastcommand": 1746873646855,
       "limitprem": 10000,
@@ -15266,7 +15266,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746895517797,
+      "activation": 1746918298271,
       "lastBanned": 0
     },
     "6285704902885@s.whatsapp.net": {
@@ -20859,10 +20859,10 @@
       "lastSuccess": 1746804879065
     },
     "ai-remini.js": {
-      "total": 349,
-      "success": 306,
-      "last": 1746895546236,
-      "lastSuccess": 1746895546236
+      "total": 352,
+      "success": 309,
+      "last": 1746917878545,
+      "lastSuccess": 1746917878545
     },
     "ai-remini2.js": {
       "total": 33,
@@ -20895,10 +20895,10 @@
       "lastSuccess": 1741729221851
     },
     "downloader-tiktok.js": {
-      "total": 252,
-      "success": 232,
-      "last": 1746891416861,
-      "lastSuccess": 1746891416861
+      "total": 253,
+      "success": 233,
+      "last": 1746918299218,
+      "lastSuccess": 1746918299218
     },
     "owner-pushkontak.js": {
       "total": 3,
@@ -21608,7 +21608,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746915111283,
+      "backupDB": 1746917691289,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
