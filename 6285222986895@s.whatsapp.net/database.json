@@ -91,7 +91,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 208304,
+      "exp": 208645,
       "limit": 766,
       "registered": false,
       "name": "Rayhan?",
@@ -118,7 +118,7 @@
       "lastrob": 1734752367160,
       "resetSent": true,
       "delay": 1735728719020,
-      "activation": 1746888133588
+      "activation": 1746890919112
     },
     "6289512651656@s.whatsapp.net": {
       "exp": 7,
@@ -4535,7 +4535,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1746888531741
+      "activation": 1746890919258
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -129037,7 +129037,7 @@
       "activation": 1746849901496
     },
     "6281362551724@s.whatsapp.net": {
-      "exp": 26,
+      "exp": 35,
       "limit": 499,
       "registered": false,
       "name": "~Daegal Appa",
@@ -129055,7 +129055,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746864577599,
+      "activation": 1746890905874,
       "lastBanned": 0
     },
     "198011347009713@lid": {
@@ -129439,6 +129439,27 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1746885558171
+    },
+    "120363392593855469@g.us": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "name": {},
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1746891038254
     }
   },
   "chats": {
@@ -149257,10 +149278,10 @@
       "lastSuccess": 1746887988381
     },
     "owner-sf.js": {
-      "total": 1231,
-      "success": 1121,
-      "last": 1745582013892,
-      "lastSuccess": 1745582013892
+      "total": 1232,
+      "success": 1122,
+      "last": 1746890162843,
+      "lastSuccess": 1746890162843
     },
     "downloader-play.js": {
       "total": 3624,
@@ -149437,10 +149458,10 @@
       "lastSuccess": 1742815306956
     },
     "internet-fetch.js": {
-      "total": 239,
-      "success": 217,
-      "last": 1745551821398,
-      "lastSuccess": 1745551821398
+      "total": 241,
+      "success": 219,
+      "last": 1746889935843,
+      "lastSuccess": 1746889935843
     },
     "info-payment.js": {
       "total": 53,
@@ -149461,10 +149482,10 @@
       "lastSuccess": 1731509107103
     },
     "downloader-pinterest.js": {
-      "total": 1110,
-      "success": 1006,
-      "last": 1746860934508,
-      "lastSuccess": 1746860934508
+      "total": 1111,
+      "success": 1007,
+      "last": 1746889772990,
+      "lastSuccess": 1746889772990
     },
     "downloader-soundcloud.js": {
       "total": 25,
@@ -149509,10 +149530,10 @@
       "lastSuccess": 1746007319867
     },
     "owner-exec.js": {
-      "total": 540,
-      "success": 540,
-      "last": 1746849764709,
-      "lastSuccess": 1746849764709
+      "total": 541,
+      "success": 541,
+      "last": 1746889752359,
+      "lastSuccess": 1746889752359
     },
     "downloader-ytmp3.js": {
       "total": 247,
@@ -149593,10 +149614,10 @@
       "lastSuccess": 1732790132779
     },
     "tool-tourl.js": {
-      "total": 80,
-      "success": 69,
-      "last": 1746072038153,
-      "lastSuccess": 1746072038153
+      "total": 81,
+      "success": 70,
+      "last": 1746889787717,
+      "lastSuccess": 1746889787717
     },
     "ai-boredchatimg.js": {
       "total": 13,
@@ -149947,10 +149968,10 @@
       "lastSuccess": 1731509095029
     },
     "owner-exec2.js": {
-      "total": 78,
-      "success": 78,
-      "last": 1744945911145,
-      "lastSuccess": 1744945911145
+      "total": 79,
+      "success": 79,
+      "last": 1746890147969,
+      "lastSuccess": 1746890147969
     },
     "sticker-pinterest.js": {
       "total": 331,
@@ -151891,10 +151912,10 @@
       "lastSuccess": 1743053519748
     },
     "owner-exec3.js": {
-      "total": 31,
-      "success": 31,
-      "last": 1746002649962,
-      "lastSuccess": 1746002649962
+      "total": 39,
+      "success": 39,
+      "last": 1746890919112,
+      "lastSuccess": 1746890919112
     },
     "havefun-taksi.js": {
       "total": 4,
@@ -152257,7 +152278,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746887364667,
+      "backupDB": 1746889600265,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
