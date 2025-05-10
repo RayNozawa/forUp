@@ -2024,8 +2024,8 @@
       "lastcommand": 1730727286271
     },
     "6288983017604@s.whatsapp.net": {
-      "exp": 428,
-      "limit": 942,
+      "exp": 446,
+      "limit": 922,
       "registered": false,
       "name": "Rodan Ay",
       "age": -1,
@@ -2047,7 +2047,7 @@
       "lastwork": 1743834394564,
       "lastrob": 1740349777248,
       "lastcommand": 1735962395262,
-      "activation": 1746883250565
+      "activation": 1746884889016
     },
     "6282122917158@s.whatsapp.net": {
       "exp": 477,
@@ -4535,7 +4535,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1746884226386
+      "activation": 1746884900558
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -91576,8 +91576,8 @@
       "lastBanned": 0
     },
     "6282154994462@s.whatsapp.net": {
-      "exp": 60899,
-      "limit": 714,
+      "exp": 60921,
+      "limit": 689,
       "registered": false,
       "name": "‎",
       "age": -1,
@@ -91594,7 +91594,7 @@
       "lastmonthly": 1746606872411,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746606872413,
+      "activation": 1746884900551,
       "lastBanned": 0,
       "lastdaily": 1746606872411
     },
@@ -129418,6 +129418,26 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1746882879326
+    },
+    "220641512947843@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1746885558171
     }
   },
   "chats": {
@@ -149224,16 +149244,16 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 1243,
-      "success": 1176,
-      "last": 1746883250565,
-      "lastSuccess": 1746883250565
+      "total": 1244,
+      "success": 1177,
+      "last": 1746884889016,
+      "lastSuccess": 1746884889016
     },
     "downloader-tiktok.js": {
-      "total": 3426,
-      "success": 3128,
-      "last": 1746884215987,
-      "lastSuccess": 1746884215987
+      "total": 3427,
+      "success": 3129,
+      "last": 1746884900551,
+      "lastSuccess": 1746884900551
     },
     "owner-sf.js": {
       "total": 1231,
@@ -152236,7 +152256,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746882831614,
+      "backupDB": 1746884872612,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
