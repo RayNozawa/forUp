@@ -91,7 +91,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 209243,
+      "exp": 209333,
       "limit": 766,
       "registered": false,
       "name": "Rayhan?",
@@ -110,7 +110,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1746591250775,
+      "lastcommand": 1746897616937,
       "lastwork": 1735007026344,
       "aiprompt": "mulai sekarang nama kamu adalah jinan safa safira, kamu orang yang sangat baik",
       "warn": 0,
@@ -118,7 +118,7 @@
       "lastrob": 1734752367160,
       "resetSent": true,
       "delay": 1735728719020,
-      "activation": 1746896998641
+      "activation": 1746899078239
     },
     "6289512651656@s.whatsapp.net": {
       "exp": 7,
@@ -4535,7 +4535,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1746896998801
+      "activation": 1746899078417
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -149458,10 +149458,10 @@
       "lastSuccess": 1742815306956
     },
     "internet-fetch.js": {
-      "total": 244,
-      "success": 222,
-      "last": 1746893788433,
-      "lastSuccess": 1746893788433
+      "total": 245,
+      "success": 223,
+      "last": 1746898157587,
+      "lastSuccess": 1746898157587
     },
     "info-payment.js": {
       "total": 53,
@@ -149614,10 +149614,10 @@
       "lastSuccess": 1732790132779
     },
     "tool-tourl.js": {
-      "total": 85,
-      "success": 74,
-      "last": 1746896109379,
-      "lastSuccess": 1746896109379
+      "total": 86,
+      "success": 75,
+      "last": 1746898164912,
+      "lastSuccess": 1746898164912
     },
     "ai-boredchatimg.js": {
       "total": 13,
@@ -151714,10 +151714,10 @@
       "lastSuccess": 1746083025100
     },
     "_main-menu.js": {
-      "total": 448,
-      "success": 444,
-      "last": 1746883105004,
-      "lastSuccess": 1746883105004
+      "total": 449,
+      "success": 445,
+      "last": 1746897622912,
+      "lastSuccess": 1746897622912
     },
     "_main-allmenu.js": {
       "total": 115,
@@ -151912,10 +151912,10 @@
       "lastSuccess": 1743053519748
     },
     "owner-exec3.js": {
-      "total": 51,
-      "success": 51,
-      "last": 1746896998641,
-      "lastSuccess": 1746896998641
+      "total": 52,
+      "success": 52,
+      "last": 1746899078239,
+      "lastSuccess": 1746899078239
     },
     "havefun-taksi.js": {
       "total": 4,
@@ -152278,7 +152278,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746895750812,
+      "backupDB": 1746897616773,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
