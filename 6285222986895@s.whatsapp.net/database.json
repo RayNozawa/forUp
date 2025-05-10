@@ -184,7 +184,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746849785553
+      "activation": 1746855570540
     },
     "120363240711248334@g.us": {
       "exp": 5227,
@@ -206,7 +206,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746759405270
+      "activation": 1746855613261
     },
     "62882003784627@s.whatsapp.net": {
       "exp": 12,
@@ -1003,7 +1003,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746849785672
+      "activation": 1746855570694
     },
     "6283119901412@s.whatsapp.net": {
       "exp": 16214,
@@ -2135,8 +2135,8 @@
       "activation": 1746260418545
     },
     "6285724862795@s.whatsapp.net": {
-      "exp": 3081,
-      "limit": 254,
+      "exp": 3130,
+      "limit": 229,
       "registered": false,
       "name": "Mf",
       "age": -1,
@@ -2154,9 +2154,9 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1745717237877,
+      "lastcommand": 1746855141319,
       "lastdaily": 1731302350018,
-      "activation": 1745932408615
+      "activation": 1746855177871
     },
     "6281398178926@s.whatsapp.net": {
       "exp": 477,
@@ -4535,7 +4535,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1746854790140
+      "activation": 1746855650285
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -129093,6 +129093,48 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1746852749231
+    },
+    "6283188271688@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 831-8827-1688",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1746855649322,
+      "lastBanned": 0
+    },
+    "229209972695204@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1746855649365
     }
   },
   "chats": {
@@ -148894,10 +148936,10 @@
       "lastSuccess": 1746847667157
     },
     "downloader-tiktok.js": {
-      "total": 3416,
-      "success": 3119,
-      "last": 1746854790131,
-      "lastSuccess": 1746854790131
+      "total": 3417,
+      "success": 3120,
+      "last": 1746855177871,
+      "lastSuccess": 1746855177871
     },
     "owner-sf.js": {
       "total": 1231,
@@ -151336,10 +151378,10 @@
       "lastSuccess": 1746083025100
     },
     "_main-menu.js": {
-      "total": 441,
-      "success": 437,
-      "last": 1746844302732,
-      "lastSuccess": 1746844302732
+      "total": 442,
+      "success": 438,
+      "last": 1746855147606,
+      "lastSuccess": 1746855147606
     },
     "_main-allmenu.js": {
       "total": 113,
@@ -151900,7 +151942,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746853327719,
+      "backupDB": 1746855141124,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
