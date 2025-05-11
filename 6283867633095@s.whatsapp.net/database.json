@@ -2323,7 +2323,7 @@
       "activation": 1746839924980
     },
     "6282291130557@s.whatsapp.net": {
-      "exp": 2874,
+      "exp": 2885,
       "limit": 499,
       "registered": false,
       "name": "RAS STORE",
@@ -2341,7 +2341,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746893232247,
+      "activation": 1746928958802,
       "lastBanned": 0
     },
     "628385825266@s.whatsapp.net": {
@@ -3024,7 +3024,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746874965929,
+      "activation": 1746927544005,
       "lastBanned": 0
     },
     "120363159552753674@newsletter": {
@@ -3511,7 +3511,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
       "activation": 1746917747120
@@ -13159,10 +13159,10 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746341558116
+      "activation": 1746928927305
     },
     "149104671899707@lid": {
       "exp": 0,
@@ -21033,7 +21033,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746917744704,
+      "backupDB": 1746928777089,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
