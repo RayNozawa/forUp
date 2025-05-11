@@ -192,7 +192,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 20089,
+      "exp": 20093,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -210,7 +210,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1746986263948,
+      "activation": 1747002135986,
       "lastBanned": 0,
       "lastcommand": 1746968576481,
       "limitprem": 10000,
@@ -15869,8 +15869,8 @@
       "activation": 1746941134393
     },
     "6285784318185@s.whatsapp.net": {
-      "exp": 164,
-      "limit": 474,
+      "exp": 291,
+      "limit": 454,
       "registered": false,
       "name": "Enn",
       "age": -1,
@@ -15885,10 +15885,11 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746948593166
+      "activation": 1747002135982,
+      "lastcommand": 1747002130287
     },
     "89773909749878@lid": {
       "exp": 0,
@@ -16355,6 +16356,26 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1746982666007
+    },
+    "23669833207926@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1747001240402
     }
   },
   "chats": {
@@ -21569,10 +21590,10 @@
       "lastSuccess": 1746533361512
     },
     "_main-menu.js": {
-      "total": 119,
-      "success": 116,
-      "last": 1746930002798,
-      "lastSuccess": 1746930002798
+      "total": 120,
+      "success": 117,
+      "last": 1747002135982,
+      "lastSuccess": 1747002135982
     },
     "downloader-play.js": {
       "total": 74,
@@ -21635,10 +21656,10 @@
       "lastSuccess": 1746711833615
     },
     "sticker-all.js": {
-      "total": 213,
-      "success": 209,
-      "last": 1746948593166,
-      "lastSuccess": 1746948593166
+      "total": 217,
+      "success": 213,
+      "last": 1747002053804,
+      "lastSuccess": 1747002053804
     },
     "sticker-quotely.js": {
       "total": 31,
@@ -22330,7 +22351,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746990030407,
+      "backupDB": 1747001456787,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
