@@ -1327,8 +1327,8 @@
       "lastBanned": 0
     },
     "6285975180182@s.whatsapp.net": {
-      "exp": 17644,
-      "limit": 1169,
+      "exp": 17687,
+      "limit": 1144,
       "registered": false,
       "name": "Muhamad raka arasyd",
       "age": -1,
@@ -1349,7 +1349,7 @@
       "lastcommand": 1733646305573,
       "lastdaily": 1733602146995,
       "lastwork": 1730627739066,
-      "activation": 1745220712858
+      "activation": 1746979934712
     },
     "6283822760236@s.whatsapp.net": {
       "exp": 299,
@@ -4535,7 +4535,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1746979490502
+      "activation": 1746981178316
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -96882,8 +96882,8 @@
       "warn": 1
     },
     "6282363391407@s.whatsapp.net": {
-      "exp": 117545,
-      "limit": 949,
+      "exp": 117769,
+      "limit": 699,
       "registered": false,
       "name": "B77W",
       "age": -1,
@@ -96900,7 +96900,7 @@
       "lastmonthly": 1746539407384,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746979089082,
+      "activation": 1746981178307,
       "lastBanned": 0,
       "lastdaily": 1746969430161
     },
@@ -149991,10 +149991,10 @@
       "lastSuccess": 1746958182193
     },
     "downloader-tiktok.js": {
-      "total": 3455,
-      "success": 3154,
-      "last": 1746974055672,
-      "lastSuccess": 1746974055672
+      "total": 3457,
+      "success": 3155,
+      "last": 1746979934712,
+      "lastSuccess": 1746979934712
     },
     "owner-sf.js": {
       "total": 1232,
@@ -150135,10 +150135,10 @@
       "lastSuccess": 1735826605203
     },
     "ai-remini.js": {
-      "total": 1899,
-      "success": 1792,
-      "last": 1746979089082,
-      "lastSuccess": 1746979089082
+      "total": 1909,
+      "success": 1802,
+      "last": 1746981178307,
+      "lastSuccess": 1746981178307
     },
     "game-tebakbendera.js": {
       "total": 482,
@@ -152997,7 +152997,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746977571605,
+      "backupDB": 1746979530509,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
