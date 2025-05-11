@@ -3477,8 +3477,8 @@
       "activation": 1746360719731
     },
     "6285603654413@s.whatsapp.net": {
-      "exp": 10176,
-      "limit": 4212,
+      "exp": 10202,
+      "limit": 4187,
       "registered": false,
       "name": "K",
       "age": -1,
@@ -3497,7 +3497,7 @@
       "premiumTime": 0,
       "lastdaily": 1745927133295,
       "lastBanned": 0,
-      "activation": 1746107841325,
+      "activation": 1746977584215,
       "lastcommand": 1745834205649
     },
     "628568658957@s.whatsapp.net": {
@@ -4535,7 +4535,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1746976110988
+      "activation": 1746979490502
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -96882,8 +96882,8 @@
       "warn": 1
     },
     "6282363391407@s.whatsapp.net": {
-      "exp": 117464,
-      "limit": 1049,
+      "exp": 117545,
+      "limit": 949,
       "registered": false,
       "name": "B77W",
       "age": -1,
@@ -96900,7 +96900,7 @@
       "lastmonthly": 1746539407384,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746969430162,
+      "activation": 1746979089082,
       "lastBanned": 0,
       "lastdaily": 1746969430161
     },
@@ -104164,9 +104164,10 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1744281573796
+      "activation": 1746979478697,
+      "lastBanned": 0
     },
     "628895253806@s.whatsapp.net": {
       "exp": 0,
@@ -130070,6 +130071,26 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1746974360714
+    },
+    "85938638160008@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1746979479300
     }
   },
   "chats": {
@@ -149982,10 +150003,10 @@
       "lastSuccess": 1746890162843
     },
     "downloader-play.js": {
-      "total": 3657,
-      "success": 3424,
-      "last": 1746975002920,
-      "lastSuccess": 1746975002920
+      "total": 3658,
+      "success": 3425,
+      "last": 1746977584215,
+      "lastSuccess": 1746977584215
     },
     "downloader-ytvideo.js": {
       "total": 148,
@@ -150114,10 +150135,10 @@
       "lastSuccess": 1735826605203
     },
     "ai-remini.js": {
-      "total": 1895,
-      "success": 1788,
-      "last": 1746973336542,
-      "lastSuccess": 1746973336542
+      "total": 1899,
+      "success": 1792,
+      "last": 1746979089082,
+      "lastSuccess": 1746979089082
     },
     "game-tebakbendera.js": {
       "total": 482,
@@ -152976,7 +152997,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746974985433,
+      "backupDB": 1746977571605,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
