@@ -210,7 +210,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1746929230728,
+      "activation": 1746930012548,
       "lastBanned": 0,
       "lastcommand": 1746921078026,
       "limitprem": 10000,
@@ -4528,7 +4528,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746927166677,
+      "activation": 1746929909535,
       "lastBanned": 0
     },
     "6287749048860@s.whatsapp.net": {
@@ -15763,6 +15763,29 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1746926197466
+    },
+    "6283177435156@s.whatsapp.net": {
+      "exp": 71,
+      "limit": 499,
+      "registered": false,
+      "name": "wan",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0,
+      "activation": 1746930012664,
+      "lastcommand": 1746929994200
     }
   },
   "chats": {
@@ -20811,6 +20834,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "6283177435156@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -20887,10 +20931,10 @@
       "lastSuccess": 1746533361512
     },
     "_main-menu.js": {
-      "total": 118,
-      "success": 115,
-      "last": 1746921087916,
-      "lastSuccess": 1746921087916
+      "total": 119,
+      "success": 116,
+      "last": 1746930002798,
+      "lastSuccess": 1746930002798
     },
     "downloader-play.js": {
       "total": 74,
@@ -21091,10 +21135,10 @@
       "lastSuccess": 1741752714872
     },
     "main-creator.js": {
-      "total": 12,
-      "success": 12,
-      "last": 1744974681388,
-      "lastSuccess": 1744974681388
+      "total": 13,
+      "success": 13,
+      "last": 1746930012664,
+      "lastSuccess": 1746930012664
     },
     "user-leader.js": {
       "total": 8,
