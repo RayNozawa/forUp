@@ -1029,8 +1029,8 @@
       "lastcommand": 1732413964463
     },
     "6281286430533@s.whatsapp.net": {
-      "exp": 8169,
-      "limit": 154,
+      "exp": 8209,
+      "limit": 114,
       "registered": false,
       "name": "Madly",
       "age": -1,
@@ -1050,7 +1050,7 @@
       "lastBanned": 0,
       "lastcommand": 1746942560791,
       "lastdaily": 1735812370759,
-      "activation": 1746942678475
+      "activation": 1746985168242
     },
     "6283191371141@s.whatsapp.net": {
       "exp": 1090,
@@ -4535,7 +4535,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1746981615310
+      "activation": 1746985168744
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -150047,10 +150047,10 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 1250,
-      "success": 1183,
-      "last": 1746958182193,
-      "lastSuccess": 1746958182193
+      "total": 1252,
+      "success": 1185,
+      "last": 1746985168242,
+      "lastSuccess": 1746985168242
     },
     "downloader-tiktok.js": {
       "total": 3457,
@@ -153059,7 +153059,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746981348099,
+      "backupDB": 1746985158771,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
