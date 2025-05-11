@@ -26512,7 +26512,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746983199537,
+      "activation": 1746986279020,
       "lastBanned": 0,
       "lastcommand": 1746947812913
     },
@@ -111452,7 +111452,7 @@
       "lastcommand": 1745996740355
     },
     "6285643270085@s.whatsapp.net": {
-      "exp": 4724,
+      "exp": 4925,
       "limit": 499,
       "registered": false,
       "name": "Anisa",
@@ -111470,7 +111470,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746985935890,
+      "activation": 1746986611728,
       "lastBanned": 0,
       "warn": 4
     },
@@ -113293,7 +113293,7 @@
       "lastBanned": 0
     },
     "60136873617@s.whatsapp.net": {
-      "exp": 1293,
+      "exp": 1332,
       "limit": 499,
       "registered": false,
       "name": "Ammar Asyraaf",
@@ -113309,10 +113309,10 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746985728782
+      "activation": 1746986532751
     },
     "6285782979593@s.whatsapp.net": {
       "exp": 472,
@@ -122130,9 +122130,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1745389448446,
+      "activation": 1746986643036,
       "lastBanned": 0
     },
     "6283197668245@s.whatsapp.net": {
@@ -130583,7 +130583,7 @@
       "activation": 1746189639228
     },
     "6285791063277@s.whatsapp.net": {
-      "exp": 515,
+      "exp": 534,
       "limit": 499,
       "registered": false,
       "name": "Suami Hu Tao😜😋",
@@ -130601,7 +130601,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746275089262,
+      "activation": 1746988111391,
       "lastBanned": 0
     },
     "6289531792976@s.whatsapp.net": {
@@ -132755,7 +132755,7 @@
       "lastBanned": 0
     },
     "62887435792969@s.whatsapp.net": {
-      "exp": 152,
+      "exp": 175,
       "limit": 499,
       "registered": false,
       "name": "Ryojima",
@@ -132773,7 +132773,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746985914096,
+      "activation": 1746987256444,
       "lastBanned": 0
     },
     "267095677898762@lid": {
@@ -146000,15 +146000,15 @@
       "expired": 0,
       "total": {
         "6285810692031@s.whatsapp.net": 45,
-        "6287852264545@s.whatsapp.net": 7087,
+        "6287852264545@s.whatsapp.net": 7105,
         "62882003705037@s.whatsapp.net": 3119,
-        "6285643270085@s.whatsapp.net": 17543,
+        "6285643270085@s.whatsapp.net": 18477,
         "6285179547624@s.whatsapp.net": 14725,
         "6281532852168@s.whatsapp.net": 1454,
         "6289531624927@s.whatsapp.net": 668,
         "6283173483621@s.whatsapp.net": 369,
         "6281275177925@s.whatsapp.net": 3087,
-        "60136873617@s.whatsapp.net": 2993,
+        "60136873617@s.whatsapp.net": 3235,
         "6283892188432@s.whatsapp.net": 36,
         "6285246452706@s.whatsapp.net": 301,
         "6281311602545@s.whatsapp.net": 1178,
@@ -146039,8 +146039,8 @@
         "6281927476249@s.whatsapp.net": 520,
         "6282211290778@s.whatsapp.net": 106,
         "6287752817585@s.whatsapp.net": 436,
-        "6285791063277@s.whatsapp.net": 2238,
-        "62887435792969@s.whatsapp.net": 541
+        "6285791063277@s.whatsapp.net": 2248,
+        "62887435792969@s.whatsapp.net": 614
       },
       "totalChat": 0
     },
@@ -152175,7 +152175,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746984592543,
+      "backupDB": 1746986395062,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
