@@ -192,7 +192,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 19526,
+      "exp": 19552,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -210,7 +210,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1746944557332,
+      "activation": 1746945164282,
       "lastBanned": 0,
       "lastcommand": 1746921078026,
       "limitprem": 10000,
@@ -13961,7 +13961,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746884453935,
+      "activation": 1746946472913,
       "lastBanned": 0
     },
     "120363417537141646@newsletter": {
@@ -13982,7 +13982,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746884650351,
+      "activation": 1746946421530,
       "lastBanned": 0
     },
     "120363416810310839@newsletter": {
@@ -14003,7 +14003,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746884537691,
+      "activation": 1746946622688,
       "lastBanned": 0
     },
     "6285959473488@s.whatsapp.net": {
@@ -14973,7 +14973,7 @@
       "lastBanned": 0
     },
     "6285795727918@s.whatsapp.net": {
-      "exp": 12,
+      "exp": 28,
       "limit": 499,
       "registered": false,
       "name": "Koyot_24",
@@ -14992,7 +14992,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746785943942
+      "activation": 1746945031522
     },
     "233083949314143@lid": {
       "exp": 0,
@@ -21773,7 +21773,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746942776185,
+      "backupDB": 1746945000437,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
