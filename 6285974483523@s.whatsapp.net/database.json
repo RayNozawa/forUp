@@ -192,7 +192,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 19794,
+      "exp": 19844,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -210,7 +210,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1746953905385,
+      "activation": 1746957173780,
       "lastBanned": 0,
       "lastcommand": 1746921078026,
       "limitprem": 10000,
@@ -353,7 +353,7 @@
       "lastcommand": 1746457091607
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 2319,
+      "exp": 2328,
       "limit": 1399,
       "registered": false,
       "name": "@Nadiaaa",
@@ -371,7 +371,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746950508829,
+      "activation": 1746956126299,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -534,7 +534,7 @@
       "lastdaily": 1742938834744
     },
     "6283896295573@s.whatsapp.net": {
-      "exp": 238,
+      "exp": 280,
       "limit": 499,
       "registered": false,
       "name": "Agung",
@@ -553,7 +553,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746954681151,
+      "activation": 1746955828839,
       "lastcommand": 1742379741447
     },
     "120363370527781839@newsletter": {
@@ -1023,7 +1023,7 @@
       "lastBanned": 0
     },
     "6289636027771@s.whatsapp.net": {
-      "exp": 557,
+      "exp": 575,
       "limit": 499,
       "registered": false,
       "name": "@ZAriel_SiDoel",
@@ -1042,7 +1042,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746953747503,
+      "activation": 1746955752419,
       "lastcommand": 1742807553655
     },
     "6285574670469@s.whatsapp.net": {
@@ -1709,7 +1709,7 @@
       "activation": 1743014482291
     },
     "6283157613823@s.whatsapp.net": {
-      "exp": 97,
+      "exp": 106,
       "limit": 499,
       "registered": false,
       "name": "Xabiru Cakrawangsa",
@@ -1727,7 +1727,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746764301351,
+      "activation": 1746956607120,
       "lastBanned": 0
     },
     "6283896174708@s.whatsapp.net": {
@@ -4376,7 +4376,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746953371912,
+      "activation": 1746957119230,
       "lastBanned": 0
     },
     "6281389651748@s.whatsapp.net": {
@@ -21148,10 +21148,10 @@
       "lastSuccess": 1746804879065
     },
     "ai-remini.js": {
-      "total": 360,
-      "success": 317,
-      "last": 1746953905357,
-      "lastSuccess": 1746953905357
+      "total": 361,
+      "success": 318,
+      "last": 1746955537633,
+      "lastSuccess": 1746955537633
     },
     "ai-remini2.js": {
       "total": 33,
@@ -21897,7 +21897,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746954680682,
+      "backupDB": 1746956606595,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
