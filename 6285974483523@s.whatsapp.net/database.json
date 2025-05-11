@@ -15165,7 +15165,7 @@
       "lastBanned": 0
     },
     "6289506271983@s.whatsapp.net": {
-      "exp": 301,
+      "exp": 308,
       "limit": 424,
       "registered": false,
       "name": "Yujita",
@@ -15183,7 +15183,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746988715381,
+      "activation": 1746990030879,
       "lastBanned": 0
     },
     "120363417264834050@newsletter": {
@@ -22330,7 +22330,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746987779509,
+      "backupDB": 1746990030407,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
