@@ -4535,7 +4535,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1746922107750
+      "activation": 1746924404749
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -48019,8 +48019,8 @@
       "premiumTime": 0
     },
     "6289503732563@s.whatsapp.net": {
-      "exp": 270,
-      "limit": 324,
+      "exp": 300,
+      "limit": 299,
       "registered": false,
       "name": "Dhikzz",
       "age": -1,
@@ -48039,7 +48039,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1746871078880,
-      "activation": 1746917497422
+      "activation": 1746923640647
     },
     "6285647642077@s.whatsapp.net": {
       "exp": 1674,
@@ -92228,8 +92228,8 @@
       "activation": 1743948880572
     },
     "6288210952423@s.whatsapp.net": {
-      "exp": 61589,
-      "limit": 164,
+      "exp": 61608,
+      "limit": 139,
       "registered": false,
       "name": "@✰",
       "age": -1,
@@ -92246,7 +92246,7 @@
       "lastmonthly": 1743935118536,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746884226381,
+      "activation": 1746924404734,
       "lastBanned": 0,
       "lastdaily": 1743935118536,
       "lastcommand": 1744900361586
@@ -149305,10 +149305,10 @@
       "lastSuccess": 1746890162843
     },
     "downloader-play.js": {
-      "total": 3626,
-      "success": 3395,
-      "last": 1746922107296,
-      "lastSuccess": 1746921760227
+      "total": 3627,
+      "success": 3396,
+      "last": 1746924404734,
+      "lastSuccess": 1746924404734
     },
     "downloader-ytvideo.js": {
       "total": 148,
@@ -151819,10 +151819,10 @@
       "lastSuccess": 1746612431014
     },
     "ai-remini2.js": {
-      "total": 39,
-      "success": 32,
-      "last": 1746917497422,
-      "lastSuccess": 1746917497422
+      "total": 40,
+      "success": 33,
+      "last": 1746923450499,
+      "lastSuccess": 1746923450499
     },
     "owner-banchat.js": {
       "total": 2,
@@ -152299,7 +152299,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1746921022215,
+      "backupDB": 1746923365632,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
