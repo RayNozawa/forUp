@@ -26512,12 +26512,12 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747066150859,
+      "activation": 1747067796296,
       "lastBanned": 0,
       "lastcommand": 1747039432796
     },
     "6285338686383@s.whatsapp.net": {
-      "exp": 73916,
+      "exp": 73944,
       "limit": 498,
       "registered": false,
       "name": "17 ᥆k𝗍᥆ᑲᥱr 2011",
@@ -26535,7 +26535,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747059437755,
+      "activation": 1747068126295,
       "lastBanned": 0,
       "lastcommand": 1747021899831
     },
@@ -27057,7 +27057,7 @@
       "lastcommand": 1744784191279
     },
     "6281222509633@s.whatsapp.net": {
-      "exp": 2518,
+      "exp": 2548,
       "limit": 499,
       "registered": false,
       "name": "Rifal Railfans D2",
@@ -27075,7 +27075,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747063927289,
+      "activation": 1747066927568,
       "lastBanned": 0
     },
     "6285864346596@s.whatsapp.net": {
@@ -27962,7 +27962,7 @@
       "lastcommand": 1745676675906
     },
     "6285876659865@s.whatsapp.net": {
-      "exp": 6527,
+      "exp": 6531,
       "limit": 224,
       "registered": false,
       "name": "mini vnt_",
@@ -27980,7 +27980,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747061449896,
+      "activation": 1747067302937,
       "lastBanned": 0,
       "lastcommand": 1745553926717
     },
@@ -112791,7 +112791,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746924215184
+      "activation": 1747067274557
     },
     "120363415065219179@newsletter": {
       "exp": 1188,
@@ -129492,9 +129492,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1746358617607,
+      "activation": 1747067794532,
       "lastBanned": 0
     },
     "6285714549384@s.whatsapp.net": {
@@ -134638,6 +134638,26 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "activation": 1747063366004
+    },
+    "31323448152140@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1747068084797
     }
   },
   "chats": {
@@ -153252,7 +153272,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747065127225,
+      "backupDB": 1747067302450,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
