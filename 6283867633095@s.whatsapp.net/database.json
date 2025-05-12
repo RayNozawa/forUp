@@ -210,7 +210,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1747006467662,
+      "activation": 1747010071156,
       "lastBanned": 0,
       "lastcommand": 1746968576481,
       "limitprem": 10000,
@@ -443,8 +443,8 @@
       "lastBanned": 0
     },
     "62882003885815@s.whatsapp.net": {
-      "exp": 61585,
-      "limit": 939,
+      "exp": 61662,
+      "limit": 874,
       "registered": false,
       "name": "𝔯𝔞𝔡𝔦𝔰",
       "age": -1,
@@ -459,9 +459,9 @@
       "WarnReason": "",
       "lastweekly": 1742529237697,
       "lastmonthly": 1742529237697,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1746855482692,
+      "activation": 1747010071150,
       "lastBanned": 0,
       "lastdaily": 1742529237697
     },
@@ -16377,6 +16377,26 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1747001240402
+    },
+    "97311392813069@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1747011253482
     }
   },
   "chats": {
@@ -17799,11 +17819,11 @@
         "6283857714276@s.whatsapp.net": 243,
         "6282357353442@s.whatsapp.net": 314,
         "6288246246949@s.whatsapp.net": 405,
-        "6283164975409@s.whatsapp.net": 153,
+        "6283164975409@s.whatsapp.net": 154,
         "6285704902885@s.whatsapp.net": 35,
-        "6289629130204@s.whatsapp.net": 462,
+        "6289629130204@s.whatsapp.net": 464,
         "6283175509153@s.whatsapp.net": 431,
-        "62882003885815@s.whatsapp.net": 406,
+        "62882003885815@s.whatsapp.net": 407,
         "6287865741620@s.whatsapp.net": 64,
         "6285975246698@s.whatsapp.net": 92,
         "6283139312937@s.whatsapp.net": 227,
@@ -17814,18 +17834,18 @@
         "6285776561687@s.whatsapp.net": 4,
         "6282121208409@s.whatsapp.net": 79,
         "6285790379156@s.whatsapp.net": 41,
-        "6285378447987@s.whatsapp.net": 62,
+        "6285378447987@s.whatsapp.net": 65,
         "6285766064200@s.whatsapp.net": 111,
         "6283856801205@s.whatsapp.net": 145,
         "6289531370298@s.whatsapp.net": 15,
-        "6285856011884@s.whatsapp.net": 124,
+        "6285856011884@s.whatsapp.net": 125,
         "6289506612543@s.whatsapp.net": 9,
         "6283171609872@s.whatsapp.net": 29,
         "62895325629523@s.whatsapp.net": 84,
         "6287730692750@s.whatsapp.net": 231,
         "6281553476702@s.whatsapp.net": 67,
-        "6283114594503@s.whatsapp.net": 297,
-        "6281215712318@s.whatsapp.net": 294,
+        "6283114594503@s.whatsapp.net": 307,
+        "6281215712318@s.whatsapp.net": 300,
         "6289506271983@s.whatsapp.net": 58,
         "6285860692849@s.whatsapp.net": 38,
         "62895327280770@s.whatsapp.net": 50
@@ -21639,10 +21659,10 @@
       "lastSuccess": 1741729221851
     },
     "downloader-tiktok.js": {
-      "total": 272,
-      "success": 252,
-      "last": 1746970261786,
-      "lastSuccess": 1746970261786
+      "total": 273,
+      "success": 253,
+      "last": 1747010071150,
+      "lastSuccess": 1747010071150
     },
     "owner-pushkontak.js": {
       "total": 3,
@@ -21687,10 +21707,10 @@
       "lastSuccess": 1745034682502
     },
     "downloader-instagram.js": {
-      "total": 29,
-      "success": 29,
-      "last": 1746971592421,
-      "lastSuccess": 1746971592421
+      "total": 31,
+      "success": 31,
+      "last": 1747008537929,
+      "lastSuccess": 1747008537929
     },
     "downloader-gitclone.js": {
       "total": 2,
@@ -22352,7 +22372,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747006380157,
+      "backupDB": 1747008450016,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
