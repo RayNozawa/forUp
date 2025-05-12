@@ -4535,7 +4535,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1747049480747
+      "activation": 1747052234325
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -48022,8 +48022,8 @@
       "premiumTime": 0
     },
     "6289503732563@s.whatsapp.net": {
-      "exp": 535,
-      "limit": 49,
+      "exp": 554,
+      "limit": 24,
       "registered": false,
       "name": "Dhikzz",
       "age": -1,
@@ -48042,7 +48042,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1746871078880,
-      "activation": 1747020568160
+      "activation": 1747052234297
     },
     "6285647642077@s.whatsapp.net": {
       "exp": 1674,
@@ -129052,7 +129052,7 @@
       "activation": 1746849901496
     },
     "6281362551724@s.whatsapp.net": {
-      "exp": 85,
+      "exp": 102,
       "limit": 499,
       "registered": false,
       "name": "~Daegal Appa",
@@ -129070,7 +129070,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747030605618,
+      "activation": 1747052343507,
       "lastBanned": 0
     },
     "198011347009713@lid": {
@@ -129739,7 +129739,7 @@
       "activation": 1746947185367
     },
     "6282113423495@s.whatsapp.net": {
-      "exp": 87,
+      "exp": 98,
       "limit": 499,
       "registered": false,
       "name": "Gus aryaaa",
@@ -129757,7 +129757,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747045176049,
+      "activation": 1747051547509,
       "lastBanned": 0
     },
     "8143409029141@lid": {
@@ -130519,7 +130519,7 @@
       "activation": 1747023025018
     },
     "203388193091687@lid": {
-      "exp": 43,
+      "exp": 54,
       "limit": 499,
       "registered": false,
       "name": "𝐙𝐚𝐚",
@@ -130537,7 +130537,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747039931276,
+      "activation": 1747052466564,
       "lastBanned": 0
     },
     "119027032670340@lid": {
@@ -130962,6 +130962,68 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1747051039682
+    },
+    "228514238316674@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1747051611033
+    },
+    "262839465975887@lid": {
+      "exp": 2,
+      "limit": 499,
+      "registered": false,
+      "name": "chika",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1747052660105
+    },
+    "35661298069580@lid": {
+      "exp": 2,
+      "limit": 499,
+      "registered": false,
+      "name": "I'd rather keep quiet",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1747053126893
     }
   },
   "chats": {
@@ -150758,21 +150820,23 @@
       "expired": 0,
       "total": {
         "6288987270716@s.whatsapp.net": 82,
-        "6282113423495@s.whatsapp.net": 307,
+        "6282113423495@s.whatsapp.net": 355,
         "11708215087183@lid": 37,
         "101580808450260@lid": 35,
         "7189875953798@lid": 34,
         "6281313312277@s.whatsapp.net": 49,
-        "116561436270766@lid": 63,
-        "203388193091687@lid": 122,
-        "119027032670340@lid": 27,
+        "116561436270766@lid": 70,
+        "203388193091687@lid": 148,
+        "119027032670340@lid": 34,
         "173035659198704@lid": 22,
         "59730781278442@lid": 18,
-        "154975825068283@lid": 42,
+        "154975825068283@lid": 49,
         "149091434647802@lid": 11,
-        "139590916673768@lid": 32,
-        "251256090165284@lid": 9,
-        "18584944263379@lid": 6
+        "139590916673768@lid": 53,
+        "251256090165284@lid": 16,
+        "18584944263379@lid": 13,
+        "262839465975887@lid": 2,
+        "35661298069580@lid": 1
       },
       "totalChat": 0
     },
@@ -151022,10 +151086,10 @@
       "lastSuccess": 1735826605203
     },
     "ai-remini.js": {
-      "total": 1925,
-      "success": 1818,
-      "last": 1747042424418,
-      "lastSuccess": 1747042424418
+      "total": 1926,
+      "success": 1819,
+      "last": 1747052234297,
+      "lastSuccess": 1747052234297
     },
     "game-tebakbendera.js": {
       "total": 482,
@@ -153884,7 +153948,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747048889687,
+      "backupDB": 1747051540052,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
