@@ -1512,7 +1512,7 @@
       "lastBanned": 0
     },
     "6281311602545@s.whatsapp.net": {
-      "exp": 7269,
+      "exp": 7281,
       "limit": 499,
       "registered": false,
       "name": "Huddrailz9805⚡",
@@ -1531,7 +1531,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747056111711,
+      "activation": 1747058270197,
       "lastcommand": 1746236687556
     },
     "209728068165773@s.whatsapp.net": {
@@ -11806,7 +11806,7 @@
       "lastcommand": 1743262569432
     },
     "6285786552115@s.whatsapp.net": {
-      "exp": 23639,
+      "exp": 23645,
       "limit": 479,
       "registered": true,
       "name": "Lutfan,mie ayam",
@@ -11824,7 +11824,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747052922796,
+      "activation": 1747058069896,
       "lastBanned": 0,
       "lastcommand": 1747038284664,
       "lastwork": 1746881598830
@@ -13102,8 +13102,8 @@
       "lastBanned": 0
     },
     "6285647678782@s.whatsapp.net": {
-      "exp": 185,
-      "limit": 479,
+      "exp": 368,
+      "limit": 469,
       "registered": false,
       "name": "she.",
       "age": -1,
@@ -13121,7 +13121,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1745640155378
+      "activation": 1747058246356
     },
     "6285784059962@s.whatsapp.net": {
       "exp": 246,
@@ -26494,7 +26494,7 @@
       "activation": 1743484109821
     },
     "62895394913500@s.whatsapp.net": {
-      "exp": 6398,
+      "exp": 6557,
       "limit": 499,
       "registered": false,
       "name": "𝘿𝙖𝙧𝙧𝙮𝙡𝖝1362",
@@ -26510,14 +26510,14 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1747056282223,
+      "activation": 1747058360656,
       "lastBanned": 0,
       "lastcommand": 1747039432796
     },
     "6285338686383@s.whatsapp.net": {
-      "exp": 73855,
+      "exp": 73874,
       "limit": 498,
       "registered": false,
       "name": "17 ᥆k𝗍᥆ᑲᥱr 2011",
@@ -26535,7 +26535,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747056169745,
+      "activation": 1747059059000,
       "lastBanned": 0,
       "lastcommand": 1747021899831
     },
@@ -27057,7 +27057,7 @@
       "lastcommand": 1744784191279
     },
     "6281222509633@s.whatsapp.net": {
-      "exp": 2499,
+      "exp": 2511,
       "limit": 499,
       "registered": false,
       "name": "Rifal Railfans D2",
@@ -27075,7 +27075,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747051491920,
+      "activation": 1747057909077,
       "lastBanned": 0
     },
     "6285864346596@s.whatsapp.net": {
@@ -112209,7 +112209,7 @@
       "activation": 1746157565830
     },
     "6281294764329@s.whatsapp.net": {
-      "exp": 78,
+      "exp": 90,
       "limit": 499,
       "registered": false,
       "name": "Ask Krd Mcw Kedung Sepur@",
@@ -112227,7 +112227,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746938897645,
+      "activation": 1747058574580,
       "lastBanned": 0
     },
     "6285947538209@s.whatsapp.net": {
@@ -120987,8 +120987,8 @@
       "lastcommand": 1745902482108
     },
     "6281249221345@s.whatsapp.net": {
-      "exp": 456,
-      "limit": 434,
+      "exp": 550,
+      "limit": 419,
       "registered": false,
       "name": "℘ika🪞",
       "age": -1,
@@ -121006,7 +121006,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1745819056568,
+      "activation": 1747058469016,
       "lastcommand": 1745332308605
     },
     "140055075139758@lid": {
@@ -152094,10 +152094,10 @@
       "lastSuccess": 1746963655009
     },
     "sticker-all.js": {
-      "total": 750,
-      "success": 738,
-      "last": 1747044900915,
-      "lastSuccess": 1747044900915
+      "total": 756,
+      "success": 743,
+      "last": 1747058359942,
+      "lastSuccess": 1747058359942
     },
     "downloader-yt2.js": {
       "total": 8,
@@ -153208,7 +153208,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747055346830,
+      "backupDB": 1747057394217,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
