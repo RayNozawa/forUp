@@ -210,7 +210,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1747011514657,
+      "activation": 1747013757534,
       "lastBanned": 0,
       "lastcommand": 1746968576481,
       "limitprem": 10000,
@@ -353,7 +353,7 @@
       "lastcommand": 1746457091607
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 2443,
+      "exp": 2453,
       "limit": 1399,
       "registered": false,
       "name": "@Nadiaaa",
@@ -371,12 +371,12 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747007012636,
+      "activation": 1747014295035,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
-      "exp": 683,
-      "limit": 1074,
+      "exp": 729,
+      "limit": 1024,
       "registered": false,
       "name": "𝙒𝙞𝙡𝙙𝙖𝙣",
       "age": -1,
@@ -395,7 +395,7 @@
       "premiumTime": 0,
       "lastcommand": 1741961233423,
       "lastBanned": 0,
-      "activation": 1746944557320
+      "activation": 1747013352953
     },
     "6283164975409@s.whatsapp.net": {
       "exp": 612,
@@ -443,8 +443,8 @@
       "lastBanned": 0
     },
     "62882003885815@s.whatsapp.net": {
-      "exp": 61662,
-      "limit": 874,
+      "exp": 61724,
+      "limit": 799,
       "registered": false,
       "name": "𝔯𝔞𝔡𝔦𝔰",
       "age": -1,
@@ -461,7 +461,7 @@
       "lastmonthly": 1742529237697,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747010071150,
+      "activation": 1747013757519,
       "lastBanned": 0,
       "lastdaily": 1742529237697
     },
@@ -14131,7 +14131,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746971578743,
+      "activation": 1747013705105,
       "lastBanned": 0
     },
     "6289603824387@s.whatsapp.net": {
@@ -17818,12 +17818,12 @@
         "6282128611759@s.whatsapp.net": 151,
         "6283857714276@s.whatsapp.net": 243,
         "6282357353442@s.whatsapp.net": 314,
-        "6288246246949@s.whatsapp.net": 405,
-        "6283164975409@s.whatsapp.net": 154,
+        "6288246246949@s.whatsapp.net": 407,
+        "6283164975409@s.whatsapp.net": 155,
         "6285704902885@s.whatsapp.net": 35,
-        "6289629130204@s.whatsapp.net": 464,
+        "6289629130204@s.whatsapp.net": 466,
         "6283175509153@s.whatsapp.net": 431,
-        "62882003885815@s.whatsapp.net": 407,
+        "62882003885815@s.whatsapp.net": 408,
         "6287865741620@s.whatsapp.net": 64,
         "6285975246698@s.whatsapp.net": 92,
         "6283139312937@s.whatsapp.net": 227,
@@ -17834,18 +17834,18 @@
         "6285776561687@s.whatsapp.net": 4,
         "6282121208409@s.whatsapp.net": 79,
         "6285790379156@s.whatsapp.net": 41,
-        "6285378447987@s.whatsapp.net": 65,
+        "6285378447987@s.whatsapp.net": 68,
         "6285766064200@s.whatsapp.net": 111,
         "6283856801205@s.whatsapp.net": 145,
         "6289531370298@s.whatsapp.net": 15,
-        "6285856011884@s.whatsapp.net": 125,
+        "6285856011884@s.whatsapp.net": 126,
         "6289506612543@s.whatsapp.net": 9,
         "6283171609872@s.whatsapp.net": 29,
         "62895325629523@s.whatsapp.net": 84,
         "6287730692750@s.whatsapp.net": 231,
         "6281553476702@s.whatsapp.net": 67,
-        "6283114594503@s.whatsapp.net": 307,
-        "6281215712318@s.whatsapp.net": 300,
+        "6283114594503@s.whatsapp.net": 318,
+        "6281215712318@s.whatsapp.net": 306,
         "6289506271983@s.whatsapp.net": 58,
         "6285860692849@s.whatsapp.net": 38,
         "62895327280770@s.whatsapp.net": 50
@@ -21623,10 +21623,10 @@
       "lastSuccess": 1746804879065
     },
     "ai-remini.js": {
-      "total": 366,
-      "success": 323,
-      "last": 1746984664781,
-      "lastSuccess": 1746984664781
+      "total": 368,
+      "success": 325,
+      "last": 1747013757519,
+      "lastSuccess": 1747013757519
     },
     "ai-remini2.js": {
       "total": 33,
@@ -21659,10 +21659,10 @@
       "lastSuccess": 1741729221851
     },
     "downloader-tiktok.js": {
-      "total": 273,
-      "success": 253,
-      "last": 1747010071150,
-      "lastSuccess": 1747010071150
+      "total": 276,
+      "success": 256,
+      "last": 1747013428957,
+      "lastSuccess": 1747013428957
     },
     "owner-pushkontak.js": {
       "total": 3,
@@ -22372,7 +22372,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747011514260,
+      "backupDB": 1747013341591,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
