@@ -4536,7 +4536,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1747066527948
+      "activation": 1747068969991
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -129053,7 +129053,7 @@
       "activation": 1746849901496
     },
     "6281362551724@s.whatsapp.net": {
-      "exp": 122,
+      "exp": 138,
       "limit": 499,
       "registered": false,
       "name": "~Daegal Appa",
@@ -129071,7 +129071,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747059869234,
+      "activation": 1747068038999,
       "lastBanned": 0
     },
     "198011347009713@lid": {
@@ -129655,7 +129655,7 @@
       "activation": 1747016606328
     },
     "6283135037041@s.whatsapp.net": {
-      "exp": 105,
+      "exp": 206,
       "limit": 499,
       "registered": false,
       "name": "icannnnn",
@@ -129673,7 +129673,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747017770722,
+      "activation": 1747069694488,
       "lastBanned": 0
     },
     "6285640455380@s.whatsapp.net": {
@@ -131192,6 +131192,70 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1747066522148
+    },
+    "6289678658380@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 896-7865-8380",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1747068965531,
+      "lastBanned": 0
+    },
+    "106837999399008@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1747068966461
+    },
+    "62895341946111@s.whatsapp.net": {
+      "exp": 58,
+      "limit": 499,
+      "registered": false,
+      "name": "aboy",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0,
+      "activation": 1747069460745
     }
   },
   "chats": {
@@ -151029,13 +151093,14 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6281284712490@s.whatsapp.net": 425,
+        "6281284712490@s.whatsapp.net": 473,
         "6283188379039@s.whatsapp.net": 44,
-        "6285724563240@s.whatsapp.net": 298,
-        "6283135037041@s.whatsapp.net": 186,
+        "6285724563240@s.whatsapp.net": 370,
+        "6283135037041@s.whatsapp.net": 320,
         "6285640455380@s.whatsapp.net": 34,
         "6285217126429@s.whatsapp.net": 48,
-        "6287854857382@s.whatsapp.net": 2
+        "6287854857382@s.whatsapp.net": 26,
+        "62895341946111@s.whatsapp.net": 35
       },
       "totalChat": 0
     },
@@ -154117,7 +154182,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747064682917,
+      "backupDB": 1747067925321,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
