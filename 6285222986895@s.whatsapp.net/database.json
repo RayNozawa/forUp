@@ -4536,7 +4536,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1747098127364
+      "activation": 1747101161325
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -91399,7 +91399,7 @@
       "lastcommand": 1740237242905
     },
     "6285173241812@s.whatsapp.net": {
-      "exp": 184494,
+      "exp": 184520,
       "limit": 1054,
       "registered": false,
       "name": "Too | 🔰9201🔰",
@@ -91415,11 +91415,11 @@
       "WarnReason": "",
       "lastweekly": 1746605894682,
       "lastmonthly": 1746605894682,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1746605894683,
+      "activation": 1747101161319,
       "lastBanned": 0,
-      "lastcommand": 1746315181425,
+      "lastcommand": 1747101153047,
       "lastwork": 1742609861015,
       "lastdaily": 1746605894682
     },
@@ -129477,7 +129477,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747100213008,
+      "activation": 1747104429577,
       "lastBanned": 0
     },
     "6283849805967@s.whatsapp.net": {
@@ -153971,10 +153971,10 @@
       "lastSuccess": 1746083025100
     },
     "_main-menu.js": {
-      "total": 462,
-      "success": 458,
-      "last": 1747037009641,
-      "lastSuccess": 1747037009641
+      "total": 463,
+      "success": 459,
+      "last": 1747101161319,
+      "lastSuccess": 1747101161319
     },
     "_main-allmenu.js": {
       "total": 118,
@@ -154535,7 +154535,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747099281968,
+      "backupDB": 1747101152884,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
