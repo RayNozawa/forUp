@@ -192,7 +192,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 21003,
+      "exp": 21080,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -210,7 +210,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1747141115612,
+      "activation": 1747143519960,
       "lastBanned": 0,
       "lastcommand": 1747099313471,
       "limitprem": 10000,
@@ -353,7 +353,7 @@
       "lastcommand": 1746457091607
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 2610,
+      "exp": 2624,
       "limit": 1399,
       "registered": false,
       "name": "@Nadiaaa",
@@ -371,7 +371,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747135950443,
+      "activation": 1747143025588,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -735,7 +735,7 @@
       "lastBanned": 0
     },
     "6285814862628@s.whatsapp.net": {
-      "exp": 2357,
+      "exp": 2374,
       "limit": 319,
       "registered": false,
       "name": "SanzXuu",
@@ -753,7 +753,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747115519862,
+      "activation": 1747143325424,
       "lastBanned": 0,
       "lastcommand": 1747051568083
     },
@@ -1023,7 +1023,7 @@
       "lastBanned": 0
     },
     "6289636027771@s.whatsapp.net": {
-      "exp": 756,
+      "exp": 769,
       "limit": 499,
       "registered": false,
       "name": "@ZAriel_SiDoel",
@@ -1042,7 +1042,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747129479466,
+      "activation": 1747143346989,
       "lastcommand": 1742807553655
     },
     "6285574670469@s.whatsapp.net": {
@@ -13589,7 +13589,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
       "activation": 1747080051572
@@ -15534,7 +15534,7 @@
       "lastBanned": 0
     },
     "6288226613360@s.whatsapp.net": {
-      "exp": 21,
+      "exp": 29,
       "limit": 499,
       "registered": false,
       "name": "ZEN4YOU",
@@ -15553,7 +15553,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746860135931
+      "activation": 1747142454677
     },
     "45505346334884@lid": {
       "exp": 0,
@@ -15882,8 +15882,8 @@
       "activation": 1746941134393
     },
     "6285784318185@s.whatsapp.net": {
-      "exp": 528,
-      "limit": 429,
+      "exp": 550,
+      "limit": 424,
       "registered": false,
       "name": "Enn",
       "age": -1,
@@ -15901,7 +15901,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747132332778,
+      "activation": 1747141788344,
       "lastcommand": 1747132018166
     },
     "89773909749878@lid": {
@@ -16972,7 +16972,7 @@
       "activation": 1747108070654
     },
     "6283180230402@s.whatsapp.net": {
-      "exp": 36,
+      "exp": 58,
       "limit": 499,
       "registered": false,
       "name": "_par",
@@ -16990,7 +16990,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747140734898,
+      "activation": 1747143511583,
       "lastBanned": 0
     },
     "13976343724141@lid": {
@@ -22808,10 +22808,10 @@
       "lastSuccess": 1747111939278
     },
     "downloader-tiktok.js": {
-      "total": 300,
-      "success": 279,
-      "last": 1747135008197,
-      "lastSuccess": 1747135008197
+      "total": 301,
+      "success": 280,
+      "last": 1747143519767,
+      "lastSuccess": 1747143519767
     },
     "owner-pushkontak.js": {
       "total": 3,
@@ -22826,10 +22826,10 @@
       "lastSuccess": 1746711833615
     },
     "sticker-all.js": {
-      "total": 223,
-      "success": 219,
-      "last": 1747131959447,
-      "lastSuccess": 1747131959447
+      "total": 224,
+      "success": 220,
+      "last": 1747141788344,
+      "lastSuccess": 1747141788344
     },
     "sticker-quotely.js": {
       "total": 32,
@@ -23521,7 +23521,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747139826202,
+      "backupDB": 1747141726636,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
