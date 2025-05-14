@@ -91,7 +91,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 210105,
+      "exp": 210220,
       "limit": 766,
       "registered": false,
       "name": "Rayhan?",
@@ -118,7 +118,7 @@
       "lastrob": 1734752367160,
       "resetSent": true,
       "delay": 1735728719020,
-      "activation": 1747189024343
+      "activation": 1747194754084
     },
     "6289512651656@s.whatsapp.net": {
       "exp": 7,
@@ -4536,7 +4536,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1747189024451
+      "activation": 1747194754104
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -129058,7 +129058,7 @@
       "activation": 1746849901496
     },
     "6281362551724@s.whatsapp.net": {
-      "exp": 152,
+      "exp": 158,
       "limit": 499,
       "registered": false,
       "name": "~Daegal Appa",
@@ -129076,7 +129076,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747107860390,
+      "activation": 1747194180983,
       "lastBanned": 0
     },
     "198011347009713@lid": {
@@ -130531,7 +130531,7 @@
       "activation": 1747023025018
     },
     "203388193091687@lid": {
-      "exp": 136,
+      "exp": 143,
       "limit": 499,
       "registered": false,
       "name": "𝐙𝐚𝐚",
@@ -130549,7 +130549,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747146891193,
+      "activation": 1747192974457,
       "lastBanned": 0
     },
     "119027032670340@lid": {
@@ -152400,30 +152400,30 @@
       "expired": 0,
       "total": {
         "6288987270716@s.whatsapp.net": 82,
-        "6282113423495@s.whatsapp.net": 976,
-        "11708215087183@lid": 171,
+        "6282113423495@s.whatsapp.net": 983,
+        "11708215087183@lid": 172,
         "101580808450260@lid": 35,
         "7189875953798@lid": 34,
         "6281313312277@s.whatsapp.net": 138,
         "116561436270766@lid": 125,
-        "203388193091687@lid": 535,
+        "203388193091687@lid": 541,
         "119027032670340@lid": 164,
         "173035659198704@lid": 73,
-        "59730781278442@lid": 28,
+        "59730781278442@lid": 29,
         "154975825068283@lid": 94,
         "149091434647802@lid": 72,
         "139590916673768@lid": 107,
         "251256090165284@lid": 34,
         "18584944263379@lid": 69,
-        "262839465975887@lid": 242,
-        "35661298069580@lid": 26,
+        "262839465975887@lid": 244,
+        "35661298069580@lid": 27,
         "98479305187406@lid": 167,
         "164605041074180@lid": 58,
         "71928068997341@lid": 15,
         "161293772271619@lid": 27,
-        "147171903025237@lid": 42,
-        "6271172399320@lid": 18,
-        "99497782837354@lid": 9
+        "147171903025237@lid": 44,
+        "6271172399320@lid": 19,
+        "99497782837354@lid": 10
       },
       "totalChat": 0
     },
@@ -152611,10 +152611,10 @@
       "lastSuccess": 1747188282682
     },
     "downloader-tiktok.js": {
-      "total": 3514,
-      "success": 3208,
-      "last": 1747139371778,
-      "lastSuccess": 1747139371778
+      "total": 3516,
+      "success": 3209,
+      "last": 1747194694534,
+      "lastSuccess": 1747194694534
     },
     "owner-sf.js": {
       "total": 1239,
@@ -152953,10 +152953,10 @@
       "lastSuccess": 1732790132779
     },
     "tool-tourl.js": {
-      "total": 86,
-      "success": 75,
-      "last": 1746898164912,
-      "lastSuccess": 1746898164912
+      "total": 87,
+      "success": 76,
+      "last": 1747194732450,
+      "lastSuccess": 1747194732450
     },
     "ai-boredchatimg.js": {
       "total": 13,
@@ -154501,10 +154501,10 @@
       "lastSuccess": 0
     },
     "tool-ezgif.js": {
-      "total": 8,
-      "success": 8,
-      "last": 1746072008696,
-      "lastSuccess": 1746072008696
+      "total": 10,
+      "success": 10,
+      "last": 1747194754084,
+      "lastSuccess": 1747194754084
     },
     "tool-jadwaltv.js": {
       "total": 2,
@@ -155623,7 +155623,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747187887344,
+      "backupDB": 1747192974231,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
