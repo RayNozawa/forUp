@@ -1512,7 +1512,7 @@
       "lastBanned": 0
     },
     "6281311602545@s.whatsapp.net": {
-      "exp": 6943,
+      "exp": 6947,
       "limit": 499,
       "registered": false,
       "name": "Huddrailz9805⚡",
@@ -1531,7 +1531,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747274885500,
+      "activation": 1747278334943,
       "lastcommand": 1747188426019
     },
     "209728068165773@s.whatsapp.net": {
@@ -11807,7 +11807,7 @@
       "lastcommand": 1743262569432
     },
     "6285786552115@s.whatsapp.net": {
-      "exp": 22847,
+      "exp": 22869,
       "limit": 479,
       "registered": true,
       "name": "Lutfan,mie ayam",
@@ -11825,7 +11825,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747276933396,
+      "activation": 1747278827937,
       "lastBanned": 0,
       "lastcommand": 1747126304809,
       "lastwork": 1747144315299
@@ -26495,7 +26495,7 @@
       "activation": 1743484109821
     },
     "62895394913500@s.whatsapp.net": {
-      "exp": 5300,
+      "exp": 5311,
       "limit": 499,
       "registered": false,
       "name": "𝘿𝙖𝙧𝙧𝙮𝙡𝖝1362",
@@ -26511,9 +26511,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1747274576542,
+      "activation": 1747277976354,
       "lastBanned": 0,
       "lastcommand": 1747215591553
     },
@@ -111406,7 +111406,7 @@
       "lastcommand": 1746190926582
     },
     "6282220912343@s.whatsapp.net": {
-      "exp": 1458,
+      "exp": 1481,
       "limit": 499,
       "registered": false,
       "name": "Dzaky",
@@ -111424,7 +111424,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747218613657,
+      "activation": 1747277544701,
       "lastBanned": 0,
       "lastcommand": 1745563659366
     },
@@ -111829,7 +111829,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
       "activation": 1747254678534
@@ -112525,7 +112525,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "activation": 1747254794154,
       "lastBanned": 0
@@ -112896,7 +112896,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746852983132,
+      "activation": 1747278979844,
       "lastBanned": 0
     },
     "120363218892197202@newsletter": {
@@ -119817,7 +119817,7 @@
       "lastBanned": 0
     },
     "6283893376105@s.whatsapp.net": {
-      "exp": 151,
+      "exp": 160,
       "limit": 499,
       "registered": false,
       "name": "kiwan aja",
@@ -119835,7 +119835,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747267074439,
+      "activation": 1747277284501,
       "lastBanned": 0
     },
     "218116021850127@lid": {
@@ -123249,7 +123249,7 @@
       "activation": 1745477292325
     },
     "6285713006993@s.whatsapp.net": {
-      "exp": 1288,
+      "exp": 1294,
       "limit": 499,
       "registered": false,
       "name": "razka",
@@ -123267,7 +123267,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747276876488,
+      "activation": 1747277499157,
       "lastBanned": 0
     },
     "6282221148057@s.whatsapp.net": {
@@ -129291,7 +129291,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
       "activation": 1747254811591,
@@ -158902,7 +158902,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747276866949,
+      "backupDB": 1747278827664,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
