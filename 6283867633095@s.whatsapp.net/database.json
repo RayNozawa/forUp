@@ -192,7 +192,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 22173,
+      "exp": 22181,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -210,7 +210,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1747284227434,
+      "activation": 1747287157212,
       "lastBanned": 0,
       "lastcommand": 1747216684651,
       "limitprem": 10000,
@@ -421,8 +421,8 @@
       "lastcommand": 1742005434684
     },
     "6289629130204@s.whatsapp.net": {
-      "exp": 60869,
-      "limit": 589,
+      "exp": 60889,
+      "limit": 564,
       "registered": false,
       "name": "~ Fritzyy Rosmerian 🤍",
       "age": -1,
@@ -437,9 +437,9 @@
       "WarnReason": "",
       "lastweekly": 1747196707419,
       "lastmonthly": 1747196707419,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1747196748656,
+      "activation": 1747287156832,
       "lastBanned": 0,
       "lastdaily": 1747196707419
     },
@@ -13964,9 +13964,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1747243582195,
+      "activation": 1747286105932,
       "lastBanned": 0
     },
     "120363417537141646@newsletter": {
@@ -13985,9 +13985,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1747243582189,
+      "activation": 1747286163943,
       "lastBanned": 0
     },
     "120363416810310839@newsletter": {
@@ -17879,7 +17879,7 @@
       "lastBanned": 0
     },
     "6285780075758@s.whatsapp.net": {
-      "exp": 0,
+      "exp": 2,
       "limit": 499,
       "registered": false,
       "name": "F",
@@ -17895,8 +17895,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
-      "premiumTime": 0
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1747285472913
     }
   },
   "chats": {
@@ -21318,7 +21319,8 @@
         "6283167478481@s.whatsapp.net": 13,
         "6283135694054@s.whatsapp.net": 14,
         "6285822577648@s.whatsapp.net": 2,
-        "6283167478514@s.whatsapp.net": 1
+        "6283167478514@s.whatsapp.net": 2,
+        "6285780075758@s.whatsapp.net": 1
       },
       "totalChat": 0
     },
@@ -23438,10 +23440,10 @@
       "lastSuccess": 1747278312943
     },
     "ai-remini2.js": {
-      "total": 34,
-      "success": 24,
-      "last": 1747073770564,
-      "lastSuccess": 1742958518749
+      "total": 35,
+      "success": 25,
+      "last": 1747287156832,
+      "lastSuccess": 1747287156832
     },
     "_main-allmenu.js": {
       "total": 26,
@@ -24187,7 +24189,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747283269675,
+      "backupDB": 1747285472416,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
