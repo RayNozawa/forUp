@@ -1053,8 +1053,8 @@
       "activation": 1746985168242
     },
     "6283191371141@s.whatsapp.net": {
-      "exp": 31453,
-      "limit": 84,
+      "exp": 31498,
+      "limit": 44,
       "registered": false,
       "name": "Vyn",
       "age": -1,
@@ -1077,7 +1077,7 @@
       "lastwork": 1730875837906,
       "lastrob": 1735778404705,
       "delay": 1735714023009,
-      "activation": 1747224962596
+      "activation": 1747269452537
     },
     "6285817976362@s.whatsapp.net": {
       "exp": 100759,
@@ -4536,7 +4536,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1747266610086
+      "activation": 1747269452663
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -129490,7 +129490,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747218704627,
+      "activation": 1747271258652,
       "lastBanned": 0
     },
     "6283849805967@s.whatsapp.net": {
@@ -133299,6 +133299,26 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1747252503217
+    },
+    "36872478822541@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1747271277715
     }
   },
   "chats": {
@@ -153359,10 +153379,10 @@
       "lastSuccess": 1747239221128
     },
     "downloader-tiktok.js": {
-      "total": 3532,
-      "success": 3224,
-      "last": 1747264387425,
-      "lastSuccess": 1747264387425
+      "total": 3534,
+      "success": 3226,
+      "last": 1747269452537,
+      "lastSuccess": 1747269452537
     },
     "owner-sf.js": {
       "total": 1239,
@@ -156371,7 +156391,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747264961100,
+      "backupDB": 1747269292454,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
