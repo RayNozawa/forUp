@@ -91,7 +91,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 211005,
+      "exp": 211104,
       "limit": 766,
       "registered": false,
       "name": "Rayhan?",
@@ -118,7 +118,7 @@
       "lastrob": 1734752367160,
       "resetSent": true,
       "delay": 1735728719020,
-      "activation": 1747295345249
+      "activation": 1747333400606
     },
     "6289512651656@s.whatsapp.net": {
       "exp": 7,
@@ -4536,7 +4536,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1747330261228
+      "activation": 1747342825968
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -134055,6 +134055,48 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1747326941860
+    },
+    "6289678321953@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 896-7832-1953",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1747337027503,
+      "lastBanned": 0
+    },
+    "128703661088939@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1747337028085
     }
   },
   "chats": {
@@ -154150,10 +154192,10 @@
       "lastSuccess": 1747330009871
     },
     "owner-sf.js": {
-      "total": 1240,
-      "success": 1130,
-      "last": 1747293563006,
-      "lastSuccess": 1747293563006
+      "total": 1241,
+      "success": 1131,
+      "last": 1747333378540,
+      "lastSuccess": 1747333378540
     },
     "downloader-play.js": {
       "total": 3694,
@@ -154402,10 +154444,10 @@
       "lastSuccess": 1746007319867
     },
     "owner-exec.js": {
-      "total": 551,
-      "success": 551,
-      "last": 1747110940632,
-      "lastSuccess": 1747110940632
+      "total": 552,
+      "success": 552,
+      "last": 1747333400606,
+      "lastSuccess": 1747333400606
     },
     "downloader-ytmp3.js": {
       "total": 248,
@@ -156952,10 +156994,10 @@
       "lastSuccess": 1746591736268
     },
     "ai-zeta.js": {
-      "total": 4,
-      "success": 2,
-      "last": 1746634342957,
-      "lastSuccess": 1746634342957
+      "total": 5,
+      "success": 3,
+      "last": 1747333387898,
+      "lastSuccess": 1747333387898
     },
     "owner-cleartmp.js": {
       "total": 2,
@@ -157156,7 +157198,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747329214458,
+      "backupDB": 1747333375868,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
