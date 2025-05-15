@@ -2274,12 +2274,12 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747310433063,
+      "activation": 1747312694034,
       "lastBanned": 0,
       "lastcommand": 1747292242490
     },
     "628567105062@s.whatsapp.net": {
-      "exp": 2381,
+      "exp": 2388,
       "limit": 499,
       "registered": false,
       "name": "senzy panutan",
@@ -2298,7 +2298,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747149212458
+      "activation": 1747312694332
     },
     "6285842531334@s.whatsapp.net": {
       "exp": 326,
@@ -2323,7 +2323,7 @@
       "activation": 1747119813688
     },
     "6282291130557@s.whatsapp.net": {
-      "exp": 3385,
+      "exp": 3422,
       "limit": 499,
       "registered": false,
       "name": "RAS STORE",
@@ -2341,7 +2341,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747261221583,
+      "activation": 1747312704831,
       "lastBanned": 0
     },
     "628385825266@s.whatsapp.net": {
@@ -2367,7 +2367,7 @@
       "lastBanned": 0
     },
     "6288989865313@s.whatsapp.net": {
-      "exp": 371,
+      "exp": 377,
       "limit": 499,
       "registered": false,
       "name": "ㅤ",
@@ -2383,9 +2383,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1747307990575,
+      "activation": 1747312483225,
       "lastBanned": 0,
       "lastcommand": 1747307987970
     },
@@ -4310,7 +4310,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "activation": 1747248599814,
       "lastBanned": 0,
@@ -21959,7 +21959,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747310432829,
+      "backupDB": 1747312360433,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
