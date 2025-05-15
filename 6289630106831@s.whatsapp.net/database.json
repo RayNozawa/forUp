@@ -80525,7 +80525,7 @@
       "lastBanned": 0
     },
     "6282327360391@s.whatsapp.net": {
-      "exp": 6778,
+      "exp": 6856,
       "limit": 474,
       "registered": false,
       "name": "~拉馬達尼",
@@ -80544,7 +80544,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747328225790,
+      "activation": 1747328548011,
       "lastwork": 1746879969448
     },
     "120363305220320626@newsletter": {
@@ -109972,7 +109972,7 @@
       "lastrob": 1747056368022
     },
     "62895619578363@s.whatsapp.net": {
-      "exp": 638575,
+      "exp": 638697,
       "limit": 1888,
       "registered": false,
       "name": "Meruu",
@@ -109990,7 +109990,7 @@
       "lastmonthly": 1744901946274,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747328196929,
+      "activation": 1747328513812,
       "lastBanned": 0,
       "lastcommand": 1747233816311,
       "lastrob": 1745277437193,
@@ -144955,7 +144955,7 @@
       "expired": 0,
       "total": {
         "6285750225037@s.whatsapp.net": 52366,
-        "6282327360391@s.whatsapp.net": 15029,
+        "6282327360391@s.whatsapp.net": 15350,
         "6285725870085@s.whatsapp.net": 25824,
         "6282138444095@s.whatsapp.net": 95412,
         "6285722598442@s.whatsapp.net": 16309,
@@ -144966,7 +144966,7 @@
         "6285786215136@s.whatsapp.net": 52563,
         "6281329752453@s.whatsapp.net": 11455,
         "6283129913741@s.whatsapp.net": 163,
-        "62895619578363@s.whatsapp.net": 60750,
+        "62895619578363@s.whatsapp.net": 61214,
         "62882008879526@s.whatsapp.net": 4857,
         "6285141179740@s.whatsapp.net": 4665,
         "6281934068666@s.whatsapp.net": 1277,
@@ -155777,7 +155777,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747326434909,
+      "backupDB": 1747328249608,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
