@@ -132808,7 +132808,7 @@
       "lastcommand": 1747149742302
     },
     "6289523996229@s.whatsapp.net": {
-      "exp": 4074,
+      "exp": 4104,
       "limit": 304,
       "registered": false,
       "name": "Whöps kö?",
@@ -132826,7 +132826,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747264580176,
+      "activation": 1747273286079,
       "lastBanned": 0,
       "lastcommand": 1747253874097
     },
@@ -156489,7 +156489,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747269792805,
+      "backupDB": 1747273195420,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
