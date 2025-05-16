@@ -2590,7 +2590,7 @@
       "activation": 1743225399960
     },
     "6287750360878@s.whatsapp.net": {
-      "exp": 428,
+      "exp": 439,
       "limit": 499,
       "registered": false,
       "name": "wulan",
@@ -2609,7 +2609,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746645819832
+      "activation": 1747409216436
     },
     "6282123890775@s.whatsapp.net": {
       "exp": 35,
@@ -2805,7 +2805,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747405278085,
+      "activation": 1747408702121,
       "lastBanned": 0
     },
     "6283141671011@s.whatsapp.net": {
@@ -47141,7 +47141,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747405310428,
+      "backupDB": 1747407548802,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
