@@ -132712,7 +132712,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747415212774,
+      "activation": 1747420767841,
       "lastBanned": 0,
       "lastcommand": 1746866350165
     },
@@ -132808,7 +132808,7 @@
       "lastcommand": 1747399528359
     },
     "6289523996229@s.whatsapp.net": {
-      "exp": 5914,
+      "exp": 5953,
       "limit": 224,
       "registered": false,
       "name": "Whöps kö?",
@@ -132826,9 +132826,9 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747410658468,
+      "activation": 1747420767555,
       "lastBanned": 0,
-      "lastcommand": 1747253874097
+      "lastcommand": 1747420767552
     },
     "6285765185633@s.whatsapp.net": {
       "exp": 976,
@@ -132854,7 +132854,7 @@
       "lastcommand": 1746948795595
     },
     "62882006067691@s.whatsapp.net": {
-      "exp": 3976,
+      "exp": 4004,
       "limit": 499,
       "registered": false,
       "name": "paiz pake zzz",
@@ -132872,7 +132872,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747402929049,
+      "activation": 1747419860262,
       "lastBanned": 0
     },
     "6289523750806@s.whatsapp.net": {
@@ -155448,11 +155448,11 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285864104187@s.whatsapp.net": 15598,
-        "6289502811940@s.whatsapp.net": 32693,
-        "6289523996229@s.whatsapp.net": 17243,
+        "6285864104187@s.whatsapp.net": 15625,
+        "6289502811940@s.whatsapp.net": 32749,
+        "6289523996229@s.whatsapp.net": 17303,
         "6285765185633@s.whatsapp.net": 3510,
-        "62882006067691@s.whatsapp.net": 14690,
+        "62882006067691@s.whatsapp.net": 14730,
         "62895415258679@s.whatsapp.net": 1746,
         "6283166418034@s.whatsapp.net": 395,
         "6288211731976@s.whatsapp.net": 669,
@@ -157143,10 +157143,10 @@
       "lastSuccess": 1746866516354
     },
     "group-listonline.js": {
-      "total": 7,
-      "success": 7,
-      "last": 1747400741083,
-      "lastSuccess": 1747400741083
+      "total": 8,
+      "success": 8,
+      "last": 1747420767555,
+      "lastSuccess": 1747420767555
     },
     "maker-filter.js": {
       "total": 13,
