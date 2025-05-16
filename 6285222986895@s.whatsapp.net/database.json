@@ -184,7 +184,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747390764262
+      "activation": 1747396764860
     },
     "120363240711248334@g.us": {
       "exp": 5227,
@@ -1003,7 +1003,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747390764426
+      "activation": 1747396764987
     },
     "6283119901412@s.whatsapp.net": {
       "exp": 16214,
@@ -4536,7 +4536,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1747394399156
+      "activation": 1747396769300
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -91660,7 +91660,7 @@
       "lastwork": 1740235708358
     },
     "6282159716374@s.whatsapp.net": {
-      "exp": 60621,
+      "exp": 60641,
       "limit": 124,
       "registered": false,
       "name": "bas el",
@@ -91678,7 +91678,7 @@
       "lastmonthly": 1746190368890,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747233731335,
+      "activation": 1747394814604,
       "lastBanned": 0,
       "lastdaily": 1746190368890,
       "warn": 1
@@ -97663,8 +97663,8 @@
       "activation": 1743920667992
     },
     "6281212891676@s.whatsapp.net": {
-      "exp": 262,
-      "limit": 439,
+      "exp": 282,
+      "limit": 434,
       "registered": false,
       "name": "airr",
       "age": -1,
@@ -97681,7 +97681,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747295396285,
+      "activation": 1747394929009,
       "lastBanned": 0
     },
     "6288276286556@s.whatsapp.net": {
@@ -128968,7 +128968,7 @@
       "lastBanned": 0
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 217,
+      "exp": 228,
       "limit": 499,
       "registered": false,
       "name": "KUKAA17",
@@ -128986,7 +128986,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747350177503,
+      "activation": 1747395771569,
       "lastBanned": 0
     },
     "62895328989497@s.whatsapp.net": {
@@ -131886,7 +131886,7 @@
       "lastBanned": 0
     },
     "6285821247528@s.whatsapp.net": {
-      "exp": 60029,
+      "exp": 60039,
       "limit": 1099,
       "registered": false,
       "name": "MUHAMMAD RIFALDI PRATAMA",
@@ -131902,9 +131902,9 @@
       "WarnReason": "",
       "lastweekly": 1747129892365,
       "lastmonthly": 1747129892365,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1747131195757,
+      "activation": 1747396396151,
       "lastBanned": 0,
       "lastdaily": 1747129892365
     },
@@ -134928,7 +134928,7 @@
         "6285775650917@s.whatsapp.net": 104,
         "6287783230354@s.whatsapp.net": 148,
         "62895392309418@s.whatsapp.net": 231,
-        "6281212891676@s.whatsapp.net": 258,
+        "6281212891676@s.whatsapp.net": 260,
         "6281586835203@s.whatsapp.net": 45,
         "6282129923327@s.whatsapp.net": 40,
         "6283140173467@s.whatsapp.net": 711,
@@ -155513,10 +155513,10 @@
       "lastSuccess": 1746882836842
     },
     "sticker-all.js": {
-      "total": 2419,
-      "success": 2341,
-      "last": 1747390496587,
-      "lastSuccess": 1747390496587
+      "total": 2420,
+      "success": 2342,
+      "last": 1747394929010,
+      "lastSuccess": 1747394929010
     },
     "game-nebang.js": {
       "total": 172,
@@ -157607,7 +157607,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747392087941,
+      "backupDB": 1747394814016,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
