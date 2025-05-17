@@ -91,7 +91,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 211416,
+      "exp": 211440,
       "limit": 766,
       "registered": false,
       "name": "Rayhan?",
@@ -107,10 +107,10 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1747405334972,
+      "lastcommand": 1747453622716,
       "lastwork": 1735007026344,
       "aiprompt": "mulai sekarang nama kamu adalah jinan safa safira, kamu orang yang sangat baik",
       "warn": 0,
@@ -118,7 +118,7 @@
       "lastrob": 1734752367160,
       "resetSent": true,
       "delay": 1735728719020,
-      "activation": 1747405740648
+      "activation": 1747453625528
     },
     "6289512651656@s.whatsapp.net": {
       "exp": 7,
@@ -184,7 +184,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747423235881
+      "activation": 1747454558200
     },
     "120363240711248334@g.us": {
       "exp": 5227,
@@ -1003,7 +1003,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747451696331
+      "activation": 1747454558367
     },
     "6283119901412@s.whatsapp.net": {
       "exp": 16214,
@@ -4536,7 +4536,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1747452849258
+      "activation": 1747456109799
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -129183,7 +129183,7 @@
       "activation": 1746855649365
     },
     "62895391478641@s.whatsapp.net": {
-      "exp": 77,
+      "exp": 83,
       "limit": 499,
       "registered": false,
       "name": "shafikaaa",
@@ -129201,7 +129201,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747321859176,
+      "activation": 1747454221948,
       "lastBanned": 0
     },
     "6287859595831@s.whatsapp.net": {
@@ -134758,6 +134758,27 @@
       "lastcommand": 1747450792339,
       "activation": 1747451035867,
       "lastBanned": 0
+    },
+    "6283825410755@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 838-2541-0755",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1747456109115
     }
   },
   "chats": {
@@ -155048,10 +155069,10 @@
       "lastSuccess": 1747129426350
     },
     "_cek.js": {
-      "total": 1622,
-      "success": 1591,
-      "last": 1747434732979,
-      "lastSuccess": 1747434732979
+      "total": 1623,
+      "success": 1592,
+      "last": 1747453625528,
+      "lastSuccess": 1747453625528
     },
     "enable.js": {
       "total": 184,
@@ -157892,7 +157913,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747451611369,
+      "backupDB": 1747453622715,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
