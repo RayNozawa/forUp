@@ -31841,7 +31841,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747475804826,
+      "activation": 1747476026237,
       "lastcommand": 1744428810665,
       "Banneduser": false,
       "autolevelup": true,
@@ -48982,7 +48982,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747475592525,
+      "activation": 1747476061128,
       "lastBanned": 0,
       "Banneduser": false,
       "autolevelup": true,
@@ -84699,7 +84699,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747475799474,
+      "activation": 1747476092570,
       "lastBanned": 0,
       "Banneduser": false,
       "autolevelup": true,
@@ -84777,7 +84777,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747475781578,
+      "activation": 1747475867981,
       "Banneduser": false,
       "autolevelup": true,
       "owner": false,
@@ -84878,9 +84878,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1747402240024,
+      "activation": 1747476026697,
       "lastBanned": 0,
       "lastcommand": 1744202405479,
       "Banneduser": false,
@@ -87500,7 +87500,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747472103680,
+      "activation": 1747476185625,
       "lastBanned": 0,
       "lastcommand": 1744371832078,
       "Banneduser": false,
@@ -93997,7 +93997,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747474962093,
+      "activation": 1747475919903,
       "lastBanned": 0,
       "Banneduser": false,
       "autolevelup": true,
@@ -100133,9 +100133,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1747396114571,
+      "activation": 1747476033991,
       "lastBanned": 0
     },
     "62895321702818@s.whatsapp.net": {
@@ -138467,7 +138467,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747475757619
+      "activation": 1747476057983
     },
     "6281255499828@s.whatsapp.net": {
       "exp": 2,
@@ -138706,7 +138706,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747475647906,
+      "activation": 1747476078955,
       "lastBanned": 0
     },
     "6285716360106@s.whatsapp.net": {
@@ -139278,7 +139278,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747472715146,
+      "activation": 1747476003413,
       "lastBanned": 0
     },
     "6285706310342@s.whatsapp.net": {
@@ -139432,7 +139432,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747475786110
+      "activation": 1747476159665
     },
     "6282223080502@s.whatsapp.net": {
       "exp": 57,
@@ -139542,7 +139542,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747475778381
+      "activation": 1747476173391
     },
     "6285135942195@s.whatsapp.net": {
       "exp": 2,
@@ -140645,7 +140645,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747475753969,
+      "activation": 1747475987708,
       "lastBanned": 0
     },
     "6287840364335@s.whatsapp.net": {
@@ -140798,7 +140798,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747473881565,
+      "activation": 1747475919704,
       "lastBanned": 0
     },
     "6283896713615@s.whatsapp.net": {
@@ -140886,7 +140886,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747475750783,
+      "activation": 1747476090153,
       "lastBanned": 0
     },
     "6288276687868@s.whatsapp.net": {
@@ -141250,7 +141250,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747472301976,
+      "activation": 1747475835327,
       "lastBanned": 0
     },
     "6281112007002@s.whatsapp.net": {
@@ -141397,7 +141397,29 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747475551345,
+      "activation": 1747475997426,
+      "lastBanned": 0
+    },
+    "628990665109@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "name": "Tebak",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1747476013180,
       "lastBanned": 0
     }
   },
