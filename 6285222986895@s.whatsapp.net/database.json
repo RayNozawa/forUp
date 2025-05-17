@@ -1053,8 +1053,8 @@
       "activation": 1746985168242
     },
     "6283191371141@s.whatsapp.net": {
-      "exp": 241,
-      "limit": 4,
+      "exp": 10322,
+      "limit": 84,
       "registered": false,
       "name": "Vyn",
       "age": -1,
@@ -1073,11 +1073,11 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1747357200397,
-      "lastdaily": 1747010380749,
+      "lastdaily": 1747461053123,
       "lastwork": 1730875837906,
       "lastrob": 1735778404705,
       "delay": 1735714023009,
-      "activation": 1747398172308
+      "activation": 1747461070613
     },
     "6285817976362@s.whatsapp.net": {
       "exp": 100759,
@@ -4536,7 +4536,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1747457932357
+      "activation": 1747461070743
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -129078,7 +129078,7 @@
       "activation": 1746849901496
     },
     "6281362551724@s.whatsapp.net": {
-      "exp": 266,
+      "exp": 281,
       "limit": 499,
       "registered": false,
       "name": "~Daegal Appa",
@@ -129096,7 +129096,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747450599088,
+      "activation": 1747459464032,
       "lastBanned": 0
     },
     "198011347009713@lid": {
@@ -129183,7 +129183,7 @@
       "activation": 1746855649365
     },
     "62895391478641@s.whatsapp.net": {
-      "exp": 83,
+      "exp": 87,
       "limit": 499,
       "registered": false,
       "name": "shafikaaa",
@@ -129201,7 +129201,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747454221948,
+      "activation": 1747460481027,
       "lastBanned": 0
     },
     "6287859595831@s.whatsapp.net": {
@@ -154895,10 +154895,10 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 1273,
-      "success": 1204,
-      "last": 1747390643266,
-      "lastSuccess": 1747390643266
+      "total": 1275,
+      "success": 1206,
+      "last": 1747461070613,
+      "lastSuccess": 1747461070613
     },
     "downloader-tiktok.js": {
       "total": 3571,
@@ -157241,10 +157241,10 @@
       "lastSuccess": 1747405042456
     },
     "havefun-claim.js": {
-      "total": 647,
-      "success": 634,
-      "last": 1747450137148,
-      "lastSuccess": 1747450137148
+      "total": 648,
+      "success": 635,
+      "last": 1747461053124,
+      "lastSuccess": 1747461053124
     },
     "user-limit.js": {
       "total": 151,
@@ -157913,7 +157913,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747456359587,
+      "backupDB": 1747459456118,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
