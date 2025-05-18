@@ -141576,7 +141576,7 @@
       "activation": 1747478551426
     },
     "79514992517@s.whatsapp.net": {
-      "exp": 356,
+      "exp": 359,
       "limit": 1270,
       "registered": false,
       "name": "Радомир Тимофей Гавриил",
@@ -141592,9 +141592,9 @@
       "WarnReason": "",
       "lastweekly": 1747503548897,
       "lastmonthly": 1747503548897,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1747571215995,
+      "activation": 1747573736779,
       "lastBanned": 0,
       "lastdaily": 1747503548897,
       "lastcommand": 1747558296516
@@ -161468,7 +161468,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747564838297,
+      "backupDB": 1747573722567,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
