@@ -193,7 +193,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 20713,
+      "exp": 20726,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -211,7 +211,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1747590031144,
+      "activation": 1747593032978,
       "lastBanned": 0,
       "lastcommand": 1747553216520,
       "limitprem": 10000,
@@ -331,8 +331,8 @@
       "lastcommand": 1746807884310
     },
     "6283857714276@s.whatsapp.net": {
-      "exp": 403,
-      "limit": 274,
+      "exp": 474,
+      "limit": 199,
       "registered": false,
       "name": "udd",
       "age": -1,
@@ -349,7 +349,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747566434637,
+      "activation": 1747591231467,
       "lastBanned": 0,
       "lastcommand": 1746457091607
     },
@@ -14133,7 +14133,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747583396394,
+      "activation": 1747591085157,
       "lastBanned": 0
     },
     "6289603824387@s.whatsapp.net": {
@@ -39219,6 +39219,28 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1747587314023
+    },
+    "6283143600452@s.whatsapp.net": {
+      "exp": 20,
+      "limit": 499,
+      "registered": false,
+      "name": "rap",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1747591263393,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -40638,18 +40660,18 @@
       "expired": 0,
       "total": {
         "6282128611759@s.whatsapp.net": 151,
-        "6283857714276@s.whatsapp.net": 248,
+        "6283857714276@s.whatsapp.net": 268,
         "6282357353442@s.whatsapp.net": 313,
-        "6288246246949@s.whatsapp.net": 403,
-        "6283164975409@s.whatsapp.net": 175,
+        "6288246246949@s.whatsapp.net": 405,
+        "6283164975409@s.whatsapp.net": 183,
         "6285704902885@s.whatsapp.net": 35,
-        "6289629130204@s.whatsapp.net": 462,
+        "6289629130204@s.whatsapp.net": 464,
         "6283175509153@s.whatsapp.net": 431,
         "62882003885815@s.whatsapp.net": 402,
         "6287865741620@s.whatsapp.net": 62,
         "6285975246698@s.whatsapp.net": 92,
         "6283139312937@s.whatsapp.net": 238,
-        "6282254592773@s.whatsapp.net": 530,
+        "6282254592773@s.whatsapp.net": 532,
         "6283131998936@s.whatsapp.net": 56,
         "6283180305623@s.whatsapp.net": 448,
         "6285655815768@s.whatsapp.net": 5,
@@ -40660,20 +40682,21 @@
         "6285766064200@s.whatsapp.net": 111,
         "6283856801205@s.whatsapp.net": 145,
         "6289531370298@s.whatsapp.net": 15,
-        "6285856011884@s.whatsapp.net": 143,
+        "6285856011884@s.whatsapp.net": 145,
         "6289506612543@s.whatsapp.net": 9,
         "6283171609872@s.whatsapp.net": 29,
-        "62895325629523@s.whatsapp.net": 84,
-        "6287730692750@s.whatsapp.net": 242,
+        "62895325629523@s.whatsapp.net": 86,
+        "6287730692750@s.whatsapp.net": 244,
         "6281553476702@s.whatsapp.net": 67,
-        "6283114594503@s.whatsapp.net": 334,
+        "6283114594503@s.whatsapp.net": 394,
         "6281215712318@s.whatsapp.net": 222,
         "6289506271983@s.whatsapp.net": 58,
         "6285860692849@s.whatsapp.net": 14,
         "62895327280770@s.whatsapp.net": 1,
-        "6282113172214@s.whatsapp.net": 22,
-        "628558881161@s.whatsapp.net": 19,
-        "6287866714065@s.whatsapp.net": 4
+        "6282113172214@s.whatsapp.net": 26,
+        "628558881161@s.whatsapp.net": 21,
+        "6287866714065@s.whatsapp.net": 4,
+        "6283143600452@s.whatsapp.net": 11
       },
       "totalChat": 0
     },
@@ -47360,10 +47383,10 @@
       "lastSuccess": 1747566865295
     },
     "ai-remini.js": {
-      "total": 347,
-      "success": 304,
-      "last": 1747571511027,
-      "lastSuccess": 1747571511027
+      "total": 350,
+      "success": 307,
+      "last": 1747591146377,
+      "lastSuccess": 1747591146377
     },
     "ai-remini2.js": {
       "total": 33,
@@ -48127,7 +48150,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747587031165,
+      "backupDB": 1747590034747,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
