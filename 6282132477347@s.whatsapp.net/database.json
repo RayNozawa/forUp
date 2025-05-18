@@ -10627,7 +10627,7 @@
       "activation": 1743205581879
     },
     "6285211941644@s.whatsapp.net": {
-      "exp": 131,
+      "exp": 140,
       "limit": 499,
       "registered": false,
       "name": "Aether",
@@ -10646,7 +10646,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1743418803368
+      "activation": 1747556533287
     },
     "6282334843360@s.whatsapp.net": {
       "exp": 211,
@@ -109769,7 +109769,7 @@
       "lastBanned": 0
     },
     "6282138444095@s.whatsapp.net": {
-      "exp": 754656,
+      "exp": 754662,
       "limit": 1045,
       "registered": true,
       "name": "Trazz",
@@ -109788,7 +109788,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747554619563,
+      "activation": 1747556975420,
       "lastdaily": 1745236187171,
       "lastwork": 1745279584974,
       "lastrob": 1745276936670,
@@ -110458,7 +110458,7 @@
       "lastcommand": 1744724511162
     },
     "6287845151279@s.whatsapp.net": {
-      "exp": 4162,
+      "exp": 4167,
       "limit": 494,
       "registered": true,
       "name": "𒅒𒈔𒅒𒇫𒄆",
@@ -110476,7 +110476,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747555457631,
+      "activation": 1747556997424,
       "lastBanned": 0,
       "lastcommand": 1745029623599,
       "lastwork": 1745276565614
@@ -117586,7 +117586,7 @@
       "lastBanned": 0
     },
     "62895405787106@s.whatsapp.net": {
-      "exp": 116,
+      "exp": 120,
       "limit": 499,
       "registered": false,
       "name": ".",
@@ -117604,7 +117604,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746327551881,
+      "activation": 1747557384998,
       "lastBanned": 0
     },
     "6282230091067@s.whatsapp.net": {
@@ -142522,6 +142522,26 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1747556245889
+    },
+    "234621732135162@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1747557737790
     }
   },
   "chats": {
@@ -150968,7 +150988,7 @@
         "6285750225037@s.whatsapp.net": 21347,
         "6282327360391@s.whatsapp.net": 3421,
         "6285725870085@s.whatsapp.net": 16939,
-        "6282138444095@s.whatsapp.net": 53144,
+        "6282138444095@s.whatsapp.net": 53158,
         "6285722598442@s.whatsapp.net": 13685,
         "6287842822867@s.whatsapp.net": 53065,
         "6289520110391@s.whatsapp.net": 221,
@@ -150981,13 +151001,13 @@
         "62882008879526@s.whatsapp.net": 3477,
         "6285141179740@s.whatsapp.net": 4526,
         "6281934068666@s.whatsapp.net": 1245,
-        "6281910123298@s.whatsapp.net": 100,
+        "6281910123298@s.whatsapp.net": 102,
         "6287899775791@s.whatsapp.net": 2125,
         "6282324428966@s.whatsapp.net": 1954,
-        "62895324830981@s.whatsapp.net": 10204,
+        "62895324830981@s.whatsapp.net": 10206,
         "6285727109612@s.whatsapp.net": 1800,
         "6285641845890@s.whatsapp.net": 8706,
-        "6287845151279@s.whatsapp.net": 1979,
+        "6287845151279@s.whatsapp.net": 1986,
         "6287823824482@s.whatsapp.net": 4960,
         "628995215855@s.whatsapp.net": 601,
         "6285864462347@s.whatsapp.net": 421,
@@ -151011,9 +151031,9 @@
         "6285962859461@s.whatsapp.net": 449,
         "6282122970612@s.whatsapp.net": 25,
         "6283870873769@s.whatsapp.net": 13,
-        "6282264337565@s.whatsapp.net": 1908,
+        "6282264337565@s.whatsapp.net": 1912,
         "6289643256950@s.whatsapp.net": 84,
-        "6282220992504@s.whatsapp.net": 238,
+        "6282220992504@s.whatsapp.net": 240,
         "6288906060009@s.whatsapp.net": 144
       },
       "totalChat": 0
@@ -156327,8 +156347,8 @@
         "6285722598442@s.whatsapp.net": 1140,
         "6287741310540@s.whatsapp.net": 2033,
         "6282297103038@s.whatsapp.net": 1634,
-        "6288906060009@s.whatsapp.net": 206,
-        "6281556462599@s.whatsapp.net": 594,
+        "6288906060009@s.whatsapp.net": 213,
+        "6281556462599@s.whatsapp.net": 600,
         "6282134871593@s.whatsapp.net": 33,
         "6281779913953@s.whatsapp.net": 81,
         "6289510571260@s.whatsapp.net": 194,
@@ -156343,10 +156363,10 @@
         "6283137399913@s.whatsapp.net": 118,
         "6285194764181@s.whatsapp.net": 44,
         "6281290855325@s.whatsapp.net": 17,
-        "6281231195371@s.whatsapp.net": 126,
+        "6281231195371@s.whatsapp.net": 127,
         "6282228713712@s.whatsapp.net": 96,
         "6282298344215@s.whatsapp.net": 10,
-        "628976327446@s.whatsapp.net": 300,
+        "628976327446@s.whatsapp.net": 302,
         "6285786552115@s.whatsapp.net": 460,
         "6285947538209@s.whatsapp.net": 64,
         "6285189855352@s.whatsapp.net": 28,
@@ -156355,15 +156375,15 @@
         "6281391128346@s.whatsapp.net": 209,
         "6285819395394@s.whatsapp.net": 73,
         "6281337281282@s.whatsapp.net": 237,
-        "6283865484642@s.whatsapp.net": 810,
+        "6283865484642@s.whatsapp.net": 812,
         "6285119868272@s.whatsapp.net": 160,
         "6281319542793@s.whatsapp.net": 26,
-        "6287893701524@s.whatsapp.net": 231,
+        "6287893701524@s.whatsapp.net": 235,
         "62895404470154@s.whatsapp.net": 20,
         "6288809700738@s.whatsapp.net": 41,
         "6282336724174@s.whatsapp.net": 28,
         "6282230091067@s.whatsapp.net": 27,
-        "6281359449507@s.whatsapp.net": 23,
+        "6281359449507@s.whatsapp.net": 24,
         "6285710114903@s.whatsapp.net": 304,
         "6285966569441@s.whatsapp.net": 17,
         "6282323694773@s.whatsapp.net": 157,
@@ -156389,9 +156409,10 @@
         "6289504527578@s.whatsapp.net": 36,
         "6287778283713@s.whatsapp.net": 65,
         "6285743125541@s.whatsapp.net": 20,
-        "6281774967773@s.whatsapp.net": 29,
-        "6287784046005@s.whatsapp.net": 224,
-        "6285778277083@s.whatsapp.net": 5
+        "6281774967773@s.whatsapp.net": 31,
+        "6287784046005@s.whatsapp.net": 232,
+        "6285778277083@s.whatsapp.net": 6,
+        "62895405787106@s.whatsapp.net": 2
       },
       "totalChat": 0,
       "antiCall": true,
@@ -156724,10 +156745,11 @@
       "expired": 0,
       "total": {
         "6285722598442@s.whatsapp.net": 149,
-        "6285641845890@s.whatsapp.net": 3428,
+        "6285641845890@s.whatsapp.net": 3465,
         "62895605379273@s.whatsapp.net": 199,
         "6287787080907@s.whatsapp.net": 59,
-        "6287893701524@s.whatsapp.net": 6
+        "6287893701524@s.whatsapp.net": 7,
+        "6285211941644@s.whatsapp.net": 1
       },
       "totalChat": 0
     },
@@ -162389,7 +162411,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747555575885,
+      "backupDB": 1747557384413,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
