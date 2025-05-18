@@ -141576,7 +141576,7 @@
       "activation": 1747478551426
     },
     "79514992517@s.whatsapp.net": {
-      "exp": 271,
+      "exp": 356,
       "limit": 1270,
       "registered": false,
       "name": "Радомир Тимофей Гавриил",
@@ -141594,10 +141594,10 @@
       "lastmonthly": 1747503548897,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747515645852,
+      "activation": 1747558296702,
       "lastBanned": 0,
       "lastdaily": 1747503548897,
-      "lastcommand": 1747505213412
+      "lastcommand": 1747558296516
     },
     "6288707784782@s.whatsapp.net": {
       "exp": 6,
@@ -141621,7 +141621,7 @@
       "activation": 1747488973158
     },
     "628172345241@s.whatsapp.net": {
-      "exp": 8,
+      "exp": 11,
       "limit": 499,
       "registered": false,
       "name": "السيّد محمّد بن عمر بن عبد الرّحمن البحر",
@@ -141639,7 +141639,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747493498702
+      "activation": 1747557614599,
+      "lastBanned": 0
     },
     "6287886822978@s.whatsapp.net": {
       "exp": 138,
@@ -161086,10 +161087,10 @@
       "lastSuccess": 1745027432392
     },
     "fun-cek.js": {
-      "total": 50,
-      "success": 49,
-      "last": 1745733786813,
-      "lastSuccess": 1745733786813
+      "total": 53,
+      "success": 52,
+      "last": 1747558296516,
+      "lastSuccess": 1747558296516
     },
     "fun-wibucek.js": {
       "total": 2,
@@ -161466,7 +161467,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747543682272,
+      "backupDB": 1747557614314,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
