@@ -129257,7 +129257,7 @@
       "lastdaily": 1747403834067
     },
     "6281284712490@s.whatsapp.net": {
-      "exp": 1666,
+      "exp": 1671,
       "limit": 364,
       "registered": false,
       "name": "P",
@@ -129275,7 +129275,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747578781700,
+      "activation": 1747583527161,
       "lastBanned": 0,
       "lastcommand": 1746951738295
     },
@@ -131427,7 +131427,7 @@
       "activation": 1747098123885
     },
     "98479305187406@lid": {
-      "exp": 131,
+      "exp": 139,
       "limit": 499,
       "registered": false,
       "name": "Ilham",
@@ -131445,7 +131445,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747582857730,
+      "activation": 1747583181206,
       "lastBanned": 0
     },
     "164605041074180@lid": {
@@ -135608,7 +135608,7 @@
       "lastBanned": 0
     },
     "178254514262049@lid": {
-      "exp": 10,
+      "exp": 18,
       "limit": 499,
       "registered": false,
       "name": "I.B DIKI MANUABA",
@@ -135626,7 +135626,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747582590451,
+      "activation": 1747583876334,
       "lastBanned": 0
     }
   },
@@ -155469,7 +155469,7 @@
       "expired": 0,
       "total": {
         "6288987270716@s.whatsapp.net": 82,
-        "6282113423495@s.whatsapp.net": 2091,
+        "6282113423495@s.whatsapp.net": 2107,
         "11708215087183@lid": 224,
         "101580808450260@lid": 35,
         "7189875953798@lid": 117,
@@ -155479,14 +155479,14 @@
         "119027032670340@lid": 164,
         "173035659198704@lid": 85,
         "59730781278442@lid": 46,
-        "154975825068283@lid": 97,
-        "149091434647802@lid": 162,
+        "154975825068283@lid": 99,
+        "149091434647802@lid": 164,
         "139590916673768@lid": 189,
         "251256090165284@lid": 34,
         "18584944263379@lid": 80,
         "262839465975887@lid": 345,
         "35661298069580@lid": 44,
-        "98479305187406@lid": 441,
+        "98479305187406@lid": 453,
         "164605041074180@lid": 58,
         "71928068997341@lid": 15,
         "161293772271619@lid": 27,
@@ -155500,7 +155500,7 @@
         "236974904496216@lid": 71,
         "155967727628526@lid": 25,
         "140424408772701@lid": 4,
-        "178254514262049@lid": 10
+        "178254514262049@lid": 13
       },
       "totalChat": 0
     },
@@ -155525,10 +155525,10 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6281284712490@s.whatsapp.net": 4133,
+        "6281284712490@s.whatsapp.net": 4138,
         "6283188379039@s.whatsapp.net": 44,
-        "6285724563240@s.whatsapp.net": 2011,
-        "6283135037041@s.whatsapp.net": 4286,
+        "6285724563240@s.whatsapp.net": 2012,
+        "6283135037041@s.whatsapp.net": 4290,
         "6285640455380@s.whatsapp.net": 1999,
         "6285217126429@s.whatsapp.net": 48,
         "6287854857382@s.whatsapp.net": 2304,
@@ -155539,15 +155539,15 @@
         "6282257764415@s.whatsapp.net": 5,
         "6285856916085@s.whatsapp.net": 93,
         "6288226771993@s.whatsapp.net": 53,
-        "6289518311574@s.whatsapp.net": 65,
-        "628895226757@s.whatsapp.net": 444,
+        "6289518311574@s.whatsapp.net": 66,
+        "628895226757@s.whatsapp.net": 445,
         "6285714362064@s.whatsapp.net": 109,
         "6283837566582@s.whatsapp.net": 759,
         "6283830318423@s.whatsapp.net": 1392,
         "6281214774877@s.whatsapp.net": 215,
         "6285880337010@s.whatsapp.net": 118,
-        "6289524998312@s.whatsapp.net": 40,
-        "6281568338774@s.whatsapp.net": 118
+        "6289524998312@s.whatsapp.net": 41,
+        "6281568338774@s.whatsapp.net": 123
       },
       "totalChat": 0
     },
@@ -158819,7 +158819,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747581338433,
+      "backupDB": 1747583180991,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
