@@ -211,7 +211,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1747576030620,
+      "activation": 1747576167143,
       "lastBanned": 0,
       "lastcommand": 1747553216520,
       "limitprem": 10000,
@@ -736,7 +736,7 @@
       "lastBanned": 0
     },
     "6285814862628@s.whatsapp.net": {
-      "exp": 2251,
+      "exp": 2261,
       "limit": 319,
       "registered": false,
       "name": "SanzXuu",
@@ -754,7 +754,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747499120036,
+      "activation": 1747576619485,
       "lastBanned": 0,
       "lastcommand": 1742898134222
     },
@@ -1024,7 +1024,7 @@
       "lastBanned": 0
     },
     "6289636027771@s.whatsapp.net": {
-      "exp": 510,
+      "exp": 523,
       "limit": 499,
       "registered": false,
       "name": "@ZAriel_SiDoel",
@@ -1043,7 +1043,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747563824199,
+      "activation": 1747577673744,
       "lastcommand": 1742807553655
     },
     "6285574670469@s.whatsapp.net": {
@@ -20359,8 +20359,8 @@
       "lastcommand": 1746968413162
     },
     "6285784318185@s.whatsapp.net": {
-      "exp": 458,
-      "limit": 369,
+      "exp": 522,
+      "limit": 339,
       "registered": false,
       "name": "Enn",
       "age": -1,
@@ -20377,7 +20377,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747576030361,
+      "activation": 1747576166990,
       "lastBanned": 0
     },
     "6281235885898@s.whatsapp.net": {
@@ -39119,6 +39119,66 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1747571217944
+    },
+    "270407399649331@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1747576203852
+    },
+    "120363401723624690@newsletter": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "lastBanned": 0
+    },
+    "25456875163883@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1747577305331
     }
   },
   "chats": {
@@ -47151,6 +47211,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "120363401723624690@newsletter": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -47173,10 +47254,10 @@
       "lastSuccess": 1716040986605
     },
     "sticker-sticker.js": {
-      "total": 58,
-      "success": 52,
-      "last": 1747576030361,
-      "lastSuccess": 1747576030361
+      "total": 59,
+      "success": 53,
+      "last": 1747576062918,
+      "lastSuccess": 1747576062918
     },
     "owner-getdb.js": {
       "total": 3,
@@ -47479,10 +47560,10 @@
       "lastSuccess": 1745220036963
     },
     "sticker-meme.js": {
-      "total": 20,
-      "success": 12,
-      "last": 1747561515539,
-      "lastSuccess": 1747561515539
+      "total": 22,
+      "success": 14,
+      "last": 1747576166990,
+      "lastSuccess": 1747576166990
     },
     "group-link.js": {
       "total": 4,
@@ -48006,7 +48087,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747574249900,
+      "backupDB": 1747576057313,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
