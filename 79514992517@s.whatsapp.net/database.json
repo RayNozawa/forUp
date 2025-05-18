@@ -141576,7 +141576,7 @@
       "activation": 1747478551426
     },
     "79514992517@s.whatsapp.net": {
-      "exp": 356,
+      "exp": 435,
       "limit": 1270,
       "registered": false,
       "name": "Радомир Тимофей Гавриил",
@@ -141594,7 +141594,7 @@
       "lastmonthly": 1747503548897,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747571215995,
+      "activation": 1747574686735,
       "lastBanned": 0,
       "lastdaily": 1747503548897,
       "lastcommand": 1747558296516
@@ -160218,10 +160218,10 @@
       "lastSuccess": 1746853134985
     },
     "ai-remini.js": {
-      "total": 137,
-      "success": 123,
-      "last": 1747399361337,
-      "lastSuccess": 1747399361337
+      "total": 138,
+      "success": 124,
+      "last": 1747574606017,
+      "lastSuccess": 1747574606017
     },
     "group-settings.js": {
       "total": 28,
@@ -161250,10 +161250,10 @@
       "lastSuccess": 0
     },
     "ai-toanime.js": {
-      "total": 3,
-      "success": 0,
-      "last": 1745912753305,
-      "lastSuccess": 0
+      "total": 5,
+      "success": 2,
+      "last": 1747574686570,
+      "lastSuccess": 1747574686570
     },
     "tool-tts2.js": {
       "total": 4,
@@ -161468,7 +161468,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747564838297,
+      "backupDB": 1747573722567,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
