@@ -141644,7 +141644,7 @@
       "lastBanned": 0
     },
     "6287886822978@s.whatsapp.net": {
-      "exp": 139,
+      "exp": 153,
       "limit": 499,
       "registered": false,
       "name": "Muhammad bisri",
@@ -141662,11 +141662,11 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747581452675,
+      "activation": 1747600639779,
       "lastBanned": 0
     },
     "6283897395004@s.whatsapp.net": {
-      "exp": 160,
+      "exp": 164,
       "limit": 499,
       "registered": false,
       "name": "Ahmad Jailani Al Bisri",
@@ -141685,7 +141685,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747581405748
+      "activation": 1747600687299
     },
     "6285720855292@s.whatsapp.net": {
       "exp": 34,
@@ -161468,7 +161468,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747590127957,
+      "backupDB": 1747599900962,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
