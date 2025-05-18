@@ -141600,7 +141600,7 @@
       "lastcommand": 1747558296516
     },
     "6288707784782@s.whatsapp.net": {
-      "exp": 6,
+      "exp": 12,
       "limit": 499,
       "registered": false,
       "name": "Shalehismael",
@@ -141618,7 +141618,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747488973158
+      "activation": 1747562298542,
+      "lastBanned": 0
     },
     "628172345241@s.whatsapp.net": {
       "exp": 11,
