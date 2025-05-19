@@ -193,7 +193,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 21479,
+      "exp": 21544,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -211,7 +211,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1747633461462,
+      "activation": 1747635073675,
       "lastBanned": 0,
       "lastcommand": 1747628827837,
       "limitprem": 10000,
@@ -354,7 +354,7 @@
       "lastcommand": 1746457091607
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 2586,
+      "exp": 2595,
       "limit": 1399,
       "registered": false,
       "name": "@Nadiaaa",
@@ -372,7 +372,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747624876664,
+      "activation": 1747635236124,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -4529,7 +4529,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747611817150,
+      "activation": 1747635809082,
       "lastBanned": 0
     },
     "6287749048860@s.whatsapp.net": {
@@ -14111,7 +14111,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747634393913,
+      "activation": 1747635194112,
       "lastBanned": 0
     },
     "6283114594503@s.whatsapp.net": {
@@ -14133,7 +14133,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747591085157,
+      "activation": 1747634688924,
       "lastBanned": 0
     },
     "6289603824387@s.whatsapp.net": {
@@ -14624,7 +14624,7 @@
       "lastBanned": 0
     },
     "6281381558139@s.whatsapp.net": {
-      "exp": 57,
+      "exp": 59,
       "limit": 499,
       "registered": false,
       "name": "Tasya Nurul FR",
@@ -14643,7 +14643,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747609812155
+      "activation": 1747635528617
     },
     "120363400825807038@g.us": {
       "exp": 0,
@@ -20375,7 +20375,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "activation": 1747576166990,
       "lastBanned": 0
@@ -38997,7 +38997,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747621978366,
+      "activation": 1747634712514,
       "lastBanned": 0
     },
     "15595630293121@lid": {
@@ -47563,10 +47563,10 @@
       "lastSuccess": 1741729221851
     },
     "downloader-tiktok.js": {
-      "total": 288,
-      "success": 266,
-      "last": 1747624435753,
-      "lastSuccess": 1747624435753
+      "total": 290,
+      "success": 268,
+      "last": 1747634717538,
+      "lastSuccess": 1747634717538
     },
     "owner-pushkontak.js": {
       "total": 3,
@@ -48300,7 +48300,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747632057934,
+      "backupDB": 1747634697372,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
