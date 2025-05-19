@@ -141576,7 +141576,7 @@
       "activation": 1747478551426
     },
     "79514992517@s.whatsapp.net": {
-      "exp": 435,
+      "exp": 441,
       "limit": 1270,
       "registered": false,
       "name": "Радомир Тимофей Гавриил",
@@ -141592,9 +141592,9 @@
       "WarnReason": "",
       "lastweekly": 1747503548897,
       "lastmonthly": 1747503548897,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1747621637562,
+      "activation": 1747633776297,
       "lastBanned": 0,
       "lastdaily": 1747503548897,
       "lastcommand": 1747558296516
@@ -141622,8 +141622,8 @@
       "lastBanned": 0
     },
     "628172345241@s.whatsapp.net": {
-      "exp": 25,
-      "limit": 499,
+      "exp": 47,
+      "limit": 469,
       "registered": false,
       "name": "السيّد محمّد بن عمر بن عبد الرّحمن البحر",
       "age": -1,
@@ -141640,7 +141640,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747619567432,
+      "activation": 1747633196540,
       "lastBanned": 0
     },
     "6287886822978@s.whatsapp.net": {
@@ -141798,7 +141798,7 @@
       "lastBanned": 0
     },
     "6285792757427@s.whatsapp.net": {
-      "exp": 8,
+      "exp": 15,
       "limit": 499,
       "registered": false,
       "name": ".",
@@ -141816,7 +141816,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747624665062
+      "activation": 1747634785122,
+      "lastBanned": 0
     },
     "6283136577769@s.whatsapp.net": {
       "exp": 2,
@@ -160258,6 +160259,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "628172345241@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -161378,10 +161400,10 @@
       "lastSuccess": 0
     },
     "ai-toanime.js": {
-      "total": 5,
-      "success": 2,
-      "last": 1747574686570,
-      "lastSuccess": 1747574686570
+      "total": 6,
+      "success": 3,
+      "last": 1747633175949,
+      "lastSuccess": 1747633175949
     },
     "tool-tts2.js": {
       "total": 4,
@@ -161596,7 +161618,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747629087063,
+      "backupDB": 1747633154738,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
