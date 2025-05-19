@@ -141600,7 +141600,7 @@
       "lastcommand": 1747558296516
     },
     "6288707784782@s.whatsapp.net": {
-      "exp": 13,
+      "exp": 23,
       "limit": 499,
       "registered": false,
       "name": "Shalehismael",
@@ -141618,7 +141618,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747566008536,
+      "activation": 1747636428654,
       "lastBanned": 0
     },
     "628172345241@s.whatsapp.net": {
@@ -161618,7 +161618,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747633154738,
+      "backupDB": 1747636428427,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
