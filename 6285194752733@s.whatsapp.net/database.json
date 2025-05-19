@@ -141733,7 +141733,7 @@
       "lastBanned": 0
     },
     "6283873815401@s.whatsapp.net": {
-      "exp": 4,
+      "exp": 10,
       "limit": 499,
       "registered": false,
       "name": "عمر بن عبدالرحمن البحر",
@@ -141751,7 +141751,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747543682517
+      "activation": 1747614578008,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -161468,7 +161469,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747599900962,
+      "backupDB": 1747614577686,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
