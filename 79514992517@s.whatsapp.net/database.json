@@ -141594,7 +141594,7 @@
       "lastmonthly": 1747503548897,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747581506863,
+      "activation": 1747621637562,
       "lastBanned": 0,
       "lastdaily": 1747503548897,
       "lastcommand": 1747558296516
@@ -141622,7 +141622,7 @@
       "lastBanned": 0
     },
     "628172345241@s.whatsapp.net": {
-      "exp": 24,
+      "exp": 25,
       "limit": 499,
       "registered": false,
       "name": "السيّد محمّد بن عمر بن عبد الرّحمن البحر",
@@ -141640,7 +141640,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747566254632,
+      "activation": 1747619567432,
       "lastBanned": 0
     },
     "6287886822978@s.whatsapp.net": {
@@ -141733,7 +141733,7 @@
       "lastBanned": 0
     },
     "6283873815401@s.whatsapp.net": {
-      "exp": 10,
+      "exp": 14,
       "limit": 499,
       "registered": false,
       "name": "عمر بن عبدالرحمن البحر",
@@ -141751,7 +141751,50 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747614578008,
+      "activation": 1747620951128,
+      "lastBanned": 0
+    },
+    "62895406436136@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 895-4064-36136",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1747621148949
+    },
+    "120363401465132930@g.us": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "name": {},
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1747621636452,
       "lastBanned": 0
     }
   },
@@ -160131,6 +160174,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "120363401465132930@g.us": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -161469,7 +161533,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747614577686,
+      "backupDB": 1747619567232,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
