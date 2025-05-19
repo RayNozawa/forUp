@@ -141622,7 +141622,7 @@
       "lastBanned": 0
     },
     "628172345241@s.whatsapp.net": {
-      "exp": 24,
+      "exp": 25,
       "limit": 499,
       "registered": false,
       "name": "السيّد محمّد بن عمر بن عبد الرّحمن البحر",
@@ -141640,7 +141640,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747566254632,
+      "activation": 1747619567432,
       "lastBanned": 0
     },
     "6287886822978@s.whatsapp.net": {
@@ -161469,7 +161469,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747614577686,
+      "backupDB": 1747619567232,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
