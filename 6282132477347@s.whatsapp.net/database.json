@@ -141594,7 +141594,7 @@
       "lastmonthly": 1747503548897,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747660855658,
+      "activation": 1747661237295,
       "lastBanned": 0,
       "lastdaily": 1747503548897,
       "lastcommand": 1747558296516
@@ -141622,8 +141622,8 @@
       "lastBanned": 0
     },
     "628172345241@s.whatsapp.net": {
-      "exp": 60415,
-      "limit": 974,
+      "exp": 60574,
+      "limit": 964,
       "registered": false,
       "name": "السيّد محمّد بن عمر بن عبد الرّحمن البحر",
       "age": -1,
@@ -141640,9 +141640,9 @@
       "lastmonthly": 1747656455881,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747660855489,
+      "activation": 1747662701684,
       "lastBanned": 0,
-      "lastcommand": 1747656134997,
+      "lastcommand": 1747660974796,
       "lastdaily": 1747656455881
     },
     "6287886822978@s.whatsapp.net": {
@@ -141885,7 +141885,7 @@
       "activation": 1747655686045
     },
     "6285711790201@s.whatsapp.net": {
-      "exp": 80,
+      "exp": 89,
       "limit": 499,
       "registered": false,
       "name": "ahas",
@@ -141904,10 +141904,10 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747660429637
+      "activation": 1747661302239
     },
     "6281382270497@s.whatsapp.net": {
-      "exp": 48,
+      "exp": 58,
       "limit": 444,
       "registered": false,
       "name": "thomgumillar09",
@@ -141926,7 +141926,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747660467553
+      "activation": 1747662316084
     },
     "6283198315136@s.whatsapp.net": {
       "exp": 3,
@@ -141969,6 +141969,28 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1747660768114,
+      "lastBanned": 0
+    },
+    "6285283526968@s.whatsapp.net": {
+      "exp": 20,
+      "limit": 499,
+      "registered": false,
+      "name": "عبدالرحمن المنتيج",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1747662362451,
       "lastBanned": 0
     }
   },
@@ -160433,12 +160455,13 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "628172345241@s.whatsapp.net": 223,
-        "6285782775306@s.whatsapp.net": 18,
-        "6285711790201@s.whatsapp.net": 99,
-        "6281382270497@s.whatsapp.net": 10,
-        "6283198315136@s.whatsapp.net": 5,
-        "6283876030066@s.whatsapp.net": 8
+        "628172345241@s.whatsapp.net": 349,
+        "6285782775306@s.whatsapp.net": 21,
+        "6285711790201@s.whatsapp.net": 148,
+        "6281382270497@s.whatsapp.net": 18,
+        "6283198315136@s.whatsapp.net": 16,
+        "6283876030066@s.whatsapp.net": 30,
+        "6285283526968@s.whatsapp.net": 4
       },
       "totalChat": 0
     }
@@ -160487,10 +160510,10 @@
       "lastSuccess": 1746243617172
     },
     "sticker-sticker.js": {
-      "total": 230,
-      "success": 212,
-      "last": 1747660855489,
-      "lastSuccess": 1747660855489
+      "total": 232,
+      "success": 213,
+      "last": 1747661136839,
+      "lastSuccess": 1747661136839
     },
     "_cek.js": {
       "total": 5320,
@@ -160517,10 +160540,10 @@
       "lastSuccess": 1746243979958
     },
     "_main-allmenu.js": {
-      "total": 97,
-      "success": 96,
-      "last": 1747505215724,
-      "lastSuccess": 1747505215724
+      "total": 98,
+      "success": 97,
+      "last": 1747660978237,
+      "lastSuccess": 1747660978237
     },
     "downloader-tiktok.js": {
       "total": 216,
@@ -160583,10 +160606,10 @@
       "lastSuccess": 1746154465398
     },
     "sticker-all.js": {
-      "total": 761,
-      "success": 750,
-      "last": 1747660832446,
-      "lastSuccess": 1747660832446
+      "total": 762,
+      "success": 751,
+      "last": 1747661186356,
+      "lastSuccess": 1747661186356
     },
     "downloader-yt2.js": {
       "total": 8,
@@ -161507,10 +161530,10 @@
       "lastSuccess": 1747394599760
     },
     "sticker-avatar.js": {
-      "total": 3,
-      "success": 0,
-      "last": 1745676880662,
-      "lastSuccess": 0
+      "total": 5,
+      "success": 1,
+      "last": 1747661236615,
+      "lastSuccess": 1747661236615
     },
     "game-tebaklogo.js": {
       "total": 3,
@@ -161785,7 +161808,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747660384869,
+      "backupDB": 1747662315833,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
