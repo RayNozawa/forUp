@@ -184,7 +184,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747645914637
+      "activation": 1747656077355
     },
     "120363240711248334@g.us": {
       "exp": 5227,
@@ -206,7 +206,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747642022179
+      "activation": 1747656177132
     },
     "62882003784627@s.whatsapp.net": {
       "exp": 12,
@@ -1004,7 +1004,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747645914731
+      "activation": 1747656077495
     },
     "6283119901412@s.whatsapp.net": {
       "exp": 16214,
@@ -1054,8 +1054,8 @@
       "activation": 1746985168242
     },
     "6283191371141@s.whatsapp.net": {
-      "exp": 11805,
-      "limit": 84,
+      "exp": 11857,
+      "limit": 64,
       "registered": false,
       "name": "Vyn",
       "age": -1,
@@ -1073,12 +1073,12 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1747491069194,
+      "lastcommand": 1747655827418,
       "lastdaily": 1747567592153,
       "lastwork": 1730875837906,
       "lastrob": 1735778404705,
       "delay": 1735714023009,
-      "activation": 1747568213158
+      "activation": 1747655859080
     },
     "6285817976362@s.whatsapp.net": {
       "exp": 100759,
@@ -4537,7 +4537,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1747653734102
+      "activation": 1747656178935
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -19786,8 +19786,8 @@
       "lastBanned": 0
     },
     "62882006212609@s.whatsapp.net": {
-      "exp": 164020,
-      "limit": 520,
+      "exp": 164083,
+      "limit": 500,
       "registered": false,
       "name": "Aljndn",
       "age": -1,
@@ -19805,11 +19805,11 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1746618451082,
+      "lastcommand": 1747654238253,
       "lastdaily": 1746533503625,
       "lastwork": 1735207824775,
       "delay": 1735702700559,
-      "activation": 1747411979958
+      "activation": 1747654262887
     },
     "212684484242@s.whatsapp.net": {
       "exp": 389,
@@ -156079,16 +156079,16 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 1286,
-      "success": 1217,
-      "last": 1747576976042,
-      "lastSuccess": 1747576976042
+      "total": 1287,
+      "success": 1218,
+      "last": 1747655859080,
+      "lastSuccess": 1747655859080
     },
     "downloader-tiktok.js": {
-      "total": 3626,
-      "success": 3315,
-      "last": 1747653700012,
-      "lastSuccess": 1747653700012
+      "total": 3627,
+      "success": 3316,
+      "last": 1747654262888,
+      "lastSuccess": 1747654262888
     },
     "owner-sf.js": {
       "total": 1241,
@@ -156559,10 +156559,10 @@
       "lastSuccess": 1744008159523
     },
     "info-ping.js": {
-      "total": 417,
-      "success": 411,
-      "last": 1747533832363,
-      "lastSuccess": 1747533832363
+      "total": 418,
+      "success": 412,
+      "last": 1747654238999,
+      "lastSuccess": 1747654238999
     },
     "ai-toanime.js": {
       "total": 121,
@@ -158527,10 +158527,10 @@
       "lastSuccess": 1747288846470
     },
     "_main-menu.js": {
-      "total": 500,
-      "success": 496,
-      "last": 1747626515876,
-      "lastSuccess": 1747626515876
+      "total": 501,
+      "success": 497,
+      "last": 1747655839899,
+      "lastSuccess": 1747655839899
     },
     "_main-allmenu.js": {
       "total": 135,
@@ -159097,7 +159097,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747652144519,
+      "backupDB": 1747654234083,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
