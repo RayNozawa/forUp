@@ -2612,7 +2612,7 @@
       "activation": 1747643619477
     },
     "6282123890775@s.whatsapp.net": {
-      "exp": 35,
+      "exp": 44,
       "limit": 499,
       "registered": false,
       "name": "LureV",
@@ -2628,9 +2628,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1743332274608,
+      "activation": 1747645505035,
       "lastBanned": 0
     },
     "6283848931442@s.whatsapp.net": {
@@ -2805,7 +2805,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747644160294,
+      "activation": 1747647597263,
       "lastBanned": 0
     },
     "6283141671011@s.whatsapp.net": {
@@ -47323,7 +47323,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747642039679,
+      "backupDB": 1747645496710,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
