@@ -193,7 +193,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 21362,
+      "exp": 21403,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -211,9 +211,9 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1747627047158,
+      "activation": 1747629059386,
       "lastBanned": 0,
-      "lastcommand": 1747619406228,
+      "lastcommand": 1747628827837,
       "limitprem": 10000,
       "warn": 1
     },
@@ -535,7 +535,7 @@
       "lastdaily": 1742938834744
     },
     "6283896295573@s.whatsapp.net": {
-      "exp": 305,
+      "exp": 311,
       "limit": 499,
       "registered": false,
       "name": "Agung",
@@ -554,7 +554,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747574984445,
+      "activation": 1747628694451,
       "lastcommand": 1742379741447
     },
     "120363370527781839@newsletter": {
@@ -14992,7 +14992,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
       "activation": 1747627542807
@@ -47376,6 +47376,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "6288905021627@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -47482,10 +47503,10 @@
       "lastSuccess": 1747619409319
     },
     "_cek.js": {
-      "total": 217,
-      "success": 212,
-      "last": 1747553218387,
-      "lastSuccess": 1747553218387
+      "total": 218,
+      "success": 213,
+      "last": 1747628833764,
+      "lastSuccess": 1747628833764
     },
     "user-limit.js": {
       "total": 15,
@@ -48237,7 +48258,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747626054648,
+      "backupDB": 1747628054129,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
