@@ -169,7 +169,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 4872,
+      "exp": 4960,
       "limit": 1387,
       "registered": false,
       "name": "Rayhan🍟",
@@ -188,12 +188,12 @@
       "premium": false,
       "premiumTime": 1802436672961,
       "lastcommand": 1747488445132,
-      "activation": 1747625257719,
+      "activation": 1747626665257,
       "lastBanned": 0,
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 21306,
+      "exp": 21362,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -211,7 +211,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1747625259640,
+      "activation": 1747627047158,
       "lastBanned": 0,
       "lastcommand": 1747619406228,
       "limitprem": 10000,
@@ -1024,7 +1024,7 @@
       "lastBanned": 0
     },
     "6289636027771@s.whatsapp.net": {
-      "exp": 524,
+      "exp": 533,
       "limit": 499,
       "registered": false,
       "name": "@ZAriel_SiDoel",
@@ -1043,7 +1043,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747600990984,
+      "activation": 1747627409999,
       "lastcommand": 1742807553655
     },
     "6285574670469@s.whatsapp.net": {
@@ -14111,7 +14111,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1746874894460,
+      "activation": 1747627615357,
       "lastBanned": 0
     },
     "6283114594503@s.whatsapp.net": {
@@ -14976,7 +14976,7 @@
       "lastBanned": 0
     },
     "6285795727918@s.whatsapp.net": {
-      "exp": 36,
+      "exp": 42,
       "limit": 499,
       "registered": false,
       "name": "Koyot_24",
@@ -14995,7 +14995,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747623768815
+      "activation": 1747627542807
     },
     "233083949314143@lid": {
       "exp": 0,
@@ -47764,10 +47764,10 @@
       "lastSuccess": 1743120017882
     },
     "owner-exec3.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1743061790861,
-      "lastSuccess": 1743061790861
+      "total": 4,
+      "success": 4,
+      "last": 1747626665257,
+      "lastSuccess": 1747626665257
     },
     "vn-loveyou.js": {
       "total": 2,
@@ -48136,10 +48136,10 @@
       "lastSuccess": 1747570233639
     },
     "internet-fetch.js": {
-      "total": 6,
-      "success": 4,
-      "last": 1747625257719,
-      "lastSuccess": 1746876327479
+      "total": 8,
+      "success": 5,
+      "last": 1747626267909,
+      "lastSuccess": 1747626267909
     },
     "tool-tourl.js": {
       "total": 15,
@@ -48237,7 +48237,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747623637970,
+      "backupDB": 1747626054648,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
