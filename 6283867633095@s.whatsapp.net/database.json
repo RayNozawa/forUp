@@ -2480,7 +2480,7 @@
       "lastBanned": 0
     },
     "6282313368864@s.whatsapp.net": {
-      "exp": 802,
+      "exp": 810,
       "limit": 499,
       "registered": false,
       "name": "TIXZ STORE",
@@ -2498,7 +2498,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747478408545,
+      "activation": 1747734105239,
       "lastBanned": 0
     },
     "62895400806399@s.whatsapp.net": {
@@ -47468,7 +47468,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747731531308,
+      "backupDB": 1747733650519,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
