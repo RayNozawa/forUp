@@ -33670,9 +33670,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1747751419706,
+      "activation": 1747759569008,
       "lastBanned": 0,
       "Banneduser": false,
       "autolevelup": true,
@@ -66189,10 +66189,10 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747740703625
+      "activation": 1747757092243
     },
     "6282213877534@s.whatsapp.net": {
       "exp": 5,
@@ -85813,7 +85813,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747756684131,
+      "activation": 1747756977462,
       "lastBanned": 0,
       "lastcommand": 1747739591571,
       "Banneduser": false,
@@ -87517,7 +87517,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747756815382,
+      "activation": 1747756917139,
       "lastBanned": 0,
       "lastcommand": 1747570833999,
       "Banneduser": false,
@@ -95702,7 +95702,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747756072751,
+      "activation": 1747759456081,
       "Banneduser": false,
       "autolevelup": true,
       "owner": false,
@@ -138458,7 +138458,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747756514034,
+      "activation": 1747759016165,
       "lastcommand": 1747750941029
     },
     "6282282054488@s.whatsapp.net": {
@@ -138971,7 +138971,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747683747113
+      "activation": 1747757937233
     },
     "6281380875656@s.whatsapp.net": {
       "exp": 905,
@@ -139433,9 +139433,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1747751297606,
+      "activation": 1747758338592,
       "lastBanned": 0
     },
     "6283863270489@s.whatsapp.net": {
@@ -139856,9 +139856,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1747744550238,
+      "activation": 1747757795397,
       "lastBanned": 0,
       "lastcommand": 1747731863350
     },
@@ -140344,7 +140344,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747753883250
+      "activation": 1747757925416
     },
     "6281262406333@s.whatsapp.net": {
       "exp": 542,
@@ -141019,7 +141019,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747756212407,
+      "activation": 1747758195993,
       "lastBanned": 0
     },
     "6281263744460@s.whatsapp.net": {
@@ -141777,7 +141777,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747488803327,
+      "activation": 1747757899967,
       "lastBanned": 0
     },
     "6285600509851@s.whatsapp.net": {
@@ -147487,9 +147487,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1747725337243,
+      "activation": 1747759721814,
       "lastBanned": 0
     },
     "6282283490478@s.whatsapp.net": {
@@ -148159,7 +148159,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747756770154
+      "activation": 1747759585574
     },
     "6287864836015@s.whatsapp.net": {
       "exp": 10,
@@ -149541,7 +149541,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747744360553,
+      "activation": 1747759723126,
       "lastBanned": 0,
       "lastcommand": 1747732901970
     },
@@ -149586,7 +149586,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747756322791
+      "activation": 1747758736587
     },
     "628568014253@s.whatsapp.net": {
       "exp": 9,
@@ -150584,9 +150584,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1747750590031,
+      "activation": 1747757543808,
       "lastBanned": 0
     },
     "6281377481187@s.whatsapp.net": {
@@ -150818,6 +150818,69 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1747755888601
+    },
+    "628989730916@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 898-9730-916",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1747756924982
+    },
+    "154202546372728@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1747757347129
+    },
+    "6285165765986@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "name": "hanzz_store",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1747758062992,
+      "lastBanned": 0
     }
   },
   "chats": {
