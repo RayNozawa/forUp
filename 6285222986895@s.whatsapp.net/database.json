@@ -184,7 +184,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747718654927
+      "activation": 1747735051754
     },
     "120363240711248334@g.us": {
       "exp": 5227,
@@ -1004,7 +1004,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747721032840
+      "activation": 1747735051937
     },
     "6283119901412@s.whatsapp.net": {
       "exp": 16214,
@@ -4537,7 +4537,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1747729706932
+      "activation": 1747735057041
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -129088,7 +129088,7 @@
       "activation": 1746849901496
     },
     "6281362551724@s.whatsapp.net": {
-      "exp": 322,
+      "exp": 323,
       "limit": 499,
       "registered": false,
       "name": "~Daegal Appa",
@@ -129106,7 +129106,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747716725154,
+      "activation": 1747731834297,
       "lastBanned": 0
     },
     "198011347009713@lid": {
@@ -136194,6 +136194,27 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1747730678325
+    },
+    "6287740176290@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 877-4017-6290",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1747732155662
     }
   },
   "chats": {
@@ -159436,7 +159457,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747729587087,
+      "backupDB": 1747731833879,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
