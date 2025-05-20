@@ -3495,7 +3495,7 @@
       "WarnReason": "",
       "lastweekly": 1747065300249,
       "lastmonthly": 1747065300249,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastdaily": 1747415135515,
       "lastBanned": 0,
@@ -4537,7 +4537,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1747758275196
+      "activation": 1747761247046
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -94085,8 +94085,8 @@
       "activation": 1743426865895
     },
     "6287712848943@s.whatsapp.net": {
-      "exp": 157001,
-      "limit": 1316,
+      "exp": 157028,
+      "limit": 1296,
       "registered": false,
       "name": "lala pacar monta",
       "age": -1,
@@ -94103,7 +94103,7 @@
       "lastmonthly": 1747751146168,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747758143001,
+      "activation": 1747761246075,
       "lastBanned": 0,
       "lastcommand": 1747752335553,
       "lastdaily": 1747751146168
@@ -129515,7 +129515,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747751506847,
+      "activation": 1747763403933,
       "lastBanned": 0
     },
     "6283849805967@s.whatsapp.net": {
@@ -156866,10 +156866,10 @@
       "lastSuccess": 1747746056345
     },
     "downloader-tiktok.js": {
-      "total": 3638,
-      "success": 3326,
-      "last": 1747750264664,
-      "lastSuccess": 1747750264664
+      "total": 3639,
+      "success": 3327,
+      "last": 1747761246075,
+      "lastSuccess": 1747761246075
     },
     "owner-sf.js": {
       "total": 1243,
@@ -159878,7 +159878,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747758138807,
+      "backupDB": 1747761227467,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
