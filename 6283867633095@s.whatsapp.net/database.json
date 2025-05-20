@@ -2590,7 +2590,7 @@
       "activation": 1743225399960
     },
     "6287750360878@s.whatsapp.net": {
-      "exp": 1113,
+      "exp": 1118,
       "limit": 499,
       "registered": false,
       "name": "wulan",
@@ -2609,7 +2609,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747724393128
+      "activation": 1747736621927
     },
     "6282123890775@s.whatsapp.net": {
       "exp": 44,
@@ -3026,7 +3026,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747724258488,
+      "activation": 1747738810274,
       "lastBanned": 0
     },
     "120363159552753674@newsletter": {
@@ -4310,7 +4310,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "activation": 1747675959950,
       "lastBanned": 0
@@ -47488,7 +47488,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747733650519,
+      "backupDB": 1747736621712,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
