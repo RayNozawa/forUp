@@ -184,7 +184,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747705182114
+      "activation": 1747708730975
     },
     "120363240711248334@g.us": {
       "exp": 5227,
@@ -1004,7 +1004,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747705182256
+      "activation": 1747708731104
     },
     "6283119901412@s.whatsapp.net": {
       "exp": 16214,
@@ -4537,7 +4537,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1747705722823
+      "activation": 1747708733338
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -128980,7 +128980,7 @@
       "lastBanned": 0
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 422,
+      "exp": 427,
       "limit": 499,
       "registered": false,
       "name": "KUKAA17",
@@ -128998,7 +128998,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747695722422,
+      "activation": 1747707293972,
       "lastBanned": 0
     },
     "62895328989497@s.whatsapp.net": {
@@ -129512,7 +129512,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747702824889,
+      "activation": 1747708436440,
       "lastBanned": 0
     },
     "6283849805967@s.whatsapp.net": {
@@ -134055,7 +134055,8 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747325821681
+      "activation": 1747709501046,
+      "lastBanned": 0
     },
     "62857490086442@s.whatsapp.net": {
       "exp": 0,
@@ -159265,7 +159266,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747703951848,
+      "backupDB": 1747707293767,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
