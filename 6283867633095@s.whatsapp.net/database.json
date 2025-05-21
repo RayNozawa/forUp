@@ -193,7 +193,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 25020,
+      "exp": 25030,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -211,7 +211,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1747817066042,
+      "activation": 1747818525434,
       "lastBanned": 0,
       "lastcommand": 1747803816965,
       "limitprem": 10000,
@@ -354,7 +354,7 @@
       "lastcommand": 1746457091607
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 3110,
+      "exp": 3118,
       "limit": 1374,
       "registered": false,
       "name": "@Nadiaaa",
@@ -372,7 +372,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747815617335,
+      "activation": 1747819400718,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -444,8 +444,8 @@
       "lastBanned": 0
     },
     "62882003885815@s.whatsapp.net": {
-      "exp": 61693,
-      "limit": 869,
+      "exp": 61713,
+      "limit": 849,
       "registered": false,
       "name": "𝔯𝔞𝔡𝔦𝔰",
       "age": -1,
@@ -460,9 +460,9 @@
       "WarnReason": "",
       "lastweekly": 1742529237697,
       "lastmonthly": 1742529237697,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1747666356412,
+      "activation": 1747818164254,
       "lastBanned": 0,
       "lastdaily": 1742529237697
     },
@@ -4529,7 +4529,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747818127479,
+      "activation": 1747819137019,
       "lastBanned": 0
     },
     "6287749048860@s.whatsapp.net": {
@@ -14114,7 +14114,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747817127546,
+      "activation": 1747820283095,
       "lastBanned": 0
     },
     "6283114594503@s.whatsapp.net": {
@@ -48646,10 +48646,10 @@
       "lastSuccess": 1741729221851
     },
     "downloader-tiktok.js": {
-      "total": 329,
-      "success": 304,
-      "last": 1747786007842,
-      "lastSuccess": 1747786007842
+      "total": 330,
+      "success": 305,
+      "last": 1747818164254,
+      "lastSuccess": 1747818164254
     },
     "owner-pushkontak.js": {
       "total": 3,
@@ -49401,7 +49401,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747816307557,
+      "backupDB": 1747818156112,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
