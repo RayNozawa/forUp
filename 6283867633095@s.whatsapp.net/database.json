@@ -193,7 +193,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 25771,
+      "exp": 25867,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -211,7 +211,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1747834205106,
+      "activation": 1747835472057,
       "lastBanned": 0,
       "lastcommand": 1747825101936,
       "limitprem": 10000,
@@ -354,7 +354,7 @@
       "lastcommand": 1746457091607
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 3289,
+      "exp": 3343,
       "limit": 1374,
       "registered": false,
       "name": "@Nadiaaa",
@@ -372,7 +372,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747834171582,
+      "activation": 1747835502277,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -14916,7 +14916,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747657600510,
+      "activation": 1747835740746,
       "lastBanned": 0
     },
     "37822069223554@lid": {
@@ -14980,7 +14980,7 @@
       "lastBanned": 0
     },
     "6285795727918@s.whatsapp.net": {
-      "exp": 124,
+      "exp": 125,
       "limit": 499,
       "registered": false,
       "name": "Koyot_24",
@@ -14999,7 +14999,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747832088276
+      "activation": 1747835904884
     },
     "233083949314143@lid": {
       "exp": 0,
@@ -40378,6 +40378,26 @@
       "premiumTime": 0,
       "activation": 1747828046106,
       "lastBanned": 0
+    },
+    "236674474864720@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1747835796266
     }
   },
   "chats": {
@@ -49507,7 +49527,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747832455018,
+      "backupDB": 1747834256900,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
