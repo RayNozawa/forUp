@@ -2723,7 +2723,7 @@
       "activation": 1743349110090
     },
     "6283854695502@s.whatsapp.net": {
-      "exp": 31,
+      "exp": 32,
       "limit": 499,
       "registered": false,
       "name": ".",
@@ -2742,7 +2742,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1743353262808
+      "activation": 1747791295853
     },
     "62881027411876@s.whatsapp.net": {
       "exp": 32,
@@ -47530,7 +47530,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747787272663,
+      "backupDB": 1747791295659,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
