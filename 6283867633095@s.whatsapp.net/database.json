@@ -169,7 +169,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 9902,
+      "exp": 9948,
       "limit": 1387,
       "registered": false,
       "name": "Rayhan🍟",
@@ -188,12 +188,12 @@
       "premium": false,
       "premiumTime": 1802436672961,
       "lastcommand": 1747644066417,
-      "activation": 1747816247978,
+      "activation": 1747816325025,
       "lastBanned": 0,
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 24964,
+      "exp": 25020,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -211,7 +211,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1747816247985,
+      "activation": 1747817066042,
       "lastBanned": 0,
       "lastcommand": 1747803816965,
       "limitprem": 10000,
@@ -460,7 +460,7 @@
       "WarnReason": "",
       "lastweekly": 1742529237697,
       "lastmonthly": 1742529237697,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "activation": 1747666356412,
       "lastBanned": 0,
@@ -4529,7 +4529,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747811798642,
+      "activation": 1747818127479,
       "lastBanned": 0
     },
     "6287749048860@s.whatsapp.net": {
@@ -14114,7 +14114,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747814501742,
+      "activation": 1747817127546,
       "lastBanned": 0
     },
     "6283114594503@s.whatsapp.net": {
@@ -39346,7 +39346,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747815191792,
+      "activation": 1747817258252,
       "lastBanned": 0
     },
     "1147309940934@lid": {
@@ -48592,10 +48592,10 @@
       "lastSuccess": 1747749838764
     },
     "owner-sf.js": {
-      "total": 41,
-      "success": 35,
-      "last": 1747816220900,
-      "lastSuccess": 1747816220900
+      "total": 42,
+      "success": 36,
+      "last": 1747816308878,
+      "lastSuccess": 1747816308878
     },
     "_main-menu.js": {
       "total": 130,
@@ -49354,10 +49354,10 @@
       "lastSuccess": 1747803454902
     },
     "ytdl-siputzx.js": {
-      "total": 3,
-      "success": 1,
-      "last": 1747816247978,
-      "lastSuccess": 1747816247978
+      "total": 4,
+      "success": 2,
+      "last": 1747816325025,
+      "lastSuccess": 1747816325025
     }
   },
   "msgs": {},
@@ -49401,7 +49401,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747814480051,
+      "backupDB": 1747816307557,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
