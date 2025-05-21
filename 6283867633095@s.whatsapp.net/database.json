@@ -169,7 +169,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 7140,
+      "exp": 9102,
       "limit": 1387,
       "registered": false,
       "name": "Rayhan🍟",
@@ -188,12 +188,12 @@
       "premium": false,
       "premiumTime": 1802436672961,
       "lastcommand": 1747644066417,
-      "activation": 1747800926969,
+      "activation": 1747802738921,
       "lastBanned": 0,
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 24750,
+      "exp": 24757,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -211,7 +211,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1747800926972,
+      "activation": 1747802739040,
       "lastBanned": 0,
       "lastcommand": 1747659047768,
       "limitprem": 10000,
@@ -354,7 +354,7 @@
       "lastcommand": 1746457091607
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 3027,
+      "exp": 3046,
       "limit": 1399,
       "registered": false,
       "name": "@Nadiaaa",
@@ -372,7 +372,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747799720566,
+      "activation": 1747802075459,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -14714,7 +14714,7 @@
       "lastBanned": 0
     },
     "6288215492023@s.whatsapp.net": {
-      "exp": 10,
+      "exp": 15,
       "limit": 499,
       "registered": false,
       "name": "I . M Jinwo 😹😹",
@@ -14732,7 +14732,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1746806013346,
+      "activation": 1747801901152,
       "lastBanned": 0
     },
     "6281553476702@s.whatsapp.net": {
@@ -48413,9 +48413,9 @@
       "lastSuccess": 0
     },
     "owner-addlimit.js": {
-      "total": 19,
+      "total": 20,
       "success": 5,
-      "last": 1743071484152,
+      "last": 1747802738921,
       "lastSuccess": 1742698456042
     },
     "_rayhan-menu.js": {
@@ -48449,10 +48449,10 @@
       "lastSuccess": 1747749838764
     },
     "owner-sf.js": {
-      "total": 37,
-      "success": 33,
-      "last": 1747800619275,
-      "lastSuccess": 1747800619275
+      "total": 39,
+      "success": 34,
+      "last": 1747802669273,
+      "lastSuccess": 1747802669273
     },
     "_main-menu.js": {
       "total": 130,
@@ -48461,10 +48461,10 @@
       "lastSuccess": 1747781668368
     },
     "downloader-play.js": {
-      "total": 100,
-      "success": 90,
-      "last": 1747800926969,
-      "lastSuccess": 1747800926969
+      "total": 142,
+      "success": 132,
+      "last": 1747802409241,
+      "lastSuccess": 1747802409241
     },
     "ai-remini.js": {
       "total": 376,
@@ -49205,10 +49205,10 @@
       "lastSuccess": 1747686031688
     },
     "48s.js": {
-      "total": 20,
-      "success": 20,
-      "last": 1747800872692,
-      "lastSuccess": 1747800872692
+      "total": 62,
+      "success": 62,
+      "last": 1747802444804,
+      "lastSuccess": 1747802444804
     }
   },
   "msgs": {},
@@ -49252,7 +49252,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747799143274,
+      "backupDB": 1747800965028,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
