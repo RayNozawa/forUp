@@ -193,7 +193,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 25030,
+      "exp": 25067,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -211,7 +211,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1747818525434,
+      "activation": 1747821526934,
       "lastBanned": 0,
       "lastcommand": 1747803816965,
       "limitprem": 10000,
@@ -354,7 +354,7 @@
       "lastcommand": 1746457091607
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 3118,
+      "exp": 3125,
       "limit": 1374,
       "registered": false,
       "name": "@Nadiaaa",
@@ -372,7 +372,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747819400718,
+      "activation": 1747820598121,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -1024,7 +1024,7 @@
       "lastBanned": 0
     },
     "6289636027771@s.whatsapp.net": {
-      "exp": 625,
+      "exp": 633,
       "limit": 499,
       "registered": false,
       "name": "@ZAriel_SiDoel",
@@ -1043,7 +1043,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747816277512,
+      "activation": 1747820502875,
       "lastcommand": 1742807553655
     },
     "6285574670469@s.whatsapp.net": {
@@ -14114,7 +14114,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747817127546,
+      "activation": 1747820283095,
       "lastBanned": 0
     },
     "6283114594503@s.whatsapp.net": {
@@ -15172,7 +15172,7 @@
       "lastBanned": 0
     },
     "6289506271983@s.whatsapp.net": {
-      "exp": 962,
+      "exp": 974,
       "limit": 249,
       "registered": false,
       "name": "Yujita",
@@ -15190,7 +15190,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747793871802,
+      "activation": 1747821088915,
       "lastBanned": 0,
       "lastcommand": 1747748273099
     },
@@ -49401,7 +49401,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747818156112,
+      "backupDB": 1747820415609,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
