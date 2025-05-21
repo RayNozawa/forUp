@@ -184,7 +184,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747738891263
+      "activation": 1747794336034
     },
     "120363240711248334@g.us": {
       "exp": 5227,
@@ -206,7 +206,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747740804759
+      "activation": 1747794355128
     },
     "62882003784627@s.whatsapp.net": {
       "exp": 12,
@@ -1004,7 +1004,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747738891430
+      "activation": 1747794336293
     },
     "6283119901412@s.whatsapp.net": {
       "exp": 16214,
@@ -4537,7 +4537,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1747790889467
+      "activation": 1747794356748
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -136223,7 +136223,7 @@
       "activation": 1747732155662
     },
     "6282154592635@s.whatsapp.net": {
-      "exp": 2,
+      "exp": 28,
       "limit": 499,
       "registered": false,
       "name": "ucup starboy",
@@ -136241,7 +136241,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747735220976
+      "activation": 1747792159880,
+      "lastBanned": 0
     },
     "80260473319456@lid": {
       "exp": 0,
@@ -136755,6 +136756,26 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1747792041996
+    },
+    "6289679007706@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "name": "Admin",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -136959,7 +136980,7 @@
         "6281398178926@s.whatsapp.net": 37,
         "6285931400906@s.whatsapp.net": 304,
         "62882022063723@s.whatsapp.net": 22681,
-        "6288294411864@s.whatsapp.net": 1655,
+        "6288294411864@s.whatsapp.net": 1660,
         "6287838073395@s.whatsapp.net": 20,
         "6282350521338@s.whatsapp.net": 86,
         "6285176983144@s.whatsapp.net": 309,
@@ -137177,7 +137198,7 @@
         "6282320629134@s.whatsapp.net": 153,
         "6287727066033@s.whatsapp.net": 102,
         "6283899585665@s.whatsapp.net": 36,
-        "6287712848943@s.whatsapp.net": 5623,
+        "6287712848943@s.whatsapp.net": 5627,
         "6289699656185@s.whatsapp.net": 14,
         "6282124230116@s.whatsapp.net": 36,
         "6282328146799@s.whatsapp.net": 5,
@@ -137330,7 +137351,7 @@
         "6288902830381@s.whatsapp.net": 470,
         "6285821247528@s.whatsapp.net": 21,
         "6285709461987@s.whatsapp.net": 269,
-        "6283135631333@s.whatsapp.net": 1015,
+        "6283135631333@s.whatsapp.net": 1016,
         "6285182052928@s.whatsapp.net": 12,
         "6285768135013@s.whatsapp.net": 39,
         "6282375887651@s.whatsapp.net": 109,
@@ -137362,7 +137383,8 @@
         "6281527222179@s.whatsapp.net": 149,
         "6289678301878@s.whatsapp.net": 35,
         "6285692501048@s.whatsapp.net": 39,
-        "62895327711739@s.whatsapp.net": 226
+        "62895327711739@s.whatsapp.net": 228,
+        "6282154592635@s.whatsapp.net": 1
       },
       "totalChat": 0,
       "acc": false,
@@ -159356,10 +159378,10 @@
       "lastSuccess": 1747790849559
     },
     "user-limit.js": {
-      "total": 155,
-      "success": 154,
-      "last": 1747709770161,
-      "lastSuccess": 1747709770161
+      "total": 156,
+      "success": 155,
+      "last": 1747792159880,
+      "lastSuccess": 1747792159880
     },
     "user-balance.js": {
       "total": 86,
@@ -160022,7 +160044,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747789234676,
+      "backupDB": 1747792155606,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
