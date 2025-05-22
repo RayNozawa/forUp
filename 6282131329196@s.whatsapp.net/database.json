@@ -193,7 +193,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 26944,
+      "exp": 27030,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -211,14 +211,14 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1747939567075,
+      "activation": 1747950761232,
       "lastBanned": 0,
       "lastcommand": 1747825101936,
       "limitprem": 10000,
       "warn": 1
     },
     "6282119131127@s.whatsapp.net": {
-      "exp": 487,
+      "exp": 490,
       "limit": 414,
       "registered": false,
       "name": "kii apokalip",
@@ -236,7 +236,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747755950960,
+      "activation": 1747941935887,
       "lastBanned": 0,
       "lastcommand": 1742571549347
     },
@@ -50008,7 +50008,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747939565596,
+      "backupDB": 1747950760872,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
