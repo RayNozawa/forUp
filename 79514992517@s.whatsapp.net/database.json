@@ -31603,7 +31603,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747932192632,
+      "activation": 1747949680728,
       "lastBanned": 0,
       "lastcommand": 1745120185763
     },
@@ -110165,7 +110165,7 @@
       "lastcommand": 1744714302150
     },
     "120363210478263511@newsletter": {
-      "exp": 2174,
+      "exp": 2204,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -110183,7 +110183,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1746243617169
+      "activation": 1747949200004
     },
     "6281282749553@s.whatsapp.net": {
       "exp": 47,
@@ -144397,6 +144397,46 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1747932249543
+    },
+    "30340236181580@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1747943588768
+    },
+    "125078440296606@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1747944701818
     }
   },
   "chats": {
@@ -165679,7 +165719,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747928199649,
+      "backupDB": 1747949196248,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
