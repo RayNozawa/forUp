@@ -4537,7 +4537,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1747933825414
+      "activation": 1747936482815
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -125203,8 +125203,8 @@
       "activation": 1746189318269
     },
     "6285703922889@s.whatsapp.net": {
-      "exp": 1456,
-      "limit": 118,
+      "exp": 1556,
+      "limit": 68,
       "registered": false,
       "name": "karel",
       "age": -1,
@@ -125221,7 +125221,7 @@
       "lastmonthly": 1746861590981,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747933416059,
+      "activation": 1747935791409,
       "lastBanned": 0,
       "lastcommand": 1747712996477,
       "lastdaily": 1746861590981
@@ -129792,7 +129792,7 @@
       "activation": 1746947185367
     },
     "6282113423495@s.whatsapp.net": {
-      "exp": 833,
+      "exp": 856,
       "limit": 499,
       "registered": false,
       "name": "Gus aryaaa",
@@ -129810,7 +129810,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747918233232,
+      "activation": 1747936472815,
       "lastBanned": 0,
       "lastcommand": 1747915447296
     },
@@ -137805,7 +137805,7 @@
       "activation": 1747931947232
     },
     "6288804735456@s.whatsapp.net": {
-      "exp": 64,
+      "exp": 70,
       "limit": 499,
       "registered": false,
       "name": "obsession mika",
@@ -137823,7 +137823,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747933303255,
+      "activation": 1747934233779,
       "lastBanned": 0
     },
     "62895322558722@s.whatsapp.net": {
@@ -158174,10 +158174,10 @@
       "lastSuccess": 1747721660275
     },
     "downloader-play.js": {
-      "total": 3801,
-      "success": 3558,
-      "last": 1747933825408,
-      "lastSuccess": 1747933825408
+      "total": 3803,
+      "success": 3560,
+      "last": 1747935690681,
+      "lastSuccess": 1747935690681
     },
     "downloader-ytvideo.js": {
       "total": 148,
@@ -158330,9 +158330,9 @@
       "lastSuccess": 1747749786250
     },
     "_cek.js": {
-      "total": 1649,
+      "total": 1650,
       "success": 1618,
-      "last": 1747915449200,
+      "last": 1747936472815,
       "lastSuccess": 1747915449200
     },
     "enable.js": {
@@ -159218,10 +159218,10 @@
       "lastSuccess": 1733324549987
     },
     "game-family100.js": {
-      "total": 278,
-      "success": 237,
-      "last": 1747148784282,
-      "lastSuccess": 1747148784282
+      "total": 279,
+      "success": 238,
+      "last": 1747934180381,
+      "lastSuccess": 1747934180381
     },
     "ai-openai.js": {
       "total": 18,
@@ -161180,7 +161180,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747932286623,
+      "backupDB": 1747934162033,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
