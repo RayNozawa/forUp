@@ -193,7 +193,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 27145,
+      "exp": 27155,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -211,7 +211,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1747954340082,
+      "activation": 1747956561652,
       "lastBanned": 0,
       "lastcommand": 1747825101936,
       "limitprem": 10000,
@@ -354,7 +354,7 @@
       "lastcommand": 1746457091607
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 3554,
+      "exp": 3565,
       "limit": 1324,
       "registered": false,
       "name": "@Nadiaaa",
@@ -370,9 +370,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1747954287345,
+      "activation": 1747957054547,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -1024,7 +1024,7 @@
       "lastBanned": 0
     },
     "6289636027771@s.whatsapp.net": {
-      "exp": 637,
+      "exp": 645,
       "limit": 499,
       "registered": false,
       "name": "@ZAriel_SiDoel",
@@ -1043,7 +1043,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747915360082,
+      "activation": 1747956222502,
       "lastcommand": 1742807553655
     },
     "6285574670469@s.whatsapp.net": {
@@ -40845,6 +40845,26 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1747929856353
+    },
+    "231477262475504@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1747955692462
     }
   },
   "chats": {
@@ -50008,7 +50028,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747952653651,
+      "backupDB": 1747955333345,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
