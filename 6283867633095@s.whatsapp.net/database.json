@@ -193,7 +193,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 27307,
+      "exp": 27318,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -211,7 +211,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1747968881254,
+      "activation": 1747972101655,
       "lastBanned": 0,
       "lastcommand": 1747825101936,
       "limitprem": 10000,
@@ -376,8 +376,8 @@
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
-      "exp": 1061,
-      "limit": 855,
+      "exp": 1140,
+      "limit": 775,
       "registered": false,
       "name": "𝙒𝙞𝙡𝙙𝙖𝙣",
       "age": -1,
@@ -396,7 +396,7 @@
       "premiumTime": 0,
       "lastcommand": 1747926622412,
       "lastBanned": 0,
-      "activation": 1747926622412
+      "activation": 1747972101375
     },
     "6283164975409@s.whatsapp.net": {
       "exp": 782,
@@ -4529,7 +4529,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747954525528,
+      "activation": 1747973443781,
       "lastBanned": 0
     },
     "6287749048860@s.whatsapp.net": {
@@ -14136,7 +14136,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747959062709,
+      "activation": 1747972083188,
       "lastBanned": 0
     },
     "6289603824387@s.whatsapp.net": {
@@ -49328,10 +49328,10 @@
       "lastSuccess": 1741729221851
     },
     "downloader-tiktok.js": {
-      "total": 365,
-      "success": 336,
-      "last": 1747965408150,
-      "lastSuccess": 1747965408150
+      "total": 369,
+      "success": 340,
+      "last": 1747972101375,
+      "lastSuccess": 1747972101375
     },
     "owner-pushkontak.js": {
       "total": 3,
@@ -50089,7 +50089,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747968877088,
+      "backupDB": 1747971878459,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
