@@ -193,7 +193,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 27408,
+      "exp": 27419,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -211,7 +211,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1747982860348,
+      "activation": 1747984829652,
       "lastBanned": 0,
       "lastcommand": 1747825101936,
       "limitprem": 10000,
@@ -1024,7 +1024,7 @@
       "lastBanned": 0
     },
     "6289636027771@s.whatsapp.net": {
-      "exp": 672,
+      "exp": 692,
       "limit": 499,
       "registered": false,
       "name": "@ZAriel_SiDoel",
@@ -1043,7 +1043,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747980939486,
+      "activation": 1747984076800,
       "lastcommand": 1742807553655
     },
     "6285574670469@s.whatsapp.net": {
@@ -15172,8 +15172,8 @@
       "lastBanned": 0
     },
     "6289506271983@s.whatsapp.net": {
-      "exp": 1144,
-      "limit": 209,
+      "exp": 1188,
+      "limit": 189,
       "registered": false,
       "name": "Yujita",
       "age": -1,
@@ -15190,7 +15190,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747978178479,
+      "activation": 1747984829374,
       "lastBanned": 0,
       "lastcommand": 1747748273099
     },
@@ -49372,10 +49372,10 @@
       "lastSuccess": 1747925071157
     },
     "sticker-quotely.js": {
-      "total": 41,
-      "success": 41,
-      "last": 1747647519108,
-      "lastSuccess": 1747647519108
+      "total": 43,
+      "success": 43,
+      "last": 1747984829374,
+      "lastSuccess": 1747984829374
     },
     "group-intro.js": {
       "total": 4,
@@ -50109,7 +50109,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747982049998,
+      "backupDB": 1747983884849,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
