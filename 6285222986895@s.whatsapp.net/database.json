@@ -4537,7 +4537,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1747962444420
+      "activation": 1747962811641
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -125203,7 +125203,7 @@
       "activation": 1746189318269
     },
     "6285703922889@s.whatsapp.net": {
-      "exp": 36733,
+      "exp": 36741,
       "limit": 249,
       "registered": false,
       "name": "karel",
@@ -125221,7 +125221,7 @@
       "lastmonthly": 1746861590981,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747962228846,
+      "activation": 1747962727414,
       "lastBanned": 0,
       "lastcommand": 1747961422664,
       "lastdaily": 1747961346211,
@@ -137806,8 +137806,8 @@
       "activation": 1747931947232
     },
     "6288804735456@s.whatsapp.net": {
-      "exp": 60521,
-      "limit": 1009,
+      "exp": 60588,
+      "limit": 979,
       "registered": false,
       "name": "obsession mika",
       "age": -1,
@@ -137824,7 +137824,7 @@
       "lastmonthly": 1747961364657,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747962489846,
+      "activation": 1747962848890,
       "lastBanned": 0,
       "lastcommand": 1747961228104,
       "lastdaily": 1747961364657
@@ -138490,7 +138490,7 @@
         "6281563795733@s.whatsapp.net": 343,
         "6285946211658@s.whatsapp.net": 175,
         "6285717057004@s.whatsapp.net": 17,
-        "6285703922889@s.whatsapp.net": 2319,
+        "6285703922889@s.whatsapp.net": 2377,
         "6281280159906@s.whatsapp.net": 82,
         "6281949986952@s.whatsapp.net": 66,
         "6285935087606@s.whatsapp.net": 27,
@@ -138547,7 +138547,7 @@
         "6282172351650@s.whatsapp.net": 151,
         "6283135956908@s.whatsapp.net": 10,
         "6283147303929@s.whatsapp.net": 17,
-        "6288804735456@s.whatsapp.net": 925
+        "6288804735456@s.whatsapp.net": 1003
       },
       "totalChat": 0,
       "acc": false,
@@ -158521,10 +158521,10 @@
       "lastSuccess": 1730161441000
     },
     "downloader-tiktoksearch.js": {
-      "total": 1097,
-      "success": 1087,
-      "last": 1747962441154,
-      "lastSuccess": 1747962441154
+      "total": 1099,
+      "success": 1089,
+      "last": 1747962806098,
+      "lastSuccess": 1747962806098
     },
     "ai-llama.js": {
       "total": 352,
@@ -161245,7 +161245,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1747960701582,
+      "backupDB": 1747962528992,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
