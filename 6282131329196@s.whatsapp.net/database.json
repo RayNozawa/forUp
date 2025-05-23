@@ -169,7 +169,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 10477,
+      "exp": 10497,
       "limit": 1387,
       "registered": false,
       "name": "Rayhan🍟",
@@ -188,12 +188,12 @@
       "premium": false,
       "premiumTime": 1802436672961,
       "lastcommand": 1747644066417,
-      "activation": 1747989392078,
+      "activation": 1748007098250,
       "lastBanned": 0,
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 27687,
+      "exp": 27695,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -211,7 +211,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1748005650906,
+      "activation": 1748007914096,
       "lastBanned": 0,
       "lastcommand": 1747825101936,
       "limitprem": 10000,
@@ -285,7 +285,7 @@
       "lastBanned": 0
     },
     "62895397667222@s.whatsapp.net": {
-      "exp": 141,
+      "exp": 145,
       "limit": 499,
       "registered": false,
       "name": "arkyyy.",
@@ -304,7 +304,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastcommand": 1741833792120,
-      "activation": 1747964889175,
+      "activation": 1748007017555,
       "lastBanned": 0
     },
     "6282128611759@s.whatsapp.net": {
@@ -354,7 +354,7 @@
       "lastcommand": 1746457091607
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 3638,
+      "exp": 3643,
       "limit": 1324,
       "registered": false,
       "name": "@Nadiaaa",
@@ -372,7 +372,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748004917563,
+      "activation": 1748007425052,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -1024,7 +1024,7 @@
       "lastBanned": 0
     },
     "6289636027771@s.whatsapp.net": {
-      "exp": 712,
+      "exp": 720,
       "limit": 499,
       "registered": false,
       "name": "@ZAriel_SiDoel",
@@ -1043,7 +1043,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1748006448469,
+      "activation": 1748007050529,
       "lastcommand": 1742807553655
     },
     "6285574670469@s.whatsapp.net": {
@@ -4529,7 +4529,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747996531911,
+      "activation": 1748007909071,
       "lastBanned": 0
     },
     "6287749048860@s.whatsapp.net": {
@@ -50050,10 +50050,10 @@
       "lastSuccess": 1746974131366
     },
     "werewolf-gc.js": {
-      "total": 10,
-      "success": 10,
-      "last": 1744955604288,
-      "lastSuccess": 1744955604288
+      "total": 11,
+      "success": 11,
+      "last": 1748007098250,
+      "lastSuccess": 1748007098250
     },
     "user-daftar.js": {
       "total": 10,
@@ -50259,7 +50259,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748004896899,
+      "backupDB": 1748007017130,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
