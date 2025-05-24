@@ -193,7 +193,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 27840,
+      "exp": 27891,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -211,7 +211,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1748041956477,
+      "activation": 1748044681078,
       "lastBanned": 0,
       "lastcommand": 1747825101936,
       "limitprem": 10000,
@@ -354,7 +354,7 @@
       "lastcommand": 1746457091607
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 3648,
+      "exp": 3649,
       "limit": 1324,
       "registered": false,
       "name": "@Nadiaaa",
@@ -372,7 +372,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748039989124,
+      "activation": 1748045136894,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -535,7 +535,7 @@
       "lastdaily": 1742938834744
     },
     "6283896295573@s.whatsapp.net": {
-      "exp": 494,
+      "exp": 506,
       "limit": 499,
       "registered": false,
       "name": "Agung",
@@ -554,7 +554,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1748015885451,
+      "activation": 1748044722825,
       "lastcommand": 1742379741447
     },
     "120363370527781839@newsletter": {
@@ -14980,7 +14980,7 @@
       "lastBanned": 0
     },
     "6285795727918@s.whatsapp.net": {
-      "exp": 143,
+      "exp": 155,
       "limit": 499,
       "registered": false,
       "name": "Koyot_24",
@@ -14999,7 +14999,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747961434142
+      "activation": 1748044637091
     },
     "233083949314143@lid": {
       "exp": 0,
@@ -49823,10 +49823,10 @@
       "lastSuccess": 1745220036963
     },
     "sticker-meme.js": {
-      "total": 27,
-      "success": 19,
-      "last": 1747647182550,
-      "lastSuccess": 1747647182550
+      "total": 28,
+      "success": 20,
+      "last": 1748044647587,
+      "lastSuccess": 1748044647587
     },
     "group-link.js": {
       "total": 4,
@@ -50380,7 +50380,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748041956064,
+      "backupDB": 1748044092712,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
