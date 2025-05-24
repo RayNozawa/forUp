@@ -4537,7 +4537,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1748119775571
+      "activation": 1748124929671
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -94088,8 +94088,8 @@
       "activation": 1743426865895
     },
     "6287712848943@s.whatsapp.net": {
-      "exp": 187047,
-      "limit": 1272,
+      "exp": 187070,
+      "limit": 1252,
       "registered": false,
       "name": "lala pacar monta",
       "age": -1,
@@ -94106,7 +94106,7 @@
       "lastmonthly": 1747751146168,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748119774989,
+      "activation": 1748122906051,
       "lastBanned": 0,
       "lastcommand": 1747752335553,
       "lastdaily": 1748069723856
@@ -140030,6 +140030,27 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1748117803617
+    },
+    "62895428216254@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 895-4282-16254",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1748124928491
     }
   },
   "chats": {
@@ -160456,10 +160477,10 @@
       "lastSuccess": 1748062945002
     },
     "downloader-tiktok.js": {
-      "total": 3710,
-      "success": 3398,
-      "last": 1748119774989,
-      "lastSuccess": 1748119774989
+      "total": 3711,
+      "success": 3399,
+      "last": 1748122906051,
+      "lastSuccess": 1748122906051
     },
     "owner-sf.js": {
       "total": 1243,
@@ -163486,7 +163507,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748119763952,
+      "backupDB": 1748122900429,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
