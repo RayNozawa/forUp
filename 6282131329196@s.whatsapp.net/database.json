@@ -193,7 +193,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 27891,
+      "exp": 27945,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -211,7 +211,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1748044681078,
+      "activation": 1748049297973,
       "lastBanned": 0,
       "lastcommand": 1747825101936,
       "limitprem": 10000,
@@ -13361,7 +13361,7 @@
       "lastcommand": 1746757408680
     },
     "6289525516660@s.whatsapp.net": {
-      "exp": 114,
+      "exp": 136,
       "limit": 499,
       "registered": false,
       "name": "𓃠",
@@ -13379,7 +13379,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748045966981,
+      "activation": 1748049103254,
       "lastBanned": 0
     },
     "62895325629523@s.whatsapp.net": {
@@ -15172,8 +15172,8 @@
       "lastBanned": 0
     },
     "6289506271983@s.whatsapp.net": {
-      "exp": 1223,
-      "limit": 189,
+      "exp": 331,
+      "limit": 172,
       "registered": false,
       "name": "Yujita",
       "age": -1,
@@ -15190,7 +15190,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748041429946,
+      "activation": 1748049298168,
       "lastBanned": 0,
       "lastcommand": 1747748273099
     },
@@ -49607,10 +49607,10 @@
       "lastSuccess": 1747986938796
     },
     "user-limit.js": {
-      "total": 16,
-      "success": 16,
-      "last": 1747982166158,
-      "lastSuccess": 1747982166158
+      "total": 18,
+      "success": 18,
+      "last": 1748049298168,
+      "lastSuccess": 1748049298168
     },
     "downloader-ytmp3.js": {
       "total": 4,
@@ -49619,10 +49619,10 @@
       "lastSuccess": 1741729221851
     },
     "downloader-tiktok.js": {
-      "total": 374,
-      "success": 345,
-      "last": 1748000015146,
-      "lastSuccess": 1748000015146
+      "total": 375,
+      "success": 346,
+      "last": 1748048918205,
+      "lastSuccess": 1748048918205
     },
     "owner-pushkontak.js": {
       "total": 3,
@@ -49703,10 +49703,10 @@
       "lastSuccess": 1744874615262
     },
     "user-shop.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1742938947782,
-      "lastSuccess": 1742938947782
+      "total": 5,
+      "success": 5,
+      "last": 1748049285006,
+      "lastSuccess": 1748049285006
     },
     "_shortcut.js": {
       "total": 27,
@@ -49787,10 +49787,10 @@
       "lastSuccess": 1746453392355
     },
     "main-payment.js": {
-      "total": 23,
-      "success": 23,
-      "last": 1747982664835,
-      "lastSuccess": 1747982664835
+      "total": 24,
+      "success": 24,
+      "last": 1748049262758,
+      "lastSuccess": 1748049262758
     },
     "owner-addprem.js": {
       "total": 7,
@@ -49877,10 +49877,10 @@
       "lastSuccess": 1747749854463
     },
     "user-balanceme.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1743120017882,
-      "lastSuccess": 1743120017882
+      "total": 4,
+      "success": 4,
+      "last": 1748049237618,
+      "lastSuccess": 1748049237618
     },
     "owner-exec3.js": {
       "total": 23,
@@ -50380,7 +50380,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748045964956,
+      "backupDB": 1748047975205,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
