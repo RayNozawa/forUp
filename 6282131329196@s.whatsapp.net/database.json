@@ -193,7 +193,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 27945,
+      "exp": 27956,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -211,7 +211,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1748049297973,
+      "activation": 1748050919273,
       "lastBanned": 0,
       "lastcommand": 1747825101936,
       "limitprem": 10000,
@@ -354,7 +354,7 @@
       "lastcommand": 1746457091607
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 3649,
+      "exp": 3659,
       "limit": 1324,
       "registered": false,
       "name": "@Nadiaaa",
@@ -372,7 +372,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748045136894,
+      "activation": 1748051832520,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -13405,8 +13405,8 @@
       "lastBanned": 0
     },
     "6285856011884@s.whatsapp.net": {
-      "exp": 356,
-      "limit": 304,
+      "exp": 382,
+      "limit": 284,
       "registered": false,
       "name": "kikko suka togasur",
       "age": -1,
@@ -13423,7 +13423,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747997219486,
+      "activation": 1748050261759,
       "lastBanned": 0
     },
     "6281400716824@s.whatsapp.net": {
@@ -14136,7 +14136,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748019181811,
+      "activation": 1748050254000,
       "lastBanned": 0
     },
     "6289603824387@s.whatsapp.net": {
@@ -39348,7 +39348,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748035858541,
+      "activation": 1748051810804,
       "lastBanned": 0
     },
     "1147309940934@lid": {
@@ -49619,10 +49619,10 @@
       "lastSuccess": 1741729221851
     },
     "downloader-tiktok.js": {
-      "total": 375,
-      "success": 346,
-      "last": 1748048918205,
-      "lastSuccess": 1748048918205
+      "total": 376,
+      "success": 347,
+      "last": 1748050261759,
+      "lastSuccess": 1748050261759
     },
     "owner-pushkontak.js": {
       "total": 3,
@@ -50380,7 +50380,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748047975205,
+      "backupDB": 1748050258109,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
