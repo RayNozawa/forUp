@@ -184,7 +184,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1748088573091
+      "activation": 1748101230320
     },
     "120363240711248334@g.us": {
       "exp": 5227,
@@ -4537,7 +4537,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1748099374635
+      "activation": 1748101231354
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -138494,8 +138494,8 @@
       "lastcommand": 1748084057980
     },
     "6285923512213@s.whatsapp.net": {
-      "exp": 1203,
-      "limit": 454,
+      "exp": 1348,
+      "limit": 424,
       "registered": false,
       "name": "glxsyy.nayy__",
       "age": -1,
@@ -138513,7 +138513,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastcommand": 1748099359109,
-      "activation": 1748099383198,
+      "activation": 1748099955104,
       "lastBanned": 0
     },
     "6473002295365@lid": {
@@ -161289,10 +161289,10 @@
       "lastSuccess": 1747999034036
     },
     "sticker-all.js": {
-      "total": 2695,
-      "success": 2614,
-      "last": 1748091222773,
-      "lastSuccess": 1748091222773
+      "total": 2701,
+      "success": 2620,
+      "last": 1748099841959,
+      "lastSuccess": 1748099841959
     },
     "game-nebang.js": {
       "total": 172,
@@ -163401,7 +163401,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748097635355,
+      "backupDB": 1748099464712,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
