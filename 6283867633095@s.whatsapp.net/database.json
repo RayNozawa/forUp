@@ -193,7 +193,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 28197,
+      "exp": 28274,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -211,14 +211,14 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1748078907873,
+      "activation": 1748082133590,
       "lastBanned": 0,
       "lastcommand": 1747825101936,
       "limitprem": 10000,
       "warn": 1
     },
     "6282119131127@s.whatsapp.net": {
-      "exp": 506,
+      "exp": 532,
       "limit": 414,
       "registered": false,
       "name": "kii apokalip",
@@ -236,7 +236,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747999572717,
+      "activation": 1748080695241,
       "lastBanned": 0,
       "lastcommand": 1742571549347
     },
@@ -41295,6 +41295,26 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1748079561078
+    },
+    "219498917445727@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1748080796856
     }
   },
   "chats": {
@@ -49595,6 +49615,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "6281229559468@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -49719,10 +49760,10 @@
       "lastSuccess": 1741729221851
     },
     "downloader-tiktok.js": {
-      "total": 383,
-      "success": 354,
-      "last": 1748078907558,
-      "lastSuccess": 1748078907558
+      "total": 384,
+      "success": 355,
+      "last": 1748081593850,
+      "lastSuccess": 1748081593850
     },
     "owner-pushkontak.js": {
       "total": 3,
@@ -50480,7 +50521,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748078716303,
+      "backupDB": 1748080604303,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
