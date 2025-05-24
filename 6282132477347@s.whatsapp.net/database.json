@@ -5119,7 +5119,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748077072388,
+      "activation": 1748078007711,
       "lastBanned": 0
     },
     "6283874110053@s.whatsapp.net": {
@@ -15292,7 +15292,7 @@
       "lastcommand": 1745691592298
     },
     "6285641845890@s.whatsapp.net": {
-      "exp": 12006,
+      "exp": 12045,
       "limit": 499,
       "registered": false,
       "name": "Agung RF Daop 5 Sumpiuh & RF Daop 1 Cikarang",
@@ -15310,7 +15310,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748077518948,
+      "activation": 1748078771931,
       "lastBanned": 0
     },
     "6282174222913@s.whatsapp.net": {
@@ -144796,6 +144796,26 @@
       "premiumTime": 0,
       "activation": 1748075862049,
       "lastBanned": 0
+    },
+    "2220883988709@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1748077997049
     }
   },
   "chats": {
@@ -159036,7 +159056,7 @@
       "expired": 0,
       "total": {
         "6285722598442@s.whatsapp.net": 149,
-        "6285641845890@s.whatsapp.net": 8052,
+        "6285641845890@s.whatsapp.net": 8161,
         "62895605379273@s.whatsapp.net": 199,
         "6287787080907@s.whatsapp.net": 59,
         "6285211941644@s.whatsapp.net": 9
