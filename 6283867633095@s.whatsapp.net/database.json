@@ -193,7 +193,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 28035,
+      "exp": 28096,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -211,7 +211,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1748060853146,
+      "activation": 1748063687071,
       "lastBanned": 0,
       "lastcommand": 1747825101936,
       "limitprem": 10000,
@@ -281,7 +281,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748061850451,
+      "activation": 1748061984893,
       "lastBanned": 0
     },
     "62895397667222@s.whatsapp.net": {
@@ -354,7 +354,7 @@
       "lastcommand": 1746457091607
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 3659,
+      "exp": 3662,
       "limit": 1324,
       "registered": false,
       "name": "@Nadiaaa",
@@ -372,7 +372,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748051832520,
+      "activation": 1748061897971,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -602,8 +602,8 @@
       "lastBanned": 0
     },
     "6285378447987@s.whatsapp.net": {
-      "exp": 104,
-      "limit": 399,
+      "exp": 129,
+      "limit": 374,
       "registered": false,
       "name": "rafcill",
       "age": -1,
@@ -618,9 +618,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1747805704726,
+      "activation": 1748062656247,
       "lastBanned": 0
     },
     "6287708952418@s.whatsapp.net": {
@@ -4529,7 +4529,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748007909071,
+      "activation": 1748061918833,
       "lastBanned": 0
     },
     "6287749048860@s.whatsapp.net": {
@@ -14136,7 +14136,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748056864338,
+      "activation": 1748062755713,
       "lastBanned": 0
     },
     "6289603824387@s.whatsapp.net": {
@@ -15172,7 +15172,7 @@
       "lastBanned": 0
     },
     "6289506271983@s.whatsapp.net": {
-      "exp": 351,
+      "exp": 369,
       "limit": 172,
       "registered": false,
       "name": "Yujita",
@@ -15190,7 +15190,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748059949325,
+      "activation": 1748062961016,
       "lastBanned": 0,
       "lastcommand": 1747748273099
     },
@@ -39910,8 +39910,8 @@
       "activation": 1747737342296
     },
     "6288291993504@s.whatsapp.net": {
-      "exp": 100,
-      "limit": 479,
+      "exp": 120,
+      "limit": 454,
       "registered": false,
       "name": "fais aje",
       "age": -1,
@@ -39928,7 +39928,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748012696686,
+      "activation": 1748062784934,
       "lastBanned": 0
     },
     "187965535985880@lid": {
@@ -41195,6 +41195,26 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1748034806777
+    },
+    "228264878559381@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1748062580043
     }
   },
   "chats": {
@@ -49583,10 +49603,10 @@
       "lastSuccess": 1747883174549
     },
     "ai-remini.js": {
-      "total": 386,
-      "success": 343,
-      "last": 1747926598668,
-      "lastSuccess": 1747926598668
+      "total": 388,
+      "success": 345,
+      "last": 1748062784934,
+      "lastSuccess": 1748062784934
     },
     "ai-remini2.js": {
       "total": 37,
@@ -49667,10 +49687,10 @@
       "lastSuccess": 1745034682502
     },
     "downloader-instagram.js": {
-      "total": 39,
-      "success": 39,
-      "last": 1748003661507,
-      "lastSuccess": 1748003661507
+      "total": 41,
+      "success": 41,
+      "last": 1748063590440,
+      "lastSuccess": 1748063590440
     },
     "downloader-gitclone.js": {
       "total": 2,
@@ -50380,7 +50400,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748059531820,
+      "backupDB": 1748061897631,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
