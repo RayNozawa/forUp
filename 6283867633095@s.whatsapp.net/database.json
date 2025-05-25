@@ -169,7 +169,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 48220,
+      "exp": 48251,
       "limit": 1387,
       "registered": false,
       "name": "Rayhan🍟",
@@ -187,13 +187,13 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1802436672961,
-      "lastcommand": 1748188852246,
-      "activation": 1748189084632,
+      "lastcommand": 1748193710649,
+      "activation": 1748193712282,
       "lastBanned": 0,
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 30696,
+      "exp": 30704,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -211,7 +211,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1748189933597,
+      "activation": 1748193712517,
       "lastBanned": 0,
       "lastcommand": 1748172836145,
       "limitprem": 10000,
@@ -50498,10 +50498,10 @@
       "lastSuccess": 1748168830942
     },
     "info-ping.js": {
-      "total": 23,
-      "success": 23,
-      "last": 1748188854171,
-      "lastSuccess": 1748188854171
+      "total": 24,
+      "success": 24,
+      "last": 1748193712282,
+      "lastSuccess": 1748193712282
     },
     "downloader-pinterest.js": {
       "total": 16,
@@ -51349,7 +51349,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748189306496,
+      "backupDB": 1748192935533,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
