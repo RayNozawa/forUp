@@ -2026,8 +2026,8 @@
       "lastcommand": 1730727286271
     },
     "6288983017604@s.whatsapp.net": {
-      "exp": 373,
-      "limit": 1138,
+      "exp": 398,
+      "limit": 1113,
       "registered": false,
       "name": "Rodan Ay",
       "age": -1,
@@ -2049,7 +2049,7 @@
       "lastwork": 1748171502374,
       "lastrob": 1748171574803,
       "lastcommand": 1747121278999,
-      "activation": 1748172689041
+      "activation": 1748190337512
     },
     "6282122917158@s.whatsapp.net": {
       "exp": 477,
@@ -4538,7 +4538,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1748188675179
+      "activation": 1748192670572
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -94089,7 +94089,7 @@
       "activation": 1743426865895
     },
     "6287712848943@s.whatsapp.net": {
-      "exp": 798,
+      "exp": 806,
       "limit": 1732,
       "registered": false,
       "name": "lala pacar monta",
@@ -94107,7 +94107,7 @@
       "lastmonthly": 1747751146168,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748188102903,
+      "activation": 1748188791005,
       "lastBanned": 0,
       "lastcommand": 1748167734282,
       "lastdaily": 1748069723856,
@@ -112293,8 +112293,8 @@
       "lastcommand": 1745923765915
     },
     "6289619588588@s.whatsapp.net": {
-      "exp": 98873,
-      "limit": 849,
+      "exp": 98905,
+      "limit": 824,
       "registered": false,
       "name": "orang hytam",
       "age": -1,
@@ -112311,7 +112311,7 @@
       "lastmonthly": 1746186051202,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748187353768,
+      "activation": 1748189690573,
       "lastBanned": 0,
       "lastdaily": 1746878445194,
       "lastwork": 1746878479097
@@ -119745,10 +119745,10 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastcommand": 1745545976173,
-      "activation": 1745557070890,
+      "activation": 1748192668910,
       "lastBanned": 0
     },
     "6281385690279@s.whatsapp.net": {
@@ -129535,7 +129535,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748180775779,
+      "activation": 1748192538902,
       "lastBanned": 0
     },
     "6283849805967@s.whatsapp.net": {
@@ -129804,7 +129804,7 @@
       "activation": 1746947185367
     },
     "6282113423495@s.whatsapp.net": {
-      "exp": 1049,
+      "exp": 1054,
       "limit": 499,
       "registered": false,
       "name": "Gus aryaaa",
@@ -129820,9 +129820,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1748185395892,
+      "activation": 1748190288618,
       "lastBanned": 0,
       "lastcommand": 1747915447296
     },
@@ -130587,7 +130587,7 @@
       "activation": 1747023025018
     },
     "203388193091687@lid": {
-      "exp": 461,
+      "exp": 463,
       "limit": 499,
       "registered": false,
       "name": "𝐙𝐚𝐚",
@@ -130605,7 +130605,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748183515865,
+      "activation": 1748190285690,
       "lastBanned": 0
     },
     "119027032670340@lid": {
@@ -133440,7 +133440,7 @@
       "activation": 1747276486519
     },
     "6285148382918@s.whatsapp.net": {
-      "exp": 277,
+      "exp": 289,
       "limit": 499,
       "registered": false,
       "name": "Admin",
@@ -133456,11 +133456,11 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1748157111232,
-      "activation": 1748157113328
+      "activation": 1748188772313
     },
     "280440309035079@lid": {
       "exp": 0,
@@ -140749,6 +140749,47 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1748187574323
+    },
+    "6283832038734@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 499,
+      "registered": false,
+      "name": "there is no happiness in my dictionary",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1748188751501
+    },
+    "22411743355022@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1748192669595
     }
   },
   "chats": {
@@ -141515,7 +141556,7 @@
         "6283876780790@s.whatsapp.net": 117,
         "6283820509957@s.whatsapp.net": 5,
         "6285748842221@s.whatsapp.net": 11,
-        "6288983017604@s.whatsapp.net": 1280,
+        "6288983017604@s.whatsapp.net": 1285,
         "6288980231187@s.whatsapp.net": 245,
         "6281958351619@s.whatsapp.net": 864,
         "6283169226415@s.whatsapp.net": 1118,
@@ -141697,7 +141738,7 @@
         "6281391128346@s.whatsapp.net": 378,
         "6288976614901@s.whatsapp.net": 56,
         "6283873214217@s.whatsapp.net": 1048,
-        "6289619588588@s.whatsapp.net": 1045,
+        "6289619588588@s.whatsapp.net": 1057,
         "6285155227212@s.whatsapp.net": 183,
         "6285173241812@s.whatsapp.net": 199,
         "628983602060@s.whatsapp.net": 261,
@@ -141710,7 +141751,7 @@
         "62887437466065@s.whatsapp.net": 1,
         "62895322603832@s.whatsapp.net": 25,
         "62895322603827@s.whatsapp.net": 24,
-        "6285150845191@s.whatsapp.net": 83,
+        "6285150845191@s.whatsapp.net": 88,
         "6285161132602@s.whatsapp.net": 3,
         "6281280159906@s.whatsapp.net": 134,
         "6285720602035@s.whatsapp.net": 884,
@@ -141725,11 +141766,11 @@
         "6285946211658@s.whatsapp.net": 20,
         "6282256742031@s.whatsapp.net": 20,
         "6281548546264@s.whatsapp.net": 21,
-        "62895394913500@s.whatsapp.net": 40,
+        "62895394913500@s.whatsapp.net": 45,
         "6285134290590@s.whatsapp.net": 104,
         "6283160841561@s.whatsapp.net": 132,
         "6281534085518@s.whatsapp.net": 144,
-        "6285148382918@s.whatsapp.net": 158,
+        "6285148382918@s.whatsapp.net": 163,
         "62895426716671@s.whatsapp.net": 24,
         "6289508046449@s.whatsapp.net": 182,
         "6285728466231@s.whatsapp.net": 399,
@@ -141758,8 +141799,8 @@
         "6287712848943@s.whatsapp.net": 353,
         "6289523149696@s.whatsapp.net": 64,
         "628388060644@s.whatsapp.net": 29,
-        "6283879801596@s.whatsapp.net": 1562,
-        "6281534257577@s.whatsapp.net": 11,
+        "6283879801596@s.whatsapp.net": 1622,
+        "6281534257577@s.whatsapp.net": 16,
         "6281297743855@s.whatsapp.net": 297
       },
       "totalChat": 0,
@@ -160656,13 +160697,13 @@
       "expired": 0,
       "total": {
         "6288987270716@s.whatsapp.net": 506,
-        "6282113423495@s.whatsapp.net": 4051,
+        "6282113423495@s.whatsapp.net": 4060,
         "11708215087183@lid": 686,
         "101580808450260@lid": 35,
         "7189875953798@lid": 277,
         "6281313312277@s.whatsapp.net": 459,
         "116561436270766@lid": 141,
-        "203388193091687@lid": 2012,
+        "203388193091687@lid": 2028,
         "119027032670340@lid": 254,
         "173035659198704@lid": 199,
         "59730781278442@lid": 1081,
@@ -160673,18 +160714,18 @@
         "18584944263379@lid": 227,
         "262839465975887@lid": 386,
         "35661298069580@lid": 44,
-        "98479305187406@lid": 1026,
+        "98479305187406@lid": 1030,
         "164605041074180@lid": 58,
         "71928068997341@lid": 35,
         "161293772271619@lid": 27,
-        "147171903025237@lid": 539,
+        "147171903025237@lid": 541,
         "6271172399320@lid": 36,
         "99497782837354@lid": 112,
         "6283894513472@s.whatsapp.net": 51,
         "213950071349495@lid": 112,
         "250267962478665@lid": 30,
         "240557343404286@lid": 28,
-        "236974904496216@lid": 96,
+        "236974904496216@lid": 98,
         "155967727628526@lid": 25,
         "140424408772701@lid": 4,
         "178254514262049@lid": 386,
@@ -160705,9 +160746,9 @@
         "26990144962801@lid": 95,
         "39832080388124@lid": 83,
         "191220802388157@lid": 56,
-        "129544837140643@lid": 21,
-        "221874319532131@lid": 4,
-        "146244072693783@lid": 1
+        "129544837140643@lid": 25,
+        "221874319532131@lid": 6,
+        "146244072693783@lid": 3
       },
       "totalChat": 0
     },
@@ -161268,10 +161309,10 @@
       "lastSuccess": 1747721660275
     },
     "downloader-play.js": {
-      "total": 3872,
-      "success": 3626,
-      "last": 1748187353768,
-      "lastSuccess": 1748187353768
+      "total": 3873,
+      "success": 3627,
+      "last": 1748189564503,
+      "lastSuccess": 1748189564503
     },
     "downloader-ytvideo.js": {
       "total": 148,
@@ -161400,10 +161441,10 @@
       "lastSuccess": 1735826605203
     },
     "ai-remini.js": {
-      "total": 2067,
-      "success": 1952,
-      "last": 1748179102791,
-      "lastSuccess": 1748179102791
+      "total": 2068,
+      "success": 1953,
+      "last": 1748190337512,
+      "lastSuccess": 1748190337512
     },
     "game-tebakbendera.js": {
       "total": 482,
@@ -164304,7 +164345,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748186611935,
+      "backupDB": 1748188740846,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
