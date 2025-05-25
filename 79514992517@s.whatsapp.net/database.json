@@ -31606,7 +31606,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748186268069,
+      "activation": 1748189996100,
       "lastBanned": 0,
       "lastcommand": 1745120185763
     },
@@ -145102,7 +145102,7 @@
       "activation": 1748175864792
     },
     "6282162616120@s.whatsapp.net": {
-      "exp": 121,
+      "exp": 200,
       "limit": 484,
       "registered": false,
       "name": "ELL",
@@ -145120,9 +145120,9 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748143852472,
+      "activation": 1748190027784,
       "lastBanned": 0,
-      "lastcommand": 1748143596125
+      "lastcommand": 1748189990393
     },
     "137791694450764@lid": {
       "exp": 0,
@@ -165664,10 +165664,10 @@
   },
   "stats": {
     "_main-menu.js": {
-      "total": 304,
-      "success": 298,
-      "last": 1748172605689,
-      "lastSuccess": 1748172605689
+      "total": 305,
+      "success": 299,
+      "last": 1748189895628,
+      "lastSuccess": 1748189895628
     },
     "info-ping.js": {
       "total": 68,
@@ -165736,10 +165736,10 @@
       "lastSuccess": 1746243979958
     },
     "_main-allmenu.js": {
-      "total": 98,
-      "success": 97,
-      "last": 1748088471093,
-      "lastSuccess": 1748088471093
+      "total": 100,
+      "success": 99,
+      "last": 1748189996085,
+      "lastSuccess": 1748189996085
     },
     "downloader-tiktok.js": {
       "total": 217,
@@ -166933,7 +166933,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748186792800,
+      "backupDB": 1748189887160,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
