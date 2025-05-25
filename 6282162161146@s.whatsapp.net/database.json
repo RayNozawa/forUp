@@ -193,7 +193,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 29046,
+      "exp": 29063,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -211,7 +211,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1748135938035,
+      "activation": 1748138906438,
       "lastBanned": 0,
       "lastcommand": 1747825101936,
       "limitprem": 10000,
@@ -14714,7 +14714,7 @@
       "lastBanned": 0
     },
     "6288215492023@s.whatsapp.net": {
-      "exp": 67,
+      "exp": 74,
       "limit": 499,
       "registered": false,
       "name": "I . M Jinwo 😹😹",
@@ -14732,7 +14732,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748094991540,
+      "activation": 1748140498559,
       "lastBanned": 0
     },
     "6281553476702@s.whatsapp.net": {
@@ -15508,7 +15508,7 @@
       "activation": 1746859518128
     },
     "6282258916689@s.whatsapp.net": {
-      "exp": 132,
+      "exp": 141,
       "limit": 499,
       "registered": false,
       "name": "Ahmad",
@@ -15526,7 +15526,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748137753087,
+      "activation": 1748140389042,
       "lastBanned": 0
     },
     "6288226613360@s.whatsapp.net": {
@@ -39348,7 +39348,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748108802855,
+      "activation": 1748139228414,
       "lastBanned": 0
     },
     "1147309940934@lid": {
@@ -50867,7 +50867,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748137752277,
+      "backupDB": 1748140388685,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
