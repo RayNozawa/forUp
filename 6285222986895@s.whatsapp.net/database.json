@@ -4537,7 +4537,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1748127942331
+      "activation": 1748132394452
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -131722,8 +131722,8 @@
       "activation": 1747112596051
     },
     "62895394913500@s.whatsapp.net": {
-      "exp": 31,
-      "limit": 479,
+      "exp": 102,
+      "limit": 419,
       "registered": false,
       "name": "𝘿𝙖𝙧𝙧𝙮𝙡𝖝1362",
       "age": -1,
@@ -131740,7 +131740,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748039714227,
+      "activation": 1748132394446,
       "lastBanned": 0
     },
     "225559284043965@lid": {
@@ -160519,9 +160519,9 @@
       "lastSuccess": 1748062945002
     },
     "downloader-tiktok.js": {
-      "total": 3711,
+      "total": 3712,
       "success": 3399,
-      "last": 1748122906051,
+      "last": 1748132175070,
       "lastSuccess": 1748122906051
     },
     "owner-sf.js": {
@@ -163279,10 +163279,10 @@
       "lastSuccess": 1744901761105
     },
     "downloader-ytmp4.js": {
-      "total": 74,
-      "success": 60,
-      "last": 1748003271501,
-      "lastSuccess": 1748003271501
+      "total": 76,
+      "success": 62,
+      "last": 1748132394446,
+      "lastSuccess": 1748132394446
     },
     "ai-allbard.js": {
       "total": 5,
@@ -163549,7 +163549,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748129840649,
+      "backupDB": 1748132174902,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
