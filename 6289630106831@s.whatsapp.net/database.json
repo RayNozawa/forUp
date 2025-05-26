@@ -1393,7 +1393,7 @@
       "lastcommand": 1745691592298
     },
     "6285641845890@s.whatsapp.net": {
-      "exp": 14805,
+      "exp": 14858,
       "limit": 499,
       "registered": false,
       "name": "Agung RF Daop 5 Sumpiuh & RF Daop 1 Cikarang",
@@ -1409,9 +1409,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1748270260271,
+      "activation": 1748272772006,
       "lastBanned": 0
     },
     "106829057122331@s.whatsapp.net": {
@@ -11249,7 +11249,7 @@
       "premiumTime": 0
     },
     "6285722598442@s.whatsapp.net": {
-      "exp": 48161,
+      "exp": 48205,
       "limit": 1456,
       "registered": true,
       "name": "lamzz",
@@ -11267,7 +11267,7 @@
       "lastmonthly": 1744700298688,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748267741225,
+      "activation": 1748272407475,
       "lastBanned": 0,
       "lastcommand": 1748244910265,
       "lastdaily": 1745237674201,
@@ -11276,7 +11276,7 @@
       "redeem": "THURSDAY"
     },
     "6285750225037@s.whatsapp.net": {
-      "exp": 155217,
+      "exp": 155250,
       "limit": 435,
       "registered": false,
       "name": "𝗔𝗭𝗞𝗔 𝗥𝗙 𝗗𝟱 𝗦𝗟𝗪ツ",
@@ -11294,7 +11294,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748269318549,
+      "activation": 1748271126714,
       "lastBanned": 0,
       "lastrob": 1745276960576,
       "lastwork": 1748241270225,
@@ -11453,7 +11453,7 @@
       "redeem": "SHANI6MEI"
     },
     "62882008879526@s.whatsapp.net": {
-      "exp": 183694,
+      "exp": 183712,
       "limit": 2197,
       "registered": false,
       "name": "Anomali",
@@ -11471,7 +11471,7 @@
       "lastmonthly": 1748167975173,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748244570436,
+      "activation": 1748272147208,
       "lastBanned": 0,
       "lastdaily": 1748167975173,
       "lastwork": 1748244570206,
@@ -36169,7 +36169,7 @@
       "activation": 1747915847191
     },
     "6281226946332@s.whatsapp.net": {
-      "exp": 237,
+      "exp": 246,
       "limit": 499,
       "registered": false,
       "name": "Tamm🙌",
@@ -36188,7 +36188,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1748263564902,
+      "activation": 1748272276604,
       "lastcommand": 1748126886382
     },
     "107030652133593@lid": {
@@ -46044,20 +46044,20 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285750225037@s.whatsapp.net": 38972,
+        "6285750225037@s.whatsapp.net": 39076,
         "6282327360391@s.whatsapp.net": 4054,
         "6285725870085@s.whatsapp.net": 21028,
-        "6282138444095@s.whatsapp.net": 71425,
-        "6285722598442@s.whatsapp.net": 14006,
-        "6287842822867@s.whatsapp.net": 60044,
+        "6282138444095@s.whatsapp.net": 71503,
+        "6285722598442@s.whatsapp.net": 14017,
+        "6287842822867@s.whatsapp.net": 60083,
         "6289520110391@s.whatsapp.net": 926,
         "6281249854677@s.whatsapp.net": 45,
         "undefined": 2015,
         "6285786215136@s.whatsapp.net": 46837,
         "6281329752453@s.whatsapp.net": 11170,
         "6283129913741@s.whatsapp.net": 163,
-        "62895619578363@s.whatsapp.net": 57569,
-        "62882008879526@s.whatsapp.net": 3675,
+        "62895619578363@s.whatsapp.net": 57595,
+        "62882008879526@s.whatsapp.net": 3690,
         "6285141179740@s.whatsapp.net": 4596,
         "6281934068666@s.whatsapp.net": 1245,
         "6281910123298@s.whatsapp.net": 197,
@@ -51853,7 +51853,7 @@
       "expired": 0,
       "total": {
         "6285722598442@s.whatsapp.net": 149,
-        "6285641845890@s.whatsapp.net": 16391,
+        "6285641845890@s.whatsapp.net": 16644,
         "62895605379273@s.whatsapp.net": 199,
         "6287787080907@s.whatsapp.net": 59,
         "6285211941644@s.whatsapp.net": 9
@@ -59274,7 +59274,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748269046124,
+      "backupDB": 1748271092794,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
