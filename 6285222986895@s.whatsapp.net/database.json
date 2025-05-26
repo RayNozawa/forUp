@@ -4287,7 +4287,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1748274195143
+      "activation": 1748284180793
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -115371,6 +115371,27 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1748273300836
+    },
+    "6282319232981@s.whatsapp.net": {
+      "exp": 25,
+      "limit": 479,
+      "registered": false,
+      "name": "petrus𝐕𝐕",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1748284180256
     }
   },
   "chats": {
@@ -135900,10 +135921,10 @@
       "lastSuccess": 1748252322259
     },
     "downloader-tiktok.js": {
-      "total": 3748,
-      "success": 3434,
-      "last": 1748266965495,
-      "lastSuccess": 1748266965495
+      "total": 3749,
+      "success": 3435,
+      "last": 1748284180256,
+      "lastSuccess": 1748284180256
     },
     "owner-sf.js": {
       "total": 1243,
@@ -138960,7 +138981,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748281569705,
+      "backupDB": 1748284149202,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
