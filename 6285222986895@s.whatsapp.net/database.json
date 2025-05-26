@@ -4287,7 +4287,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1748261385363
+      "activation": 1748261928746
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -91039,8 +91039,8 @@
       "warn": 1
     },
     "6282363391407@s.whatsapp.net": {
-      "exp": 148067,
-      "limit": 729,
+      "exp": 148101,
+      "limit": 704,
       "registered": false,
       "name": "B77W",
       "age": -1,
@@ -91057,7 +91057,7 @@
       "lastmonthly": 1746539407384,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748184932337,
+      "activation": 1748261928741,
       "lastBanned": 0,
       "lastdaily": 1748184899411
     },
@@ -97543,8 +97543,8 @@
       "lastBanned": 0
     },
     "6282142597384@s.whatsapp.net": {
-      "exp": 32119,
-      "limit": 234,
+      "exp": 32140,
+      "limit": 214,
       "registered": false,
       "name": "EREN YEAGER",
       "age": -1,
@@ -97561,7 +97561,7 @@
       "lastmonthly": 1746431443066,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748257832052,
+      "activation": 1748261673358,
       "lastBanned": 0,
       "lastcommand": 1746066075466,
       "lastdaily": 1748251936571
@@ -135687,10 +135687,10 @@
       "lastSuccess": 1748252322259
     },
     "downloader-tiktok.js": {
-      "total": 3742,
-      "success": 3428,
-      "last": 1748257832052,
-      "lastSuccess": 1748257832052
+      "total": 3743,
+      "success": 3429,
+      "last": 1748261673358,
+      "lastSuccess": 1748261673358
     },
     "owner-sf.js": {
       "total": 1243,
@@ -136371,10 +136371,10 @@
       "lastSuccess": 1733233830291
     },
     "downloader-facebook.js": {
-      "total": 142,
-      "success": 104,
-      "last": 1748261385351,
-      "lastSuccess": 1748261385351
+      "total": 143,
+      "success": 105,
+      "last": 1748261928741,
+      "lastSuccess": 1748261928741
     },
     "tool-bgcolor.js": {
       "total": 7,
@@ -138747,7 +138747,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748259690663,
+      "backupDB": 1748261668169,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
