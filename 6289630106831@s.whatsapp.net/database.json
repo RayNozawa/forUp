@@ -627,7 +627,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748267719619,
+      "activation": 1748273462396,
       "lastBanned": 0
     },
     "6289675880828@s.whatsapp.net": {
@@ -1393,7 +1393,7 @@
       "lastcommand": 1745691592298
     },
     "6285641845890@s.whatsapp.net": {
-      "exp": 14858,
+      "exp": 14909,
       "limit": 499,
       "registered": false,
       "name": "Agung RF Daop 5 Sumpiuh & RF Daop 1 Cikarang",
@@ -1409,9 +1409,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1748272772006,
+      "activation": 1748274407808,
       "lastBanned": 0
     },
     "106829057122331@s.whatsapp.net": {
@@ -11390,7 +11390,7 @@
       "WarnReason": "",
       "lastweekly": 1744700378287,
       "lastmonthly": 1744700378287,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "activation": 1748265710413,
       "lastBanned": 0,
@@ -37601,6 +37601,66 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1748267578447
+    },
+    "48898840256588@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1748273139732
+    },
+    "136606283477034@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1748273275222
+    },
+    "106171759370455@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1748273300828
     }
   },
   "chats": {
@@ -51853,7 +51913,7 @@
       "expired": 0,
       "total": {
         "6285722598442@s.whatsapp.net": 149,
-        "6285641845890@s.whatsapp.net": 16644,
+        "6285641845890@s.whatsapp.net": 16922,
         "62895605379273@s.whatsapp.net": 199,
         "6287787080907@s.whatsapp.net": 59,
         "6285211941644@s.whatsapp.net": 9
@@ -59274,7 +59334,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748271092794,
+      "backupDB": 1748272973448,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
