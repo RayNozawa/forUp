@@ -105956,7 +105956,7 @@
       "lastdaily": 1747981484863
     },
     "628156125764@s.whatsapp.net": {
-      "exp": 72,
+      "exp": 80,
       "limit": 499,
       "registered": false,
       "name": "syaa",
@@ -105972,9 +105972,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1747897421583,
+      "activation": 1748281579010,
       "lastBanned": 0
     },
     "250267962478665@lid": {
@@ -135432,7 +135432,7 @@
       "expired": 0,
       "total": {
         "6282254198452@s.whatsapp.net": 3,
-        "628156125764@s.whatsapp.net": 25,
+        "628156125764@s.whatsapp.net": 26,
         "6288294430126@s.whatsapp.net": 6
       },
       "totalChat": 0
@@ -138960,7 +138960,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748273181694,
+      "backupDB": 1748281569705,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
