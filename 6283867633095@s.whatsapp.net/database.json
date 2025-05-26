@@ -169,7 +169,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 48757,
+      "exp": 48838,
       "limit": 1387,
       "registered": false,
       "name": "Rayhan🍟",
@@ -188,12 +188,12 @@
       "premium": false,
       "premiumTime": 1802436672961,
       "lastcommand": 1748193710649,
-      "activation": 1748236890492,
+      "activation": 1748238562889,
       "lastBanned": 0,
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 31123,
+      "exp": 31140,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -211,7 +211,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1748237959869,
+      "activation": 1748239372389,
       "lastBanned": 0,
       "lastcommand": 1748214345571,
       "limitprem": 10000,
@@ -13556,7 +13556,7 @@
       "lastBanned": 0
     },
     "62895347108800@s.whatsapp.net": {
-      "exp": 97,
+      "exp": 130,
       "limit": 499,
       "registered": false,
       "name": ".....",
@@ -13574,7 +13574,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748238262597,
+      "activation": 1748239636953,
       "lastBanned": 0
     },
     "120363358156125711@newsletter": {
@@ -14628,7 +14628,7 @@
       "lastBanned": 0
     },
     "6281381558139@s.whatsapp.net": {
-      "exp": 114,
+      "exp": 123,
       "limit": 499,
       "registered": false,
       "name": "Tasya Nurul FR",
@@ -14647,7 +14647,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1748226442214
+      "activation": 1748238597276
     },
     "120363400825807038@g.us": {
       "exp": 0,
@@ -50943,10 +50943,10 @@
       "lastSuccess": 1748049237618
     },
     "owner-exec3.js": {
-      "total": 34,
-      "success": 34,
-      "last": 1748232160454,
-      "lastSuccess": 1748232160454
+      "total": 36,
+      "success": 36,
+      "last": 1748238562889,
+      "lastSuccess": 1748238562889
     },
     "vn-loveyou.js": {
       "total": 2,
@@ -51315,9 +51315,9 @@
       "lastSuccess": 1747570233639
     },
     "internet-fetch.js": {
-      "total": 16,
+      "total": 17,
       "success": 13,
-      "last": 1748236890492,
+      "last": 1748238408436,
       "lastSuccess": 1748236890492
     },
     "tool-tourl.js": {
@@ -51476,7 +51476,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748236465301,
+      "backupDB": 1748238303016,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
