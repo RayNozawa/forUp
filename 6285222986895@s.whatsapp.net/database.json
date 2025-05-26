@@ -184,7 +184,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1748267719374
+      "activation": 1748274190316
     },
     "120363240711248334@g.us": {
       "exp": 5227,
@@ -206,7 +206,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1748259613509
+      "activation": 1748273471233
     },
     "62882003784627@s.whatsapp.net": {
       "exp": 12,
@@ -936,7 +936,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1748273109503
+      "activation": 1748273462411
     },
     "6283119901412@s.whatsapp.net": {
       "exp": 16214,
@@ -4287,7 +4287,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1748271558989
+      "activation": 1748274195143
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -91039,8 +91039,8 @@
       "warn": 1
     },
     "6282363391407@s.whatsapp.net": {
-      "exp": 148101,
-      "limit": 704,
+      "exp": 148136,
+      "limit": 679,
       "registered": false,
       "name": "B77W",
       "age": -1,
@@ -91057,7 +91057,7 @@
       "lastmonthly": 1746539407384,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748261928741,
+      "activation": 1748273825555,
       "lastBanned": 0,
       "lastdaily": 1748184899411
     },
@@ -104744,9 +104744,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1748227524070,
+      "activation": 1748275012633,
       "lastBanned": 0
     },
     "6271172399320@lid": {
@@ -105972,7 +105972,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "activation": 1747897421583,
       "lastBanned": 0
@@ -115015,7 +115015,7 @@
       "activation": 1748256525968
     },
     "6288279230082@s.whatsapp.net": {
-      "exp": 9,
+      "exp": 15,
       "limit": 499,
       "registered": false,
       "name": "free",
@@ -115033,7 +115033,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748257153603,
+      "activation": 1748274869699,
       "lastBanned": 0,
       "warn": 1
     },
@@ -115287,6 +115287,90 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1748273139710
+    },
+    "60178150931@s.whatsapp.net": {
+      "exp": 4,
+      "limit": 499,
+      "registered": false,
+      "name": "ILYAS ❔",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1748273275158,
+      "lastBanned": 0
+    },
+    "136606283477034@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1748273275204
+    },
+    "6285774796130@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 499,
+      "registered": false,
+      "name": "キイドリュウコ",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1748273289210,
+      "lastBanned": 0
+    },
+    "106171759370455@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1748273300836
     }
   },
   "chats": {
@@ -115978,10 +116062,10 @@
       "detekporn": true,
       "antiLinkOther": true,
       "total": {
-        "6282179477450@s.whatsapp.net": 228,
+        "6282179477450@s.whatsapp.net": 232,
         "6288225432435@s.whatsapp.net": 1826,
         "6281258193521@s.whatsapp.net": 30,
-        "6285766064200@s.whatsapp.net": 3281,
+        "6285766064200@s.whatsapp.net": 3283,
         "6282143175110@s.whatsapp.net": 446,
         "6289660958090@s.whatsapp.net": 68,
         "6285822798934@s.whatsapp.net": 250,
@@ -116069,7 +116153,7 @@
         "6283169226415@s.whatsapp.net": 1118,
         "6281254887631@s.whatsapp.net": 131,
         "6289519050853@s.whatsapp.net": 399,
-        "6283865429691@s.whatsapp.net": 286,
+        "6283865429691@s.whatsapp.net": 290,
         "6285148370237@s.whatsapp.net": 17,
         "6285960191220@s.whatsapp.net": 3070,
         "6288287133705@s.whatsapp.net": 54,
@@ -116098,7 +116182,7 @@
         "6287842322204@s.whatsapp.net": 161,
         "919021231128@s.whatsapp.net": 109,
         "6281364434575@s.whatsapp.net": 1781,
-        "6283872905399@s.whatsapp.net": 464,
+        "6283872905399@s.whatsapp.net": 466,
         "62895403300227@s.whatsapp.net": 30,
         "62895391150955@s.whatsapp.net": 27,
         "6285148389426@s.whatsapp.net": 26,
@@ -116139,7 +116223,7 @@
         "6283877674388@s.whatsapp.net": 311,
         "6283822760236@s.whatsapp.net": 302,
         "6285945503757@s.whatsapp.net": 825,
-        "6287761263814@s.whatsapp.net": 866,
+        "6287761263814@s.whatsapp.net": 868,
         "6285194213963@s.whatsapp.net": 71,
         "62895811386463@s.whatsapp.net": 38,
         "6285248915537@s.whatsapp.net": 23,
@@ -116273,7 +116357,7 @@
         "6285946211658@s.whatsapp.net": 20,
         "6282256742031@s.whatsapp.net": 20,
         "6281548546264@s.whatsapp.net": 21,
-        "62895394913500@s.whatsapp.net": 75,
+        "62895394913500@s.whatsapp.net": 77,
         "6285134290590@s.whatsapp.net": 104,
         "6283160841561@s.whatsapp.net": 132,
         "6281534085518@s.whatsapp.net": 144,
@@ -116303,10 +116387,10 @@
         "62815217969028@s.whatsapp.net": 31,
         "62856081769933@s.whatsapp.net": 29,
         "62857725628521@s.whatsapp.net": 24,
-        "6287712848943@s.whatsapp.net": 3283,
+        "6287712848943@s.whatsapp.net": 3303,
         "6289523149696@s.whatsapp.net": 64,
         "628388060644@s.whatsapp.net": 29,
-        "6283879801596@s.whatsapp.net": 2341,
+        "6283879801596@s.whatsapp.net": 2349,
         "6281534257577@s.whatsapp.net": 45,
         "6281297743855@s.whatsapp.net": 1873,
         "62815491233485@s.whatsapp.net": 22,
@@ -116315,8 +116399,8 @@
         "62857071440236@s.whatsapp.net": 20,
         "62857725614017@s.whatsapp.net": 18,
         "62815491175598@s.whatsapp.net": 14,
-        "6281910123298@s.whatsapp.net": 18,
-        "6285817976362@s.whatsapp.net": 6
+        "6281910123298@s.whatsapp.net": 20,
+        "6285817976362@s.whatsapp.net": 8
       },
       "totalChat": 0,
       "acc": false,
@@ -135828,10 +135912,10 @@
       "lastSuccess": 1747721660275
     },
     "downloader-play.js": {
-      "total": 3884,
-      "success": 3637,
-      "last": 1748269028758,
-      "lastSuccess": 1748269028758
+      "total": 3885,
+      "success": 3638,
+      "last": 1748273221617,
+      "lastSuccess": 1748273221617
     },
     "downloader-ytvideo.js": {
       "total": 148,
@@ -138876,7 +138960,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748270178285,
+      "backupDB": 1748273181694,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
