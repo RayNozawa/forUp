@@ -936,7 +936,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1748329545591
+      "activation": 1748329553648
     },
     "6283119901412@s.whatsapp.net": {
       "exp": 16214,
@@ -4287,7 +4287,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1748329553257
+      "activation": 1748329555787
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -115687,6 +115687,46 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1748328625442
+    },
+    "6287798850253@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "name": "Amelinda Puspitasari",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0
+    },
+    "6287837422336@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "name": "Fauzia Zahra",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0
     }
   },
   "chats": {
