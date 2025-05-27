@@ -102254,7 +102254,7 @@
       "activation": 1746849901496
     },
     "6281362551724@s.whatsapp.net": {
-      "exp": 556,
+      "exp": 574,
       "limit": 499,
       "registered": false,
       "name": "~Daegal Appa",
@@ -102272,7 +102272,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748287881546,
+      "activation": 1748309265170,
       "lastBanned": 0
     },
     "198011347009713@lid": {
@@ -103988,7 +103988,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1747635886932,
+      "activation": 1748310030650,
       "lastBanned": 0
     },
     "251256090165284@lid": {
@@ -139064,7 +139064,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748306430510,
+      "backupDB": 1748308852302,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
