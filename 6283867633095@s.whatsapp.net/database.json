@@ -169,7 +169,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 10566,
+      "exp": 10633,
       "limit": 1387,
       "registered": false,
       "name": "Rayhan🍟",
@@ -188,12 +188,12 @@
       "premium": false,
       "premiumTime": 1802436672961,
       "lastcommand": 1747644066417,
-      "activation": 1748075283517,
+      "activation": 1748346219045,
       "lastBanned": 0,
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 28159,
+      "exp": 28225,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -211,7 +211,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1748342986097,
+      "activation": 1748346219056,
       "lastBanned": 0,
       "lastcommand": 1747825101936,
       "limitprem": 10000,
@@ -354,7 +354,7 @@
       "lastcommand": 1746457091607
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 3680,
+      "exp": 3713,
       "limit": 1324,
       "registered": false,
       "name": "@Nadiaaa",
@@ -372,7 +372,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748343433934,
+      "activation": 1748346239221,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -4529,7 +4529,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748343053901,
+      "activation": 1748344888252,
       "lastBanned": 0
     },
     "6287749048860@s.whatsapp.net": {
@@ -13924,7 +13924,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748339904736,
+      "activation": 1748344769053,
       "lastBanned": 0
     },
     "237460487426094@lid": {
@@ -14980,7 +14980,7 @@
       "lastBanned": 0
     },
     "6285795727918@s.whatsapp.net": {
-      "exp": 155,
+      "exp": 184,
       "limit": 499,
       "registered": false,
       "name": "Koyot_24",
@@ -14999,7 +14999,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1748044637091
+      "activation": 1748345465671
     },
     "233083949314143@lid": {
       "exp": 0,
@@ -39348,7 +39348,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748051810804,
+      "activation": 1748344729512,
       "lastBanned": 0
     },
     "1147309940934@lid": {
@@ -56733,6 +56733,26 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1748341986028
+    },
+    "130915267276939@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1748344938393
     }
   },
   "chats": {
@@ -66892,6 +66912,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "62895800874700@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -67652,10 +67693,10 @@
       "lastSuccess": 1747570233639
     },
     "internet-fetch.js": {
-      "total": 10,
-      "success": 7,
-      "last": 1747714767769,
-      "lastSuccess": 1747714767769
+      "total": 12,
+      "success": 8,
+      "last": 1748346219045,
+      "lastSuccess": 1748346219045
     },
     "tool-tourl.js": {
       "total": 28,
@@ -67754,9 +67795,9 @@
       "lastSuccess": 1748146872211
     },
     "downloader-ytmp4.js": {
-      "total": 3,
+      "total": 4,
       "success": 3,
-      "last": 1748169969933,
+      "last": 1748345912243,
       "lastSuccess": 1748169969933
     }
   },
@@ -67801,7 +67842,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748341914274,
+      "backupDB": 1748344455808,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
