@@ -39,7 +39,7 @@
       "WarnReason": "",
       "lastweekly": 1746412631727,
       "lastmonthly": 1746412631727,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
       "activation": 1748346855148,
@@ -4287,7 +4287,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1748368379184
+      "activation": 1748370687187
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -51884,7 +51884,7 @@
       "lastBanned": 0
     },
     "6281392076995@s.whatsapp.net": {
-      "exp": 15031,
+      "exp": 15071,
       "limit": 9,
       "registered": false,
       "name": "Astaroth Van Astarity",
@@ -51906,7 +51906,7 @@
       "lastwork": 1734835464391,
       "lastdaily": 1748000961499,
       "lastcommand": 1748000847694,
-      "activation": 1748367429104,
+      "activation": 1748368661869,
       "warn": 2
     },
     "6285281277184@s.whatsapp.net": {
@@ -90731,7 +90731,7 @@
       "premiumTime": 0
     },
     "6287712848943@s.whatsapp.net": {
-      "exp": 5086,
+      "exp": 15190,
       "limit": 1529,
       "registered": false,
       "name": "lala pacar monta",
@@ -90749,11 +90749,11 @@
       "lastmonthly": 1747751146168,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748368379166,
+      "activation": 1748368901098,
       "lastBanned": 0,
       "lastcommand": 1748323162980,
       "lastdaily": 1748069723856,
-      "lastwork": 1748322971605,
+      "lastwork": 1748368901098,
       "lastrob": 1748323891471
     },
     "10518978916419_1@s.whatsapp.net": {
@@ -102254,7 +102254,7 @@
       "activation": 1746849901496
     },
     "6281362551724@s.whatsapp.net": {
-      "exp": 597,
+      "exp": 600,
       "limit": 499,
       "registered": false,
       "name": "~Daegal Appa",
@@ -102272,7 +102272,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748368309949,
+      "activation": 1748369674358,
       "lastBanned": 0
     },
     "198011347009713@lid": {
@@ -116673,8 +116673,8 @@
         "62895320702875@s.whatsapp.net": 87,
         "62882017032144@s.whatsapp.net": 26,
         "6283865533087@s.whatsapp.net": 809,
-        "919366665173@s.whatsapp.net": 1393,
-        "6288983017604@s.whatsapp.net": 4243,
+        "919366665173@s.whatsapp.net": 1413,
+        "6288983017604@s.whatsapp.net": 4363,
         "628818691228@s.whatsapp.net": 1905,
         "6288216100890@s.whatsapp.net": 190,
         "6283119901412@s.whatsapp.net": 34,
@@ -116866,7 +116866,7 @@
         "62895328705116@s.whatsapp.net": 8,
         "6289510736279@s.whatsapp.net": 607,
         "6285232605769@s.whatsapp.net": 1778,
-        "6281392076995@s.whatsapp.net": 8286,
+        "6281392076995@s.whatsapp.net": 8444,
         "6283891981279@s.whatsapp.net": 337,
         "6287842322204@s.whatsapp.net": 556,
         "6288210952423@s.whatsapp.net": 2438,
@@ -116927,7 +116927,7 @@
         "6282320629134@s.whatsapp.net": 153,
         "6287727066033@s.whatsapp.net": 102,
         "6283899585665@s.whatsapp.net": 36,
-        "6287712848943@s.whatsapp.net": 18079,
+        "6287712848943@s.whatsapp.net": 18388,
         "6289699656185@s.whatsapp.net": 14,
         "6282124230116@s.whatsapp.net": 36,
         "6282328146799@s.whatsapp.net": 5,
@@ -137533,10 +137533,10 @@
       "lastSuccess": 1748171885289
     },
     "game-susunkata.js": {
-      "total": 2568,
-      "success": 2356,
-      "last": 1748368379166,
-      "lastSuccess": 1748368379166
+      "total": 2571,
+      "success": 2359,
+      "last": 1748368529844,
+      "lastSuccess": 1748368529844
     },
     "game-susunkata_hint.js": {
       "total": 376,
@@ -139591,10 +139591,10 @@
       "lastSuccess": 1746179611001
     },
     "havefun-berburu.js": {
-      "total": 57,
-      "success": 44,
-      "last": 1748322990176,
-      "lastSuccess": 1748322990176
+      "total": 59,
+      "success": 45,
+      "last": 1748368901098,
+      "lastSuccess": 1748368901098
     },
     "ai-remini2.js": {
       "total": 45,
@@ -139609,10 +139609,10 @@
       "lastSuccess": 1740234812682
     },
     "havefun-mulung.js": {
-      "total": 20,
-      "success": 17,
-      "last": 1748322412354,
-      "lastSuccess": 1748322412354
+      "total": 21,
+      "success": 18,
+      "last": 1748368795446,
+      "lastSuccess": 1748368795446
     },
     "owner-addprem.js": {
       "total": 5,
@@ -140131,7 +140131,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748366614653,
+      "backupDB": 1748368429672,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
