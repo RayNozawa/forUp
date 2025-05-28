@@ -627,7 +627,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748437728621,
+      "activation": 1748461861905,
       "lastBanned": 0
     },
     "6289675880828@s.whatsapp.net": {
@@ -4343,7 +4343,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748450050330,
+      "activation": 1748458922395,
       "lastBanned": 0,
       "lastcommand": 1748449514976
     },
@@ -11479,7 +11479,7 @@
       "redeem": "THURSDAY"
     },
     "120363333742555539@newsletter": {
-      "exp": 499,
+      "exp": 510,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -11494,10 +11494,10 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1748374599028
+      "activation": 1748458928172
     },
     "6285141179740@s.whatsapp.net": {
       "exp": 134316,
@@ -62491,7 +62491,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748453606772,
+      "backupDB": 1748458923834,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
