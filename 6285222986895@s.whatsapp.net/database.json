@@ -1726,8 +1726,8 @@
       "lastdaily": 1736086318376
     },
     "6289523149696@s.whatsapp.net": {
-      "exp": 151457,
-      "limit": 894,
+      "exp": 151520,
+      "limit": 819,
       "registered": false,
       "name": "Pvznlyyy",
       "age": -1,
@@ -1748,7 +1748,7 @@
       "lastdaily": 1748454360936,
       "lastcommand": 1748454408747,
       "lastrob": 1735367427318,
-      "activation": 1748454426605
+      "activation": 1748458986836
     },
     "6283879933855@s.whatsapp.net": {
       "exp": -732,
@@ -4287,7 +4287,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1748454482612
+      "activation": 1748458988231
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -110871,7 +110871,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748454453249,
+      "activation": 1748459295045,
       "lastBanned": 0
     },
     "176733844185097@lid": {
@@ -137785,10 +137785,10 @@
       "lastSuccess": 1747721660275
     },
     "downloader-play.js": {
-      "total": 3936,
-      "success": 3685,
-      "last": 1748454341314,
-      "lastSuccess": 1748454341314
+      "total": 3939,
+      "success": 3688,
+      "last": 1748458721846,
+      "lastSuccess": 1748458721846
     },
     "downloader-ytvideo.js": {
       "total": 148,
@@ -140833,7 +140833,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748456047480,
+      "backupDB": 1748458033072,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
