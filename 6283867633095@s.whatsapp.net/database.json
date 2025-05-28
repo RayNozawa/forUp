@@ -193,7 +193,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 29620,
+      "exp": 29629,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -211,7 +211,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1748452820274,
+      "activation": 1748455819236,
       "lastBanned": 0,
       "lastcommand": 1747825101936,
       "limitprem": 10000,
@@ -4529,7 +4529,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748433948050,
+      "activation": 1748456298358,
       "lastBanned": 0
     },
     "6287749048860@s.whatsapp.net": {
@@ -68491,7 +68491,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748452116996,
+      "backupDB": 1748455818090,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
