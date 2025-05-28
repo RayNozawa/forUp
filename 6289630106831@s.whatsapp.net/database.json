@@ -1393,7 +1393,7 @@
       "lastcommand": 1745691592298
     },
     "6285641845890@s.whatsapp.net": {
-      "exp": 16408,
+      "exp": 16430,
       "limit": 499,
       "registered": false,
       "name": "Agung RF Daop 5 Sumpiuh & RF Daop 1 Cikarang",
@@ -1411,7 +1411,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748394417704,
+      "activation": 1748394941288,
       "lastBanned": 0
     },
     "106829057122331@s.whatsapp.net": {
@@ -53889,7 +53889,7 @@
       "expired": 0,
       "total": {
         "6285722598442@s.whatsapp.net": 149,
-        "6285641845890@s.whatsapp.net": 20443,
+        "6285641845890@s.whatsapp.net": 20510,
         "62895605379273@s.whatsapp.net": 199,
         "6287787080907@s.whatsapp.net": 59,
         "6285211941644@s.whatsapp.net": 9
@@ -61500,7 +61500,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748392978584,
+      "backupDB": 1748394781511,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
