@@ -2281,7 +2281,7 @@
       "lastcommand": 1746355211230
     },
     "628567105062@s.whatsapp.net": {
-      "exp": 2342,
+      "exp": 2348,
       "limit": 499,
       "registered": false,
       "name": "senzy panutan",
@@ -2300,7 +2300,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747476478971
+      "activation": 1748407531076
     },
     "6285842531334@s.whatsapp.net": {
       "exp": 335,
@@ -2805,7 +2805,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748402356114,
+      "activation": 1748409239965,
       "lastBanned": 0
     },
     "6283141671011@s.whatsapp.net": {
@@ -3026,7 +3026,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748397812725,
+      "activation": 1748412694053,
       "lastBanned": 0
     },
     "120363159552753674@newsletter": {
@@ -3827,7 +3827,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748392458228,
+      "activation": 1748409551538,
       "lastBanned": 0
     },
     "6283129349181@s.whatsapp.net": {
@@ -9541,7 +9541,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1745036660080,
+      "activation": 1748413831803,
       "lastBanned": 0
     },
     "263217607614609@lid": {
@@ -56939,6 +56939,46 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1748405888979
+    },
+    "225361665245296@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1748408031068
+    },
+    "275771797012487@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1748414302901
     }
   },
   "chats": {
@@ -68087,7 +68127,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748401180063,
+      "backupDB": 1748407530828,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
