@@ -206,7 +206,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1748461861674
+      "activation": 1748469279844
     },
     "62882003784627@s.whatsapp.net": {
       "exp": 12,
@@ -4287,7 +4287,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1748463102200
+      "activation": 1748474314354
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -90732,8 +90732,8 @@
       "premiumTime": 0
     },
     "6287712848943@s.whatsapp.net": {
-      "exp": 200,
-      "limit": 1233,
+      "exp": 243,
+      "limit": 1193,
       "registered": false,
       "name": "lala pacar monta",
       "age": -1,
@@ -90750,7 +90750,7 @@
       "lastmonthly": 1747751146168,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748454482603,
+      "activation": 1748465147932,
       "lastBanned": 0,
       "lastcommand": 1748323162980,
       "lastdaily": 1748069723856,
@@ -110871,7 +110871,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748461865904,
+      "activation": 1748474629852,
       "lastBanned": 0
     },
     "176733844185097@lid": {
@@ -137830,10 +137830,10 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 1320,
-      "success": 1246,
-      "last": 1748382622592,
-      "lastSuccess": 1748382622592
+      "total": 1322,
+      "success": 1248,
+      "last": 1748465147932,
+      "lastSuccess": 1748465147932
     },
     "downloader-tiktok.js": {
       "total": 3790,
@@ -140896,7 +140896,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748462494208,
+      "backupDB": 1748465130868,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
