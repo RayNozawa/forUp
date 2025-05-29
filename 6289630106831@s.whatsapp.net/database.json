@@ -1393,7 +1393,7 @@
       "lastcommand": 1745691592298
     },
     "6285641845890@s.whatsapp.net": {
-      "exp": 17450,
+      "exp": 17382,
       "limit": 499,
       "registered": false,
       "name": "Agung RF Daop 5 Sumpiuh & RF Daop 1 Cikarang",
@@ -1411,7 +1411,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748484462693,
+      "activation": 1748479556983,
       "lastBanned": 0
     },
     "106829057122331@s.whatsapp.net": {
@@ -39561,7 +39561,7 @@
       "lastBanned": 0
     },
     "62882005231578@s.whatsapp.net": {
-      "exp": 335,
+      "exp": 305,
       "limit": 464,
       "registered": false,
       "name": "~~ Railfans D4 SMC",
@@ -39580,7 +39580,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastcommand": 1748483994803,
-      "activation": 1748484637396,
+      "activation": 1748484145318,
       "lastBanned": 0
     },
     "6282240330218@s.whatsapp.net": {
@@ -40622,7 +40622,7 @@
       "activation": 1748483913641
     },
     "6285780599548@s.whatsapp.net": {
-      "exp": 28,
+      "exp": 23,
       "limit": 499,
       "registered": false,
       "name": "Afdhal daop 1 Jkt/4pmlng",
@@ -40640,7 +40640,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748484537053,
+      "activation": 1748484113468,
       "lastBanned": 0
     },
     "6285712813243@s.whatsapp.net": {
@@ -40726,28 +40726,6 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1748484022410
-    },
-    "6285186820114@s.whatsapp.net": {
-      "exp": 26,
-      "limit": 499,
-      "registered": false,
-      "name": "V-N",
-      "age": -1,
-      "regTime": -1,
-      "unreg": false,
-      "afk": -1,
-      "afkReason": "",
-      "banned": false,
-      "level": 0,
-      "role": "Beginner",
-      "BannedReason": "",
-      "WarnReason": "",
-      "lastweekly": 0,
-      "lastmonthly": 0,
-      "premium": true,
-      "premiumTime": 0,
-      "lastBanned": 0,
-      "activation": 1748484580688
     }
   },
   "chats": {
@@ -55025,7 +55003,7 @@
       "expired": 0,
       "total": {
         "6285722598442@s.whatsapp.net": 149,
-        "6285641845890@s.whatsapp.net": 23038,
+        "6285641845890@s.whatsapp.net": 22878,
         "62895605379273@s.whatsapp.net": 199,
         "6287787080907@s.whatsapp.net": 59,
         "6285211941644@s.whatsapp.net": 9
@@ -61545,18 +61523,18 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "62882005231578@s.whatsapp.net": 337,
+        "62882005231578@s.whatsapp.net": 312,
         "6285846754589@s.whatsapp.net": 216,
         "6281918433313@s.whatsapp.net": 23,
         "6289637250900@s.whatsapp.net": 47,
-        "62895631782567@s.whatsapp.net": 71,
+        "62895631782567@s.whatsapp.net": 53,
         "6289612121005@s.whatsapp.net": 13,
         "6289616989101@s.whatsapp.net": 9,
-        "6285780599548@s.whatsapp.net": 53,
+        "6285780599548@s.whatsapp.net": 24,
         "6287741310540@s.whatsapp.net": 7,
-        "6285712813243@s.whatsapp.net": 21,
-        "6289677713565@s.whatsapp.net": 20,
-        "6285215391334@s.whatsapp.net": 17
+        "6285712813243@s.whatsapp.net": 15,
+        "6289677713565@s.whatsapp.net": 14,
+        "6285215391334@s.whatsapp.net": 11
       },
       "totalChat": 0
     },
