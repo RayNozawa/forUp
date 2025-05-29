@@ -2590,7 +2590,7 @@
       "activation": 1743225399960
     },
     "6287750360878@s.whatsapp.net": {
-      "exp": 762,
+      "exp": 766,
       "limit": 499,
       "registered": false,
       "name": "wulan",
@@ -2609,7 +2609,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1748489566287
+      "activation": 1748498194091
     },
     "6282123890775@s.whatsapp.net": {
       "exp": 35,
@@ -3026,7 +3026,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748491724956,
+      "activation": 1748499162021,
       "lastBanned": 0
     },
     "120363159552753674@newsletter": {
@@ -9671,7 +9671,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748429454641,
+      "activation": 1748499749280,
       "lastBanned": 0
     },
     "6287888027184@s.whatsapp.net": {
@@ -57208,7 +57208,7 @@
       "activation": 1748492275653
     },
     "6281389669366@s.whatsapp.net": {
-      "exp": 12,
+      "exp": 14,
       "limit": 499,
       "registered": false,
       "name": "the destroyer",
@@ -57227,7 +57227,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1748493235037
+      "activation": 1748499671502
     },
     "176368570597510@lid": {
       "exp": 0,
@@ -57288,6 +57288,28 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1748496355997
+    },
+    "6282231056698@s.whatsapp.net": {
+      "exp": 15,
+      "limit": 499,
+      "registered": false,
+      "name": ".",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1748498593595,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -67471,7 +67493,8 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6281389669366@s.whatsapp.net": 4
+        "6281389669366@s.whatsapp.net": 11,
+        "6282231056698@s.whatsapp.net": 5
       },
       "totalChat": 0
     },
@@ -68482,7 +68505,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748493229254,
+      "backupDB": 1748498186828,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
