@@ -2805,7 +2805,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748495221551,
+      "activation": 1748496167257,
       "lastBanned": 0
     },
     "6283141671011@s.whatsapp.net": {
@@ -57268,6 +57268,26 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1748494539133
+    },
+    "262019328565307@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1748496355997
     }
   },
   "chats": {
