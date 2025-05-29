@@ -193,7 +193,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 30094,
+      "exp": 30140,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -211,7 +211,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1748492881592,
+      "activation": 1748496816042,
       "lastBanned": 0,
       "lastcommand": 1747825101936,
       "limitprem": 10000,
@@ -285,7 +285,7 @@
       "lastBanned": 0
     },
     "62895397667222@s.whatsapp.net": {
-      "exp": 163,
+      "exp": 173,
       "limit": 499,
       "registered": false,
       "name": "arkyyy.",
@@ -304,7 +304,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastcommand": 1741833792120,
-      "activation": 1748426840130,
+      "activation": 1748495471692,
       "lastBanned": 0
     },
     "6282128611759@s.whatsapp.net": {
@@ -535,7 +535,7 @@
       "lastdaily": 1742938834744
     },
     "6283896295573@s.whatsapp.net": {
-      "exp": 575,
+      "exp": 577,
       "limit": 499,
       "registered": false,
       "name": "Agung",
@@ -554,7 +554,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1748434771863,
+      "activation": 1748497840128,
       "lastcommand": 1742379741447
     },
     "120363370527781839@newsletter": {
@@ -4529,7 +4529,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748491858076,
+      "activation": 1748495921299,
       "lastBanned": 0
     },
     "6287749048860@s.whatsapp.net": {
@@ -13555,7 +13555,7 @@
       "lastBanned": 0
     },
     "62895347108800@s.whatsapp.net": {
-      "exp": 101,
+      "exp": 116,
       "limit": 499,
       "registered": false,
       "name": ".....",
@@ -13573,7 +13573,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748437393054,
+      "activation": 1748495344175,
       "lastBanned": 0
     },
     "120363358156125711@newsletter": {
@@ -13965,7 +13965,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748427031169,
+      "activation": 1748495685925,
       "lastBanned": 0
     },
     "120363417537141646@newsletter": {
@@ -13986,7 +13986,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748434779802,
+      "activation": 1748495595273,
       "lastBanned": 0
     },
     "120363416810310839@newsletter": {
@@ -15532,7 +15532,7 @@
       "lastBanned": 0
     },
     "6288226613360@s.whatsapp.net": {
-      "exp": 47,
+      "exp": 50,
       "limit": 499,
       "registered": false,
       "name": "ZEN4YOU",
@@ -15551,7 +15551,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747559205241
+      "activation": 1748498032574
     },
     "45505346334884@lid": {
       "exp": 0,
@@ -38841,7 +38841,7 @@
       "lastBanned": 0
     },
     "6281229559468@s.whatsapp.net": {
-      "exp": 98,
+      "exp": 122,
       "limit": 499,
       "registered": false,
       "name": "bella",
@@ -38859,7 +38859,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748441949080,
+      "activation": 1748496768398,
       "lastBanned": 0
     },
     "628558881161@s.whatsapp.net": {
@@ -39006,7 +39006,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748484478824,
+      "activation": 1748495992798,
       "lastBanned": 0
     },
     "15595630293121@lid": {
@@ -67795,10 +67795,10 @@
       "lastSuccess": 1748161741361
     },
     "downloader-tiktok.js": {
-      "total": 409,
-      "success": 376,
-      "last": 1748485501297,
-      "lastSuccess": 1748485501297
+      "total": 410,
+      "success": 377,
+      "last": 1748495995636,
+      "lastSuccess": 1748495995636
     },
     "owner-pushkontak.js": {
       "total": 3,
@@ -68592,7 +68592,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748492698100,
+      "backupDB": 1748497839692,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
