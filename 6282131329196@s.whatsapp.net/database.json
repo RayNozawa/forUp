@@ -193,7 +193,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 30429,
+      "exp": 30458,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -211,7 +211,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1748532847394,
+      "activation": 1748538841785,
       "lastBanned": 0,
       "lastcommand": 1747825101936,
       "limitprem": 10000,
@@ -1684,7 +1684,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748444959496,
+      "activation": 1748538693288,
       "lastBanned": 0
     },
     "6282291023303@s.whatsapp.net": {
@@ -1710,7 +1710,7 @@
       "activation": 1743014482291
     },
     "6283157613823@s.whatsapp.net": {
-      "exp": 166,
+      "exp": 170,
       "limit": 499,
       "registered": false,
       "name": "Xabiru Cakrawangsa",
@@ -1728,7 +1728,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748477528684,
+      "activation": 1748534455670,
       "lastBanned": 0
     },
     "6283896174708@s.whatsapp.net": {
@@ -4529,7 +4529,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748533622267,
+      "activation": 1748536967601,
       "lastBanned": 0
     },
     "6287749048860@s.whatsapp.net": {
@@ -38672,7 +38672,7 @@
       "activation": 1747512995238
     },
     "6283131998936@s.whatsapp.net": {
-      "exp": 116,
+      "exp": 137,
       "limit": 419,
       "registered": false,
       "name": "—  ℜyuu 𝕿𝖍𝖊 𝕮𝖔𝖗𝖑𝖊𝖔𝖓𝖊",
@@ -38688,10 +38688,11 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1747740259681,
-      "lastBanned": 0
+      "activation": 1748534073797,
+      "lastBanned": 0,
+      "lastcommand": 1748534070074
     },
     "97010560536637@lid": {
       "exp": 0,
@@ -67900,10 +67901,10 @@
       "lastSuccess": 1748151941731
     },
     "_cek.js": {
-      "total": 249,
-      "success": 236,
-      "last": 1748525447399,
-      "lastSuccess": 1748525447399
+      "total": 250,
+      "success": 237,
+      "last": 1748534073797,
+      "lastSuccess": 1748534073797
     },
     "user-limit.js": {
       "total": 19,
@@ -68721,7 +68722,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748531893454,
+      "backupDB": 1748538841446,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
