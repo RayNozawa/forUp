@@ -193,7 +193,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 30148,
+      "exp": 30169,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -211,7 +211,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1748499819158,
+      "activation": 1748505831688,
       "lastBanned": 0,
       "lastcommand": 1747825101936,
       "limitprem": 10000,
@@ -444,8 +444,8 @@
       "lastBanned": 0
     },
     "62882003885815@s.whatsapp.net": {
-      "exp": 61766,
-      "limit": 824,
+      "exp": 61792,
+      "limit": 799,
       "registered": false,
       "name": "𝔯𝔞𝔡𝔦𝔰",
       "age": -1,
@@ -462,7 +462,7 @@
       "lastmonthly": 1742529237697,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748357696147,
+      "activation": 1748504275030,
       "lastBanned": 0,
       "lastdaily": 1742529237697
     },
@@ -535,7 +535,7 @@
       "lastdaily": 1742938834744
     },
     "6283896295573@s.whatsapp.net": {
-      "exp": 577,
+      "exp": 585,
       "limit": 499,
       "registered": false,
       "name": "Agung",
@@ -554,7 +554,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1748497840128,
+      "activation": 1748507134990,
       "lastcommand": 1742379741447
     },
     "120363370527781839@newsletter": {
@@ -1106,7 +1106,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
       "activation": 1748487822753
@@ -4529,7 +4529,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748495921299,
+      "activation": 1748505198112,
       "lastBanned": 0
     },
     "6287749048860@s.whatsapp.net": {
@@ -14114,7 +14114,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748502622416,
+      "activation": 1748506420113,
       "lastBanned": 0
     },
     "6283114594503@s.whatsapp.net": {
@@ -67759,10 +67759,10 @@
       "lastSuccess": 1748180846418
     },
     "ai-remini.js": {
-      "total": 399,
-      "success": 356,
-      "last": 1748484438235,
-      "lastSuccess": 1748484438235
+      "total": 400,
+      "success": 357,
+      "last": 1748504275030,
+      "lastSuccess": 1748504275030
     },
     "ai-remini2.js": {
       "total": 38,
@@ -68592,7 +68592,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748499818542,
+      "backupDB": 1748505826605,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
