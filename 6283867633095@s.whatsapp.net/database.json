@@ -56837,7 +56837,7 @@
       "activation": 1748383616045
     },
     "6288989555987@s.whatsapp.net": {
-      "exp": 7,
+      "exp": 22,
       "limit": 499,
       "registered": false,
       "name": "Dindaaa",
@@ -56856,7 +56856,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1748391437634
+      "activation": 1748503210980
     },
     "104221777100906@lid": {
       "exp": 5,
@@ -57434,6 +57434,26 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "activation": 1748502751647
+    },
+    "1542010753223@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1748505589401
     }
   },
   "chats": {
