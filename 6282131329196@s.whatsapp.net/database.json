@@ -2590,7 +2590,7 @@
       "activation": 1743225399960
     },
     "6287750360878@s.whatsapp.net": {
-      "exp": 814,
+      "exp": 843,
       "limit": 499,
       "registered": false,
       "name": "wulan",
@@ -2609,7 +2609,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1748599900760
+      "activation": 1748604144592
     },
     "6282123890775@s.whatsapp.net": {
       "exp": 35,
@@ -2805,7 +2805,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748600171673,
+      "activation": 1748605195206,
       "lastBanned": 0
     },
     "6283141671011@s.whatsapp.net": {
@@ -3047,7 +3047,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748602148262,
+      "activation": 1748604149364,
       "lastBanned": 0
     },
     "6285692978197@s.whatsapp.net": {
@@ -56713,7 +56713,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748596843886,
+      "activation": 1748603917236,
       "lastBanned": 0
     },
     "100876131778680@lid": {
@@ -57208,7 +57208,7 @@
       "activation": 1748492275653
     },
     "6281389669366@s.whatsapp.net": {
-      "exp": 49,
+      "exp": 52,
       "limit": 499,
       "registered": false,
       "name": "the destroyer",
@@ -57227,7 +57227,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1748525634504
+      "activation": 1748605057462
     },
     "176368570597510@lid": {
       "exp": 0,
@@ -58163,6 +58163,26 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1748600146411
+    },
+    "202615585542180@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1748605076398
     }
   },
   "chats": {
@@ -68346,11 +68366,11 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6281389669366@s.whatsapp.net": 92,
-        "6282231056698@s.whatsapp.net": 35,
-        "115315912482842@lid": 24,
-        "209375394296032@lid": 19,
-        "45870552727784@lid": 1
+        "6281389669366@s.whatsapp.net": 102,
+        "6282231056698@s.whatsapp.net": 37,
+        "115315912482842@lid": 26,
+        "209375394296032@lid": 21,
+        "45870552727784@lid": 2
       },
       "totalChat": 0
     },
@@ -69421,7 +69441,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748599900239,
+      "backupDB": 1748603656077,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
