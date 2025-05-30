@@ -4287,7 +4287,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1748638443676
+      "activation": 1748641544570
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -89552,8 +89552,8 @@
       "lastdaily": 1748138194210
     },
     "62895352917598@s.whatsapp.net": {
-      "exp": 61469,
-      "limit": 664,
+      "exp": 61513,
+      "limit": 614,
       "registered": true,
       "name": "TiaXyz",
       "age": 20,
@@ -89570,7 +89570,7 @@
       "lastmonthly": 1748634571505,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748637806147,
+      "activation": 1748641544548,
       "lastBanned": 0,
       "lastcommand": 1746266877284,
       "lastdaily": 1748634571505
@@ -140562,10 +140562,10 @@
       "lastSuccess": 1733233830291
     },
     "downloader-facebook.js": {
-      "total": 145,
-      "success": 107,
-      "last": 1748531231899,
-      "lastSuccess": 1748531231899
+      "total": 147,
+      "success": 109,
+      "last": 1748641544548,
+      "lastSuccess": 1748641544548
     },
     "tool-bgcolor.js": {
       "total": 7,
@@ -142998,7 +142998,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748636730288,
+      "backupDB": 1748639853265,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
