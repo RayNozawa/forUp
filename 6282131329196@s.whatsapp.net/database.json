@@ -2325,7 +2325,7 @@
       "activation": 1748592291180
     },
     "6282291130557@s.whatsapp.net": {
-      "exp": 3121,
+      "exp": 3154,
       "limit": 499,
       "registered": false,
       "name": "RAS STORE",
@@ -2343,7 +2343,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748556696167,
+      "activation": 1748608162186,
       "lastBanned": 0
     },
     "628385825266@s.whatsapp.net": {
@@ -2480,7 +2480,7 @@
       "lastBanned": 0
     },
     "6282313368864@s.whatsapp.net": {
-      "exp": 802,
+      "exp": 804,
       "limit": 499,
       "registered": false,
       "name": "TIXZ STORE",
@@ -2498,7 +2498,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747478408545,
+      "activation": 1748607448293,
       "lastBanned": 0
     },
     "62895400806399@s.whatsapp.net": {
@@ -69524,7 +69524,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748605518337,
+      "backupDB": 1748607447952,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
