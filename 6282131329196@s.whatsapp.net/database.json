@@ -193,7 +193,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 31796,
+      "exp": 31809,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -211,7 +211,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1748718965170,
+      "activation": 1748723134632,
       "lastBanned": 0,
       "lastcommand": 1748677096585,
       "limitprem": 10000,
@@ -14739,8 +14739,8 @@
       "lastBanned": 0
     },
     "6281553476702@s.whatsapp.net": {
-      "exp": 325,
-      "limit": 289,
+      "exp": 349,
+      "limit": 269,
       "registered": false,
       "name": "ナシファ🇯🇵",
       "age": -1,
@@ -14757,7 +14757,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748696669951,
+      "activation": 1748723134234,
       "lastBanned": 0
     },
     "92200549486780@lid": {
@@ -15171,9 +15171,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1748704832985,
+      "activation": 1748723113700,
       "lastBanned": 0,
       "lastcommand": 1748698602588
     },
@@ -39357,7 +39357,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748713373905,
+      "activation": 1748721359817,
       "lastBanned": 0
     },
     "1147309940934@lid": {
@@ -68934,10 +68934,10 @@
       "lastSuccess": 1748525484869
     },
     "downloader-tiktok.js": {
-      "total": 441,
-      "success": 406,
-      "last": 1748706129634,
-      "lastSuccess": 1748706129634
+      "total": 442,
+      "success": 407,
+      "last": 1748723134234,
+      "lastSuccess": 1748723134234
     },
     "owner-pushkontak.js": {
       "total": 3,
@@ -69749,7 +69749,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748718963887,
+      "backupDB": 1748721967388,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
