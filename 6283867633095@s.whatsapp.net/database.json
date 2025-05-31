@@ -2258,7 +2258,7 @@
       "activation": 1743140950163
     },
     "6282131329196@s.whatsapp.net": {
-      "exp": 2573,
+      "exp": 2616,
       "limit": 499,
       "registered": false,
       "name": "buku",
@@ -2276,7 +2276,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748637480639,
+      "activation": 1748670442700,
       "lastBanned": 0,
       "lastcommand": 1748533760673
     },
@@ -2590,7 +2590,7 @@
       "activation": 1743225399960
     },
     "6287750360878@s.whatsapp.net": {
-      "exp": 870,
+      "exp": 876,
       "limit": 499,
       "registered": false,
       "name": "wulan",
@@ -2609,7 +2609,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1748667270939
+      "activation": 1748669896351
     },
     "6282123890775@s.whatsapp.net": {
       "exp": 35,
@@ -56837,7 +56837,7 @@
       "activation": 1748383616045
     },
     "6288989555987@s.whatsapp.net": {
-      "exp": 22,
+      "exp": 24,
       "limit": 499,
       "registered": false,
       "name": "Dindaaa",
@@ -56856,7 +56856,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1748503210980
+      "activation": 1748670145068
     },
     "104221777100906@lid": {
       "exp": 5,
@@ -68805,10 +68805,10 @@
       "lastSuccess": 1748161741361
     },
     "downloader-tiktok.js": {
-      "total": 389,
-      "success": 359,
-      "last": 1748612954902,
-      "lastSuccess": 1748612954902
+      "total": 391,
+      "success": 361,
+      "last": 1748670442649,
+      "lastSuccess": 1748670442649
     },
     "owner-pushkontak.js": {
       "total": 3,
@@ -69626,7 +69626,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748666476484,
+      "backupDB": 1748669895949,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
