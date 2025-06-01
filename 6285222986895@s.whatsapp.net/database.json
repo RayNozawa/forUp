@@ -4289,7 +4289,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1748799460248
+      "activation": 1748801119101
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -90959,8 +90959,8 @@
       "lastBanned": 0
     },
     "6283872905399@s.whatsapp.net": {
-      "exp": 363,
-      "limit": 224,
+      "exp": 397,
+      "limit": 214,
       "registered": false,
       "name": "elis",
       "age": -1,
@@ -90977,7 +90977,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748264185697,
+      "activation": 1748801118939,
       "lastBanned": 0,
       "lastcommand": 1746968973037
     },
@@ -142856,10 +142856,10 @@
       "lastSuccess": 1731247321544
     },
     "tool-getpp.js": {
-      "total": 17,
-      "success": 17,
-      "last": 1743050018633,
-      "lastSuccess": 1743050018633
+      "total": 18,
+      "success": 18,
+      "last": 1748801118939,
+      "lastSuccess": 1748801118939
     },
     "tool-cekresolution.js": {
       "total": 8,
@@ -144788,7 +144788,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748798950128,
+      "backupDB": 1748801115916,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
