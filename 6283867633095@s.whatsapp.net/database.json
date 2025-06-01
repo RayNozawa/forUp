@@ -2258,7 +2258,7 @@
       "activation": 1743140950163
     },
     "6282131329196@s.whatsapp.net": {
-      "exp": 2835,
+      "exp": 2890,
       "limit": 499,
       "registered": false,
       "name": "buku",
@@ -2276,7 +2276,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748714587438,
+      "activation": 1748756635164,
       "lastBanned": 0,
       "lastcommand": 1748533760673
     },
@@ -2325,7 +2325,7 @@
       "activation": 1748741781102
     },
     "6282291130557@s.whatsapp.net": {
-      "exp": 3189,
+      "exp": 3216,
       "limit": 499,
       "registered": false,
       "name": "RAS STORE",
@@ -2343,7 +2343,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748746357552,
+      "activation": 1748757449562,
       "lastBanned": 0
     },
     "628385825266@s.whatsapp.net": {
@@ -58530,6 +58530,29 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1748743171221
+    },
+    "573151726234@s.whatsapp.net": {
+      "exp": 69,
+      "limit": 499,
+      "registered": false,
+      "name": "ikyydevxd",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "lastBanned": 0,
+      "activation": 1748756635157,
+      "lastcommand": 1748756581817
     }
   },
   "chats": {
@@ -68865,6 +68888,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "573151726234@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -68941,10 +68985,10 @@
       "lastSuccess": 1747982759257
     },
     "_main-menu.js": {
-      "total": 143,
-      "success": 140,
-      "last": 1748431948314,
-      "lastSuccess": 1748431948314
+      "total": 145,
+      "success": 142,
+      "last": 1748756600500,
+      "lastSuccess": 1748756600500
     },
     "downloader-play.js": {
       "total": 176,
@@ -68965,10 +69009,10 @@
       "lastSuccess": 1742958518749
     },
     "_main-allmenu.js": {
-      "total": 30,
-      "success": 30,
-      "last": 1748151941731,
-      "lastSuccess": 1748151941731
+      "total": 31,
+      "success": 31,
+      "last": 1748756635157,
+      "lastSuccess": 1748756635157
     },
     "_cek.js": {
       "total": 244,
@@ -68989,10 +69033,10 @@
       "lastSuccess": 1748161741361
     },
     "downloader-tiktok.js": {
-      "total": 398,
-      "success": 368,
-      "last": 1748714549759,
-      "lastSuccess": 1748714549759
+      "total": 400,
+      "success": 370,
+      "last": 1748756510261,
+      "lastSuccess": 1748756510261
     },
     "owner-pushkontak.js": {
       "total": 3,
@@ -69810,7 +69854,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748746357193,
+      "backupDB": 1748756432762,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
