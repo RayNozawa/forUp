@@ -2590,7 +2590,7 @@
       "activation": 1743225399960
     },
     "6287750360878@s.whatsapp.net": {
-      "exp": 953,
+      "exp": 963,
       "limit": 499,
       "registered": false,
       "name": "wulan",
@@ -2609,7 +2609,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1748828311208
+      "activation": 1748850342685
     },
     "6282123890775@s.whatsapp.net": {
       "exp": 35,
@@ -2805,7 +2805,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748847824393,
+      "activation": 1748849865050,
       "lastBanned": 0
     },
     "6283141671011@s.whatsapp.net": {
@@ -58918,6 +58918,26 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "activation": 1748845163335
+    },
+    "263711277215854@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1748850101931
     }
   },
   "chats": {
@@ -70242,7 +70262,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748844166924,
+      "backupDB": 1748850338067,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
