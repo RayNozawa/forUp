@@ -2805,7 +2805,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748838445238,
+      "activation": 1748845583302,
       "lastBanned": 0
     },
     "6283141671011@s.whatsapp.net": {
@@ -58896,6 +58896,28 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1748832683964
+    },
+    "275767183331392@lid": {
+      "exp": 17,
+      "limit": 499,
+      "registered": false,
+      "name": "愛しい人C♣←",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0,
+      "activation": 1748845163335
     }
   },
   "chats": {
@@ -69079,13 +69101,14 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6281389669366@s.whatsapp.net": 354,
-        "6282231056698@s.whatsapp.net": 67,
-        "115315912482842@lid": 56,
-        "209375394296032@lid": 51,
-        "45870552727784@lid": 17,
-        "65181044473974@lid": 5,
-        "137357516886208@lid": 3
+        "6281389669366@s.whatsapp.net": 417,
+        "6282231056698@s.whatsapp.net": 73,
+        "115315912482842@lid": 62,
+        "209375394296032@lid": 57,
+        "45870552727784@lid": 20,
+        "65181044473974@lid": 8,
+        "137357516886208@lid": 6,
+        "275767183331392@lid": 2
       },
       "totalChat": 0
     },
