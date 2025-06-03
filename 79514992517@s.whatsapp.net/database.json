@@ -42991,6 +42991,27 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "activation": 1748917613336
+    },
+    "6288707784782@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "name": "Shalehismael",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1748920144447
     }
   },
   "chats": {
@@ -65437,7 +65458,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748917612280,
+      "backupDB": 1748920143832,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
