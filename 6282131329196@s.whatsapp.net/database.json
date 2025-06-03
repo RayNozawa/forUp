@@ -2258,7 +2258,7 @@
       "activation": 1743140950163
     },
     "6282131329196@s.whatsapp.net": {
-      "exp": 2925,
+      "exp": 2910,
       "limit": 499,
       "registered": false,
       "name": "buku",
@@ -2274,9 +2274,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1748917670421,
+      "activation": 1748869576342,
       "lastBanned": 0,
       "lastcommand": 1748533760673
     },
@@ -2391,7 +2391,7 @@
       "lastBanned": 0
     },
     "6285141661889@s.whatsapp.net": {
-      "exp": 2558,
+      "exp": 2542,
       "limit": 14,
       "registered": false,
       "name": "?",
@@ -2410,7 +2410,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1748917667729,
+      "activation": 1748877485263,
       "lastcommand": 1744796269781
     },
     "6283125871919@s.whatsapp.net": {
@@ -22808,7 +22808,7 @@
       "limit": 499,
       "registered": false,
       "name": "Fakhri",
-       "age": -1,
+      "age": -1,
       "regTime": -1,
       "unreg": false,
       "afk": -1,
@@ -67392,7 +67392,7 @@
         "6285759124972@s.whatsapp.net": 61,
         "6287831771222@s.whatsapp.net": 66,
         "6283153872105@s.whatsapp.net": 837,
-       "6281330762986@s.whatsapp.net": 124,
+        "6281330762986@s.whatsapp.net": 124,
         "6282289643992@s.whatsapp.net": 68,
         "6283139850170@s.whatsapp.net": 38,
         "6285606430994@s.whatsapp.net": 83,
@@ -70343,7 +70343,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748917666977,
+      "backupDB": 1748883942986,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
@@ -70402,4 +70402,4 @@
       "outmygc": true
     }
   }
-}}
+}
