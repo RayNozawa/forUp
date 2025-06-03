@@ -43167,7 +43167,7 @@
       "lastBanned": 0
     },
     "6283892686735@s.whatsapp.net": {
-      "exp": 70,
+      "exp": 78,
       "limit": 499,
       "registered": false,
       "name": "fuji",
@@ -43186,7 +43186,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastcommand": 1748945730557,
-      "activation": 1748954608717,
+      "activation": 1748958950330,
       "lastBanned": 0
     },
     "6285711790201@s.whatsapp.net": {
@@ -43211,7 +43211,7 @@
       "activation": 1748949211292
     },
     "6283107007914@s.whatsapp.net": {
-      "exp": 2,
+      "exp": 8,
       "limit": 499,
       "registered": false,
       "name": "محمد فندي موبرك🙏🏻",
@@ -43229,7 +43229,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748954334858
+      "activation": 1748959271692,
+      "lastBanned": 0
     },
     "6285283526968@s.whatsapp.net": {
       "exp": 38,
@@ -65720,7 +65721,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748956268915,
+      "backupDB": 1748958949051,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
