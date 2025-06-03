@@ -4290,7 +4290,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1748971158408
+      "activation": 1748973656085
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -90705,8 +90705,8 @@
       "lastcommand": 1743881806337
     },
     "6283899585665@s.whatsapp.net": {
-      "exp": 61324,
-      "limit": 389,
+      "exp": 91464,
+      "limit": 669,
       "registered": false,
       "name": "ㅤㅤ",
       "age": -1,
@@ -90719,13 +90719,13 @@
       "role": "Beginner",
       "BannedReason": "",
       "WarnReason": "",
-      "lastweekly": 1747044660915,
+      "lastweekly": 1748973641169,
       "lastmonthly": 1747044660915,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1748919567201,
+      "activation": 1748973701649,
       "lastBanned": 0,
-      "lastdaily": 1747044660915
+      "lastdaily": 1748973641169
     },
     "102400677429250_1@s.whatsapp.net": {
       "exp": 0,
@@ -143154,10 +143154,10 @@
       "lastSuccess": 1748955973489
     },
     "downloader-tiktok.js": {
-      "total": 3911,
-      "success": 3589,
-      "last": 1748964396341,
-      "lastSuccess": 1748964396341
+      "total": 3912,
+      "success": 3590,
+      "last": 1748973611770,
+      "lastSuccess": 1748973611770
     },
     "owner-sf.js": {
       "total": 1266,
@@ -145494,10 +145494,10 @@
       "lastSuccess": 1747473733841
     },
     "havefun-claim.js": {
-      "total": 876,
-      "success": 863,
-      "last": 1748963332401,
-      "lastSuccess": 1748963332401
+      "total": 879,
+      "success": 866,
+      "last": 1748973655643,
+      "lastSuccess": 1748973655643
     },
     "user-limit.js": {
       "total": 187,
@@ -146298,7 +146298,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748971320538,
+      "backupDB": 1748973606886,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
