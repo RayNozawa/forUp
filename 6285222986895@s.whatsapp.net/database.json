@@ -4290,7 +4290,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1748966367656
+      "activation": 1748971158408
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -90881,7 +90881,7 @@
       "premiumTime": 0
     },
     "62881022366285@s.whatsapp.net": {
-      "exp": 287,
+      "exp": 288,
       "limit": 254,
       "registered": false,
       "name": "entah",
@@ -90899,7 +90899,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748849322724,
+      "activation": 1748967576969,
       "lastBanned": 0
     },
     "101520813097048_1@s.whatsapp.net": {
@@ -108763,8 +108763,8 @@
       "activation": 1747568945820
     },
     "628811409028@s.whatsapp.net": {
-      "exp": 123007,
-      "limit": 1474,
+      "exp": 123061,
+      "limit": 1464,
       "registered": false,
       "name": "zaki",
       "age": -1,
@@ -108781,7 +108781,7 @@
       "lastmonthly": 1747922205257,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748965343646,
+      "activation": 1748968070541,
       "lastBanned": 0,
       "lastdaily": 1748963332400
     },
@@ -122383,7 +122383,7 @@
         "6285642437295@s.whatsapp.net": 41,
         "6281535257105@s.whatsapp.net": 3972,
         "6289681757750@s.whatsapp.net": 82,
-        "62881027976371@s.whatsapp.net": 721,
+        "62881027976371@s.whatsapp.net": 723,
         "6285210267559@s.whatsapp.net": 223,
         "6289523149696@s.whatsapp.net": 1069,
         "6282353273766@s.whatsapp.net": 102,
@@ -122394,14 +122394,14 @@
         "6288989047858@s.whatsapp.net": 487,
         "62895343082236@s.whatsapp.net": 7,
         "6285895408807@s.whatsapp.net": 73,
-        "62895351570590@s.whatsapp.net": 3474,
+        "62895351570590@s.whatsapp.net": 3480,
         "6285967218093@s.whatsapp.net": 19,
         "6283894174246@s.whatsapp.net": 183,
         "6281548546264@s.whatsapp.net": 842,
         "6282320629134@s.whatsapp.net": 153,
         "6287727066033@s.whatsapp.net": 102,
         "6283899585665@s.whatsapp.net": 36,
-        "6287712848943@s.whatsapp.net": 64523,
+        "6287712848943@s.whatsapp.net": 64527,
         "6289699656185@s.whatsapp.net": 93,
         "6282124230116@s.whatsapp.net": 36,
         "6282328146799@s.whatsapp.net": 5,
@@ -122560,7 +122560,7 @@
         "6282375887651@s.whatsapp.net": 109,
         "6283143158102@s.whatsapp.net": 664,
         "628172345241@s.whatsapp.net": 936,
-        "6283160841561@s.whatsapp.net": 1450,
+        "6283160841561@s.whatsapp.net": 1452,
         "6282178514092@s.whatsapp.net": 39,
         "62895369753050@s.whatsapp.net": 27,
         "6285148382918@s.whatsapp.net": 285,
@@ -122580,7 +122580,7 @@
         "6282140003958@s.whatsapp.net": 6642,
         "6285816061997@s.whatsapp.net": 105,
         "6281216279240@s.whatsapp.net": 246,
-        "628811409028@s.whatsapp.net": 1252,
+        "628811409028@s.whatsapp.net": 1261,
         "6289508891766@s.whatsapp.net": 134,
         "6285854357953@s.whatsapp.net": 25,
         "6281527222179@s.whatsapp.net": 149,
@@ -122650,7 +122650,7 @@
         "6285705117652@s.whatsapp.net": 25,
         "6283822705573@s.whatsapp.net": 44,
         "6282125580320@s.whatsapp.net": 280,
-        "6285198608781@s.whatsapp.net": 29,
+        "6285198608781@s.whatsapp.net": 31,
         "62895365151506@s.whatsapp.net": 35,
         "6282385172919@s.whatsapp.net": 121
       },
@@ -144052,10 +144052,10 @@
       "lastSuccess": 1748927530229
     },
     "sticker-all.js": {
-      "total": 3005,
-      "success": 2919,
-      "last": 1748965343646,
-      "lastSuccess": 1748965343646
+      "total": 3007,
+      "success": 2921,
+      "last": 1748968070541,
+      "lastSuccess": 1748968070541
     },
     "game-nebang.js": {
       "total": 172,
@@ -146278,7 +146278,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748965322918,
+      "backupDB": 1748967521984,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
