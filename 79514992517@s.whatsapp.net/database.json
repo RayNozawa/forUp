@@ -43012,6 +43012,28 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1748920144447
+    },
+    "6289606070601@s.whatsapp.net": {
+      "exp": 58,
+      "limit": 499,
+      "registered": false,
+      "name": "Jang hab",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0,
+      "activation": 1748927418310
     }
   },
   "chats": {
@@ -64077,17 +64099,17 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6281382270497@s.whatsapp.net": 3,
-        "6283876030066@s.whatsapp.net": 2,
-        "6285781168629@s.whatsapp.net": 8,
-        "6289606070601@s.whatsapp.net": 8,
-        "6285891572708@s.whatsapp.net": 2,
-        "6281325379978@s.whatsapp.net": 8,
-        "628172345241@s.whatsapp.net": 3,
-        "6285624095451@s.whatsapp.net": 4,
-        "6283198315136@s.whatsapp.net": 7,
-        "6285711790201@s.whatsapp.net": 2,
-        "6282317136496@s.whatsapp.net": 2
+        "6281382270497@s.whatsapp.net": 19,
+        "6283876030066@s.whatsapp.net": 10,
+        "6285781168629@s.whatsapp.net": 64,
+        "6289606070601@s.whatsapp.net": 64,
+        "6285891572708@s.whatsapp.net": 10,
+        "6281325379978@s.whatsapp.net": 64,
+        "628172345241@s.whatsapp.net": 19,
+        "6285624095451@s.whatsapp.net": 28,
+        "6283198315136@s.whatsapp.net": 55,
+        "6285711790201@s.whatsapp.net": 10,
+        "6282317136496@s.whatsapp.net": 10
       },
       "totalChat": 0
     }
@@ -65458,7 +65480,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748920143832,
+      "backupDB": 1748927397950,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
