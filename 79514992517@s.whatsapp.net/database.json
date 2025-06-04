@@ -33479,7 +33479,7 @@
       "activation": 1747478551426
     },
     "79514992517@s.whatsapp.net": {
-      "exp": 111,
+      "exp": 112,
       "limit": 499,
       "registered": false,
       "name": "Радомир Тимофей Гавриил",
@@ -33497,7 +33497,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1749065715405,
+      "activation": 1749068585574,
       "lastBanned": 0,
       "lastcommand": 1749045133397
     },
@@ -43126,7 +43126,7 @@
       "lastBanned": 0
     },
     "628172345241@s.whatsapp.net": {
-      "exp": 38,
+      "exp": 77,
       "limit": 499,
       "registered": false,
       "name": "السيّد محمّد بن عمر بن عبد الرّحمن البحر",
@@ -43144,7 +43144,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1749040382925,
+      "activation": 1749068462966,
       "lastBanned": 0
     },
     "6287886822978@s.whatsapp.net": {
@@ -64746,6 +64746,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "628172345241@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -64936,9 +64957,9 @@
       "lastSuccess": 1744344974777
     },
     "downloader-instagram.js": {
-      "total": 28,
+      "total": 29,
       "success": 26,
-      "last": 1746350653006,
+      "last": 1749068447909,
       "lastSuccess": 1746350653006
     },
     "sticker-wm.js": {
@@ -66114,7 +66135,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1749056775429,
+      "backupDB": 1749066711524,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
