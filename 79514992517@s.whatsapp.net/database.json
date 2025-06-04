@@ -228,7 +228,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 5391,
+      "exp": 5432,
       "limit": 499,
       "registered": false,
       "name": "Rayhan🍟",
@@ -244,11 +244,11 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1748004288640,
-      "activation": 1748335067569
+      "lastcommand": 1749003381547,
+      "activation": 1749003383663
     },
     "6289502647352@s.whatsapp.net": {
       "exp": 824,
@@ -33497,7 +33497,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748963262591,
+      "activation": 1749003383861,
       "lastBanned": 0
     },
     "67568945614876@lid": {
@@ -43212,7 +43212,7 @@
       "activation": 1748949211292
     },
     "6283107007914@s.whatsapp.net": {
-      "exp": 8,
+      "exp": 10,
       "limit": 499,
       "registered": false,
       "name": "محمد فندي موبرك🙏🏻",
@@ -43230,7 +43230,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748959271692,
+      "activation": 1749002940252,
       "lastBanned": 0
     },
     "6285283526968@s.whatsapp.net": {
@@ -64424,10 +64424,10 @@
   },
   "stats": {
     "_main-menu.js": {
-      "total": 322,
-      "success": 316,
-      "last": 1748874941020,
-      "lastSuccess": 1748874941020
+      "total": 323,
+      "success": 317,
+      "last": 1749003383663,
+      "lastSuccess": 1749003383663
     },
     "info-ping.js": {
       "total": 105,
@@ -64472,9 +64472,9 @@
       "lastSuccess": 1748869147793
     },
     "_cek.js": {
-      "total": 5428,
+      "total": 5429,
       "success": 4939,
-      "last": 1748869520528,
+      "last": 1749003284241,
       "lastSuccess": 1748869520528
     },
     "vn-gamau.js": {
@@ -65788,7 +65788,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1748975405165,
+      "backupDB": 1749002939902,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
