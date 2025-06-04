@@ -2680,7 +2680,7 @@
       "lastcommand": 1744786219777
     },
     "6281232937502@s.whatsapp.net": {
-      "exp": 316,
+      "exp": 323,
       "limit": 499,
       "registered": false,
       "name": "Ram  Azym Z",
@@ -2699,7 +2699,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1748695735664
+      "activation": 1749040994583
     },
     "6287777089644@s.whatsapp.net": {
       "exp": 7,
@@ -2806,7 +2806,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1749037036959,
+      "activation": 1749039953587,
       "lastBanned": 0
     },
     "6283141671011@s.whatsapp.net": {
@@ -70425,7 +70425,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1749028952789,
+      "backupDB": 1749040994330,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
