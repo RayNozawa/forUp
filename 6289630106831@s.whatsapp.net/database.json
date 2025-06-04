@@ -33479,7 +33479,7 @@
       "activation": 1747478551426
     },
     "79514992517@s.whatsapp.net": {
-      "exp": 110,
+      "exp": 112,
       "limit": 499,
       "registered": false,
       "name": "Радомир Тимофей Гавриил",
@@ -33495,9 +33495,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1749046353630,
+      "activation": 1749068585574,
       "lastBanned": 0,
       "lastcommand": 1749045133397
     },
@@ -42995,7 +42995,7 @@
       "lastcommand": 1748933279821
     },
     "6288707784782@s.whatsapp.net": {
-      "exp": 180,
+      "exp": 186,
       "limit": 499,
       "registered": false,
       "name": "Shalehismael",
@@ -43013,7 +43013,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1749029816271,
+      "activation": 1749056775789,
       "lastBanned": 0
     },
     "6289606070601@s.whatsapp.net": {
@@ -43126,7 +43126,7 @@
       "lastBanned": 0
     },
     "628172345241@s.whatsapp.net": {
-      "exp": 38,
+      "exp": 77,
       "limit": 499,
       "registered": false,
       "name": "السيّد محمّد بن عمر بن عبد الرّحمن البحر",
@@ -43144,11 +43144,11 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1749040382925,
+      "activation": 1749068462966,
       "lastBanned": 0
     },
     "6287886822978@s.whatsapp.net": {
-      "exp": 38,
+      "exp": 45,
       "limit": 499,
       "registered": false,
       "name": "Muhammad bisri",
@@ -43166,7 +43166,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1749040875745,
+      "activation": 1749057938110,
       "lastBanned": 0
     },
     "6283892686735@s.whatsapp.net": {
@@ -43193,7 +43193,7 @@
       "lastBanned": 0
     },
     "6285711790201@s.whatsapp.net": {
-      "exp": 43,
+      "exp": 47,
       "limit": 499,
       "registered": false,
       "name": "ahas",
@@ -43211,7 +43211,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1749041685374,
+      "activation": 1749054597044,
       "lastBanned": 0
     },
     "6283107007914@s.whatsapp.net": {
@@ -43259,7 +43259,7 @@
       "activation": 1749017687630
     },
     "6283897395004@s.whatsapp.net": {
-      "exp": 27,
+      "exp": 36,
       "limit": 499,
       "registered": false,
       "name": "Ahmad Jailani Al Bisri",
@@ -43277,7 +43277,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1749040823636,
+      "activation": 1749057964203,
       "lastBanned": 0
     },
     "6285779599973@s.whatsapp.net": {
@@ -64581,22 +64581,22 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6281382270497@s.whatsapp.net": 256,
-        "6283876030066@s.whatsapp.net": 272,
+        "6281382270497@s.whatsapp.net": 259,
+        "6283876030066@s.whatsapp.net": 276,
         "6285781168629@s.whatsapp.net": 390,
         "6289606070601@s.whatsapp.net": 442,
         "6285891572708@s.whatsapp.net": 39,
-        "6281325379978@s.whatsapp.net": 293,
+        "6281325379978@s.whatsapp.net": 294,
         "628172345241@s.whatsapp.net": 148,
-        "6285624095451@s.whatsapp.net": 188,
+        "6285624095451@s.whatsapp.net": 189,
         "6283198315136@s.whatsapp.net": 219,
-        "6285711790201@s.whatsapp.net": 147,
+        "6285711790201@s.whatsapp.net": 148,
         "6282317136496@s.whatsapp.net": 54,
         "6285283526968@s.whatsapp.net": 314,
-        "6285779599973@s.whatsapp.net": 137,
-        "6285782775306@s.whatsapp.net": 107,
+        "6285779599973@s.whatsapp.net": 143,
+        "6285782775306@s.whatsapp.net": 109,
         "6285213518136@s.whatsapp.net": 81,
-        "6285892858934@s.whatsapp.net": 223
+        "6285892858934@s.whatsapp.net": 225
       },
       "totalChat": 0
     },
@@ -64727,6 +64727,27 @@
       "expired": 0
     },
     "6283152121516@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
+    },
+    "628172345241@s.whatsapp.net": {
       "isBanned": false,
       "welcome": true,
       "detect": true,
@@ -64936,9 +64957,9 @@
       "lastSuccess": 1744344974777
     },
     "downloader-instagram.js": {
-      "total": 28,
+      "total": 29,
       "success": 26,
-      "last": 1746350653006,
+      "last": 1749068447909,
       "lastSuccess": 1746350653006
     },
     "sticker-wm.js": {
@@ -66114,7 +66135,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1749052638041,
+      "backupDB": 1749066711524,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
