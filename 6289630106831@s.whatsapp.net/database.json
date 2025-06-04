@@ -43191,7 +43191,7 @@
       "lastBanned": 0
     },
     "6285711790201@s.whatsapp.net": {
-      "exp": 31,
+      "exp": 33,
       "limit": 499,
       "registered": false,
       "name": "ahas",
@@ -43209,7 +43209,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1749007075182,
+      "activation": 1749007352006,
       "lastBanned": 0
     },
     "6283107007914@s.whatsapp.net": {
@@ -43279,7 +43279,7 @@
       "lastBanned": 0
     },
     "6285779599973@s.whatsapp.net": {
-      "exp": 9,
+      "exp": 15,
       "limit": 499,
       "registered": false,
       "name": "6285779599973",
@@ -43298,7 +43298,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1748975739333
+      "activation": 1749007464171
     }
   },
   "chats": {
@@ -64366,17 +64366,17 @@
       "total": {
         "6281382270497@s.whatsapp.net": 39,
         "6283876030066@s.whatsapp.net": 20,
-        "6285781168629@s.whatsapp.net": 203,
+        "6285781168629@s.whatsapp.net": 213,
         "6289606070601@s.whatsapp.net": 155,
         "6285891572708@s.whatsapp.net": 39,
         "6281325379978@s.whatsapp.net": 219,
         "628172345241@s.whatsapp.net": 39,
         "6285624095451@s.whatsapp.net": 58,
         "6283198315136@s.whatsapp.net": 183,
-        "6285711790201@s.whatsapp.net": 38,
+        "6285711790201@s.whatsapp.net": 46,
         "6282317136496@s.whatsapp.net": 37,
         "6285283526968@s.whatsapp.net": 61,
-        "6285779599973@s.whatsapp.net": 4
+        "6285779599973@s.whatsapp.net": 5
       },
       "totalChat": 0
     },
