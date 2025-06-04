@@ -43125,7 +43125,7 @@
       "lastBanned": 0
     },
     "628172345241@s.whatsapp.net": {
-      "exp": 37,
+      "exp": 38,
       "limit": 499,
       "registered": false,
       "name": "السيّد محمّد بن عمر بن عبد الرّحمن البحر",
@@ -43143,11 +43143,11 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1749038757430,
+      "activation": 1749040382925,
       "lastBanned": 0
     },
     "6287886822978@s.whatsapp.net": {
-      "exp": 29,
+      "exp": 38,
       "limit": 499,
       "registered": false,
       "name": "Muhammad bisri",
@@ -43165,7 +43165,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1748975412479,
+      "activation": 1749040875745,
       "lastBanned": 0
     },
     "6283892686735@s.whatsapp.net": {
@@ -43208,13 +43208,13 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "activation": 1749007352006,
       "lastBanned": 0
     },
     "6283107007914@s.whatsapp.net": {
-      "exp": 10,
+      "exp": 18,
       "limit": 499,
       "registered": false,
       "name": "محمد فندي موبرك🙏🏻",
@@ -43232,7 +43232,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1749002940252,
+      "activation": 1749041540787,
       "lastBanned": 0
     },
     "6285283526968@s.whatsapp.net": {
@@ -43258,7 +43258,7 @@
       "activation": 1749017687630
     },
     "6283897395004@s.whatsapp.net": {
-      "exp": 21,
+      "exp": 27,
       "limit": 499,
       "registered": false,
       "name": "Ahmad Jailani Al Bisri",
@@ -43276,7 +43276,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1749009394215,
+      "activation": 1749040823636,
       "lastBanned": 0
     },
     "6285779599973@s.whatsapp.net": {
@@ -43345,7 +43345,7 @@
       "activation": 1749019759978
     },
     "6285624095451@s.whatsapp.net": {
-      "exp": 21,
+      "exp": 22,
       "limit": 499,
       "registered": false,
       "name": "ricki",
@@ -43363,7 +43363,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1749037044143,
+      "activation": 1749039833596,
       "lastBanned": 0
     },
     "6285213518136@s.whatsapp.net": {
@@ -64538,22 +64538,22 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6281382270497@s.whatsapp.net": 151,
-        "6283876030066@s.whatsapp.net": 189,
+        "6281382270497@s.whatsapp.net": 154,
+        "6283876030066@s.whatsapp.net": 193,
         "6285781168629@s.whatsapp.net": 390,
-        "6289606070601@s.whatsapp.net": 378,
+        "6289606070601@s.whatsapp.net": 382,
         "6285891572708@s.whatsapp.net": 39,
         "6281325379978@s.whatsapp.net": 258,
-        "628172345241@s.whatsapp.net": 84,
-        "6285624095451@s.whatsapp.net": 156,
-        "6283198315136@s.whatsapp.net": 187,
+        "628172345241@s.whatsapp.net": 88,
+        "6285624095451@s.whatsapp.net": 157,
+        "6283198315136@s.whatsapp.net": 189,
         "6285711790201@s.whatsapp.net": 118,
-        "6282317136496@s.whatsapp.net": 38,
+        "6282317136496@s.whatsapp.net": 39,
         "6285283526968@s.whatsapp.net": 314,
         "6285779599973@s.whatsapp.net": 23,
         "6285782775306@s.whatsapp.net": 75,
-        "6285213518136@s.whatsapp.net": 65,
-        "6285892858934@s.whatsapp.net": 137
+        "6285213518136@s.whatsapp.net": 66,
+        "6285892858934@s.whatsapp.net": 140
       },
       "totalChat": 0
     },
@@ -66008,7 +66008,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1749037852670,
+      "backupDB": 1749039833339,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
