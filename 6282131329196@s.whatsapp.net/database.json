@@ -2325,7 +2325,7 @@
       "activation": 1748858580307
     },
     "6282291130557@s.whatsapp.net": {
-      "exp": 3270,
+      "exp": 3271,
       "limit": 499,
       "registered": false,
       "name": "RAS STORE",
@@ -2341,9 +2341,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1749017593695,
+      "activation": 1749053735167,
       "lastBanned": 0
     },
     "628385825266@s.whatsapp.net": {
@@ -3828,7 +3828,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1749041919053,
+      "activation": 1749060790407,
       "lastBanned": 0
     },
     "6283129349181@s.whatsapp.net": {
@@ -9672,7 +9672,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1748872391934,
+      "activation": 1749057372362,
       "lastBanned": 0
     },
     "6287888027184@s.whatsapp.net": {
@@ -10547,7 +10547,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1749034547794,
+      "activation": 1749059689627,
       "lastBanned": 0
     },
     "6287759659947@s.whatsapp.net": {
@@ -59163,6 +59163,66 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1749044827233
+    },
+    "7052688629862@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1749054929382
+    },
+    "158115228037122@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1749056791714
+    },
+    "123128357384313@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1749059807846
     }
   },
   "chats": {
@@ -70487,7 +70547,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1749046020611,
+      "backupDB": 1749053734924,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
