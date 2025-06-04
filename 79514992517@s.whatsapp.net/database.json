@@ -43343,7 +43343,7 @@
       "activation": 1749019759978
     },
     "6285624095451@s.whatsapp.net": {
-      "exp": 8,
+      "exp": 16,
       "limit": 499,
       "registered": false,
       "name": "ricki",
@@ -43361,7 +43361,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1749020635617
+      "activation": 1749033870641,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -64427,20 +64428,20 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6281382270497@s.whatsapp.net": 40,
+        "6281382270497@s.whatsapp.net": 41,
         "6283876030066@s.whatsapp.net": 20,
-        "6285781168629@s.whatsapp.net": 333,
-        "6289606070601@s.whatsapp.net": 163,
+        "6285781168629@s.whatsapp.net": 342,
+        "6289606070601@s.whatsapp.net": 165,
         "6285891572708@s.whatsapp.net": 39,
-        "6281325379978@s.whatsapp.net": 225,
+        "6281325379978@s.whatsapp.net": 226,
         "628172345241@s.whatsapp.net": 39,
-        "6285624095451@s.whatsapp.net": 60,
+        "6285624095451@s.whatsapp.net": 62,
         "6283198315136@s.whatsapp.net": 183,
-        "6285711790201@s.whatsapp.net": 106,
+        "6285711790201@s.whatsapp.net": 110,
         "6282317136496@s.whatsapp.net": 37,
-        "6285283526968@s.whatsapp.net": 233,
-        "6285779599973@s.whatsapp.net": 20,
-        "6285782775306@s.whatsapp.net": 13
+        "6285283526968@s.whatsapp.net": 250,
+        "6285779599973@s.whatsapp.net": 21,
+        "6285782775306@s.whatsapp.net": 14
       },
       "totalChat": 0
     },
@@ -65895,7 +65896,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1749029657024,
+      "backupDB": 1749033865858,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
