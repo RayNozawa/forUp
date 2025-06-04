@@ -720,8 +720,8 @@
       "lastBanned": 0
     },
     "919366665173@s.whatsapp.net": {
-      "exp": 378058,
-      "limit": 2434,
+      "exp": 378099,
+      "limit": 2409,
       "registered": false,
       "name": "debjit.",
       "age": -1,
@@ -736,12 +736,12 @@
       "WarnReason": "",
       "lastweekly": 1748441508731,
       "lastmonthly": 1748441508731,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastdaily": 1748934320870,
       "lastcommand": 1748669862689,
-      "activation": 1749064174738
+      "activation": 1749064349235
     },
     "83176873562302_1@s.whatsapp.net": {
       "exp": 9,
@@ -4291,7 +4291,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1749061331503
+      "activation": 1749064349244
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -143992,10 +143992,10 @@
       "lastSuccess": 1735826605203
     },
     "ai-remini.js": {
-      "total": 2178,
-      "success": 2063,
-      "last": 1749060385457,
-      "lastSuccess": 1749060385457
+      "total": 2179,
+      "success": 2064,
+      "last": 1749064349235,
+      "lastSuccess": 1749064349235
     },
     "game-tebakbendera.js": {
       "total": 482,
@@ -146992,7 +146992,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1749059951882,
+      "backupDB": 1749064318324,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
