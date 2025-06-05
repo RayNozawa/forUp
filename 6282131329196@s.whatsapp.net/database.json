@@ -193,7 +193,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 30522,
+      "exp": 30609,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -211,14 +211,14 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1749089104236,
+      "activation": 1749091427692,
       "lastBanned": 0,
       "lastcommand": 1749038882801,
       "limitprem": 10000,
       "warn": 1
     },
     "6282119131127@s.whatsapp.net": {
-      "exp": 516,
+      "exp": 518,
       "limit": 414,
       "registered": false,
       "name": "kii apokalip",
@@ -236,7 +236,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1749019740485,
+      "activation": 1749089543465,
       "lastBanned": 0,
       "lastcommand": 1742571549347
     },
@@ -1024,7 +1024,7 @@
       "lastBanned": 0
     },
     "6289636027771@s.whatsapp.net": {
-      "exp": 819,
+      "exp": 821,
       "limit": 499,
       "registered": false,
       "name": "@ZAriel_SiDoel",
@@ -1043,7 +1043,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1749082635810,
+      "activation": 1749090196142,
       "lastcommand": 1742807553655
     },
     "6285574670469@s.whatsapp.net": {
@@ -4529,7 +4529,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1749072021057,
+      "activation": 1749090965558,
       "lastBanned": 0
     },
     "6287749048860@s.whatsapp.net": {
@@ -71995,7 +71995,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1749087313467,
+      "backupDB": 1749091427339,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
