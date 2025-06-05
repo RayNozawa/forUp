@@ -556,7 +556,7 @@
       "lastrob": 1730711453293
     },
     "628568162468@s.whatsapp.net": {
-      "exp": 62242,
+      "exp": 62260,
       "limit": 534,
       "registered": false,
       "name": "Mechanisiertes Bataillon",
@@ -579,7 +579,7 @@
       "lastcommand": 1748779529151,
       "lastwork": 1735989915958,
       "lastrob": 1747205234378,
-      "activation": 1749085240447
+      "activation": 1749122529144
     },
     "6289660958090@s.whatsapp.net": {
       "exp": 391,
@@ -4291,7 +4291,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1749121634858
+      "activation": 1749123868094
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -98625,8 +98625,8 @@
       "lastBanned": 0
     },
     "628999684800@s.whatsapp.net": {
-      "exp": 60795,
-      "limit": 569,
+      "exp": 60828,
+      "limit": 549,
       "registered": false,
       "name": "Ilyas Wilian",
       "age": -1,
@@ -98643,7 +98643,7 @@
       "lastmonthly": 1749115264881,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1749115330465,
+      "activation": 1749123868804,
       "lastBanned": 0,
       "lastcommand": 1746263027769,
       "lastdaily": 1749115264881
@@ -123657,7 +123657,7 @@
         "6282179477450@s.whatsapp.net": 368,
         "6288225432435@s.whatsapp.net": 1826,
         "6281258193521@s.whatsapp.net": 30,
-        "6285766064200@s.whatsapp.net": 3340,
+        "6285766064200@s.whatsapp.net": 3341,
         "6282143175110@s.whatsapp.net": 446,
         "6289660958090@s.whatsapp.net": 68,
         "6285822798934@s.whatsapp.net": 250,
@@ -123669,7 +123669,7 @@
         "6285754680615@s.whatsapp.net": 9,
         "6289520939011@s.whatsapp.net": 743,
         "6283119901412@s.whatsapp.net": 106,
-        "628568162468@s.whatsapp.net": 6451,
+        "628568162468@s.whatsapp.net": 6452,
         "628388996801@s.whatsapp.net": 137,
         "6283848826211@s.whatsapp.net": 21,
         "6283117118901@s.whatsapp.net": 900,
@@ -123823,7 +123823,7 @@
         "62895328705116@s.whatsapp.net": 42,
         "62859159928472@s.whatsapp.net": 174,
         "6285797226703@s.whatsapp.net": 118,
-        "6285232605769@s.whatsapp.net": 1095,
+        "6285232605769@s.whatsapp.net": 1096,
         "6285865020191@s.whatsapp.net": 971,
         "6287810709618@s.whatsapp.net": 175,
         "6288226561349@s.whatsapp.net": 70,
@@ -123840,7 +123840,7 @@
         "6289502947770@s.whatsapp.net": 1506,
         "62895352917598@s.whatsapp.net": 1044,
         "6289531047553@s.whatsapp.net": 301,
-        "6285711200561@s.whatsapp.net": 119,
+        "6285711200561@s.whatsapp.net": 125,
         "6282132477347@s.whatsapp.net": 11,
         "6285814813459@s.whatsapp.net": 178,
         "6285864116431@s.whatsapp.net": 154,
@@ -123899,7 +123899,7 @@
         "6285175112007@s.whatsapp.net": 10,
         "6282118998230@s.whatsapp.net": 162,
         "6283160175197@s.whatsapp.net": 79,
-        "6283899972294@s.whatsapp.net": 1383,
+        "6283899972294@s.whatsapp.net": 1384,
         "6285714531363@s.whatsapp.net": 11,
         "6288901822337@s.whatsapp.net": 25,
         "6282298154484@s.whatsapp.net": 23,
@@ -123979,7 +123979,7 @@
         "62815217969028@s.whatsapp.net": 31,
         "62856081769933@s.whatsapp.net": 29,
         "62857725628521@s.whatsapp.net": 24,
-        "6287712848943@s.whatsapp.net": 6617,
+        "6287712848943@s.whatsapp.net": 6618,
         "6289523149696@s.whatsapp.net": 64,
         "628388060644@s.whatsapp.net": 60,
         "6283879801596@s.whatsapp.net": 2664,
@@ -124000,7 +124000,7 @@
         "6287838107511@s.whatsapp.net": 2,
         "6287838107456@s.whatsapp.net": 1,
         "6285664615159@s.whatsapp.net": 236,
-        "6283871157502@s.whatsapp.net": 644,
+        "6283871157502@s.whatsapp.net": 647,
         "62881010860124@s.whatsapp.net": 75,
         "6288294411864@s.whatsapp.net": 162,
         "6281524784473@s.whatsapp.net": 32,
@@ -124010,8 +124010,8 @@
         "6285971132122@s.whatsapp.net": 101,
         "6282225074171@s.whatsapp.net": 18,
         "6288247205899@s.whatsapp.net": 14,
-        "6288971815805@s.whatsapp.net": 77,
-        "6285720631989@s.whatsapp.net": 11
+        "6288971815805@s.whatsapp.net": 78,
+        "6285720631989@s.whatsapp.net": 12
       },
       "totalChat": 0,
       "acc": false,
@@ -144100,10 +144100,10 @@
       "lastSuccess": 1749019095859
     },
     "downloader-tiktok.js": {
-      "total": 3946,
-      "success": 3623,
-      "last": 1749115733875,
-      "lastSuccess": 1749115733875
+      "total": 3947,
+      "success": 3624,
+      "last": 1749123867923,
+      "lastSuccess": 1749123867923
     },
     "owner-sf.js": {
       "total": 1266,
@@ -144124,10 +144124,10 @@
       "lastSuccess": 1743830539353
     },
     "sticker-sticker.js": {
-      "total": 1584,
-      "success": 1410,
-      "last": 1749121634342,
-      "lastSuccess": 1749121634342
+      "total": 1585,
+      "success": 1411,
+      "last": 1749122529144,
+      "lastSuccess": 1749122529144
     },
     "sticker-toimg.js": {
       "total": 202,
@@ -147244,7 +147244,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1749120372532,
+      "backupDB": 1749122525734,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
