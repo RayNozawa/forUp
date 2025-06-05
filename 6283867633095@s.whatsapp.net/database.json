@@ -2702,7 +2702,7 @@
       "activation": 1749040994583
     },
     "6287777089644@s.whatsapp.net": {
-      "exp": 7,
+      "exp": 26,
       "limit": 499,
       "registered": false,
       "name": "+62 877-7708-9644",
@@ -2720,7 +2720,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1743349110090
+      "activation": 1749118140757,
+      "lastBanned": 0
     },
     "6283854695502@s.whatsapp.net": {
       "exp": 31,
