@@ -43148,7 +43148,7 @@
       "lastBanned": 0
     },
     "6287886822978@s.whatsapp.net": {
-      "exp": 60,
+      "exp": 70,
       "limit": 499,
       "registered": false,
       "name": "Muhammad bisri",
@@ -43166,7 +43166,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1749103382349,
+      "activation": 1749108190948,
       "lastBanned": 0
     },
     "6283892686735@s.whatsapp.net": {
@@ -66418,7 +66418,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1749105148284,
+      "backupDB": 1749108190718,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
