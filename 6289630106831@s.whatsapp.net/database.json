@@ -33497,7 +33497,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1749099421120,
+      "activation": 1749101743093,
       "lastBanned": 0,
       "lastcommand": 1749045133397
     },
@@ -43749,6 +43749,27 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1749095182101
+    },
+    "62895421423728@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 895-4214-23728",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1749101741185
     }
   },
   "chats": {
