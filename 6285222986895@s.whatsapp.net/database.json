@@ -23,8 +23,8 @@
       "lastcommand": 1734776447553
     },
     "6281360727093@s.whatsapp.net": {
-      "exp": 61191,
-      "limit": 344,
+      "exp": 61214,
+      "limit": 324,
       "registered": false,
       "name": "juan",
       "age": -1,
@@ -42,7 +42,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1749135484291,
+      "activation": 1749139365136,
       "lastdaily": 1746412631727
     },
     "6285786829931@s.whatsapp.net": {
@@ -4291,7 +4291,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731323010103,
-      "activation": 1749138709836
+      "activation": 1749140413977
     },
     "6282223563313@s.whatsapp.net": {
       "exp": 10,
@@ -123002,6 +123002,48 @@
       "premiumTime": 0,
       "activation": 1749137215151,
       "lastBanned": 0
+    },
+    "6289525803904@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 895-2580-3904",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1749140412951,
+      "lastBanned": 0
+    },
+    "184920454488267@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1749140413534
     }
   },
   "chats": {
@@ -144166,10 +144208,10 @@
       "lastSuccess": 1749126437759
     },
     "downloader-tiktok.js": {
-      "total": 3950,
-      "success": 3626,
-      "last": 1749135484291,
-      "lastSuccess": 1749135484291
+      "total": 3951,
+      "success": 3627,
+      "last": 1749139365136,
+      "lastSuccess": 1749139365136
     },
     "owner-sf.js": {
       "total": 1266,
@@ -147310,7 +147352,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1749137017110,
+      "backupDB": 1749139359490,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
