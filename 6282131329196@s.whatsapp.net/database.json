@@ -193,7 +193,7 @@
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 30468,
+      "exp": 30522,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -211,7 +211,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1749084335495,
+      "activation": 1749089104236,
       "lastBanned": 0,
       "lastcommand": 1749038882801,
       "limitprem": 10000,
@@ -13533,7 +13533,7 @@
       "lastBanned": 0
     },
     "6283890971836@s.whatsapp.net": {
-      "exp": 75,
+      "exp": 82,
       "limit": 499,
       "registered": false,
       "name": "s",
@@ -13551,7 +13551,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1747927539346,
+      "activation": 1749087678353,
       "lastBanned": 0
     },
     "62895347108800@s.whatsapp.net": {
@@ -15509,7 +15509,7 @@
       "activation": 1746859518128
     },
     "6282258916689@s.whatsapp.net": {
-      "exp": 131,
+      "exp": 137,
       "limit": 499,
       "registered": false,
       "name": "Ahmad",
@@ -15527,11 +15527,11 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1749049804580,
+      "activation": 1749088129614,
       "lastBanned": 0
     },
     "6288226613360@s.whatsapp.net": {
-      "exp": 47,
+      "exp": 56,
       "limit": 499,
       "registered": false,
       "name": "ZEN4YOU",
@@ -15550,7 +15550,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1747559205241
+      "activation": 1749086293069
     },
     "45505346334884@lid": {
       "exp": 0,
@@ -59041,7 +59041,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1749018110636,
+      "activation": 1749086612105,
       "lastBanned": 0
     },
     "145771659808858@lid": {
@@ -59111,7 +59111,7 @@
       "activation": 1749044117348
     },
     "6285727547315@s.whatsapp.net": {
-      "exp": 97,
+      "exp": 509,
       "limit": 499,
       "registered": false,
       "name": "Admin Wa            ✓",
@@ -59130,7 +59130,8 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1749017977291
+      "activation": 1749087832303,
+      "lastcommand": 1749087313467
     },
     "243847305150580@lid": {
       "exp": 0,
@@ -71185,10 +71186,10 @@
       "lastSuccess": 1748756635157
     },
     "_cek.js": {
-      "total": 254,
-      "success": 244,
-      "last": 1749039571845,
-      "lastSuccess": 1749039571845
+      "total": 260,
+      "success": 250,
+      "last": 1749087320258,
+      "lastSuccess": 1749087320258
     },
     "user-limit.js": {
       "total": 19,
@@ -71994,7 +71995,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1749084897299,
+      "backupDB": 1749087313467,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
