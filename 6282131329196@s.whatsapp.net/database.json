@@ -2807,7 +2807,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1749126353901,
+      "activation": 1749130718462,
       "lastBanned": 0
     },
     "6283141671011@s.whatsapp.net": {
@@ -3049,7 +3049,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1749126383351,
+      "activation": 1749127372120,
       "lastBanned": 0
     },
     "6285692978197@s.whatsapp.net": {
@@ -3829,7 +3829,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1749098759843,
+      "activation": 1749130524395,
       "lastBanned": 0
     },
     "6283129349181@s.whatsapp.net": {
@@ -57212,7 +57212,7 @@
       "activation": 1748492275653
     },
     "6281389669366@s.whatsapp.net": {
-      "exp": 108,
+      "exp": 129,
       "limit": 499,
       "registered": false,
       "name": "the destroyer",
@@ -57228,10 +57228,10 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1749126354196
+      "activation": 1749127067196
     },
     "176368570597510@lid": {
       "exp": 0,
@@ -59364,6 +59364,26 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1749126427983
+    },
+    "22506199064753@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1749128457081
     }
   },
   "chats": {
@@ -69547,7 +69567,7 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6281389669366@s.whatsapp.net": 417,
+        "6281389669366@s.whatsapp.net": 422,
         "6282231056698@s.whatsapp.net": 73,
         "115315912482842@lid": 62,
         "209375394296032@lid": 57,
@@ -70709,7 +70729,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1749123520311,
+      "backupDB": 1749127058467,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
