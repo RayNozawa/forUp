@@ -33497,7 +33497,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1749088741257,
+      "activation": 1749095183810,
       "lastBanned": 0,
       "lastcommand": 1749045133397
     },
@@ -42972,7 +42972,7 @@
       "activation": 1748883639429
     },
     "6285781168629@s.whatsapp.net": {
-      "exp": 141,
+      "exp": 149,
       "limit": 499,
       "registered": false,
       "name": "Gofar.Abdul",
@@ -42991,7 +42991,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1749085861086,
+      "activation": 1749095270458,
       "lastcommand": 1748933279821
     },
     "6288707784782@s.whatsapp.net": {
@@ -43281,7 +43281,7 @@
       "lastBanned": 0
     },
     "6285779599973@s.whatsapp.net": {
-      "exp": 73,
+      "exp": 77,
       "limit": 499,
       "registered": false,
       "name": "6285779599973",
@@ -43300,7 +43300,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1749082907058
+      "activation": 1749095292574
     },
     "6285782775306@s.whatsapp.net": {
       "exp": 27,
@@ -43727,6 +43727,27 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1749090174751
+    },
+    "6285768450944@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 857-6845-0944",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1749095182101
     }
   },
   "chats": {
@@ -64792,22 +64813,22 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6281382270497@s.whatsapp.net": 274,
-        "6283876030066@s.whatsapp.net": 301,
-        "6285781168629@s.whatsapp.net": 392,
+        "6281382270497@s.whatsapp.net": 280,
+        "6283876030066@s.whatsapp.net": 311,
+        "6285781168629@s.whatsapp.net": 396,
         "6289606070601@s.whatsapp.net": 442,
         "6285891572708@s.whatsapp.net": 39,
-        "6281325379978@s.whatsapp.net": 300,
+        "6281325379978@s.whatsapp.net": 304,
         "628172345241@s.whatsapp.net": 148,
-        "6285624095451@s.whatsapp.net": 194,
+        "6285624095451@s.whatsapp.net": 196,
         "6283198315136@s.whatsapp.net": 219,
-        "6285711790201@s.whatsapp.net": 157,
+        "6285711790201@s.whatsapp.net": 161,
         "6282317136496@s.whatsapp.net": 54,
         "6285283526968@s.whatsapp.net": 314,
-        "6285779599973@s.whatsapp.net": 176,
-        "6285782775306@s.whatsapp.net": 119,
+        "6285779599973@s.whatsapp.net": 191,
+        "6285782775306@s.whatsapp.net": 123,
         "6285213518136@s.whatsapp.net": 81,
-        "6285892858934@s.whatsapp.net": 235
+        "6285892858934@s.whatsapp.net": 239
       },
       "totalChat": 0
     },
@@ -66354,7 +66375,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1749092949591,
+      "backupDB": 1749095270222,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
