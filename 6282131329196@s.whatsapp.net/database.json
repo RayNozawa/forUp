@@ -2591,7 +2591,7 @@
       "activation": 1743225399960
     },
     "6287750360878@s.whatsapp.net": {
-      "exp": 1159,
+      "exp": 1177,
       "limit": 499,
       "registered": false,
       "name": "wulan",
@@ -2610,7 +2610,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1749208417871
+      "activation": 1749222498128
     },
     "6282123890775@s.whatsapp.net": {
       "exp": 35,
@@ -2807,7 +2807,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1749220901064,
+      "activation": 1749223279901,
       "lastBanned": 0
     },
     "6283141671011@s.whatsapp.net": {
@@ -4006,7 +4006,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1749217510803,
+      "activation": 1749226115893,
       "lastBanned": 0
     },
     "6283879901773@s.whatsapp.net": {
@@ -59649,6 +59649,47 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1749221400757
+    },
+    "6282341446477@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 823-4144-6477",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1749224734381
+    },
+    "152196847022273@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1749225621337
     }
   },
   "chats": {
@@ -70051,6 +70092,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "120363250775160598@g.us": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -70996,7 +71058,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1749220088522,
+      "backupDB": 1749222077999,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
