@@ -2591,7 +2591,7 @@
       "activation": 1743225399960
     },
     "6287750360878@s.whatsapp.net": {
-      "exp": 1177,
+      "exp": 1189,
       "limit": 499,
       "registered": false,
       "name": "wulan",
@@ -2610,7 +2610,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1749222498128
+      "activation": 1749226930512
     },
     "6282123890775@s.whatsapp.net": {
       "exp": 35,
@@ -10548,7 +10548,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1749202710805,
+      "activation": 1749228183062,
       "lastBanned": 0
     },
     "6287759659947@s.whatsapp.net": {
@@ -59690,6 +59690,27 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1749225621337
+    },
+    "8732104728622@lid": {
+      "exp": 6,
+      "limit": 499,
+      "registered": false,
+      "name": "skibudi",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1749228485074
     }
   },
   "chats": {
@@ -62859,7 +62880,7 @@
         "263217607614609@lid": 141,
         "220083167219847@lid": 82,
         "94519513063483@lid": 125,
-        "170678208717031@lid": 80,
+        "170678208717031@lid": 82,
         "116351184162958@lid": 186,
         "159816085454890@lid": 74,
         "124966787920036@lid": 153,
@@ -62878,10 +62899,11 @@
         "6282184945443@s.whatsapp.net": 3,
         "131662809665694@lid": 3,
         "279624500146416@lid": 2,
-        "144607690125379@lid": 3,
+        "144607690125379@lid": 4,
         "104221777100906@lid": 3,
         "256848204714052@lid": 1,
-        "6281359361678@s.whatsapp.net": 11
+        "6281359361678@s.whatsapp.net": 13,
+        "8732104728622@lid": 1
       },
       "totalChat": 0
     },
@@ -71058,7 +71080,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1749222077999,
+      "backupDB": 1749226925322,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
