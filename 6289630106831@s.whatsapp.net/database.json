@@ -4345,7 +4345,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1749234293258,
+      "activation": 1749240023796,
       "lastBanned": 0,
       "lastcommand": 1748449514976
     },
@@ -45388,6 +45388,29 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1749234216356
+    },
+    "6281228625522@s.whatsapp.net": {
+      "exp": 50,
+      "limit": 499,
+      "registered": false,
+      "name": "vel en–",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0,
+      "activation": 1749240025041,
+      "lastcommand": 1749240023130
     }
   },
   "chats": {
@@ -66722,6 +66745,27 @@
         "62882018283574@s.whatsapp.net": 53
       },
       "totalChat": 0
+    },
+    "6281228625522@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -66786,10 +66830,10 @@
       "lastSuccess": 1749096233392
     },
     "vn-bot.js": {
-      "total": 249,
-      "success": 249,
-      "last": 1749044139356,
-      "lastSuccess": 1749044139356
+      "total": 251,
+      "success": 251,
+      "last": 1749240025041,
+      "lastSuccess": 1749240025041
     },
     "owner-tofile.js": {
       "total": 6,
@@ -68001,7 +68045,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1749233902029,
+      "backupDB": 1749240022271,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
