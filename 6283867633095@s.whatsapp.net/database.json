@@ -2274,9 +2274,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1749179170297,
+      "activation": 1749208136867,
       "lastBanned": 0,
       "lastcommand": 1748533760673
     },
@@ -2481,7 +2481,7 @@
       "lastBanned": 0
     },
     "6282313368864@s.whatsapp.net": {
-      "exp": 942,
+      "exp": 949,
       "limit": 499,
       "registered": false,
       "name": "TIXZ STORE",
@@ -2499,7 +2499,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1749200752464,
+      "activation": 1749208701152,
       "lastBanned": 0
     },
     "62895400806399@s.whatsapp.net": {
@@ -2591,7 +2591,7 @@
       "activation": 1743225399960
     },
     "6287750360878@s.whatsapp.net": {
-      "exp": 1142,
+      "exp": 1159,
       "limit": 499,
       "registered": false,
       "name": "wulan",
@@ -2610,7 +2610,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1749203929527
+      "activation": 1749208417871
     },
     "6282123890775@s.whatsapp.net": {
       "exp": 35,
@@ -70932,7 +70932,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1749203648379,
+      "backupDB": 1749207688561,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
