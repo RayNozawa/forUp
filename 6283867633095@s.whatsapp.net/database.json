@@ -169,7 +169,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 10913,
+      "exp": 10943,
       "limit": 1387,
       "registered": false,
       "name": "Rayhan🍟",
@@ -188,12 +188,12 @@
       "premium": false,
       "premiumTime": 1802436672961,
       "lastcommand": 1749003362662,
-      "activation": 1749218123755,
+      "activation": 1749233067753,
       "lastBanned": 0,
       "limitprem": 10000
     },
     "6283867633095@s.whatsapp.net": {
-      "exp": 30360,
+      "exp": 30367,
       "limit": 499,
       "registered": false,
       "name": "Leon",
@@ -211,7 +211,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1756903319105,
-      "activation": 1749229391059,
+      "activation": 1749233069134,
       "lastBanned": 0,
       "lastcommand": 1749209679927,
       "limitprem": 10000,
@@ -60341,6 +60341,26 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1749230669701
+    },
+    "36722557632699@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1749233075217
     }
   },
   "chats": {
@@ -71005,9 +71025,9 @@
       "lastSuccess": 1748161741361
     },
     "downloader-tiktok.js": {
-      "total": 429,
+      "total": 430,
       "success": 396,
-      "last": 1749221829571,
+      "last": 1749233067753,
       "lastSuccess": 1749221829571
     },
     "owner-pushkontak.js": {
@@ -71802,7 +71822,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1749229386546,
+      "backupDB": 1749232387754,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
