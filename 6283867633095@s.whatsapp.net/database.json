@@ -2481,7 +2481,7 @@
       "lastBanned": 0
     },
     "6282313368864@s.whatsapp.net": {
-      "exp": 928,
+      "exp": 942,
       "limit": 499,
       "registered": false,
       "name": "TIXZ STORE",
@@ -2499,7 +2499,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1749192564511,
+      "activation": 1749200752464,
       "lastBanned": 0
     },
     "62895400806399@s.whatsapp.net": {
@@ -2591,7 +2591,7 @@
       "activation": 1743225399960
     },
     "6287750360878@s.whatsapp.net": {
-      "exp": 1122,
+      "exp": 1131,
       "limit": 499,
       "registered": false,
       "name": "wulan",
@@ -2610,7 +2610,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1749192368850
+      "activation": 1749200891932
     },
     "6282123890775@s.whatsapp.net": {
       "exp": 35,
@@ -57212,7 +57212,7 @@
       "activation": 1748492275653
     },
     "6281389669366@s.whatsapp.net": {
-      "exp": 129,
+      "exp": 137,
       "limit": 499,
       "registered": false,
       "name": "the destroyer",
@@ -57231,7 +57231,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1749127067196
+      "activation": 1749199498017
     },
     "176368570597510@lid": {
       "exp": 0,
@@ -69769,7 +69769,7 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6281389669366@s.whatsapp.net": 426,
+        "6281389669366@s.whatsapp.net": 429,
         "6282231056698@s.whatsapp.net": 73,
         "115315912482842@lid": 62,
         "209375394296032@lid": 57,
@@ -69777,7 +69777,7 @@
         "65181044473974@lid": 8,
         "137357516886208@lid": 6,
         "275767183331392@lid": 2,
-        "229111322689654@lid": 1
+        "229111322689654@lid": 2
       },
       "totalChat": 0
     },
@@ -70932,7 +70932,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1749192368577,
+      "backupDB": 1749199497750,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
