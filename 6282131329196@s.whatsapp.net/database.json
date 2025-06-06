@@ -2276,7 +2276,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1749231031520,
+      "activation": 1749248650365,
       "lastBanned": 0,
       "lastcommand": 1748533760673
     },
@@ -59711,6 +59711,49 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1749228485074
+    },
+    "6281228625522@s.whatsapp.net": {
+      "exp": 57,
+      "limit": 499,
+      "registered": false,
+      "name": "vel en–",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0,
+      "activation": 1749240141708,
+      "lastcommand": 1749240112473
+    },
+    "10922705846514@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1749249954579
     }
   },
   "chats": {
@@ -70135,6 +70178,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "6281228625522@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -70487,10 +70551,10 @@
       "lastSuccess": 1747618896809
     },
     "vn-bot.js": {
-      "total": 11,
-      "success": 11,
-      "last": 1746955069071,
-      "lastSuccess": 1746955069071
+      "total": 13,
+      "success": 13,
+      "last": 1749240116214,
+      "lastSuccess": 1749240116214
     },
     "games-tebakkata.js": {
       "total": 86,
@@ -71080,7 +71144,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1749230387874,
+      "backupDB": 1749240107916,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
