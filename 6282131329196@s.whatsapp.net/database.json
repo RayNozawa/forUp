@@ -2281,7 +2281,7 @@
       "lastcommand": 1748533760673
     },
     "628567105062@s.whatsapp.net": {
-      "exp": 2921,
+      "exp": 2928,
       "limit": 499,
       "registered": false,
       "name": "senzy panutan",
@@ -2300,7 +2300,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1749230402367
+      "activation": 1749260112294
     },
     "6285842531334@s.whatsapp.net": {
       "exp": 391,
@@ -4312,7 +4312,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "activation": 1749231059648,
       "lastBanned": 0
@@ -59756,7 +59756,7 @@
       "activation": 1749249954579
     },
     "174689288716364@lid": {
-      "exp": 8,
+      "exp": 77,
       "limit": 499,
       "registered": false,
       "name": "HANAN",
@@ -59774,7 +59774,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1749252666222
+      "activation": 1749259261501,
+      "lastBanned": 0
     },
     "257917534138382@lid": {
       "exp": 0,
@@ -59795,6 +59796,27 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1749258371385
+    },
+    "79860840034410@lid": {
+      "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "name": "died white❄⛸️",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1749260121574
     }
   },
   "chats": {
@@ -62964,7 +62986,7 @@
         "263217607614609@lid": 141,
         "220083167219847@lid": 82,
         "94519513063483@lid": 125,
-        "170678208717031@lid": 82,
+        "170678208717031@lid": 84,
         "116351184162958@lid": 186,
         "159816085454890@lid": 74,
         "124966787920036@lid": 153,
@@ -62983,11 +63005,12 @@
         "6282184945443@s.whatsapp.net": 3,
         "131662809665694@lid": 3,
         "279624500146416@lid": 2,
-        "144607690125379@lid": 4,
+        "144607690125379@lid": 5,
         "104221777100906@lid": 3,
         "256848204714052@lid": 1,
-        "6281359361678@s.whatsapp.net": 13,
-        "8732104728622@lid": 1
+        "6281359361678@s.whatsapp.net": 15,
+        "8732104728622@lid": 2,
+        "79860840034410@lid": 1
       },
       "totalChat": 0
     },
@@ -69980,7 +70003,7 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6281389669366@s.whatsapp.net": 432,
+        "6281389669366@s.whatsapp.net": 453,
         "6282231056698@s.whatsapp.net": 73,
         "115315912482842@lid": 62,
         "209375394296032@lid": 57,
@@ -69988,7 +70011,8 @@
         "65181044473974@lid": 8,
         "137357516886208@lid": 6,
         "275767183331392@lid": 2,
-        "229111322689654@lid": 3
+        "229111322689654@lid": 10,
+        "174689288716364@lid": 5
       },
       "totalChat": 0
     },
@@ -71185,7 +71209,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1749252666014,
+      "backupDB": 1749259222940,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
