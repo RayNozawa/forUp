@@ -4314,7 +4314,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1749276067097,
+      "activation": 1749287815047,
       "lastBanned": 0
     },
     "6281346749688@s.whatsapp.net": {
@@ -38349,7 +38349,7 @@
       "activation": 1747394658289
     },
     "6282184945443@s.whatsapp.net": {
-      "exp": 0,
+      "exp": 10,
       "limit": 499,
       "registered": false,
       "name": "+62 821-8494-5443",
@@ -38365,9 +38365,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1749017061867,
+      "activation": 1749284760041,
       "lastBanned": 0
     },
     "55555922125040@lid": {
@@ -63107,7 +63107,7 @@
         "263217607614609@lid": 141,
         "220083167219847@lid": 82,
         "94519513063483@lid": 125,
-        "170678208717031@lid": 84,
+        "170678208717031@lid": 86,
         "116351184162958@lid": 186,
         "159816085454890@lid": 74,
         "124966787920036@lid": 153,
@@ -63123,15 +63123,15 @@
         "51221897465981@lid": 31,
         "216664540995827@lid": 10,
         "136137796505824@lid": 6,
-        "6282184945443@s.whatsapp.net": 3,
+        "6282184945443@s.whatsapp.net": 4,
         "131662809665694@lid": 3,
         "279624500146416@lid": 2,
-        "144607690125379@lid": 5,
+        "144607690125379@lid": 6,
         "104221777100906@lid": 3,
         "256848204714052@lid": 1,
-        "6281359361678@s.whatsapp.net": 15,
-        "8732104728622@lid": 2,
-        "79860840034410@lid": 1
+        "6281359361678@s.whatsapp.net": 17,
+        "8732104728622@lid": 3,
+        "79860840034410@lid": 2
       },
       "totalChat": 0
     },
@@ -71330,7 +71330,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1749274357646,
+      "backupDB": 1749284759802,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
