@@ -2297,10 +2297,10 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1749276158240
+      "activation": 1749281790130
     },
     "6285842531334@s.whatsapp.net": {
       "exp": 391,
@@ -3028,7 +3028,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1749276671939,
+      "activation": 1749280932512,
       "lastBanned": 0
     },
     "120363159552753674@newsletter": {
@@ -3049,7 +3049,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1749202828616,
+      "activation": 1749283353585,
       "lastBanned": 0
     },
     "6285692978197@s.whatsapp.net": {
@@ -59877,6 +59877,26 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1749275664824
+    },
+    "243593885311127@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1749282259088
     }
   },
   "chats": {
