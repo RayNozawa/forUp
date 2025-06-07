@@ -2281,7 +2281,7 @@
       "lastcommand": 1748533760673
     },
     "628567105062@s.whatsapp.net": {
-      "exp": 2940,
+      "exp": 3006,
       "limit": 499,
       "registered": false,
       "name": "senzy panutan",
@@ -2300,7 +2300,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1749274388064
+      "activation": 1749276158240
     },
     "6285842531334@s.whatsapp.net": {
       "exp": 391,
@@ -2807,7 +2807,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1749269887982,
+      "activation": 1749275127282,
       "lastBanned": 0
     },
     "6283141671011@s.whatsapp.net": {
@@ -4314,7 +4314,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1749231059648,
+      "activation": 1749276067097,
       "lastBanned": 0
     },
     "6281346749688@s.whatsapp.net": {
@@ -59857,6 +59857,26 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1749271776209
+    },
+    "115491955863591@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1749275664824
     }
   },
   "chats": {
