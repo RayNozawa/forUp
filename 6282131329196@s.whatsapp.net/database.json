@@ -2347,7 +2347,7 @@
       "lastBanned": 0
     },
     "628385825266@s.whatsapp.net": {
-      "exp": 1418,
+      "exp": 1436,
       "limit": 499,
       "registered": false,
       "name": "Prif__",
@@ -2365,7 +2365,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1749262118373,
+      "activation": 1749267118144,
       "lastBanned": 0
     },
     "6288989865313@s.whatsapp.net": {
@@ -2807,7 +2807,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1749261584217,
+      "activation": 1749269887982,
       "lastBanned": 0
     },
     "6283141671011@s.whatsapp.net": {
@@ -3028,7 +3028,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1749265688709,
+      "activation": 1749272913784,
       "lastBanned": 0
     },
     "120363159552753674@newsletter": {
@@ -10548,7 +10548,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1749228183062,
+      "activation": 1749270069498,
       "lastBanned": 0
     },
     "6287759659947@s.whatsapp.net": {
@@ -59837,6 +59837,26 @@
       "premium": false,
       "premiumTime": 0,
       "activation": 1749262851855
+    },
+    "214693520097357@lid": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1749271776209
     }
   },
   "chats": {
@@ -71229,7 +71249,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1749261145959,
+      "backupDB": 1749266936097,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
