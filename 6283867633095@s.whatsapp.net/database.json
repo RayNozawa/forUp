@@ -2347,7 +2347,7 @@
       "lastBanned": 0
     },
     "628385825266@s.whatsapp.net": {
-      "exp": 1418,
+      "exp": 1436,
       "limit": 499,
       "registered": false,
       "name": "Prif__",
@@ -2365,7 +2365,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1749262118373,
+      "activation": 1749267118144,
       "lastBanned": 0
     },
     "6288989865313@s.whatsapp.net": {
@@ -3028,7 +3028,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1749262365658,
+      "activation": 1749265688709,
       "lastBanned": 0
     },
     "120363159552753674@newsletter": {
@@ -3827,9 +3827,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1749231055895,
+      "activation": 1749266663698,
       "lastBanned": 0
     },
     "6283129349181@s.whatsapp.net": {
@@ -71229,7 +71229,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1749261145959,
+      "backupDB": 1749266936097,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
